@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 23:43:59
+Last Updated: 2026-07-19 00:42:13
 
-- **Scorecard:** A standardized set of metrics used to evaluate the multidimensional impact of AI models.
-- **Red-Teaming:** The process of testing a model's security by deliberately trying to trigger harmful or unintended outputs.
-- **Model Routing:** A system that directs AI queries to the most appropriate model based on cost, speed, or accuracy needs.
-- **Fine-tuning:** The process of taking a pre-trained model and further training it on a smaller, specific dataset to improve performance on a particular task.
-- **Agentic AI:** AI systems designed to perform multi-step tasks autonomously with minimal human intervention.
-- **Jailbreak:** An adversarial attack designed to bypass a model's safety guardrails to generate restricted content.
+- **Red-teaming:** The process of testing a system's defenses by simulating an attack or adversarial input.
+- **Model Routing:** An architectural pattern that directs user queries to the most efficient model based on complexity and cost.
+- **Fine-tuning:** The process of taking a pre-trained model and further training it on a specific dataset to specialize its performance.
+- **AI Agents:** AI systems capable of using tools and performing multi-step tasks autonomously to achieve a specific goal.
+- **AGI (Artificial General Intelligence):** A theoretical AI that possesses the ability to understand, learn, and apply knowledge across any intellectual task a human can do.
+- **Multimodal:** AI models capable of processing and generating multiple types of data, such as text, images, and audio, simultaneously.
