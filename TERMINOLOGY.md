@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 20:56:04
+Last Updated: 2026-07-18 21:43:00
 
-- **Red-teaming:** A process where "adversaries" attack a system to find and fix security or safety vulnerabilities.
-- **Model Routing:** The logic used to send a specific query to the best-suited (most efficient/accurate) model in a fleet.
-- **Fine-tuning:** Adjusting a pre-trained model on a smaller, specific dataset to improve its performance for a particular task.
-- **Agentic AI:** AI systems designed to perform multi-step tasks and interact with tools autonomously to achieve a goal.
-- **Frontier Models:** The most advanced, large-scale AI models currently in existence (e.g., GPT-4, Claude 3).
-- **Adversarial Training:** Training a model on examples specifically designed to trick or confuse it to improve its robustness.
+- **Red-teaming:** The process of rigorously testing a model for vulnerabilities, biases, or harmful outputs.
+- **Model Routing:** A system that directs prompts to the most suitable (and cost-effective) AI model based on the query's complexity.
+- **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve its performance for a particular task.
+- **API Token:** A digital key used to authenticate and provide access to AI services and data.
+- **Agentic AI:** AI systems designed to perform multi-step tasks autonomously with minimal human intervention.
+- **NIST:** National Institute of Standards and Technology, a key body in setting U.S. AI safety standards.
+- **Distributed Training:** A method of training AI models across multiple processors or machines to handle large datasets.

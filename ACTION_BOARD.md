@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-18 20:56:04
+Last Updated: 2026-07-18 21:43:00
 
-1. **Audit Security Protocols:** Review internal and third-party model hosting security in light of recent industry breaches.
-2. **Implement Model Routing:** Explore routing architectures to balance performance and cost by utilizing smaller models for simple tasks.
-3. **Adopt Standardized Evaluations:** Integrate safety scorecards and automated red-teaming (GPT-Red style) into the internal model deployment pipeline.
-4. **Prioritize Agent Reliability:** Focus R&D on improving the planning capabilities and tool-use reliability of internal AI agents.
+1. **Audit Security Secrets:** Immediately review and rotate API tokens used in shared or public AI hosting environments.
+2. **Evaluate Model Routers:** Explore model routing technology to optimize the cost-to-performance ratio of enterprise AI applications.
+3. **Adopt Safety Frameworks:** Incorporate the new OpenAI scorecard metrics to measure the internal ROI and impact of AI tools.
+4. **Focus on Modular Agents:** When building autonomous systems, prioritize small, task-specific loops over large, end-to-end autonomous agents.
