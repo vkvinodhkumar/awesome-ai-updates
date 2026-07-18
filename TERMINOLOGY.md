@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 21:43:00
+Last Updated: 2026-07-18 22:40:43
 
-- **Red-teaming:** The process of rigorously testing a model for vulnerabilities, biases, or harmful outputs.
-- **Model Routing:** A system that directs prompts to the most suitable (and cost-effective) AI model based on the query's complexity.
-- **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve its performance for a particular task.
-- **API Token:** A digital key used to authenticate and provide access to AI services and data.
-- **Agentic AI:** AI systems designed to perform multi-step tasks autonomously with minimal human intervention.
-- **NIST:** National Institute of Standards and Technology, a key body in setting U.S. AI safety standards.
-- **Distributed Training:** A method of training AI models across multiple processors or machines to handle large datasets.
+- **Red Teaming:** The practice of rigorously testing a system's security and safety by simulating a hostile attack.
+- **Model Routing:** An architectural layer that sends a prompt to the most efficient model based on complexity.
+- **Agentic AI:** AI systems designed not just to talk, but to autonomously use tools and perform actions across platforms.
+- **Fine-tuning:** The process of taking a pre-trained model and training it further on a specific dataset to improve performance on a task.
+- **Digital Literacy:** The ability to find, evaluate, and communicate information through various digital platforms, now including AI interaction.
+- **Multi-modal:** AI capable of processing and generating multiple types of data, such as text, images, and audio, simultaneously.
