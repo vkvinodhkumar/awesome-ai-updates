@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-18 19:32:10
+Last Updated: 2026-07-18 20:00:12
 
-1. **Implement an AI Audit:** Use the OpenAI Scorecard to assess current organizational readiness and technical gaps.
-2. **Harden Secrets Management:** In response to the Hugging Face breach, review and rotate all API tokens and internal credentials.
-3. **Explore Multi-Model Orchestration:** Investigate model routing technologies to optimize the balance between cost and performance.
-4. **Develop Agentic Scaffolding:** For internal R&D, focus on building error-correction loops rather than relying solely on raw model output.
+1. **Implement Model Scorecards:** Adopt the OpenAI scorecard framework to audit internal AI projects for safety and performance benchmarks.
+2. **Diversify Model Usage:** Invest in model routing research to optimize the balance between GPT-4 class models and smaller, task-specific models.
+3. **Audit Token Security:** Conduct a security review of all API tokens and secrets stored on third-party platforms following recent disclosure trends.
+4. **Explore Agentic Workflows:** Begin pilot programs for AI agents, focusing on short-horizon tasks where environmental feedback is clear.

@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 19:32:10
+Last Updated: 2026-07-18 20:00:12
 
-- **Scorecard:** A framework for measuring an organization’s AI maturity and adoption progress.
-- **Red-teaming:** The practice of testing a model for vulnerabilities, biases, and safety flaws through adversarial interaction.
-- **Model Routing:** The process of dynamically directing an AI request to the most suitable model based on complexity and cost.
+- **Red-teaming:** A security exercise where AI systems are intentionally challenged to find vulnerabilities or biases.
+- **Model Routing:** The process of dynamically selecting the most efficient AI model to handle a specific user request.
 - **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve performance for a particular task.
-- **Agentic Workflows:** AI systems designed to perform autonomous, multi-step tasks with minimal human intervention.
-- **Scaffolding:** External code or structures used to guide, limit, and correct an AI model's behavior during a task.
-- **Diffusion Models:** A class of generative models primarily used for creating high-quality images and videos.
+- **Diffusion Models:** A class of generative AI used primarily for creating high-quality images and videos.
+- **Chain-of-thought:** A prompting technique that encourages the model to explain its reasoning step-by-step.
+- **Long-horizon planning:** The ability of an AI agent to execute complex, multi-step tasks over an extended period.
+- **Scorecard:** A standardized set of metrics used to evaluate and compare model safety and capabilities.
