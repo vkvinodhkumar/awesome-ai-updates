@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-18 19:28:27
+Last Updated: 2026-07-18 19:32:10
 
-1. **Audit Safety Protocols:** Implement automated red-teaming (inspired by GPT-Red) to harden internal models.
-2. **Implement Model Routing:** Deploy an orchestrator to manage query flow between small and large models to optimize costs.
-3. **Monitor Legislative Changes:** Align development roadmaps with emerging US safety standards to ensure future compliance.
-4. **Invest in Scaffolding:** Focus on building the "scaffolding" (feedback loops, routing, security) around LLMs rather than just the models themselves.
+1. **Implement an AI Audit:** Use the OpenAI Scorecard to assess current organizational readiness and technical gaps.
+2. **Harden Secrets Management:** In response to the Hugging Face breach, review and rotate all API tokens and internal credentials.
+3. **Explore Multi-Model Orchestration:** Investigate model routing technologies to optimize the balance between cost and performance.
+4. **Develop Agentic Scaffolding:** For internal R&D, focus on building error-correction loops rather than relying solely on raw model output.

@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 19:28:27
+Last Updated: 2026-07-18 19:32:10
 
-- **Red-teaming:** The practice of rigorously testing a system for vulnerabilities and safety flaws by simulating adversarial attacks.
-- **Model Routing:** The process of automatically directing a user prompt to the most efficient model (based on size, cost, or capability).
-- **Agentic AI:** AI systems designed to perform multi-step, autonomous tasks with minimal human intervention.
-- **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve its performance for a particular task.
-- **Frontier Models:** Large-scale, high-capability AI models that represent the current state-of-the-art in machine learning.
-- **Scaffolding:** The external code and logic that surrounds an AI model to manage its inputs, outputs, and multi-step planning.
+- **Scorecard:** A framework for measuring an organization’s AI maturity and adoption progress.
+- **Red-teaming:** The practice of testing a model for vulnerabilities, biases, and safety flaws through adversarial interaction.
+- **Model Routing:** The process of dynamically directing an AI request to the most suitable model based on complexity and cost.
+- **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve performance for a particular task.
+- **Agentic Workflows:** AI systems designed to perform autonomous, multi-step tasks with minimal human intervention.
+- **Scaffolding:** External code or structures used to guide, limit, and correct an AI model's behavior during a task.
+- **Diffusion Models:** A class of generative models primarily used for creating high-quality images and videos.
