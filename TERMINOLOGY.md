@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 18:51:36
+Last Updated: 2026-07-18 19:17:21
 
-- **Red-Teaming:** The process of rigorously testing a model by attempting to trigger harmful or unintended behaviors.
-- **Model Routing:** A system that directs a specific prompt to the most suitable AI model based on complexity and cost.
-- **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve performance for a particular task.
-- **Autonomous Agents:** AI systems capable of executing multi-step tasks and making decisions with minimal human intervention.
-- **Diffusers:** A library for state-of-the-art diffusion models used primarily for image and video generation.
-- **Guardrails:** Safety mechanisms built into AI systems to prevent the generation of harmful, biased, or restricted content.
+- **Red-teaming:** A security exercise where "attackers" attempt to find vulnerabilities or prompt a model to fail.
+- **Model Routing:** The process of programmatically selecting the best AI model for a specific task based on cost/performance.
+- **Fine-tuning:** Adjusting a pre-trained model on a specific dataset to improve performance for a niche task.
+- **Agentic Workflow:** An AI system capable of taking multiple steps and making decisions autonomously to achieve a goal.
+- **Diffusion Models:** A class of generative models primarily used for creating high-quality images and videos.
+- **Adversarial Attack:** Inputs specifically designed to trick an AI model into producing an incorrect or harmful output.
