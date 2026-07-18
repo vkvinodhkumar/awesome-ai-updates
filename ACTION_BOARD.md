@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-18 22:40:43
+Last Updated: 2026-07-18 23:44:28
 
-1. **Audit Model Selection:** Review current AI implementations to see if "smaller" models can replace "frontier" models for non-complex tasks via routing.
-2. **Implement Automated Red Teaming:** Adopt frameworks like GPT-Red to stress-test internal AI deployments for vulnerabilities.
-3. **Enhance Security Protocols:** Review API token management and repository access in light of recent industry-wide security incidents.
-4. **Develop Agentic Workflows:** Begin pilot programs for autonomous agents but focus heavily on error-correction loops and tool-calling accuracy.
+1. **Audit Infrastructure Security:** Review how internal model secrets and API tokens are stored to prevent breaches similar to the Hugging Face incident.
+2. **Implement Model Routing:** Explore "router" architectures to direct simple queries to small language models (SLMs), reserving high-cost models for complex reasoning.
+3. **Engage with Safety Frameworks:** Align internal AI development with the NIST AI Risk Management Framework to prepare for upcoming US federal and state regulations.
