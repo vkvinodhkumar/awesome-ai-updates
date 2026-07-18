@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-18 20:00:12
+Last Updated: 2026-07-18 20:56:04
 
-1. **Implement Model Scorecards:** Adopt the OpenAI scorecard framework to audit internal AI projects for safety and performance benchmarks.
-2. **Diversify Model Usage:** Invest in model routing research to optimize the balance between GPT-4 class models and smaller, task-specific models.
-3. **Audit Token Security:** Conduct a security review of all API tokens and secrets stored on third-party platforms following recent disclosure trends.
-4. **Explore Agentic Workflows:** Begin pilot programs for AI agents, focusing on short-horizon tasks where environmental feedback is clear.
+1. **Audit Security Protocols:** Review internal and third-party model hosting security in light of recent industry breaches.
+2. **Implement Model Routing:** Explore routing architectures to balance performance and cost by utilizing smaller models for simple tasks.
+3. **Adopt Standardized Evaluations:** Integrate safety scorecards and automated red-teaming (GPT-Red style) into the internal model deployment pipeline.
+4. **Prioritize Agent Reliability:** Focus R&D on improving the planning capabilities and tool-use reliability of internal AI agents.
