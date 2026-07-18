@@ -1,41 +1,50 @@
 from pathlib import Path
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
-# Repository root (one level above the scripts folder)
+
+# Repository root
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
-LATEST_FILE = ROOT_DIR / "LATEST.md"
+# Output locations
 HOURLY_DIR = ROOT_DIR / "hourly"
+LATEST_FILE = ROOT_DIR / "LATEST.md"
 
 
 def save_report(content):
     """
-    Save the latest report and archive it in:
+    Save the latest AI report and archive it in:
     hourly/YYYY/MM/DD/HH-MM.md
     """
 
-    now = datetime.now()
+    # Use Indian Standard Time (IST)
+    now = datetime.now(ZoneInfo("Asia/Kolkata"))
 
-    year = str(now.year)
+    year = f"{now.year}"
     month = f"{now.month:02d}"
     day = f"{now.day:02d}"
+
+    # Create folder structure
+    report_folder = HOURLY_DIR / year / month / day
+    report_folder.mkdir(parents=True, exist_ok=True)
+
+    # File name
     filename = f"{now.hour:02d}-{now.minute:02d}.md"
 
-    # Create directory
-    archive_dir = HOURLY_DIR / year / month / day
-    archive_dir.mkdir(parents=True, exist_ok=True)
+    # Archive report path
+    report_file = report_folder / filename
 
-    # Archive file
-    archive_file = archive_dir / filename
-
-    # Save hourly report
-    archive_file.write_text(content, encoding="utf-8")
+    # Save archive report
+    report_file.write_text(content, encoding="utf-8")
 
     # Update latest report
     LATEST_FILE.write_text(content, encoding="utf-8")
 
     print("=" * 60)
-    print("Report successfully saved")
-    print(f"Latest report : {LATEST_FILE}")
-    print(f"Hourly report : {archive_file}")
+    print("AI Report Saved Successfully")
     print("=" * 60)
+    print(f"Latest Report : {LATEST_FILE}")
+    print(f"Archive Report: {report_file}")
+    print("=" * 60)
+
+    return report_file
