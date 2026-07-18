@@ -1,11 +1,45 @@
 {
   "date": "2026-07-18",
+  "executive_summary": "Today's major AI developments...",
   "articles": [
     {
-      "title": "...",
+      "title": "OpenAI releases...",
       "summary": "...",
-      "company": "OpenAI",
-      "category": "LLM"
+      "why_it_matters": "...",
+      "source": "https://..."
+    }
+  ],
+  "meeting_brief": {
+    "key_developments": [
+      "...",
+      "..."
+    ],
+    "risks": [
+      "...",
+      "..."
+    ],
+    "opportunities": [
+      "...",
+      "..."
+    ],
+    "recommended_actions": [
+      "...",
+      "..."
+    ]
+  },
+  "technology_trends": [
+    "LLMs",
+    "Agents",
+    "MCP"
+  ],
+  "terminology": [
+    {
+      "term": "RAG",
+      "definition": "Retrieval-Augmented Generation"
+    },
+    {
+      "term": "MCP",
+      "definition": "Model Context Protocol"
     }
   ]
 }

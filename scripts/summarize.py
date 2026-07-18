@@ -29,27 +29,70 @@ def summarize_all(news):
     print(f"Preparing ONE request for {len(news)} articles...")
 
     prompt = """
-You are an AI Research Analyst.
+You are an expert AI Research Analyst.
 
 Analyze the following AI news articles.
 
+Generate the report in Markdown using EXACTLY this structure.
+
+# AI News Report
+
+## Executive Summary
+
+Write a concise summary of today's most important AI developments (5–8 sentences).
+
+---
+
+## Article Summaries
+
 For EACH article provide:
 
-# Title
+### Title
 
-## Summary
-Write 3-4 concise sentences.
+**Summary**
+Write 3–4 concise sentences.
 
-## Why it matters
-Write 2-3 concise sentences.
+**Why it matters**
+Write 2–3 concise sentences.
 
-----------------------------------------
+---
 
-At the end provide:
+## Executive Meeting Brief
 
-# Executive Summary
+### Key Developments
+- Bullet points
 
-Summarize the most important AI developments in 5-8 sentences.
+### Risks
+- Bullet points
+
+### Opportunities
+- Bullet points
+
+### Recommended Actions
+1. Numbered recommendations
+
+---
+
+## Technology Trends
+
+List important:
+- AI Models
+- Companies
+- Research
+- Products
+- Technologies
+
+mentioned today.
+
+---
+
+## Terminology
+
+List important AI terms with a one-line explanation.
+
+---
+
+Return ONLY valid Markdown.
 """
 
     for i, article in enumerate(news, start=1):
@@ -63,8 +106,6 @@ Title:
 Source:
 {article['link']}
 """
-
-    response = None
 
     # ----------------------------------------------------
     # Try models one by one
@@ -84,12 +125,10 @@ Source:
             return response.text
 
         except ClientError as e:
-
             print(f"{model} failed")
             print(e)
 
         except Exception as e:
-
             print(f"{model} failed")
             print(e)
 
@@ -100,9 +139,7 @@ Source:
 
     report = "# AI Report\n\n"
 
-    report += (
-        "⚠️ **AI summarization is currently unavailable.**\n\n"
-    )
+    report += "⚠️ **AI summarization is currently unavailable.**\n\n"
 
     report += (
         "The latest AI news was collected successfully, "
