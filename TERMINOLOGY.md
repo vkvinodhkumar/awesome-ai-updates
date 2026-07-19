@@ -1,13 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-19 12:58:20
+Last Updated: 2026-07-19 14:23:44
 
-*   **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
-*   **Return on Compute:** A new metric measuring how much business value is generated for every unit of processing power used.
-*   **Red Teaming:** The practice of rigorously testing a system's security by pretending to be a hacker or malicious user.
-*   **Prompt Injection:** A security vulnerability where a user "tricks" an AI into ignoring its original instructions and doing something it shouldn't.
-*   **Agentic Workflow:** A system where AI acts as an "agent," making decisions and taking actions across different software tools to complete a goal.
-*   **Model Routing:** An automated "traffic controller" that decides which AI model is best suited for a specific task based on cost and complexity.
-*   **Reverse Federalism:** A policy concept where legal standards start at the state level and eventually move up to become national law.
-*   **Fine-tuning:** Taking a pre-trained AI and giving it extra training on a specific dataset to make it an expert in a certain area.
-*   **Diffusers:** A specific type of AI model architecture often used for creating images and videos from text.
+- **Return on Compute (ROC):** A metric measuring the economic value or "useful work" generated for every unit of processing power spent.
+- **Red Teaming:** The practice of rigorously testing a system (in this case, an AI) by acting as an adversary to find vulnerabilities or safety flaws.
+- **Reverse Federalism:** A policy concept where state-level regulations serve as the foundation or "laboratory" for eventual national laws.
+- **Agentic Workflow:** A system where an AI agent doesn't just answer a question but takes a series of actions (like sending emails or updating a database) to complete a goal.
+- **Model Routing:** A technical logic layer that decides which specific AI model (e.g., a small cheap one vs. a large expensive one) should handle a specific request.
+- **Fine-tuning:** Taking a pre-trained AI model and giving it extra training on a specific, smaller dataset to make it an expert in a particular task or brand style.
