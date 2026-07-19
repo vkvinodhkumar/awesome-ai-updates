@@ -1,158 +1,156 @@
 import os
-from dotenv import load_dotenv
+import time
 from google import genai
-from google.genai.errors import ClientError
 
-# ----------------------------------------------------
-# Load environment variables
-# ----------------------------------------------------
-load_dotenv()
+# Gemini Client
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-API_KEY = os.getenv("GEMINI_API_KEY")
-
-client = genai.Client(api_key=API_KEY)
-
-# Preferred models (in order)
+# Models to try in order
 MODELS = [
-    os.getenv("GEMINI_MODEL", "gemini-3-flash-preview"),
+    # Latest Preview
+    "gemini-3-flash-preview",
+
+    # Stable Flash
+    "gemini-3.5-flash",
+
+    # Lite Models
     "gemini-3.1-flash-lite",
+
+    # Gemini 2.5 Models
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-pro",
+
+    # Aliases
     "gemini-flash-latest",
+    "gemini-pro-latest",
 ]
 
 
 def summarize_all(news):
-    """
-    Summarize all news articles using ONE Gemini request.
-    Automatically tries multiple models if one fails.
-    """
 
-    print(f"Preparing ONE request for {len(news)} articles...")
-
-    prompt = """
-You are an expert AI Research Analyst.
-
-Analyze the following AI news articles.
-
-Generate the report in Markdown using EXACTLY this structure.
-
-# AI News Report
-
-## Executive Summary
-
-Write a concise summary of today's most important AI developments (5–8 sentences).
-
----
-
-## Article Summaries
-
-For EACH article provide:
-
-### Title
-
-**Summary**
-Write 3–4 concise sentences.
-
-**Why it matters**
-Write 2–3 concise sentences.
-
----
-
-## Executive Meeting Brief
-
-### Key Developments
-- Bullet points
-
-### Risks
-- Bullet points
-
-### Opportunities
-- Bullet points
-
-### Recommended Actions
-1. Numbered recommendations
-
----
-
-## Technology Trends
-
-List important:
-- AI Models
-- Companies
-- Research
-- Products
-- Technologies
-
-mentioned today.
-
----
-
-## Terminology
-
-List important AI terms with a one-line explanation.
-
----
-
-Return ONLY valid Markdown.
-"""
+    prompt = "# AI News Report\n\n"
 
     for i, article in enumerate(news, start=1):
         prompt += f"""
-
 Article {i}
 
 Title:
 {article['title']}
 
-Source:
+Summary:
+{article['summary']}
+
+Link:
 {article['link']}
+
+----------------------------------------
 """
 
-    # ----------------------------------------------------
-    # Try models one by one
-    # ----------------------------------------------------
+    prompt += """
+
+Create a professional markdown report.
+
+Include the following sections exactly:
+
+# Executive Summary
+
+Summarize the overall AI news.
+
+# Article Summaries
+
+For every article include:
+
+- Summary
+- Why it Matters
+
+# Executive Meeting Brief
+
+Include:
+
+- Key Developments
+- Risks
+- Opportunities
+- Recommended Actions
+
+# Technology Trends
+
+Summarize important emerging trends.
+
+# Terminology
+
+Explain every new AI term in simple language.
+"""
+
+    last_error = None
+
     for model in MODELS:
 
-        try:
-            print(f"\nTrying model: {model}")
+        print("=" * 60)
+        print(f"Trying model: {model}")
+        print("=" * 60)
 
-            response = client.models.generate_content(
-                model=model,
-                contents=prompt
-            )
+        for attempt in range(2):
 
-            print(f"Success using {model}")
+            try:
 
-            return response.text
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                )
 
-        except ClientError as e:
-            print(f"{model} failed")
-            print(e)
+                print(f"SUCCESS using {model}")
 
-        except Exception as e:
-            print(f"{model} failed")
-            print(e)
+                return response.text
 
-    # ----------------------------------------------------
-    # All models failed
-    # ----------------------------------------------------
-    print("\nGemini quota exceeded or API unavailable.")
+            except Exception as e:
 
-    report = "# AI Report\n\n"
+                last_error = e
+                error = str(e)
 
-    report += "⚠️ **AI summarization is currently unavailable.**\n\n"
+                print(f"{model} failed")
+                print(error)
 
+                # Retry if quota/rate limit
+                if (
+                    "429" in error
+                    or "RESOURCE_EXHAUSTED" in error
+                    or "quota" in error.lower()
+                ):
+                    print("Quota reached.")
+                    print("Waiting 10 seconds...")
+                    time.sleep(10)
+                    continue
+
+                # Try next model
+                break
+
+    print("\nAll Gemini models failed.")
+    print("Generating fallback report...")
+
+    report = "# AI News Report\n\n"
+
+    report += "## Executive Summary\n\n"
     report += (
-        "The latest AI news was collected successfully, "
-        "but Gemini could not generate summaries because "
-        "all configured models were unavailable or out of quota.\n\n"
+        "Gemini API was unavailable. "
+        "Displaying collected AI news without AI analysis.\n\n"
     )
 
-    report += "---\n\n"
-
-    report += "## Latest Headlines\n\n"
+    report += "## Article Summaries\n\n"
 
     for article in news:
-        report += f"### {article['title']}\n"
+
+        report += f"### {article['title']}\n\n"
+        report += f"{article['summary']}\n\n"
         report += f"Source: {article['link']}\n\n"
+
+    report += "## Executive Meeting Brief\n\n"
+    report += "- AI analysis unavailable.\n\n"
+
+    report += "## Technology Trends\n\n"
+    report += "- Unable to generate trends.\n\n"
+
+    report += "## Terminology\n\n"
+    report += "- Unable to generate terminology.\n"
 
     return report
