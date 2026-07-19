@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-19 10:20:34
+Last Updated: 2026-07-19 11:49:58
 
-1. **Implement the AI Scorecard:** Transition internal AI project evaluations immediately to the four-pillar framework (useful work, cost per task, dependability, return on compute) to justify future budget allocations.
-2. **Conduct an Open-Source Security Audit:** In light of the Hugging Face incident, audit all container and model registries utilized by internal development teams to ensure secure access controls.
-3. **Invest in Model Routing Architectures:** Task the engineering team with designing a dynamic model routing layer to avoid over-reliance on a single, expensive LLM API.
-4. **Initiate Pilot Agent Workflows:** Identify low-risk, high-volume customer touchpoints (similar to Cars24's lead recovery model) to pilot agentic voice and chat workflows.
+1.  **Adopt an AI Scorecard:** Finance and Tech teams should collaborate to define "Return on Compute" for all current projects.
+2.  **Audit Security Protocols:** In light of recent industry breaches, review how API keys and model weights are stored in third-party repositories.
+3.  **Pilot Agentic Workflows:** Move beyond simple chatbots; identify one high-volume business process (like lead recovery) to test autonomous agents.
+4.  **Evaluate Routing Logic:** Explore IBM’s research on model routing to determine if lower-cost models can handle the majority of your standard queries.

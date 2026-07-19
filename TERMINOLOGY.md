@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-19 10:20:34
+Last Updated: 2026-07-19 11:49:58
 
-- **Return on Compute (ROC):** A financial metric used to evaluate the business value or revenue generated relative to the computing power and infrastructure costs spent on running an AI system.
-- **Agentic Workflows:** Design patterns in AI where models are given the autonomy to plan, use external tools, execute multi-step tasks, and self-correct to accomplish complex objectives with minimal human supervision.
-- **Reverse Federalism:** In the context of AI governance, a regulatory approach where local and state-level legislative policies serve as testbeds and building blocks for creating a unified national framework.
-- **Red Teaming:** The structured practice of rigorously testing an AI system's safety and security by acting as an adversary to uncover hidden flaws, biases, or vulnerabilities.
-- **Self-Play:** A machine learning training method where different instances of an AI model interact with or compete against one another to accelerate learning and system hardening without human intervention.
-- **Model Routing:** An architectural technique that automatically assesses an incoming user query and dynamically directs it to the most efficient, cost-effective, or specialized AI model.
-- **Fine-Tuning:** The process of taking a pre-trained, general-purpose AI model and training it further on a specific dataset to optimize its performance for a niche task.
+*   **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
+*   **Agentic Workflow:** An AI system that doesn't just answer questions but takes actions (like sending emails or updating databases) to complete a goal.
+*   **Red Teaming:** A security exercise where ethical hackers (or AI) attack a system to find vulnerabilities.
+*   **Reverse Federalism:** The concept of policy ideas beginning at the state level and eventually moving up to the national government.
+*   **Model Routing:** An optimization technique that sends a user's request to the cheapest/fastest model capable of answering it correctly.
+*   **Fine-tuning:** The process of taking a pre-trained AI and giving it extra training on a specific, smaller dataset to make it an expert in one area.
+*   **Prompt Injection:** A type of attack where a user tricks an AI into ignoring its safety rules by giving it specific, clever instructions.
