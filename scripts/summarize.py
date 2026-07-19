@@ -5,66 +5,43 @@ from google import genai
 # Gemini Client
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-# Models to try in order
-MODELS = [
-    # Latest Preview
-    "gemini-3-flash-preview",
+# Read models from environment variable
+models_env = os.getenv(
+    "GEMINI_MODELS",
+    "gemini-3-flash-preview,gemini-3.5-flash,gemini-3.1-flash-lite,gemini-2.5-flash"
+)
 
-    # Stable Flash
-    "gemini-3.5-flash",
+MODELS = [m.strip() for m in models_env.split(",") if m.strip()]
 
-    # Lite Models
-    "gemini-3.1-flash-lite",
-
-    # Gemini 2.5 Models
-    "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
-    "gemini-2.5-pro",
-
-    # Aliases
-    "gemini-flash-latest",
-    "gemini-pro-latest",
-]
+# Rest of your code...
 
 
 def summarize_all(news):
 
-    prompt = "# AI News Report\n\n"
+    prompt = """
+You are an AI technology analyst.
 
-    for i, article in enumerate(news, start=1):
-        prompt += f"""
-Article {i}
+Generate a professional Markdown report.
 
-Title:
-{article['title']}
+Use the following structure exactly.
 
-Summary:
-{article['summary']}
+# AI News Report
 
-Link:
-{article['link']}
+## Executive Summary
 
-----------------------------------------
-"""
+Provide a concise overview of today's AI news.
 
-    prompt += """
-
-Create a professional markdown report.
-
-Include the following sections exactly:
-
-# Executive Summary
-
-Summarize the overall AI news.
-
-# Article Summaries
+## Article Summaries
 
 For every article include:
 
-- Summary
-- Why it Matters
+### Article Title
 
-# Executive Meeting Brief
+Summary
+
+Why it Matters
+
+## Executive Meeting Brief
 
 Include:
 
@@ -73,13 +50,36 @@ Include:
 - Opportunities
 - Recommended Actions
 
-# Technology Trends
+## Technology Trends
 
-Summarize important emerging trends.
+Summarize important trends.
 
-# Terminology
+## Terminology
 
 Explain every new AI term in simple language.
+
+-----------------------------------------
+
+Today's Articles
+
+"""
+
+    for i, article in enumerate(news, start=1):
+
+        prompt += f"""
+
+Article {i}
+
+Title:
+{article['title']}
+
+Summary:
+{article.get("summary", "No summary available.")}
+
+Link:
+{article['link']}
+
+-----------------------------------------
 """
 
     last_error = None
@@ -99,7 +99,7 @@ Explain every new AI term in simple language.
                     contents=prompt,
                 )
 
-                print(f"SUCCESS using {model}")
+                print(f"Success using {model}")
 
                 return response.text
 
@@ -108,32 +108,30 @@ Explain every new AI term in simple language.
                 last_error = e
                 error = str(e)
 
-                print(f"{model} failed")
                 print(error)
 
-                # Retry if quota/rate limit
                 if (
                     "429" in error
                     or "RESOURCE_EXHAUSTED" in error
                     or "quota" in error.lower()
                 ):
                     print("Quota reached.")
-                    print("Waiting 10 seconds...")
+                    print("Retrying in 10 seconds...")
                     time.sleep(10)
                     continue
 
-                # Try next model
+                print(f"Switching to next model...\n")
                 break
 
     print("\nAll Gemini models failed.")
-    print("Generating fallback report...")
+    print("Generating fallback report...\n")
 
     report = "# AI News Report\n\n"
 
     report += "## Executive Summary\n\n"
     report += (
         "Gemini API was unavailable. "
-        "Displaying collected AI news without AI analysis.\n\n"
+        "Displaying collected AI news without AI-generated analysis.\n\n"
     )
 
     report += "## Article Summaries\n\n"
@@ -141,16 +139,26 @@ Explain every new AI term in simple language.
     for article in news:
 
         report += f"### {article['title']}\n\n"
-        report += f"{article['summary']}\n\n"
+
+        report += article.get(
+            "summary",
+            "No summary available."
+        )
+
+        report += "\n\n"
+
         report += f"Source: {article['link']}\n\n"
 
     report += "## Executive Meeting Brief\n\n"
     report += "- AI analysis unavailable.\n\n"
 
     report += "## Technology Trends\n\n"
-    report += "- Unable to generate trends.\n\n"
+    report += "- Unable to determine trends.\n\n"
 
     report += "## Terminology\n\n"
     report += "- Unable to generate terminology.\n"
+
+    if last_error:
+        report += f"\n\nLast Error:\n\n{last_error}\n"
 
     return report
