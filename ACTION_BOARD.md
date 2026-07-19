@@ -1,22 +1,23 @@
 # AI Action Board
 
-Last Updated: 2026-07-19 18:54:16
+Last Updated: 2026-07-19 20:03:58
 
-1. **Audit AI Spending:** Adopt the "OpenAI Scorecard" metrics to evaluate current AI projects.
-2. **Review Security Protocols:** In light of the Hugging Face incident, audit the provenance and security of all third-party models used in the corporate stack.
-3. **Pilot Model Routing:** Evaluate IBM’s routing strategies to lower the total cost of ownership (TCO) for LLM applications.
-4. **Safety Compliance:** Review teen safety protocols if products have a user base under 18, aligning with the new industry standards for minor protection.
+1.  **Adopt the OpenAI Scorecard:** Audit current AI projects against the "return on compute" and "useful work" metrics.
+2.  **Evaluate Routing Logic:** Review current LLM architectures to see if simple queries can be routed to cheaper models.
+3.  **Invest in Agentic R&D:** Move pilot programs from "information retrieval" to "task execution."
 
 ## Technology Trends
-- **Agentic Workflows:** Moving away from single-turn chat interfaces toward agents that can perform multi-step tasks autonomously.
-- **Model Orchestration:** The rise of "Routers" that manage a fleet of different models to optimize for cost and latency.
-- **Self-Improving Safety:** Using AI to find and fix the safety flaws of other AI models (automated red teaming).
-- **Reverse Federalism:** A growing trend in policy where state-level experiments drive national regulation.
+- **Automated Red Teaming:** Using AI to find the flaws in other AI.
+- **Reverse Federalism:** A bottom-up approach to national AI regulation.
+- **Agentic Workflows:** Systems that don't just talk, but act and orchestrate multi-step processes.
+- **Inference Cost Management:** A maturing focus on model routing and compute efficiency.
 
 ## Terminology
-- **Return on Compute:** A metric measuring the value generated for every dollar spent on the processing power used by AI.
-- **Red Teaming:** The process of rigorously testing a system to find security holes or safety flaws (often by acting as an adversary).
-- **Agentic Workflow:** A system where an AI agent plans, uses tools, and executes multiple steps to achieve a goal, rather than just providing a text response.
-- **Model Routing:** A software layer that analyzes a user's prompt and sends it to the cheapest/fastest model capable of handling it.
-- **Reverse Federalism:** When political or legal innovations start at the local/state level and move upward to form national policy.
-- **Fine-Tuning:** The process of taking a pre-trained AI model and giving it extra training on a specific dataset to make it better at a particular task.
+
+- **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
+- **Red Teaming:** A security exercise where "ethical hackers" (or AI) attack a system to find vulnerabilities.
+- **Agentic Workflow:** An AI system capable of breaking down a complex goal into steps and executing them autonomously.
+- **Model Routing:** A system that decides which AI model (e.g., a small fast one vs. a large slow one) should handle a specific request.
+- **Reverse Federalism:** The concept of state-level policies serving as the foundation for federal (national) laws.
+- **Diffusers:** A software library used to build and run "diffusion models," which are the tech behind AI image and video generation.
+- **Return on Compute:** A metric measuring the value generated compared to the amount of processing power (GPU time) consumed.

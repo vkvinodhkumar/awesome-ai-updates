@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-19 18:54:16
+Last Updated: 2026-07-19 20:03:58
 
-- **Return on Compute:** A metric measuring the value generated for every dollar spent on the processing power used by AI.
-- **Red Teaming:** The process of rigorously testing a system to find security holes or safety flaws (often by acting as an adversary).
-- **Agentic Workflow:** A system where an AI agent plans, uses tools, and executes multiple steps to achieve a goal, rather than just providing a text response.
-- **Model Routing:** A software layer that analyzes a user's prompt and sends it to the cheapest/fastest model capable of handling it.
-- **Reverse Federalism:** When political or legal innovations start at the local/state level and move upward to form national policy.
-- **Fine-Tuning:** The process of taking a pre-trained AI model and giving it extra training on a specific dataset to make it better at a particular task.
+- **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
+- **Red Teaming:** A security exercise where "ethical hackers" (or AI) attack a system to find vulnerabilities.
+- **Agentic Workflow:** An AI system capable of breaking down a complex goal into steps and executing them autonomously.
+- **Model Routing:** A system that decides which AI model (e.g., a small fast one vs. a large slow one) should handle a specific request.
+- **Reverse Federalism:** The concept of state-level policies serving as the foundation for federal (national) laws.
+- **Diffusers:** A software library used to build and run "diffusion models," which are the tech behind AI image and video generation.
+- **Return on Compute:** A metric measuring the value generated compared to the amount of processing power (GPU time) consumed.
