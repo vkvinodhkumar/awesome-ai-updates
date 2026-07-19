@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-19 15:50:24
+Last Updated: 2026-07-19 16:48:13
 
-*   **ROI (Return on Investment):** A measure used to evaluate the efficiency of an investment; in AI, this is now being measured by "useful work" per dollar spent.
-*   **Agentic Workflow:** A system where AI doesn't just answer questions but takes actions (e.g., booking an appointment or updating a CRM) to complete a goal.
-*   **Red Teaming:** The process of "attacking" an AI system to find security flaws or biases before a malicious actor does.
-*   **Model Routing:** An architectural layer that decides which specific AI model should handle a specific incoming request based on cost and complexity.
-*   **Diffusers:** A popular library used for generating images and videos from text prompts.
-*   **Fine-tuning:** Taking a pre-trained AI model and training it further on a smaller, specific dataset to make it an expert in a particular area.
+*   **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
+*   **Agentic Workflow:** An AI system design where the model is given a goal and can use tools (like a browser or database) to achieve it autonomously.
+*   **Red Teaming:** The practice of rigorously testing a system by attacking it (simulating a "bad actor") to find security or safety flaws.
+*   **Model Routing:** An architectural layer that analyzes an incoming request and sends it to the most appropriate AI model based on cost, speed, or complexity.
+*   **Fine-tuning:** The process of taking a pre-trained AI model and training it further on a specific, smaller dataset to make it an expert in a particular area.
+*   **Prompt Injection:** A security vulnerability where a user provides a clever input to "trick" an AI into ignoring its safety rules.
+*   **Reverse Federalism:** A political concept where policy innovations start at the state level and eventually move up to influence federal (national) law.

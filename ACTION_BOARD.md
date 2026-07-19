@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-19 15:50:24
+Last Updated: 2026-07-19 16:48:13
 
-1.  **Adopt the AI Scorecard:** Task the finance and tech teams with measuring "cost per successful task" for all current AI implementations.
-2.  **Audit AI Security:** Review third-party model dependencies in light of recent platform security incidents.
-3.  **Explore Model Routing:** Evaluate if current workflows can be bifurcated into "simple" and "complex" tasks to save on compute costs.
-4.  **Monitor State Legislation:** Engage legal counsel to track AI safety bills in key operating states.
+1.  **Audit ROI:** Adopt a scorecard similar to OpenAI’s to measure the "cost per successful task" for current AI pilots.
+2.  **Evaluate Routing:** Review current LLM implementations to see if a "routing" layer can be added to save costs by using smaller models for 60-70% of basic queries.
+3.  **Prepare for Regulation:** Task the legal team with monitoring state-level AI safety bills, particularly in California, as these are likely to influence national standards.
