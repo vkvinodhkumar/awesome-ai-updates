@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-19 16:48:13
+Last Updated: 2026-07-19 17:52:11
 
-*   **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
-*   **Agentic Workflow:** An AI system design where the model is given a goal and can use tools (like a browser or database) to achieve it autonomously.
-*   **Red Teaming:** The practice of rigorously testing a system by attacking it (simulating a "bad actor") to find security or safety flaws.
-*   **Model Routing:** An architectural layer that analyzes an incoming request and sends it to the most appropriate AI model based on cost, speed, or complexity.
-*   **Fine-tuning:** The process of taking a pre-trained AI model and training it further on a specific, smaller dataset to make it an expert in a particular area.
-*   **Prompt Injection:** A security vulnerability where a user provides a clever input to "trick" an AI into ignoring its safety rules.
-*   **Reverse Federalism:** A political concept where policy innovations start at the state level and eventually move up to influence federal (national) law.
+- **ROI on Compute:** A metric measuring the financial return generated for every dollar spent on the processing power (GPUs) used to run AI.
+- **Red Teaming:** The process of rigorously testing an AI system to find flaws, biases, or security vulnerabilities by "attacking" it.
+- **Agentic Workflow:** A system where an AI doesn't just answer questions but takes actions (e.g., sending emails, updating databases, or calling customers) to complete a goal.
+- **Model Routing:** A technique where a "router" AI analyzes a user's request and sends it to the cheapest or fastest model capable of handling that specific task.
+- **Reverse Federalism:** A policy concept where state-level regulations serve as the initial draft or testing ground for future federal (national) laws.
+- **Fine-tuning:** Taking a pre-trained AI model and giving it extra training on a smaller, specific dataset to make it an expert in a particular area.
