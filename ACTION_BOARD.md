@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-19 01:54:00
+Last Updated: 2026-07-19 05:15:32
 
-1. **Audit Security Protocols:** Immediately review the management of API keys and tokens in light of the recent Hugging Face security incident.
-2. **Implement Automated Red-Teaming:** Explore integrating automated adversarial testing into the development lifecycle to improve system robustness.
-3. **Evaluate Model Routing:** Assess whether a multi-model architecture can reduce operational costs without sacrificing performance for simple tasks.
-4. **Monitor AI Policy:** Appoint a task force to track evolving U.S. AI Safety Institute standards to ensure future model compliance.
+1. **Implement Automated Red Teaming:** Adopt GPT-Red or similar self-improvement protocols to audit internal models for safety.
+2. **Audit AI Infrastructure:** Review security protocols for API key management and model weights in light of recent industry disclosures.
+3. **Evaluate Model Routing:** Assess whether a "router" architecture can reduce operational costs for high-volume customer service applications.
+4. **Focus on Agentic Reliability:** Move beyond simple RAG workflows toward more robust agentic frameworks by learning from the "Shippy" development lessons.
