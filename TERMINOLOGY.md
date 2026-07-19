@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-19 05:15:32
+Last Updated: 2026-07-19 07:34:05
 
-- **Red Teaming:** The process of testing a system's defenses by simulating an attack or adversarial input.
-- **Model Routing:** A system that directs user queries to the most appropriate AI model based on complexity and cost.
-- **Fine-tuning:** The process of taking a pre-trained model and further training it on a specific dataset for specialized tasks.
-- **Agentic Workflows:** AI systems designed to perform multi-step tasks autonomously by using tools and managing their own state.
-- **Scorecard:** A framework of benchmarks used to measure the real-world impact and effectiveness of AI tools.
-- **Diffusers:** A library used to facilitate the training and deployment of diffusion models for image and video generation.
+- **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment. In AI, this now includes "return on compute."
+- **Red Teaming:** A process where "attackers" (human or AI) try to find vulnerabilities or flaws in a system to improve its security.
+- **Agentic Workflow:** A system where an AI doesn't just talk but takes actions (e.g., sending emails, updating databases) to achieve a specific goal.
+- **Reverse Federalism:** A political process where policy ideas start at the state level and eventually move up to the federal (national) government.
+- **Model Routing:** A system that analyzes an incoming request and decides which AI model (large/expensive or small/fast) is best suited to handle it.
+- **Compute:** The processing power (CPUs and GPUs) required to run and train AI models.
+- **Prompt Injection:** A type of "hack" where a user provides a specific input to trick an AI into ignoring its safety rules.
