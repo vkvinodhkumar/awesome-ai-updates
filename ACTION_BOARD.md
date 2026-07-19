@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-18 23:44:28
+Last Updated: 2026-07-19 01:54:00
 
-1. **Audit Infrastructure Security:** Review how internal model secrets and API tokens are stored to prevent breaches similar to the Hugging Face incident.
-2. **Implement Model Routing:** Explore "router" architectures to direct simple queries to small language models (SLMs), reserving high-cost models for complex reasoning.
-3. **Engage with Safety Frameworks:** Align internal AI development with the NIST AI Risk Management Framework to prepare for upcoming US federal and state regulations.
+1. **Audit Security Protocols:** Immediately review the management of API keys and tokens in light of the recent Hugging Face security incident.
+2. **Implement Automated Red-Teaming:** Explore integrating automated adversarial testing into the development lifecycle to improve system robustness.
+3. **Evaluate Model Routing:** Assess whether a multi-model architecture can reduce operational costs without sacrificing performance for simple tasks.
+4. **Monitor AI Policy:** Appoint a task force to track evolving U.S. AI Safety Institute standards to ensure future model compliance.

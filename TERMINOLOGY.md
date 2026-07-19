@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-18 23:44:28
+Last Updated: 2026-07-19 01:54:00
 
-- **Model Routing:** The process of automatically selecting the most efficient AI model to handle a specific user query based on complexity and cost.
-- **Red-Teaming:** Adversarial testing where a model or human tries to provoke an AI into producing harmful or incorrect outputs to find vulnerabilities.
-- **Agentic Workflow:** A system where an AI agent performs a sequence of autonomous steps to complete a complex task, rather than just providing a single response.
-- **Compute Infrastructure:** The physical hardware (GPUs, data centers) required to train and run AI models.
-- **Model Secrets:** Sensitive data, such as API keys or proprietary weights, that allow access to or control over an AI model.
-- **Diffusers:** A popular library for state-of-the-art pretrained vision models (like Stable Diffusion).
+- **Red-Teaming:** The process of intentionally attacking an AI system to find security flaws or biases.
+- **Model Routing:** An architectural layer that directs a prompt to the most efficient model based on task complexity.
+- **Agentic Drift:** A phenomenon where an AI agent loses track of its original goal during multi-step tasks.
+- **Fine-Tuning:** The process of training a pre-existing model on a specific dataset to improve performance for a particular task.
+- **AISI (AI Safety Institute):** A federal body focused on establishing safety standards and evaluating risks of frontier AI models.
+- **Diffusion Models:** A class of generative models primarily used for high-quality image and video synthesis.
