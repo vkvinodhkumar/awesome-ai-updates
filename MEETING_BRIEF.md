@@ -1,39 +1,40 @@
 # Executive Meeting Brief
 
 ### Key Developments
-*   **Agentic Maturity:** We are moving from "Chat" to "Agents" (Long-horizon models) that can perform tasks like lead recovery (Cars24).
-*   **Standardized Metrics:** The introduction of the AI Scorecard allows for more rigorous ROI tracking.
-*   **Edge Computing:** NVIDIA’s Cosmos 3 Edge signals a shift toward running powerful AI on local devices to save on cloud costs and improve speed.
+- **Shift to Agentic AI:** The industry is moving from "Chat" to "Do," where AI models execute multi-step workflows (Long-horizon models).
+- **Quantifiable ROI:** New frameworks are emerging to measure AI success via cost-per-task and dependability.
+- **Local Sovereignty:** High-performance models are moving to the edge (Nvidia Cosmos), reducing cloud dependence.
 
 ### Risks
-*   **Safety Drift:** Long-running models can "hallucinate" or drift from their original goal over time.
-*   **Security Vulnerabilities:** Recent disclosures highlight that model hosting environments remain primary targets for cyber-attacks.
-*   **Regulatory Fragmentation:** The "Reverse Federalism" model means companies may face a patchwork of state laws before a federal standard is reached.
+- **Alignment Drifts:** Long-running models may deviate from intended goals over time if not monitored.
+- **Security Vulnerabilities:** As seen in recent disclosures, AI infrastructure remains a primary target for sophisticated attacks.
+- **Regulatory Fragmentation:** Divergence between state and federal AI laws could create compliance headaches.
 
 ### Opportunities
-*   **Efficiency Gains:** Implementing model routing can significantly reduce API costs by using smaller models for simpler tasks.
-*   **Revenue Recovery:** Utilizing AI voice agents for "lost lead recovery" offers a clear, measurable path to increased sales.
+- **Lead Recovery:** Voice and agentic chat can recover significant revenue (e.g., the 12% lead recovery seen by Cars24).
+- **Cost Optimization:** Implementing model routing can significantly lower API costs by sending simple tasks to cheaper models.
 
 ### Recommended Actions
-1.  **Adopt the AI Scorecard:** Task the finance team with evaluating current AI projects using the "Cost per Successful Task" metric.
-2.  **Audit Agent Safety:** If the company is deploying autonomous agents, implement "iterative deployment" as recommended by OpenAI to monitor for long-horizon drift.
-3.  **Explore Edge AI:** Evaluate if specific operations (e.g., in-store or on-site) can be transitioned to Edge models to reduce cloud dependency.
+1.  **Adopt the Scorecard:** Implement the OpenAI ROI metrics (Cost per successful task) for all current AI pilots.
+2.  **Audit Security:** Review infrastructure security protocols, specifically for model hosting and API keys.
+3.  **Evaluate Edge Potential:** Determine if sensitive or high-latency tasks can be moved to local hardware using edge-optimized models.
 
 ---
 
 ## Technology Trends
 
-1.  **Shift to Agency:** The industry is moving from models that *talk* to models that *do*.
-2.  **Model Routing:** The rise of "intelligence orchestration," where a traffic controller decides which AI model is best for a specific query to balance cost and quality.
-3.  **Local/Edge AI:** A move away from massive centralized data centers toward processing AI on the "Edge" (phones, local servers, and hardware).
+1.  **Agentic Workflows:** Moving away from single-turn prompts to autonomous systems that perform sequences of tasks.
+2.  **Model Orchestration/Routing:** Using "router" models to manage a fleet of different LLMs to balance cost and quality.
+3.  **Reverse Federalism:** A regulatory trend where state-level AI safety laws act as the "laboratories" for future national policy.
+4.  **Edge Intelligence:** The migration of heavy AI workloads from massive data centers to local user devices.
 
 ---
 
 ## Terminology
 
-*   **Long-Horizon Models:** AI models designed to complete tasks that take a long time and involve many steps (e.g., planning a month-long travel itinerary or managing a complex sales pipeline).
-*   **Agentic Workflows:** A system where the AI acts as an "agent," making its own decisions and using tools to complete a goal without constant human prompting.
-*   **Model Routing:** Software that directs an AI request to the most appropriate model (e.g., sending a simple math question to a cheap model and a complex coding question to an expensive one).
-*   **Edge AI:** Running AI algorithms directly on a device (like a laptop or a car) instead of sending data to the cloud.
-*   **Reverse Federalism:** A governance concept where policy ideas start at the state level and eventually influence national (federal) laws.
-*   **Return on Compute:** A metric measuring how much business value is generated for every unit of processing power used by an AI model.
+- **Long-horizon models:** AI models designed to work on complex tasks that take a long time to complete and involve many steps.
+- **Agentic Workflows:** A system where an AI acts as an "agent," making decisions and taking actions autonomously to reach a goal.
+- **Model Routing:** An automated system that looks at a user's request and decides which AI model (large or small) is best suited to handle it.
+- **Edge AI:** Running AI software directly on a device (like a phone or a local server) instead of sending the data to a remote cloud data center.
+- **Reverse Federalism:** A political concept where laws and regulations start at the local/state level and eventually move up to the federal (national) level.
+- **Return on Compute:** A metric used to determine how much value or profit is generated for every unit of computer processing power used.

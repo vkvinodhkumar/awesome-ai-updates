@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-20 17:26:46
+Last Updated: 2026-07-20 19:28:02
 
-1.  **Adopt the AI Scorecard:** Task the finance team with evaluating current AI projects using the "Cost per Successful Task" metric.
-2.  **Audit Agent Safety:** If the company is deploying autonomous agents, implement "iterative deployment" as recommended by OpenAI to monitor for long-horizon drift.
-3.  **Explore Edge AI:** Evaluate if specific operations (e.g., in-store or on-site) can be transitioned to Edge models to reduce cloud dependency.
+1.  **Adopt the Scorecard:** Implement the OpenAI ROI metrics (Cost per successful task) for all current AI pilots.
+2.  **Audit Security:** Review infrastructure security protocols, specifically for model hosting and API keys.
+3.  **Evaluate Edge Potential:** Determine if sensitive or high-latency tasks can be moved to local hardware using edge-optimized models.
