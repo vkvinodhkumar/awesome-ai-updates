@@ -1,29 +1,40 @@
 # Executive Meeting Brief
 
-- **Key Developments:** The industry is moving toward "Agentic" workflows (long-horizon tasks) and sophisticated model routing to optimize costs.
-- **Risks:** Increased security vulnerabilities (as seen in the July disclosure) and the hidden costs of complex, multi-model architectures.
-- **Opportunities:** Significant ROI gains by adopting structured measurement scorecards (e.g., return on compute) and leveraging AI to recover lost sales leads.
-- **Recommended Actions:** 
-    1. Adopt the "AI Scorecard" approach to evaluate existing LLM implementations.
-    2. Audit current security protocols regarding agentic workflows.
-    3. Monitor "Reverse Federalism" legislative trends to prepare for compliance shifts in the US.
+### Key Developments
+*   **Agentic Maturity:** We are moving from chatbots to "agents" that perform tasks (e.g., Cars24's 12% lead recovery).
+*   **Measurement Standards:** A formal ROI "Scorecard" is emerging to move AI projects from R&D to core business operations.
+*   **Edge Proliferation:** NVIDIA's Cosmos 3 Edge signals a shift toward physical, on-device AI.
+
+### Risks
+*   **Security Vulnerabilities:** Recent disclosures remind us that AI repositories and model hubs are high-value targets for attackers.
+*   **Alignment Gaps:** Long-horizon reasoning models can "hallucinate" or drift during complex tasks, requiring new types of monitoring.
+*   **Regulatory Fragmentation:** The "reverse federalism" approach means businesses must track both state and federal AI laws simultaneously.
+
+### Opportunities
+*   **Cost Optimization:** Implementing "Model Routing" can significantly reduce API costs by utilizing smaller models for simple tasks.
+*   **Physical AI:** Robotics and edge computing offer new ways to automate physical workflows that were previously cloud-dependent.
+
+### Recommended Actions
+1.  **Adopt the Scorecard:** Implement OpenAI’s ROI metrics (Useful Work, Cost per Task) for all current internal AI pilots.
+2.  **Audit Security:** Review internal model storage and third-party AI platform permissions in light of recent industry breaches.
+3.  **Evaluate Model Routing:** Assess if current workflows can be tiered (e.g., using GPT-4o-mini for triage and GPT-4o for complex reasoning) to save costs.
 
 ---
 
 ## Technology Trends
 
-*   **Agentic Maturity:** Shifting from chatbots that provide information to "agents" that execute multi-step, long-running business processes.
-*   **Edge Intelligence:** Pushing model inference closer to the user to reduce latency and infrastructure costs.
-*   **Operational Accountability:** A move away from "hype-based" metrics toward financial/performance metrics like "Return on Compute."
-*   **Regulatory Pragmatism:** A collaborative push between private industry and government to create scalable, state-led safety standards.
+1.  **Long-Horizon Reasoning:** A move toward models that spend more compute time "thinking" to solve complex, multi-step problems accurately.
+2.  **Agentic Workflows:** Systems designed to act on behalf of users (calling customers, booking services) rather than just answering questions.
+3.  **Physical/Edge AI:** The integration of AI world models into local hardware for real-time interaction with the physical environment.
+4.  **ROI-Centric AI:** A transition in corporate strategy from "experimental AI" to "accountable AI" with specific financial KPIs.
 
 ---
 
 ## Terminology
 
-*   **Long-horizon models:** AI systems designed to perform tasks over minutes, hours, or days rather than seconds.
-*   **Agentic workflows:** Systems where AI doesn't just answer a question but takes autonomous actions to achieve a multi-step goal.
-*   **Return on Compute:** A metric measuring the value extracted from AI compared to the total processing power and energy consumed to run it.
-*   **Model Routing:** A technical system that automatically picks the "best" AI model for a specific task (e.g., sending simple requests to cheap models and complex ones to premium models).
-*   **Reverse Federalism:** A governance approach where individual states implement regulations that eventually coalesce into a unified national standard.
-*   **Edge Computing:** Running AI processes on local devices (like a phone or laptop) instead of sending data to a centralized server.
+*   **Long-Horizon Models:** AI models capable of planning and executing complex tasks that require many steps over an extended period.
+*   **Return on Compute:** A metric used to evaluate how much value or "useful work" is generated for every unit of processing power spent.
+*   **Model Routing:** An automated system that decides which AI model is best suited for a specific request based on cost, speed, and complexity.
+*   **Edge AI:** Running AI algorithms locally on a device (like a robot or phone) rather than on a remote cloud server.
+*   **Agentic Workflow:** A process where an AI "agent" is given a goal and autonomously determines the steps and tools needed to achieve it.
+*   **Reverse Federalism:** A political concept where policy innovations begin at the state level and eventually move upward to create a national standard.

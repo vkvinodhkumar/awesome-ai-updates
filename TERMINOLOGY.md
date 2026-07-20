@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-20 21:04:43
+Last Updated: 2026-07-20 22:50:49
 
-*   **Long-horizon models:** AI systems designed to perform tasks over minutes, hours, or days rather than seconds.
-*   **Agentic workflows:** Systems where AI doesn't just answer a question but takes autonomous actions to achieve a multi-step goal.
-*   **Return on Compute:** A metric measuring the value extracted from AI compared to the total processing power and energy consumed to run it.
-*   **Model Routing:** A technical system that automatically picks the "best" AI model for a specific task (e.g., sending simple requests to cheap models and complex ones to premium models).
-*   **Reverse Federalism:** A governance approach where individual states implement regulations that eventually coalesce into a unified national standard.
-*   **Edge Computing:** Running AI processes on local devices (like a phone or laptop) instead of sending data to a centralized server.
+*   **Long-Horizon Models:** AI models capable of planning and executing complex tasks that require many steps over an extended period.
+*   **Return on Compute:** A metric used to evaluate how much value or "useful work" is generated for every unit of processing power spent.
+*   **Model Routing:** An automated system that decides which AI model is best suited for a specific request based on cost, speed, and complexity.
+*   **Edge AI:** Running AI algorithms locally on a device (like a robot or phone) rather than on a remote cloud server.
+*   **Agentic Workflow:** A process where an AI "agent" is given a goal and autonomously determines the steps and tools needed to achieve it.
+*   **Reverse Federalism:** A political concept where policy innovations begin at the state level and eventually move upward to create a national standard.
