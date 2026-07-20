@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-20 02:11:29
+Last Updated: 2026-07-20 05:22:12
 
-- **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
-- **ROC (Return on Compute):** A new metric measuring how much business value is generated for every unit of processing power used.
-- **Red Teaming:** The process of rigorously testing a system's security by acting as an adversary to find vulnerabilities.
-- **Prompt Injection:** A type of attack where a user tricks an AI into ignoring its safety rules by giving it specific, clever instructions.
-- **Agentic Workflow:** An AI system designed to complete a multi-step goal autonomously, rather than just answering a single question.
-- **Model Routing:** A system that analyzes a request and decides which AI model (large/expensive or small/cheap) is best suited to handle it.
-- **Reverse Federalism:** A political concept where policy ideas start at the state level and eventually move up to inform national law.
-- **Fine-Tuning:** The process of taking a pre-trained AI and giving it extra training on a specific dataset to make it an expert in a certain area.
+- **ROI (Return on Investment) Scorecard:** A set of metrics designed to measure the financial and operational success of AI deployments.
+- **Agentic Workflow:** A process where an AI model is given a goal and independently decides which steps to take and which tools to use to achieve it.
+- **Red Teaming:** The practice of rigorously testing a system by attacking it (or "probing" it) to find security or safety flaws.
+- **Reverse Federalism:** A policy concept where state-level laws set the precedent and provide the foundation for federal (national) laws.
+- **Model Routing:** An architectural layer that analyzes an incoming request and decides which specific AI model is best suited to handle it based on cost and complexity.
+- **Fine-tuning:** The process of taking a pre-trained AI model and training it further on a smaller, specific dataset to improve its performance for a particular task.
+- **Diffusers:** A library used to facilitate the generation of images and videos using "diffusion" models (a type of generative AI).
