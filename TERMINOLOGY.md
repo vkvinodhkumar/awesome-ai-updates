@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-20 12:10:55
+Last Updated: 2026-07-20 15:04:10
 
-*   **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
-*   **Return on Compute:** A metric measuring how much business value is generated for every unit of specialized computer power (GPU) used.
-*   **Agentic Workflows:** Systems where the AI is given a goal and can independently plan and execute multiple steps to achieve it.
-*   **Red Teaming:** The process of ethical hacking/testing where a team (or AI) tries to break a system to find security holes.
-*   **Model Routing:** An automated "traffic cop" that sends a user's question to the smallest/cheapest AI model capable of answering it.
-*   **Fine-tuning:** Taking a "pre-trained" AI and giving it extra training on specific data to make it an expert in a certain area.
-*   **Diffusers:** A specific type of AI architecture used primarily for generating images and videos.
+- **ROI (Return on Investment):** A measure used to evaluate the efficiency of an investment; in AI, this refers to the value gained (time saved, revenue added) versus the cost of compute and tokens.
+- **Red Teaming:** The process of "attacking" an AI system to find its weaknesses, biases, or security flaws before bad actors do.
+- **Agentic Workflow:** An AI system designed to complete a multi-step goal autonomously by using "tools" (like calendars, databases, or email).
+- **Model Routing:** A system that acts as a "traffic controller," deciding whether to send a user's question to a cheap, small AI model or an expensive, powerful one.
+- **Prompt Injection:** A type of security attack where a user tries to "trick" an AI into ignoring its safety rules.
+- **Fine-tuning:** The process of taking a pre-trained AI model and giving it additional training on a specific dataset to make it an expert in a certain area (like a company's brand voice).
+- **Reverse Federalism:** A political concept where policy ideas start at the local/state level and eventually move up to become national laws.
