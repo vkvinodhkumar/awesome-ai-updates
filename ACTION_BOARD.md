@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-20 15:04:10
+Last Updated: 2026-07-20 17:26:46
 
-1.  **Audit AI ROI:** Task the finance department with applying the OpenAI Scorecard pillars to our current AI projects.
-2.  **Pilot Agentic Workflows:** Identify one high-volume customer interaction point to test an autonomous agent capable of "tool-calling" (e.g., scheduling or lead follow-up).
-3.  **Enhance Security Protocols:** Review our internal policies for using third-party model repositories (like Hugging Face) in light of recent security disclosures.
+1.  **Adopt the AI Scorecard:** Task the finance team with evaluating current AI projects using the "Cost per Successful Task" metric.
+2.  **Audit Agent Safety:** If the company is deploying autonomous agents, implement "iterative deployment" as recommended by OpenAI to monitor for long-horizon drift.
+3.  **Explore Edge AI:** Evaluate if specific operations (e.g., in-store or on-site) can be transitioned to Edge models to reduce cloud dependency.

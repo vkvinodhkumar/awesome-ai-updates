@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-20 15:04:10
+Last Updated: 2026-07-20 17:26:46
 
-- **ROI (Return on Investment):** A measure used to evaluate the efficiency of an investment; in AI, this refers to the value gained (time saved, revenue added) versus the cost of compute and tokens.
-- **Red Teaming:** The process of "attacking" an AI system to find its weaknesses, biases, or security flaws before bad actors do.
-- **Agentic Workflow:** An AI system designed to complete a multi-step goal autonomously by using "tools" (like calendars, databases, or email).
-- **Model Routing:** A system that acts as a "traffic controller," deciding whether to send a user's question to a cheap, small AI model or an expensive, powerful one.
-- **Prompt Injection:** A type of security attack where a user tries to "trick" an AI into ignoring its safety rules.
-- **Fine-tuning:** The process of taking a pre-trained AI model and giving it additional training on a specific dataset to make it an expert in a certain area (like a company's brand voice).
-- **Reverse Federalism:** A political concept where policy ideas start at the local/state level and eventually move up to become national laws.
+*   **Long-Horizon Models:** AI models designed to complete tasks that take a long time and involve many steps (e.g., planning a month-long travel itinerary or managing a complex sales pipeline).
+*   **Agentic Workflows:** A system where the AI acts as an "agent," making its own decisions and using tools to complete a goal without constant human prompting.
+*   **Model Routing:** Software that directs an AI request to the most appropriate model (e.g., sending a simple math question to a cheap model and a complex coding question to an expensive one).
+*   **Edge AI:** Running AI algorithms directly on a device (like a laptop or a car) instead of sending data to the cloud.
+*   **Reverse Federalism:** A governance concept where policy ideas start at the state level and eventually influence national (federal) laws.
+*   **Return on Compute:** A metric measuring how much business value is generated for every unit of processing power used by an AI model.
