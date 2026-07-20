@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-20 09:52:19
+Last Updated: 2026-07-20 12:10:55
 
-- **Scorecard (AI ROI):** A structured framework used by organizations to measure the practical business value, operational efficiency, and financial return of AI deployments.
-- **Agentic Workflows:** AI system designs that allow models to act as autonomous agents—planning, executing multi-step tasks, using external tools, and recovering from errors on their own.
-- **Reverse Federalism:** A regulatory approach where policies and safety standards are first developed and tested at state levels, eventually serving as the template for national frameworks.
-- **Red Teaming (Self-Play):** A security testing method where an adversarial AI system is tasked with finding vulnerabilities, bypasses, or prompt injections in another AI system to improve its safety.
-- **Model Routing:** An architectural approach that evaluates incoming prompts and automatically forwards them to the most efficient model (e.g., sending simple queries to a smaller model to save costs).
-- **Diffusers:** Open-source software libraries specifically optimized for training, running, and fine-tuning diffusion-based generative image and video models.
+*   **ROI (Return on Investment):** A measure used to evaluate the efficiency or profitability of an investment.
+*   **Return on Compute:** A metric measuring how much business value is generated for every unit of specialized computer power (GPU) used.
+*   **Agentic Workflows:** Systems where the AI is given a goal and can independently plan and execute multiple steps to achieve it.
+*   **Red Teaming:** The process of ethical hacking/testing where a team (or AI) tries to break a system to find security holes.
+*   **Model Routing:** An automated "traffic cop" that sends a user's question to the smallest/cheapest AI model capable of answering it.
+*   **Fine-tuning:** Taking a "pre-trained" AI and giving it extra training on specific data to make it an expert in a certain area.
+*   **Diffusers:** A specific type of AI architecture used primarily for generating images and videos.
