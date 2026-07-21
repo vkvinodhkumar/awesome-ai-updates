@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-21 18:12:42
+Last Updated: 2026-07-21 20:16:06
 
-*   **Long-Horizon Models:** AI models capable of performing tasks that require many steps and long periods of time to complete without constant human input.
-*   **Agentic Workflows:** Systems where the AI acts as an "agent," making decisions and taking actions to achieve a goal rather than just generating text.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone, car, or factory machine) instead of on a distant cloud server.
-*   **Return on Compute:** A metric measuring the value generated relative to the processing power and energy consumed by an AI model.
-*   **Robot-Manipulation Data:** Information captured from human or mechanical movements used to teach robots how to pick up, move, and use objects.
-*   **Alignment:** The process of ensuring an AI’s goals and behaviors match human values and intended outcomes.
+*   **Long-horizon models:** AI models designed to work on complex, multi-step tasks that require planning and action over minutes or hours, rather than seconds.
+*   **Physical AI:** Systems that combine artificial intelligence with physical hardware (like robots) to interact with the real world.
+*   **Return on Compute:** A metric that measures how much useful work is extracted from the expensive, finite computing power used to run an AI model.
+*   **Agentic/Agents:** AI systems that can independently perform tasks, use tools, and make decisions to reach a specific goal without constant human intervention.
+*   **Simulation:** A virtual environment used to train AI models safely; it acts like a "video game" where the AI practices real-world tasks.
