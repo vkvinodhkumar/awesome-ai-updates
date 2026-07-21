@@ -1,41 +1,39 @@
 # Executive Meeting Brief
 
 ### Key Developments
-- **Metric-Driven AI:** The introduction of the "AI Scorecard" marks the end of the "experimental phase" for enterprise AI. 
-- **Governance Expansion:** Top-tier financial leadership is now overseeing AI development, signaling a focus on stability and global compliance.
-- **Agentic Shift:** Research is shifting from "chat" to "long-horizon agents" and "Physical AI."
+- **Shift to Agents:** The focus is moving from "Chat" to "Action." AI is being designed to perform long-term tasks autonomously.
+- **Institutional Maturity:** OpenAI’s board expansion and the introduction of financial scorecards indicate a "maturing" of the industry.
+- **Physical AI Integration:** Rapid progress is being made in simulation technology, bridging the gap between digital intelligence and physical robotics.
 
 ### Risks
-- **Evaluation Vulnerabilities:** Security incidents during model testing show that the "sandbox" environments are currently a weak link in the supply chain.
-- **Goal Drift:** Long-running autonomous agents pose a safety risk if they deviate from user intent over time.
-- **Model Weight Theft:** Recent disclosures highlight that model weights are the most valuable and targeted assets in the industry.
+- **Long-Horizon Failures:** Autonomous agents can drift from their goals over time, requiring new alignment and monitoring techniques.
+- **Supply Chain Vulnerability:** Security incidents at OpenAI and Hugging Face prove that the tools used to evaluate and host AI are high-value targets for hackers.
 
 ### Opportunities
-- **SME Automation:** The ChatGPT for Small Business program creates an opportunity to provide consulting or tools for the underserved small-business market.
-- **Physical AI Integration:** For companies with physical operations (warehousing, manufacturing), the advancements in simulation offer a lower-cost entry point for robotics.
-- **ROI Optimization:** Using the AI Scorecard to audit current AI projects can help cut costs and double down on high-performing use cases.
+- **SME Automation:** The "ChatGPT for Small Business" program opens a massive market for specialized consulting and integration.
+- **Standardized ROI:** Using the new AI Scorecard allows firms to move from "experimentation" to "investment" based on clear data.
 
 ### Recommended Actions
-1. **Audit AI ROI:** Implement the "AI Scorecard" metrics to evaluate all current internal AI pilots.
-2. **Strengthen Sandbox Security:** Review security protocols for internal AI evaluation and testing environments.
-3. **Explore Agentic Workflows:** Begin transitioning from simple RAG (Retrieval-Augmented Generation) to "long-horizon" agent architectures for complex business processes.
+1. **Audit Security Protocols:** Review how AI models are evaluated and stored within the company to prevent "model weight" theft or evaluation breaches.
+2. **Adopt ROI Metrics:** Implement Sarah Friar’s "Return on Compute" metrics to measure the efficacy of current AI pilot programs.
+3. **Explore Agentic Workflows:** Begin pilot programs for "long-horizon" agents in controlled environments to automate multi-step administrative tasks.
 
 ---
 
 ## Technology Trends
 
-1. **Sim-to-Real Transfer:** The trend of training AI in virtual simulations to perform tasks in the physical world is accelerating, primarily driven by NVIDIA and Hugging Face.
-2. **Agentic Reasoning:** Moving away from "one-shot" answers toward AI that can plan, execute, and self-correct over long periods.
-3. **Return on Compute (ROC):** A new focus on the efficiency of AI—measuring how much value is generated per unit of processing power used.
-4. **Democratized Robotics:** The rise of open-source data collection tools (like Grabette) is making robotics research accessible to smaller players.
+- **Agentic AI:** Developing systems that don't just talk, but "do" (e.g., Shippy).
+- **Return on Compute (ROC):** A shift in accounting where AI performance is measured by the efficiency of the hardware used.
+- **Synthetic Environments:** Using ultra-realistic simulations (NVIDIA) to train physical robots, bypassing the limitations of real-world physics.
+- **Model Governance:** Professionalizing AI boards with traditional finance and global leadership figures.
 
 ---
 
 ## Terminology
 
-- **Long-Horizon Models:** AI systems designed to perform complex tasks that take a long time to complete and require multiple steps of reasoning.
-- **Physical AI:** Artificial Intelligence specifically designed to interact with the physical world, such as in robotics or autonomous vehicles.
-- **Return on Compute (ROC):** A financial metric measuring the business value generated relative to the cost of the computing power (GPUs) required to run the AI.
-- **Sim-to-Real:** The process of training an AI model in a simulated environment and then successfully transferring that knowledge to a physical robot or device.
-- **Model Weights:** The "brain" of the AI; the mathematical values that determine how an AI processes information. These are the most sensitive parts of an AI system.
-- **AI Agent:** An AI system that doesn't just talk, but can take actions (like sending emails, writing code, or moving a robot arm) to achieve a specific goal.
+- **Long-horizon models:** AI systems designed to perform complex tasks that take a long time and involve many steps (e.g., planning an entire trip or managing a project).
+- **Physical AI:** AI that is integrated into hardware, like robots or self-driving cars, to interact with the physical world.
+- **Model Evaluation:** The process of testing an AI model to see how well it performs or how safe it is before it is released.
+- **Return on Compute:** A metric used to calculate how much value a company gets back for every dollar spent on the processing power used to run AI.
+- **Autonomous Agents:** AI software that can follow a high-level goal and take multiple independent steps to achieve it without constant human prompts.
+- **Model Weights:** The internal "knowledge" or mathematical parameters of an AI model; stealing these is equivalent to stealing the model itself.

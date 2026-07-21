@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-21 22:54:38
+Last Updated: 2026-07-21 23:50:26
 
-- **Long-Horizon Models:** AI systems designed to perform complex tasks that take a long time to complete and require multiple steps of reasoning.
-- **Physical AI:** Artificial Intelligence specifically designed to interact with the physical world, such as in robotics or autonomous vehicles.
-- **Return on Compute (ROC):** A financial metric measuring the business value generated relative to the cost of the computing power (GPUs) required to run the AI.
-- **Sim-to-Real:** The process of training an AI model in a simulated environment and then successfully transferring that knowledge to a physical robot or device.
-- **Model Weights:** The "brain" of the AI; the mathematical values that determine how an AI processes information. These are the most sensitive parts of an AI system.
-- **AI Agent:** An AI system that doesn't just talk, but can take actions (like sending emails, writing code, or moving a robot arm) to achieve a specific goal.
+- **Long-horizon models:** AI systems designed to perform complex tasks that take a long time and involve many steps (e.g., planning an entire trip or managing a project).
+- **Physical AI:** AI that is integrated into hardware, like robots or self-driving cars, to interact with the physical world.
+- **Model Evaluation:** The process of testing an AI model to see how well it performs or how safe it is before it is released.
+- **Return on Compute:** A metric used to calculate how much value a company gets back for every dollar spent on the processing power used to run AI.
+- **Autonomous Agents:** AI software that can follow a high-level goal and take multiple independent steps to achieve it without constant human prompts.
+- **Model Weights:** The internal "knowledge" or mathematical parameters of an AI model; stealing these is equivalent to stealing the model itself.
