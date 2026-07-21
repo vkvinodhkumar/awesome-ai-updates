@@ -1,21 +1,23 @@
 # AI Action Board
 
-Last Updated: 2026-07-21 05:14:31
+Last Updated: 2026-07-21 08:11:14
 
-1.  **Audit AI Spend:** Implement the OpenAI "Scorecard" metrics to evaluate current AI pilot projects.
-2.  **Evaluate Routing:** Investigate model routing architectures to optimize the balance between performance and cost.
-3.  **Review Agent Safety:** If deploying agentic workflows, update safety protocols to account for multi-step "long-horizon" risks rather than just single-input filters.
+1.  **Adopt the Scorecard:** Finance and Tech leads should align on the four ROI metrics (Useful work, cost per task, dependability, return on compute).
+2.  **Audit Security:** Review how model weights and API keys are stored in light of recent industry disclosures.
+3.  **Evaluate Edge Use-Cases:** Determine if any cloud-based AI tasks can be moved to local edge hardware to reduce latency and cost.
 
 ## Technology Trends
-- **Agentic Workflows:** Moving from AI that "talks" to AI that "acts" across different software platforms.
-- **Model Routing:** The rise of "orchestrator" models that manage a fleet of smaller, specialized models.
-- **World Models at the Edge:** AI that understands physics and spatial reasoning, moving out of the cloud and onto local hardware.
-- **Formalized ROI:** The transition of AI from an experimental phase to a strictly managed business utility.
+
+*   **From Chatbots to Agents:** The focus has shifted from "talking to AI" to "AI doing work" (Agentic workflows).
+*   **Reverse Federalism:** A strategic push for national AI standards to avoid fragmented state-by-state regulation.
+*   **Local AI (The Edge):** A growing trend toward running models locally on high-end hardware rather than relying solely on the cloud.
+*   **Model Routing:** The rise of "orchestrator" layers that manage multiple models to balance performance and cost.
 
 ## Terminology
-- **Long-horizon Models:** AI models capable of planning and executing tasks that involve many sequential steps over a long period.
-- **Model Routing:** An architectural setup where a "router" AI sends a user request to the most appropriate (and cost-effective) model.
-- **Edge AI:** Running AI algorithms locally on a device (like a robot or phone) rather than in a distant cloud data center.
-- **Agentic Workflow:** A process where an AI "agent" is given a goal and independently determines the steps, tools, and actions needed to achieve it.
-- **Reverse Federalism:** A policy concept where state-level regulations serve as the laboratory for developing future national laws.
-- **World Models:** AI trained to understand and predict the physical laws of the world (e.g., how objects move or interact in 3D space).
+
+*   **Long-horizon models:** AI that can perform long sequences of reasoning steps before giving an answer, rather than just predicting the next word immediately.
+*   **Agentic workflows:** AI systems designed to perform a series of actions autonomously to achieve a goal (e.g., booking a flight or resolving a customer refund).
+*   **Edge AI:** Running AI models on local devices (like a laptop or a factory sensor) instead of a centralized cloud server.
+*   **Model Routing:** A system that analyzes an incoming request and decides which AI model is best suited to answer it (e.g., sending a math question to a reasoning model and a greeting to a tiny model).
+*   **Return on Compute:** A metric measuring the value or insight generated for every unit of processing power spent.
+*   **Reverse Federalism:** The concept of using state-level policy successes to inform and create a unified federal (national) law.
