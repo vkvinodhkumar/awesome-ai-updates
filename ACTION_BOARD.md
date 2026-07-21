@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-21 16:22:31
+Last Updated: 2026-07-21 18:12:42
 
-1. **Audit Agent Workflows:** Review any autonomous or multi-step AI processes for "long-horizon" safety risks.
-2. **Adopt the AI Scorecard:** Transition from measuring "tokens used" to "useful work completed" to assess department-level AI performance.
-3. **Cybersecurity Review:** In light of the Hugging Face disclosure, ensure that all internal AI model repositories and API keys are behind multi-factor authentication and strict access controls.
+1.  **Adopt the Scorecard:** Implement OpenAI’s ROI metrics to evaluate current AI pilot programs.
+2.  **Audit Security:** Review internal protocols for AI model hosting in light of recent industry breaches.
+3.  **Explore Agents:** Investigate "agentic workflows" (like Shippy or Cars24) for repetitive, multi-step customer service or administrative tasks.
