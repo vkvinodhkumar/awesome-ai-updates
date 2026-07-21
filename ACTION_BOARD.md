@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-20 23:49:56
+Last Updated: 2026-07-21 01:53:49
 
-1.  **Adopt the AI Scorecard:** Finance and IT departments should collaborate to implement OpenAI’s ROI metrics for all current AI pilots.
-2.  **Audit Agentic Workflows:** If deploying autonomous agents, ensure a "human-in-the-loop" or iterative safety check is in place for long-duration tasks.
-3.  **Evaluate Edge AI:** Investigate whether Cosmos 3 or similar edge models can reduce the company's reliance on expensive cloud inference for vision or simple reasoning tasks.
+1.  **Adopt the AI Scorecard:** Request that the IT and Finance departments collaborate to define our "Return on Compute" for all current AI pilots.
+2.  **Audit Agentic Security:** If the company is building "agents" (models that take actions), perform a specific safety audit on "long-horizon" failure points.
+3.  **Evaluate Edge Use-Cases:** Determine if any customer-facing AI features can be moved to the "Edge" to save on cloud costs and improve response times.
