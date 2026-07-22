@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-22 14:58:53
+Last Updated: 2026-07-22 16:20:23
 
-- **AI Agent:** An AI system that can take actions (like sending an email or booking a flight) rather than just generating text.
-- **Physical AI:** Artificial intelligence designed to inhabit and interact with the physical world, primarily in robotics.
-- **Simulation (Sim-to-Real):** A digital playground where a robot is trained millions of times so that it can perform correctly when placed in a real-world environment.
-- **Model Evaluation:** The process of testing an AI to see how smart or safe it is; a critical point where hackers might try to steal the model.
-- **Codex:** An AI model specifically designed to understand and write computer code.
+- **Codex:** An AI system by OpenAI that translates natural language into code.
+- **Physical AI:** AI designed to interact with the physical world, such as in robotics or autonomous vehicles.
+- **Agent:** An AI that can use tools, browse the web, and execute a series of tasks to achieve a goal with minimal human intervention.
+- **Simulation:** A virtual 3D environment that mimics physics, used to train AI without the risk or cost of real-world failure.
+- **Model Evaluation:** The process of testing an AI model’s performance, safety, and capabilities before it is released to the public.
