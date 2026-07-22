@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-22 20:08:20
+Last Updated: 2026-07-22 21:59:26
 
-- **AI Agent:** An AI system capable of autonomous action to achieve a specific goal, such as booking a flight or resolving a customer support ticket.
-- **Codex:** An OpenAI model specifically designed to understand and generate computer code.
-- **Physical AI:** The application of AI to physical hardware (robots), enabling machines to perceive, reason, and act in the physical world.
-- **Simulation (Sim-to-Real):** A process where an AI is trained in a virtual 3D environment before being transferred to a physical robot.
-- **Digital Twin:** A virtual representation of a physical object or system, used to simulate its behavior.
-- **Frontier AI:** The most advanced, large-scale AI models currently in existence.
+- **Agent:** An AI system that doesn't just answer questions but can plan and execute tasks (like booking a flight or updating a database).
+- **Physical AI:** AI that interacts with the physical world, primarily through robotics and sensors.
+- **Codex:** A specialized AI model designed to understand and write computer code.
+- **Simulation/Digital Twin:** A virtual environment used to train AI models (specifically robots) so they can learn from "experience" without breaking physical hardware.
+- **Frontier Models:** The most advanced, large-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
+- **Sim2Real:** The process of taking a model trained in a computer simulation and successfully deploying it into a physical robot.
