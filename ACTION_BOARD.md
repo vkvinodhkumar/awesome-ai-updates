@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-22 05:13:17
+Last Updated: 2026-07-22 08:12:10
 
-1. **Audit MLOps Security:** Immediately review internal model evaluation sandboxes and secrets-management protocols in light of the OpenAI/Hugging Face security disclosures.
-2. **Implement the AI Scorecard:** Task the finance and IT teams with pilot-testing the OpenAI AI Scorecard on current generative AI projects to establish concrete cost-per-task baselines.
-3. **Assess Agentic Workflows:** When building autonomous systems, mandate strict state-management protocols and safety guardrails to mitigate long-horizon alignment failures.
+1. **Audit Security Protocols:** Task the security engineering team to review internal ML evaluation sandboxes, container environments, and pipeline permissions in light of the Hugging Face/OpenAI disclosures.
+2. **Standardize AI ROI Metrics:** Adopt OpenAI's "AI Scorecard" methodology to evaluate the financial viability and return on compute of all active internal AI initiatives.
+3. **Establish Agent Guardrails:** Mandate that any development team building long-horizon or agentic workflows implement state-monitoring safety gates to handle drift and compound failures.

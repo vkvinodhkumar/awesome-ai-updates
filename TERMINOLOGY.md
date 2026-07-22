@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-22 05:13:17
+Last Updated: 2026-07-22 08:12:10
 
-- **Long-Horizon Models:** AI systems designed to execute highly complex, multi-step tasks autonomously over an extended period, rather than providing a single immediate response.
-- **Physical AI:** Artificial intelligence systems that interact directly with the physical world, such as robotics, self-driving cars, and smart industrial machinery.
-- **Sim-to-Real (Simulation-to-Real):** A training methodology where an AI model is trained entirely inside a virtual physics simulator before being transferred and deployed into a physical robot.
-- **Model Evaluation:** The process of testing an AI model's capabilities, accuracy, safety features, and vulnerabilities in a secure, isolated environment.
-- **Robotic Manipulation:** The branch of robotics dealing with how machine arms and hands physically interact with, grasp, and move objects.
-- **Return on Compute (ROC):** A financial and technical metric that measures the business value or task throughput generated in relation to the energy, hardware, and processing power expended to run the AI model.
+- **Long-Horizon Models:** AI models trained to perform highly complex, multi-step tasks that require planning, execution, and self-correction over extended periods (hours or days) without human intervention.
+- **Sim-to-Real:** A methodology where an AI or robotic model is trained inside a high-speed, virtual physics simulation before transferring the learned behaviors directly into physical hardware.
+- **Embodied AI (Physical AI):** AI systems that are physically integrated into the tangible world (such as robotic arms, drones, or autonomous vehicles) and interact directly with physical environments.
+- **Evaluation Sandbox:** A isolated, highly secure digital testing environment where newly built AI models can be run and analyzed safely without risk of altering or attacking host systems.
+- **AI Scorecard:** A modern financial framework designed to measure the return on investment of AI projects by evaluating metrics like cost-per-successful-task and return on compute resources.
