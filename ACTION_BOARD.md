@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-21 23:50:26
+Last Updated: 2026-07-22 01:52:41
 
-1. **Audit Security Protocols:** Review how AI models are evaluated and stored within the company to prevent "model weight" theft or evaluation breaches.
-2. **Adopt ROI Metrics:** Implement Sarah Friar’s "Return on Compute" metrics to measure the efficacy of current AI pilot programs.
-3. **Explore Agentic Workflows:** Begin pilot programs for "long-horizon" agents in controlled environments to automate multi-step administrative tasks.
+1. **Implement the AI Scorecard:** Evaluate current AI projects using OpenAI’s ROI metrics (cost per successful task) to prune low-value experiments.
+2. **Review Security Protocols:** Ensure that any third-party models or platforms used (like Hugging Face) are audited in light of recent security disclosures.
+3. **Explore "Sim-to-Real" for Operations:** If involved in manufacturing or logistics, monitor Nvidia's simulation advancements for potential digital twin implementations.
