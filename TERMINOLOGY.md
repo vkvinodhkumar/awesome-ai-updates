@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-23 17:11:20
+Last Updated: 2026-07-23 19:02:01
 
-*   **Enterprise Agent:** An AI system designed to perform specific tasks (like booking a flight or resolving a billing issue) rather than just generating text.
-*   **4-bit Inference:** A method of compressing an AI model so it uses less memory and runs faster by using "lower precision" numbers for its calculations.
-*   **Physical AI:** AI designed to control physical bodies, such as robots or autonomous vehicles.
-*   **Sim2Real:** The process of training an AI in a digital simulation and then successfully transferring that "knowledge" to a physical robot.
-*   **Diffusion Inference:** The process an AI uses to generate an image or video from a prompt (the "inference" step of a diffusion model).
-*   **Frontier AI:** The most advanced, large-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
+*   **AI Agent:** An AI system that can perform multi-step tasks autonomously to reach a goal, rather than just generating text.
+*   **4-bit Quantization:** A technique to shrink an AI model by reducing the precision of its numbers, making it run faster and use less memory.
+*   **Diffusion Inference:** The process by which an AI generates an image or video from a prompt.
+*   **Physical AI:** AI that interacts with the physical world, typically through robotics or sensors.
+*   **Simulation (Sim2Real):** Training an AI in a virtual world so it can perform tasks in the real world.
+*   **Codex:** An OpenAI model specifically designed to understand and generate computer code.
