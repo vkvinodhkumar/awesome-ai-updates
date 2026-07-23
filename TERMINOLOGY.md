@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-22 23:06:05
+Last Updated: 2026-07-23 02:00:13
 
-*   **AI Agent:** An AI system capable of taking independent actions to achieve a specific goal, rather than just generating text.
-*   **Codex:** An AI model designed specifically to help with computer programming and code generation.
-*   **Frontier AI:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
-*   **Physical AI:** AI that interacts with the physical world, typically through robotics or sensors.
-*   **Robot-Manipulation Data:** Records of how a robot moves its "hands" or tools to interact with objects; used to teach robots dexterity.
-*   **Simulation:** A virtual, physics-based environment where AI can practice tasks (like walking or picking up objects) without the risk of damaging real hardware.
+*   **Codex:** An AI model specifically fine-tuned for understanding and generating computer code.
+*   **Physical AI:** AI systems designed to interact with the physical world, such as robots or autonomous vehicles.
+*   **Frontier AI:** The most advanced, large-scale AI models that push the current limits of machine learning capabilities.
+*   **Agentic Platform:** A software framework that allows AI to not just answer questions, but to take actions (e.g., booking a flight, updating a database).
+*   **Simulation (Sim-to-Real):** A process where AI is trained in a virtual 3D environment to learn physical movements before being placed in a physical robot.
+*   **Robot-manipulation:** The ability of a robot to interact with and move objects in its environment.
