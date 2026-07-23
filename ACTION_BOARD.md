@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-23 22:57:08
+Last Updated: 2026-07-23 23:57:02
 
-1.  **Audit Security:** Review internal protocols for sharing data with external AI hubs in light of recent breaches.
-2.  **Pilot Agents:** Evaluate *OpenAI Presence* for replacing outdated customer service workflows.
-3.  **Data Strategy:** Ensure any health-related data utilization complies with HIPAA and other local privacy regulations before integration.
+1. **Audit Security:** Review internal AI model storage and third-party platform dependencies in light of recent breaches.
+2. **Evaluate Agent Platforms:** Conduct a pilot for OpenAI Presence to identify which customer-facing workflows can be safely automated.
+3. **Explore Quantization:** For teams running local image generation, investigate Nunchaku 4-bit inference to reduce hardware overhead.
