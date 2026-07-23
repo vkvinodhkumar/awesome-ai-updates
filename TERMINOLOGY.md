@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-23 21:58:40
+Last Updated: 2026-07-23 22:57:08
 
-- **4-bit Diffusion Inference:** A method of running image-generating AI using less memory by compressing the mathematical values the model uses.
-- **Physical AI (Embodied AI):** AI systems that interact with the physical world, such as robots or autonomous vehicles.
-- **Diffusion Models:** A type of AI used primarily for generating images or video by "denoising" random data into a clear picture.
-- **Codex:** OpenAI’s model specifically trained for programming and code generation.
-- **Teleoperation Data:** Records of a human controlling a robot, used to teach the AI how to replicate those movements.
-- **Simulation (Digital Twin):** A virtual 3D environment used to train AI models without the risk of damaging physical hardware.
+*   **4-bit Quantization:** A method of compressing an AI model by reducing the precision of its numbers, making it run faster and use less memory.
+*   **Physical AI:** AI designed specifically to interact with the physical world (robotics, autonomous vehicles).
+*   **Diffusion Inference:** The process an AI uses to generate an image from a text prompt.
+*   **Agent:** An AI system capable of independently carrying out a multi-step task or workflow.
+*   **Sim-to-Real:** The process of training an AI in a digital simulation and then transferring that knowledge to a physical robot.
+*   **PHI (Personal Health Information):** Any information about health status, provision of health care, or payment for health care that can be linked to a specific individual.
