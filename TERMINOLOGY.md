@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-24 18:13:15
+Last Updated: 2026-07-24 20:12:41
 
-- **4-bit Quantization:** A process of compressing an AI model by reducing the precision of its numbers. This makes the model smaller and faster without losing much accuracy.
-- **Diffusion Inference:** The process an AI uses to generate an image or video from noise; "Nunchaku" makes this specific process much faster.
-- **Physical AI:** Artificial intelligence designed to interact with the physical world, such as robot arms or self-driving cars.
-- **Agentic AI (Agents):** AI systems that don't just talk, but can perform tasks (like booking a flight or updating a database) autonomously.
-- **Frontier AI:** The most advanced, state-of-the-art AI models that are currently being developed (e.g., GPT-4o).
-- **Codex:** An AI model specifically trained to understand and generate computer code.
+- **AI Agent:** An AI system that doesn't just talk, but can take actions (like booking a flight or updating a database) to achieve a goal.
+- **4-bit Quantization:** A technique to "shrink" an AI model so it uses less memory and runs faster without losing much quality.
+- **Physical AI:** AI that is designed to interact with the real world, such as in robotics or self-driving cars.
+- **Diffusion Inference:** The process of an AI model creating an image from a text prompt.
+- **Frontier Models:** The most advanced, high-performing AI models currently in existence (e.g., GPT-4o, Claude 3.5).
+- **Sim-to-Real:** Training an AI in a computer simulation and then transferring that knowledge into a physical robot.
