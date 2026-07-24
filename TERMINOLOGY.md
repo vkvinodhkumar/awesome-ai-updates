@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-24 21:58:02
+Last Updated: 2026-07-24 23:00:12
 
-- **Agent:** An AI system that doesn't just talk, but can perform tasks (like booking a flight or updating a database) autonomously.
-- **Diffusion Inference:** The process an AI uses to turn a text prompt into an image; "inference" is the act of the AI "thinking" or generating a result.
-- **4-bit Quantization:** A technique to "shrink" an AI model so it takes up less memory and runs faster without losing much quality.
-- **Sim2Real:** The process of training an AI in a computer simulation and then successfully transferring that knowledge to a physical robot.
-- **Frontier AI:** A term used to describe the most advanced, high-performing AI models currently in existence.
-- **Supply Chain Security (in AI):** Protecting the platforms (like Hugging Face) where AI models are stored and shared to prevent hackers from "poisoning" the models.
+*   **Codex:** An AI model specifically designed to understand and generate computer code.
+*   **Agentic AI (Agents):** AI systems that can independently use tools and software to complete multi-step goals, rather than just responding to prompts.
+*   **4-bit Quantization:** A technique to shrink the size of an AI model by reducing the precision of its numbers, making it faster and able to run on less powerful hardware.
+*   **Diffusion Inference:** The process by which an AI generates an image from a text prompt.
+*   **Physical AI:** AI that is integrated into a physical body (like a robot) to interact with the real world.
+*   **Sim-to-Real:** The process of training an AI in a computer simulation and then successfully transferring that knowledge to a physical robot.
+*   **Digital Twin:** A precise virtual copy of a physical object or environment used for testing and simulation.
