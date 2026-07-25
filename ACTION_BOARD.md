@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-25 10:22:26
+Last Updated: 2026-07-25 11:58:20
 
-1.  **Evaluate OpenAI Presence:** Conduct a pilot for customer-facing voice agents to reduce overhead.
-2.  **Audit AI Supply Chain:** Ensure all models pulled from repositories (like Hugging Face) are scanned and verified following the recent security disclosure.
-3.  **Explore Science Partnerships:** For firms in R&D, look into DOE-style collaborative models to use AI for material and process discovery.
+1.  **Review Agent Strategy:** Evaluate how OpenAI Presence or similar agentic platforms can be piloted for internal customer support or workflow automation.
+2.  **Audit Data Security:** In light of the recent security disclosures, perform a vendor risk assessment on all third-party AI platforms (Hugging Face, OpenAI) used by the organization.
+3.  **Explore Scientific AI:** For R&D departments, investigate partnerships or tools that leverage DOE-style frontier models for specialized research.
