@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-25 13:24:34
+Last Updated: 2026-07-25 14:56:00
 
-*   **Agents:** AI systems that can independently take actions to achieve a goal, rather than just generating text.
-*   **Codex:** An OpenAI model specifically designed to understand and generate computer code.
-*   **4-bit Quantization:** A method of compressing an AI model so it takes up less memory and runs faster by using less precise numbers for its calculations.
-*   **Inference:** The process of an AI model actually running and providing an answer or generating an image after it has already been trained.
-*   **Sim-to-Real:** The process of training an AI in a virtual simulation and then successfully transferring that knowledge to a physical robot.
-*   **Physical AI:** AI that is designed to interact with the real world, such as in robotics or autonomous vehicles.
-*   **Diffusion:** A type of AI architecture used primarily for creating images and videos from text descriptions.
+- **Agent (AI Agent)**: An AI system designed to act autonomously, make decisions, and execute multi-step workflows to achieve a specific goal, rather than just generating static text responses.
+- **Frontier AI**: Highly advanced, state-of-the-art AI models that push the limits of current capabilities, often requiring massive computing power to train.
+- **Diffusion Inference**: The process of running a trained diffusion model (such as those used in image or video generators like Stable Diffusion) to create new media from a text prompt.
+- **4-bit Quantization (Nunchaku)**: A process of compressing an AI model's numerical weights down to 4 bits of precision. This significantly reduces the memory space and compute power required to run the model while preserving most of its performance.
+- **Physical AI**: AI systems designed to perceive, navigate, and physically interact with the real world, such as self-driving cars, humanoid robots, and industrial automation.
+- **Imitation Learning**: A method of training robotic AI agents by feeding them data recorded from human demonstrations, essentially teaching the machine to mimic human physical movements.
