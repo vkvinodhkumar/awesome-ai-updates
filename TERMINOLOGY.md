@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-25 06:17:33
+Last Updated: 2026-07-25 08:55:51
 
-*   **Codex:** A specialized AI model designed to understand and generate computer code.
-*   **Frontier AI:** The most advanced, large-scale AI models that push the boundaries of current technology.
-*   **4-bit Quantization:** A process of reducing the precision of a model’s numbers to 4 bits to make it run faster and use less memory.
-*   **Diffusion Inference:** The process of a generative AI model creating an image or video from a prompt.
-*   **Physical AI (Embodied AI):** AI systems that have a physical body (like a robot) and interact with the physical environment.
-*   **Sim-to-Real:** The challenge and process of taking an AI trained in a computer simulation and making it work in the real, physical world.
-*   **Agents:** AI systems that can independently perform tasks, use tools, and make decisions to achieve a specific goal.
+*   **4-bit Diffusion Inference:** A way to compress AI image-generation models so they take up less memory and run faster.
+*   **Physical AI:** AI designed to interact with the real world (e.g., robots, self-driving cars).
+*   **Codex:** An OpenAI model specifically designed to understand and write computer code.
+*   **Sim-to-Real:** The process of training an AI in a computer simulation and then successfully transferring that knowledge to a physical robot.
+*   **Quantization:** The process of reducing the precision of the numbers an AI uses to think, making the model smaller and faster.
+*   **Teleoperation:** Remote control of a machine or robot by a human, often used to "teach" the AI how to move.
+*   **Frontier AI:** The most advanced, high-scale AI models that are at the leading edge of current capabilities.
