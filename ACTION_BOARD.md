@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-25 11:58:20
+Last Updated: 2026-07-25 13:24:34
 
-1.  **Review Agent Strategy:** Evaluate how OpenAI Presence or similar agentic platforms can be piloted for internal customer support or workflow automation.
-2.  **Audit Data Security:** In light of the recent security disclosures, perform a vendor risk assessment on all third-party AI platforms (Hugging Face, OpenAI) used by the organization.
-3.  **Explore Scientific AI:** For R&D departments, investigate partnerships or tools that leverage DOE-style frontier models for specialized research.
+1.  **Security Audit:** Review internal protocols for any data currently hosted on third-party model repositories.
+2.  **Pilot Presence:** Evaluate OpenAI Presence for a "low-stakes" internal workflow to test agentic reliability.
+3.  **Efficiency Check:** Task technical teams with exploring 4-bit quantization (Nunchaku) to reduce cloud inference costs.
