@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-25 08:55:51
+Last Updated: 2026-07-25 10:22:26
 
-*   **4-bit Diffusion Inference:** A way to compress AI image-generation models so they take up less memory and run faster.
-*   **Physical AI:** AI designed to interact with the real world (e.g., robots, self-driving cars).
-*   **Codex:** An OpenAI model specifically designed to understand and write computer code.
-*   **Sim-to-Real:** The process of training an AI in a computer simulation and then successfully transferring that knowledge to a physical robot.
-*   **Quantization:** The process of reducing the precision of the numbers an AI uses to think, making the model smaller and faster.
-*   **Teleoperation:** Remote control of a machine or robot by a human, often used to "teach" the AI how to move.
-*   **Frontier AI:** The most advanced, high-scale AI models that are at the leading edge of current capabilities.
+*   **4-bit Diffusion Inference:** A method of compressing image-generating AI models so they take up less space and run faster without losing much quality.
+*   **Physical AI:** AI that interacts with the real, physical world, such as robots or autonomous vehicles.
+*   **AI Agent:** An AI that can use tools and take actions to complete a goal, rather than just generating text.
+*   **Quantization:** The process of reducing the precision of the numbers in an AI model to make it smaller and faster.
+*   **Digital Twin:** A virtual copy of a physical object or environment used for testing and simulation.
