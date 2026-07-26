@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-26 01:59:05
+Last Updated: 2026-07-26 05:34:21
 
-1.  **Pilot OpenAI Presence:** Explore a pilot for internal help-desk or customer-facing voice support.
-2.  **Audit Data Security:** If utilizing open-source models from platforms like Hugging Face, review internal protocols for model validation following recent security disclosures.
-3.  **Evaluate Health Data Policies:** For organizations in the health space, monitor the ChatGPT health integration to determine if a corporate-level API integration is safer than consumer-level use.
+1.  **Audit AI Security:** Review dependencies on third-party platforms like Hugging Face following the security disclosure.
+2.  **Pilot Agentic Workflows:** Evaluate "OpenAI Presence" for specific internal use cases where chat-based AI currently falls short of "doing" the work.
+3.  **Evaluate Edge Deployment:** Investigate 4-bit quantization (Nunchaku) to see if media generation tasks can be moved from expensive cloud GPUs to local hardware.
