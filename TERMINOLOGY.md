@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-26 20:11:21
+Last Updated: 2026-07-26 21:52:10
 
-- **Physical AI:** AI designed to interact with the physical world, such as robots or autonomous vehicles.
-- **Quantization (4-bit):** A method of compressing an AI model by reducing the precision of its numbers. This makes the model smaller and faster with minimal loss in quality.
-- **Diffusion Models:** A type of AI used primarily for generating images or video by starting with "noise" and gradually refining it into a clear picture.
-- **Enterprise Agent:** An AI programmed to perform specific tasks (like booking a meeting or resolving a ticket) rather than just having a conversation.
-- **Sim-to-Real:** The process of training an AI in a computer simulation and then transferring that knowledge to a physical robot.
-- **Codex:** An OpenAI model specifically designed to understand and generate computer code.
+- **AI Agent:** An AI system capable of independently performing tasks or workflows across different software tools, rather than just generating text.
+- **4-bit Quantization:** A technique to compress an AI model so it uses less memory and runs faster without a significant loss in intelligence.
+- **Diffusion Inference:** The process of using a pre-trained model to generate images or media.
+- **Physical AI:** AI integrated into hardware (like robots) that interacts with the real, physical world.
+- **Simulation (Sim-to-Real):** Training an AI in a virtual world so it can perform tasks in the real world more safely and quickly.
+- **Codex:** A specific AI model or toolset optimized for writing and understanding computer code.
+- **Presence:** OpenAI's specific brand for its agent-hosting platform.
