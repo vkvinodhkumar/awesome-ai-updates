@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-26 14:57:49
+Last Updated: 2026-07-26 15:59:55
 
-- **AI Agent:** An AI system capable of taking independent actions to achieve a goal (e.g., booking a flight or resolving a customer ticket), rather than just answering a question.
-- **4-bit Diffusion Inference:** A technique to compress AI image generators so they use less memory and run faster without significantly losing quality.
-- **Physical AI:** AI that interacts with the real, physical world, primarily used in the context of robotics.
-- **Sim-to-Real:** The process of training an AI in a computer simulation and then successfully transferring that knowledge to a physical robot.
-- **Quantization:** The process of reducing the precision of the numbers an AI uses to think, which makes the model smaller and faster.
+- **4-bit Quantization:** A method of compressing an AI model by reducing the precision of its internal numbers, making it run faster on smaller computers.
+- **Codex:** An AI model specifically designed to understand and write computer code.
+- **Diffusion Model:** A type of AI used primarily for generating images by starting with random noise and "refining" it into a picture.
+- **Physical AI:** AI that interacts with the real world, such as the software that controls robots or self-driving cars.
+- **Teleoperation:** Manually controlling a robot (often via a VR headset or controller) to record data so the AI can learn from a human’s movements.
