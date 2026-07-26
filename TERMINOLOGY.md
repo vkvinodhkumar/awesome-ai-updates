@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-26 11:56:46
+Last Updated: 2026-07-26 13:07:01
 
-- **Quantization:** A process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model run faster and use less memory.
-- **Diffusion Model:** A type of AI used primarily for generating images (like DALL-E or Midjourney).
-- **Physical AI:** AI designed to interact with the real world, such as the software "brains" inside robots.
-- **Sim-to-Real:** The challenge of taking a robot trained in a computer simulation and making it work perfectly in the physical world.
-- **Codex:** An OpenAI model specifically designed to understand and generate computer code.
-- **Frontier AI:** The most advanced, high-scale AI models currently in existence.
-- **Inference:** The process of an AI model actually running and providing an answer or output.
+- **4-bit Quantization:** A process of compressing an AI model by reducing the precision of its numbers. This makes the model smaller and faster, similar to lowering the resolution of a video to make it stream better.
+- **Diffusion Inference:** The process where an AI model "draws" an image or video from noise. "Inference" simply means the AI is running its program to produce a result.
+- **Physical AI:** AI that interacts with the real, physical world (e.g., robots, self-driving cars) rather than just existing on a screen.
+- **Agents:** AI programs that can take actions on their own—like booking a flight or answering a customer complaint—rather than just writing text.
+- **Simulation (Sim2Real):** Training an AI in a "video game" version of the real world so it can learn faster and safer before being put into a physical robot.
