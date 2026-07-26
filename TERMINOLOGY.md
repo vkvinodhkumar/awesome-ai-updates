@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-07-26 13:07:01
+Last Updated: 2026-07-26 14:57:49
 
-- **4-bit Quantization:** A process of compressing an AI model by reducing the precision of its numbers. This makes the model smaller and faster, similar to lowering the resolution of a video to make it stream better.
-- **Diffusion Inference:** The process where an AI model "draws" an image or video from noise. "Inference" simply means the AI is running its program to produce a result.
-- **Physical AI:** AI that interacts with the real, physical world (e.g., robots, self-driving cars) rather than just existing on a screen.
-- **Agents:** AI programs that can take actions on their own—like booking a flight or answering a customer complaint—rather than just writing text.
-- **Simulation (Sim2Real):** Training an AI in a "video game" version of the real world so it can learn faster and safer before being put into a physical robot.
+- **AI Agent:** An AI system capable of taking independent actions to achieve a goal (e.g., booking a flight or resolving a customer ticket), rather than just answering a question.
+- **4-bit Diffusion Inference:** A technique to compress AI image generators so they use less memory and run faster without significantly losing quality.
+- **Physical AI:** AI that interacts with the real, physical world, primarily used in the context of robotics.
+- **Sim-to-Real:** The process of training an AI in a computer simulation and then successfully transferring that knowledge to a physical robot.
+- **Quantization:** The process of reducing the precision of the numbers an AI uses to think, which makes the model smaller and faster.
