@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-27 21:58:09
+Last Updated: 2026-07-27 23:00:46
 
-1.  **Security Audit:** Immediately review all Hugging Face tokens and API secrets used in internal development.
-2.  **Job Redefinition:** HR should begin a pilot program to identify "expanded roles" where AI can allow employees to take on cross-functional tasks.
-3.  **Efficiency Upgrade:** Task the engineering team to evaluate 4-bit quantization (Nunchaku) for internal generative models to reduce latency.
-4.  **Data Policy Review:** Before exploring AI-health integrations, perform a comprehensive legal and ethical review of health data handling.
+1. **Initiate an AI Supply Chain Audit:** Instruct the IT/Security team to review all dependencies on open-source repositories (specifically Hugging Face spaces and tokens) in light of the July 2026 security disclosure.
+2. **Review Workplace Generative AI Policies:** Assess internal training programs. Pivot from training employees on simple task automation to training them on cross-functional capability expansion.
+3. **Explore Edge Deployment via Quantization:** For in-house media or design departments using diffusion models, evaluate migrating pipelines to Nunchaku-optimized 4-bit inference to reduce hardware overhead.
