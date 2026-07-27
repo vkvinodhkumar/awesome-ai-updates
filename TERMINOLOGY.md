@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-27 18:19:17
+Last Updated: 2026-07-27 20:15:40
 
-- **4-bit Quantization:** A technique to compress AI models by reducing the precision of the numbers they use, making them run faster and use less memory.
-- **Diffusion Inference:** The process by which an AI model generates an image from a text prompt.
-- **Codex:** A specialized AI model or system designed specifically to understand and write computer code.
-- **Generative Simulation:** Using AI to create realistic virtual environments that change and react in real-time, used for training robots.
-- **Frontier AI:** The most advanced, high-scale AI models currently in existence.
-- **Inference:** The stage where a trained AI model actually performs its task (e.g., answering a question or generating an image).
+*   **4-bit Quantization:** A process of reducing the precision of a model's numbers to make the AI file smaller and faster to run, similar to compressing a high-resolution video so it can play on a phone.
+*   **Diffusion Model:** A type of AI used primarily for generating images or video by starting with "noise" and gradually refining it into a clear picture.
+*   **Frontier AI:** The most advanced, large-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
+*   **Sim-to-Real:** The process of training an AI in a digital simulation and then successfully applying that knowledge to a physical robot in the real world.
+*   **Data Flywheel:** A virtuous cycle where more data leads to better models, which attracts more users, who in turn generate even more data.
+*   **Inference:** The phase where a trained AI model is actually used to make a prediction or generate content (as opposed to the "training" phase).
