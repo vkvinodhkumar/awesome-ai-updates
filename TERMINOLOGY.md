@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-26 23:53:58
+Last Updated: 2026-07-27 02:06:59
 
-*   **Codex:** An AI model designed specifically to understand and generate computer code.
-*   **4-bit Quantization:** A technique to compress an AI model by reducing the precision of its numbers, making it run faster on less powerful computers.
-*   **Diffusion Model:** A type of AI used primarily for generating images or video (e.g., DALL-E).
-*   **Physical AI:** AI that interacts with the real world, such as robotics or self-driving cars.
-*   **Digital Twin:** A virtual copy of a physical object or environment used for testing and training AI.
-*   **Teleoperation:** A method where a human remotely controls a robot, often used to gather data to teach the robot how to move.
-*   **HIPAA:** A U.S. law that sets the standard for protecting sensitive patient health information.
+- **Agent:** An AI system capable of taking independent actions to achieve a goal (e.g., booking a flight or resolving a customer complaint) rather than just generating text.
+- **4-bit Quantization:** A method of shrinking an AI model by reducing the precision of its numbers. This makes the model smaller and faster with minimal loss in quality.
+- **Diffusion Inference:** The process of using a trained AI model to generate an image from a text prompt.
+- **Physical AI:** AI designed to perceive, reason about, and interact with the physical world (commonly used in robotics).
+- **Sim2Real (Simulation to Reality):** The process of training an AI in a virtual world and then transferring its "knowledge" to a physical robot.
+- **Codex:** An OpenAI model specifically designed to understand and generate computer code.
