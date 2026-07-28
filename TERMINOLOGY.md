@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-28 16:00:01
+Last Updated: 2026-07-28 17:38:43
 
-*   **Inference:** The process of an AI model "thinking" and generating an answer after it has already been trained.
-*   **Long-Context:** The ability of an AI to remember and process a large amount of information (like a whole book) in a single session.
-*   **4-bit Quantization:** A method of shrinking an AI model’s size by reducing the precision of its numbers, making it faster and smaller.
-*   **Diffusion:** A type of AI model primarily used for generating images or videos.
-*   **Codex:** A specialized AI model designed to understand and write computer code.
-*   **Generative Simulation:** Using AI to create realistic, "fake" digital worlds to train robots or test software.
+*   **Agentic AI:** AI systems designed to take independent actions and complete multi-step goals, rather than just responding to single prompts.
+*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a whole book or a massive codebase) in a single session.
+*   **Quantization (e.g., 4-bit):** A process of compressing an AI model by reducing the precision of its numbers, making it run faster and use less memory.
+*   **Diffusion Models:** A type of AI used primarily for generating images or videos by "denoising" data.
+*   **Geospatial Inference:** Using AI to extract meaningful patterns and predictions from geographic data like maps and satellite imagery.
+*   **Codex:** A specialized AI model trained to understand and generate computer code.
+*   **Sim2Real:** A methodology where an AI is trained in a virtual simulation before being deployed into a physical robot in the real world.
