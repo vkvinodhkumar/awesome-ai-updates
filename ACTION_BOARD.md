@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-07-28 09:33:46
+Last Updated: 2026-07-28 11:51:49
 
-1. **Audit Third-Party AI Dependencies:** Following the Hugging Face breach, review which models your organization uses and ensure they are scanned for vulnerabilities.
-2. **Review Health Data Policies:** If your organization handles employee or customer health data, establish clear guidelines on the use of LLM-based health tools.
-3. **Internal Skill Mapping:** Identify "multi-hyphenate" workers who are already using AI to expand their roles and formalize these new workflows.
+1. **Audit Open-Source Dependencies:** In light of the Hugging Face security disclosure, the security team must conduct an immediate credential and token audit across all active AI developer environments.
+2. **Review Internal Job Descriptions:** Leverage OpenAI's workplace research to update job definitions, recognizing and encouraging cross-functional AI usage among employees.
+3. **Explore Edge AI Deployments:** Task the IT division with benchmarking 4-bit quantized diffusion models to determine if media/design operations can be run locally, saving on API costs.
+4. **Enforce Strict Health Data Guardrails:** If exploring any health, wellness, or highly sensitive customer telemetry, ensure zero-trust compliance frameworks and separate user-consent protocols are established.
