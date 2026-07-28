@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-27 23:00:46
+Last Updated: 2026-07-28 00:06:29
 
-1. **Initiate an AI Supply Chain Audit:** Instruct the IT/Security team to review all dependencies on open-source repositories (specifically Hugging Face spaces and tokens) in light of the July 2026 security disclosure.
-2. **Review Workplace Generative AI Policies:** Assess internal training programs. Pivot from training employees on simple task automation to training them on cross-functional capability expansion.
-3. **Explore Edge Deployment via Quantization:** For in-house media or design departments using diffusion models, evaluate migrating pipelines to Nunchaku-optimized 4-bit inference to reduce hardware overhead.
+1.  **Audit AI Permissions:** In light of the security disclosure, review internal access controls for all AI model hosting platforms.
+2.  **Define AI Health Policy:** If your organization handles employee or customer health data, evaluate the implications of AI integration tools.
+3.  **Invest in Robotics Data:** For industrial sectors, explore open-source tools like Grabette to begin building proprietary manipulation datasets.

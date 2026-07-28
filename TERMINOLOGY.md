@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-27 23:00:46
+Last Updated: 2026-07-28 00:06:29
 
-- **Codex:** An AI system developed by OpenAI that translates natural language into software code, powering tools like GitHub Copilot.
-- **EHR (Electronic Health Records):** Digital versions of a patient’s paper charts, containing real-time, patient-centered records that can be shared securely across different healthcare settings.
-- **Quantization (4-bit):** A model compression technique that reduces the numerical precision of an AI model's weights (often from 16-bit decimals to 4-bit integers), making the model run faster and use significantly less memory with minimal accuracy loss.
-- **Diffusion Model:** A class of generative deep learning models designed to generate media (like images or video) by slowly removing noise from a random starting point until a clear image is formed.
-- **Inference:** The process of running live data through a trained machine learning model to generate a prediction, output, or decision (as opposed to the "training" phase).
-- **Generative Simulation:** Simulated virtual environments created and updated dynamically by generative AI models, allowing robots or autonomous systems to train in realistic physics-based scenarios.
-- **Robot Manipulation Data:** Physical data tracking how hands, fingers, or robotic arms grip, twist, move, and interact with physical objects.
+*   **Frontier AI:** The most advanced, large-scale AI models that represent the current state-of-the-art capabilities.
+*   **Codex:** An AI model specifically designed to understand and generate computer code.
+*   **4-bit Quantization:** A process of reducing the precision of a model's numbers to make the file smaller and faster to run on standard computers.
+*   **Diffusion Inference:** The process an AI uses to turn "noise" into a clear image or video based on a prompt.
+*   **Generative Simulation:** Using AI to create realistic, interactive virtual environments used for training robots or testing systems.
+*   **Inference:** The phase where a trained AI model actually performs its task (e.g., answering a question or generating an image).
