@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-28 13:44:37
+Last Updated: 2026-07-28 16:00:01
 
-- **4-bit Quantization:** A process of compressing an AI model by reducing the precision of its numbers. This makes the model run much faster and use less memory with minimal loss in quality.
-- **Codex:** A model developed by OpenAI that translates natural language into code, used to help people build software.
-- **Diffusion Inference:** The process of an AI model "creating" an image or video from noise. "Inference" is the actual running of the model.
-- **EHR (Electronic Health Records):** Digital versions of a patient’s paper charts, now being integrated into AI for personalized health analysis.
-- **Generative Simulation:** Using AI to create a virtual, reactive environment (like a digital surgery room) for training purposes.
-- **Frontier AI:** The most advanced, high-scale AI models currently in existence, typically requiring massive computing power.
+*   **Inference:** The process of an AI model "thinking" and generating an answer after it has already been trained.
+*   **Long-Context:** The ability of an AI to remember and process a large amount of information (like a whole book) in a single session.
+*   **4-bit Quantization:** A method of shrinking an AI model’s size by reducing the precision of its numbers, making it faster and smaller.
+*   **Diffusion:** A type of AI model primarily used for generating images or videos.
+*   **Codex:** A specialized AI model designed to understand and write computer code.
+*   **Generative Simulation:** Using AI to create realistic, "fake" digital worlds to train robots or test software.
