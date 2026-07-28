@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-28 19:11:05
+Last Updated: 2026-07-28 21:00:50
 
-- **Agentic AI:** AI systems that can independently use tools, write code, and make decisions to complete a multi-step goal.
-- **Long-Context Inference:** The ability of an AI to "read" and remember a massive amount of information (like a 500-page book) in a single session.
-- **4-bit Quantization:** A method of compressing an AI model so it takes up less memory and runs faster by using less precise numbers for its calculations.
-- **Geospatial Inference:** Using AI to identify patterns or objects (like buildings or deforestation) in map and satellite data.
-- **Diffusion Model:** A type of AI used primarily for creating images or videos from text descriptions.
-- **LFM (Liquid Foundation Model):** A type of AI architecture designed to be more efficient and adaptable than traditional models, especially for time-series or sequential data.
+*   **Agentic AI:** AI systems that don't just talk, but take actions (like writing code or moving files) to achieve a goal.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and satellite data.
+*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a 500-page book) in one go.
+*   **4-bit Quantization:** A method of "compressing" an AI model to make it run faster and use less memory without losing much intelligence.
+*   **Frontier Lab:** A term for the leading organizations (like OpenAI, Google DeepMind, etc.) that are building the most advanced "state-of-the-art" AI models.
+*   **Diffusion Inference:** The process of using a specific type of AI (Diffusion model) to generate an image or video based on a prompt.
