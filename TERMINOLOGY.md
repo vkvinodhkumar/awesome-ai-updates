@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-29 21:52:54
+Last Updated: 2026-07-29 22:53:42
 
-*   **Agentic Workflows:** AI systems that don't just talk, but take actions (e.g., writing code, moving files, or operating a robot) to achieve a goal.
-*   **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," where the model learns).
-*   **Long-Context Inference:** The ability of an AI to "read" and remember a very large document or dataset (e.g., a whole book) in one go.
-*   **4-bit Quantization:** A technique to "shrink" an AI model so it runs faster and uses less memory, similar to compressing a high-definition video.
-*   **Geospatial Inference:** Using AI to analyze map, satellite, and location-based data to find patterns or make predictions.
-*   **Frontier Lab Agent:** A high-end, autonomous AI system capable of complex reasoning and interacting with digital environments.
+*   **Agentic AI:** AI that can independently plan and execute multi-step tasks to achieve a goal, rather than just answering a single prompt.
+*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new input.
+*   **4-bit Quantization:** A compression technique that reduces the precision of an AI model's numbers to make it run faster and use less memory.
+*   **Long-Context:** The ability of an AI to "remember" and process a very large amount of information (like a whole book or a giant codebase) in a single session.
+*   **Diffusion Models:** A type of AI used primarily for generating images and videos by starting with "noise" and refining it into a clear picture.
+*   **Geospatial Inference:** Using AI to analyze and make sense of geographic data, such as maps, satellite imagery, and weather patterns.

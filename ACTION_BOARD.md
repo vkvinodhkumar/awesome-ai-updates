@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-29 21:52:54
+Last Updated: 2026-07-29 22:53:42
 
-1.  **Audit Agentic Use:** Identify where employees are using "agentic" tools and ensure they are behind a secure enterprise firewall.
-2.  **Pilot Coding Agents:** Task a small team with using AI coding agents to modernize one legacy software module.
-3.  **Evaluate Health Integrations:** If in the benefits/wellness space, monitor ChatGPT’s health features for potential employee wellness program integrations.
+1.  **Audit Agentic Security:** Review internal AI implementations for "agentic" permissions to prevent unauthorized system access.
+2.  **Evaluate GPT-5.6 ROI:** Assess current LLM costs and determine if moving to 5.6's efficient architecture reduces OpEx.
+3.  **Explore Hybrid Roles:** Update HR frameworks to account for the "role-blurring" effects of AI, encouraging cross-functional AI use.
