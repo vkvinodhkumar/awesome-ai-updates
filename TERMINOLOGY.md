@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-29 22:53:42
+Last Updated: 2026-07-29 23:55:14
 
-*   **Agentic AI:** AI that can independently plan and execute multi-step tasks to achieve a goal, rather than just answering a single prompt.
-*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new input.
-*   **4-bit Quantization:** A compression technique that reduces the precision of an AI model's numbers to make it run faster and use less memory.
-*   **Long-Context:** The ability of an AI to "remember" and process a very large amount of information (like a whole book or a giant codebase) in a single session.
-*   **Diffusion Models:** A type of AI used primarily for generating images and videos by starting with "noise" and refining it into a clear picture.
-*   **Geospatial Inference:** Using AI to analyze and make sense of geographic data, such as maps, satellite imagery, and weather patterns.
+*   **ARC-AGI-3:** A difficult benchmark designed to measure an AI's ability to solve novel reasoning problems it hasn't seen in its training data.
+*   **Retained Reasoning:** A setting that allows an AI to hold onto its "chain of thought" across multiple steps to ensure logical consistency.
+*   **Compaction:** A technique to compress information or data processing to make it more efficient without losing the core meaning.
+*   **Agentic Workflows:** Systems where the AI acts as an "agent" that can take multiple steps, use tools, and make decisions to complete a goal without constant human prompting.
+*   **4-bit Quantization:** A process of reducing the precision of an AI model's numbers to make it run much faster and use less memory (like turning a high-res photo into a smaller file that still looks good).
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic data, such as satellite imagery or maps.
+*   **Long-Context Inference:** The ability of an AI to "read" and understand very large amounts of data (like an entire book or a massive codebase) in one go.
