@@ -1,23 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-07-29 17:06:48
+Last Updated: 2026-07-29 19:00:24
 
-1. **Audit Security Protocols:** Review internal systems for "agent-based" vulnerabilities.
-2. **Evaluate CPU-based Inference:** Explore Liquid AI-style encoders to reduce cloud computing costs for long-context tasks.
-3. **Draft Privacy Frameworks:** If integrating sensitive user data (like health or financial records), establish "Privacy-by-Design" principles immediately.
+1.  **Audit Security Protocols:** Review defense-in-depth strategies specifically against "agentic" intrusions.
+2.  **Explore Efficiency Tools:** Evaluate the LFM2.5-Encoders for internal data processing to reduce GPU dependency.
+3.  **Health Data Policy:** If operating in the health sector, establish strict guardrails for LLM-based data interpretation.
 
 ## Technology Trends
-
-- **Democratization of Inference:** A shift toward making AI run on cheaper hardware (CPUs, 4-bit quantization).
-- **From Chat to Agents:** The focus is moving away from "talking" to AI and toward AI "doing" tasks autonomously (Scientific agents, surgical simulations).
-- **Geospatial Intelligence:** The use of AI to analyze the physical world at scale via satellite data is becoming a standardized platform.
+- **Agentic AI:** A shift from AI that "talks" to AI that "acts"—executing code, navigating systems, and solving multi-step problems autonomously.
+- **On-Device & CPU Optimization:** A trend toward "thin" AI that runs on cheaper, more accessible hardware (CPUs) rather than high-end NVIDIA GPUs.
+- **Planetary-Scale Inference:** Using AI to synthesize global satellite data for climate and economic modeling.
 
 ## Terminology
-
-- **Agentic AI:** AI that doesn't just answer questions but can autonomously use tools, write code, and execute multi-step tasks to achieve a goal.
-- **Long-Context Inference:** The ability of an AI to "remember" and process very large amounts of information (like a whole book or a massive dataset) in one go.
-- **Geospatial Inference:** Using AI to identify patterns and objects within geographic data, such as satellite maps or GPS coordinates.
-- **4-bit Diffusion:** A method of "compressing" AI image-generation models so they run faster and use less memory without losing much quality.
-- **LFM (Liquid Foundation Model):** A type of AI model designed to be more efficient at processing sequential data (like text or time-series) compared to traditional Transformers.
-- **Codex:** An AI model specifically trained to understand and generate computer code.
-- **HIPAA:** A US law (Health Insurance Portability and Accountability Act) that sets the standard for protecting sensitive patient data.
+- **Agentic AI:** AI systems that don't just respond to prompts but can autonomously perform tasks, use tools, and make decisions to reach a goal.
+- **Geospatial Inference:** Using AI to analyze and make predictions based on geographic data, such as maps or satellite imagery.
+- **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a 500-page book) in a single session.
+- **4-bit Quantization (Nunchaku):** A process of compressing an AI model to make it smaller and faster without significantly losing its intelligence.
+- **Digital Twin:** A virtual replica of a physical object or system (like a human organ or a robot) used for simulation and testing.
+- **Diffusion Models:** A type of AI used primarily for generating images or videos from text descriptions.
