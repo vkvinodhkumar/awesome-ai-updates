@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-07-29 20:15:09
+Last Updated: 2026-07-29 21:52:54
 
-- **Agentic AI:** AI systems that don't just answer questions but can take actions (like browsing the web, running code, or managing files) to complete a goal.
-- **Intelligence per Dollar:** A metric used to measure the efficiency of an AI model—how much "reasoning" or "output quality" a user gets for every dollar spent on compute.
-- **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a 500-page book) in a single session.
-- **Geospatial Inference:** Using AI to analyze data related to geographic locations, such as satellite imagery or GPS data.
-- **4-bit Diffusion:** A method of "compressing" image-generation AI models so they take up less space and run faster without losing significant quality.
-- **Digital Twin:** A virtual representation of a physical object or process (like a human body for surgery) used for simulation and testing.
+*   **Agentic Workflows:** AI systems that don't just talk, but take actions (e.g., writing code, moving files, or operating a robot) to achieve a goal.
+*   **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," where the model learns).
+*   **Long-Context Inference:** The ability of an AI to "read" and remember a very large document or dataset (e.g., a whole book) in one go.
+*   **4-bit Quantization:** A technique to "shrink" an AI model so it runs faster and uses less memory, similar to compressing a high-definition video.
+*   **Geospatial Inference:** Using AI to analyze map, satellite, and location-based data to find patterns or make predictions.
+*   **Frontier Lab Agent:** A high-end, autonomous AI system capable of complex reasoning and interacting with digital environments.

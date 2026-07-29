@@ -1,21 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-29 20:15:09
+Last Updated: 2026-07-29 21:52:54
 
-1. **Audit Agent Permissions:** Ensure any autonomous AI agents currently in use follow "least privilege" security protocols.
-2. **Review Health/Data Policies:** Evaluate the feasibility of integrating internal data with frontier models given the new personalized health/record features.
-3. **Invest in Efficiency:** Pivot AI procurement strategies to focus on "intelligence per dollar" rather than raw model size.
-
-## Technology Trends
-- **Agentic Workflows:** Moving away from single prompts toward multi-step, autonomous task execution.
-- **Geospatial AI:** Using AI to interpret planetary-scale satellite and sensor data for environmental and industrial use.
-- **Quantization & Efficiency:** Techniques like 4-bit diffusion and CPU-based inference are making "frontier" AI capable of running on cheaper, local hardware.
-
-## Terminology
-
-- **Agentic AI:** AI systems that don't just answer questions but can take actions (like browsing the web, running code, or managing files) to complete a goal.
-- **Intelligence per Dollar:** A metric used to measure the efficiency of an AI model—how much "reasoning" or "output quality" a user gets for every dollar spent on compute.
-- **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a 500-page book) in a single session.
-- **Geospatial Inference:** Using AI to analyze data related to geographic locations, such as satellite imagery or GPS data.
-- **4-bit Diffusion:** A method of "compressing" image-generation AI models so they take up less space and run faster without losing significant quality.
-- **Digital Twin:** A virtual representation of a physical object or process (like a human body for surgery) used for simulation and testing.
+1.  **Audit Agentic Use:** Identify where employees are using "agentic" tools and ensure they are behind a secure enterprise firewall.
+2.  **Pilot Coding Agents:** Task a small team with using AI coding agents to modernize one legacy software module.
+3.  **Evaluate Health Integrations:** If in the benefits/wellness space, monitor ChatGPT’s health features for potential employee wellness program integrations.
