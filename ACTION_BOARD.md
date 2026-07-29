@@ -1,20 +1,21 @@
 # AI Action Board
 
-Last Updated: 2026-07-29 19:00:24
+Last Updated: 2026-07-29 20:15:09
 
-1.  **Audit Security Protocols:** Review defense-in-depth strategies specifically against "agentic" intrusions.
-2.  **Explore Efficiency Tools:** Evaluate the LFM2.5-Encoders for internal data processing to reduce GPU dependency.
-3.  **Health Data Policy:** If operating in the health sector, establish strict guardrails for LLM-based data interpretation.
+1. **Audit Agent Permissions:** Ensure any autonomous AI agents currently in use follow "least privilege" security protocols.
+2. **Review Health/Data Policies:** Evaluate the feasibility of integrating internal data with frontier models given the new personalized health/record features.
+3. **Invest in Efficiency:** Pivot AI procurement strategies to focus on "intelligence per dollar" rather than raw model size.
 
 ## Technology Trends
-- **Agentic AI:** A shift from AI that "talks" to AI that "acts"—executing code, navigating systems, and solving multi-step problems autonomously.
-- **On-Device & CPU Optimization:** A trend toward "thin" AI that runs on cheaper, more accessible hardware (CPUs) rather than high-end NVIDIA GPUs.
-- **Planetary-Scale Inference:** Using AI to synthesize global satellite data for climate and economic modeling.
+- **Agentic Workflows:** Moving away from single prompts toward multi-step, autonomous task execution.
+- **Geospatial AI:** Using AI to interpret planetary-scale satellite and sensor data for environmental and industrial use.
+- **Quantization & Efficiency:** Techniques like 4-bit diffusion and CPU-based inference are making "frontier" AI capable of running on cheaper, local hardware.
 
 ## Terminology
-- **Agentic AI:** AI systems that don't just respond to prompts but can autonomously perform tasks, use tools, and make decisions to reach a goal.
-- **Geospatial Inference:** Using AI to analyze and make predictions based on geographic data, such as maps or satellite imagery.
+
+- **Agentic AI:** AI systems that don't just answer questions but can take actions (like browsing the web, running code, or managing files) to complete a goal.
+- **Intelligence per Dollar:** A metric used to measure the efficiency of an AI model—how much "reasoning" or "output quality" a user gets for every dollar spent on compute.
 - **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a 500-page book) in a single session.
-- **4-bit Quantization (Nunchaku):** A process of compressing an AI model to make it smaller and faster without significantly losing its intelligence.
-- **Digital Twin:** A virtual replica of a physical object or system (like a human organ or a robot) used for simulation and testing.
-- **Diffusion Models:** A type of AI used primarily for generating images or videos from text descriptions.
+- **Geospatial Inference:** Using AI to analyze data related to geographic locations, such as satellite imagery or GPS data.
+- **4-bit Diffusion:** A method of "compressing" image-generation AI models so they take up less space and run faster without losing significant quality.
+- **Digital Twin:** A virtual representation of a physical object or process (like a human body for surgery) used for simulation and testing.
