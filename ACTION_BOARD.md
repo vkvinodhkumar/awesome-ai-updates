@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-07-29 11:15:41
+Last Updated: 2026-07-29 13:49:53
 
-1.  **Pilot Agentic R&D:** Task the engineering team to evaluate AI coding agents for legacy code modernization.
-2.  **Health Data Assessment:** If applicable to your industry, review data governance policies before integrating personalized user data into AI models.
-3.  **Hardware Optimization:** Direct the IT department to explore 4-bit quantization and CPU-based inference to reduce cloud computing overhead.
+1.  **Audit Data Privacy:** If considering health or personal data integration, perform a rigorous security audit of AI data pipelines.
+2.  **Investigate Low-Cost Inference:** Explore LFM and 4-bit quantization to reduce cloud computing costs.
+3.  **Red-Team Agentic Systems:** Before deploying autonomous agents, simulate "intrusion" scenarios to identify vulnerabilities.
