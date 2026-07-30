@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-30 22:04:43
+Last Updated: 2026-07-30 23:55:46
 
-*   **GPT-5.6 (Luna/Terra):** The latest model tiers from OpenAI, optimized for different levels of cost and performance.
-*   **ARC-AGI-3:** A benchmark designed to measure an AI's ability to learn new tasks and reason, rather than just memorize data.
-*   **Compaction:** An API technique used to condense information or reasoning steps to make AI processing faster and cheaper.
-*   **Agentic AI:** AI systems that can independently complete multi-step tasks (e.g., writing code, then testing it, then deploying it).
-*   **Geospatial Inference:** Using AI to "understand" and make predictions based on satellite images and geographic data.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed to be more flexible and efficient, often capable of running on non-specialized hardware like CPUs.
-*   **Sim-to-Real:** The process of training an AI in a digital simulation before deploying it into a physical robot in the real world.
+*   **GPT-5.6 Luna/Terra:** Specialized, cost-efficient tiers of OpenAI's latest model.
+*   **ARC-AGI-3:** A benchmark designed to test an AI's ability to solve unfamiliar, complex reasoning puzzles.
+*   **Compaction:** A process in AI inference that compresses data or reasoning steps to save compute resources.
+*   **Agentic AI:** AI that doesn't just answer questions but can use tools and take actions to achieve a goal.
+*   **Geospatial Inference:** Using AI to "understand" and extract patterns from geographical and satellite data.
+*   **LFM (Liquid Foundation Model):** A type of AI model designed for continuous data processing, often more efficient than standard Transformers.
+*   **Agent Intrusion:** A security breach where an autonomous AI agent is the primary vector for entering a restricted system.
