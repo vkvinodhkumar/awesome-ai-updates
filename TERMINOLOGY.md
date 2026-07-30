@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-30 01:43:41
+Last Updated: 2026-07-30 04:51:02
 
-*   **ARC-AGI-3:** A difficult benchmark designed to measure an AI's ability to learn new tasks and reason, rather than just reciting trained data.
-*   **Compaction:** A setting that optimizes how an AI processes information to make it more efficient and less resource-heavy.
-*   **Agentic Workflow:** A system where an AI can take multiple steps, use tools, and make decisions autonomously to complete a goal.
-*   **Geospatial Inference:** Using AI to analyze and draw conclusions from geographic data, such as satellite imagery or maps.
-*   **4-bit Diffusion:** A method of compressing image-generating AI models so they take up less memory and run faster on smaller devices.
-*   **Frontier Lab:** A term often used to describe organizations (like OpenAI or Anthropic) that are developing the most advanced ("frontier") AI models.
-*   **Long-Context Inference:** The ability of an AI to read and "remember" a very large amount of information (like a whole book) in a single session.
+- **ARC-AGI-3:** A difficult test designed to measure an AI's ability to solve novel reasoning problems it hasn't seen before.
+- **Agentic AI:** AI systems that can independently plan, use tools, and execute tasks to achieve a high-level goal.
+- **Inference:** The process of a trained AI model actually running and providing an answer or output.
+- **Compaction:** A method of shrinking AI data or reasoning steps to make them more efficient and faster.
+- **Geospatial Inference:** Using AI to analyze and make predictions based on geographic data, like satellite photos.
+- **4-bit Diffusion:** A technique to make image-generating AI run on much smaller, cheaper computers by "rounding off" complex numbers.
+- **Long-Context:** The ability of an AI to "remember" and analyze very large documents or datasets in a single session.
