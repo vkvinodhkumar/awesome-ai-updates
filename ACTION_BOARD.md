@@ -1,23 +1,24 @@
 # AI Action Board
 
-Last Updated: 2026-07-30 17:17:10
+Last Updated: 2026-07-30 19:12:42
 
-1.  **Audit Compute Utilization:** Implement strict monitoring to ensure GPU clusters are not sitting idle.
-2.  **Optimize API Configurations:** Task technical teams with reviewing reasoning and compaction settings to maximize current model performance.
-3.  **Strengthen Agent Security:** Review permissions for any autonomous agents currently deployed within company networks to prevent unauthorized lateral movement.
+1.  **Cost Audit:** Evaluate current API spend to transition to GPT-5.6 Luna/Terra for high-volume workflows.
+2.  **Security Review:** Implement "Agent Monitoring" protocols to mitigate the risk of autonomous agent intrusion.
+3.  **Hardware Optimization:** Explore CPU-based inference for long-context tasks to reduce reliance on the GPU supply chain.
 
 ## Technology Trends
-*   **Intelligence per Dollar:** A new industry standard focusing on the economic efficiency of AI models.
-*   **Agentic Modernization:** The trend of using AI to update old, complex software architectures.
-*   **Real-time Generative Simulation:** Moving beyond static images to dynamic, real-world physics simulations for robotics.
-*   **Planetary Inference:** The application of AI to global-scale sensor and satellite data.
+
+*   **Intelligence Per Dollar:** A pivot from "biggest model" to "most efficient model."
+*   **Agentic Science:** The emergence of specialized AI agents that can manage entire scientific research pipelines.
+*   **Geospatial AI:** Integration of satellite data with LLM-style reasoning for global monitoring.
+*   **Context Compaction:** Techniques to squeeze more information into smaller token windows to save cost and time.
 
 ## Terminology
 
-*   **GPT-5.6 (Luna/Terra):** The latest iterations of OpenAI's models, optimized for different balance points of speed, cost, and intelligence.
-*   **ARC-AGI-3:** A benchmark designed to measure an AI's ability to solve novel problems it hasn't seen in its training data (Artificial General Intelligence progress).
-*   **Agentic Workflow:** A process where an AI "agent" can autonomously perform multi-step tasks without human intervention at every step.
-*   **Compaction:** A technique in AI APIs that compresses data or context to make processing faster and cheaper.
-*   **Geospatial Inference:** Using AI to analyze and draw conclusions from geographic and spatial data (e.g., satellite imagery).
-*   **Long-Context Inference:** The ability of an AI to "read" and remember very large amounts of information (like a whole book or a massive codebase) in a single session.
-*   **Frontier Lab Agent Intrusion:** A security event where an autonomous AI system is used—either through error or malice—to gain unauthorized access to a network.
+*   **GPT-5.6 Luna/Terra:** Specific versions of OpenAI’s latest model optimized for different tiers of price and performance.
+*   **ARC-AGI-3:** A benchmark designed to measure an AI's ability to solve novel problems it hasn't seen in its training data (a proxy for "General Intelligence").
+*   **Agentic Workflow:** A process where an AI "agent" takes multiple steps, uses tools, and self-corrects to achieve a goal, rather than just providing a single text response.
+*   **Context Compaction:** A method of shrinking data inputs so the AI can "remember" more information using less computational power.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and mapping data.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture (from LiquidAI) that is more flexible and efficient at handling sequential data than traditional transformers.
+*   **Reasoning Retention:** An API setting that allows a model to "keep its train of thought" across different parts of a complex task.

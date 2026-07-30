@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-30 17:17:10
+Last Updated: 2026-07-30 19:12:42
 
-*   **GPT-5.6 (Luna/Terra):** The latest iterations of OpenAI's models, optimized for different balance points of speed, cost, and intelligence.
-*   **ARC-AGI-3:** A benchmark designed to measure an AI's ability to solve novel problems it hasn't seen in its training data (Artificial General Intelligence progress).
-*   **Agentic Workflow:** A process where an AI "agent" can autonomously perform multi-step tasks without human intervention at every step.
-*   **Compaction:** A technique in AI APIs that compresses data or context to make processing faster and cheaper.
-*   **Geospatial Inference:** Using AI to analyze and draw conclusions from geographic and spatial data (e.g., satellite imagery).
-*   **Long-Context Inference:** The ability of an AI to "read" and remember very large amounts of information (like a whole book or a massive codebase) in a single session.
-*   **Frontier Lab Agent Intrusion:** A security event where an autonomous AI system is used—either through error or malice—to gain unauthorized access to a network.
+*   **GPT-5.6 Luna/Terra:** Specific versions of OpenAI’s latest model optimized for different tiers of price and performance.
+*   **ARC-AGI-3:** A benchmark designed to measure an AI's ability to solve novel problems it hasn't seen in its training data (a proxy for "General Intelligence").
+*   **Agentic Workflow:** A process where an AI "agent" takes multiple steps, uses tools, and self-corrects to achieve a goal, rather than just providing a single text response.
+*   **Context Compaction:** A method of shrinking data inputs so the AI can "remember" more information using less computational power.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and mapping data.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture (from LiquidAI) that is more flexible and efficient at handling sequential data than traditional transformers.
+*   **Reasoning Retention:** An API setting that allows a model to "keep its train of thought" across different parts of a complex task.
