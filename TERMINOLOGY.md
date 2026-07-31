@@ -1,13 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-07-31 05:57:54
+Last Updated: 2026-07-31 08:48:26
 
-- **GPT-5.6 (Luna & Terra):** The latest family of frontier models from OpenAI, optimized to deliver high intelligence with enhanced efficiency and lower deployment costs.
-- **ARC-AGI-3 (Abstraction and Reasoning Corpus):** A highly regarded benchmark designed to measure an AI's ability to solve completely new, unfamiliar reasoning tasks, serving as a primary yardstick for progress toward Artificial General Intelligence (AGI).
-- **Compaction:** A mathematical or token-saving optimization technique that condenses an AI's context window, allowing it to retain crucial information while using fewer computing resources.
-- **Reasoning Tokens:** Specialized internal processing steps used by advanced AI models to think through complex problems before presenting an answer, rather than generating the first response that comes to mind.
-- **GPT-Realtime:** An API protocol that enables low-latency, real-time voice and multimodal interactions between humans and AI models, minimizing conversational delays.
-- **Liquid Foundation Model (LFM):** A class of foundation models based on liquid neural networks, which adapt to new incoming data dynamically and process long contexts with high computational efficiency.
-- **Geospatial Inference:** The process of using AI to analyze physical-world geographic, environmental, and satellite data to extract actionable insights.
-- **Generative Simulation:** The use of generative AI to build highly realistic, interactive, and physically accurate digital environments (digital twins) for testing and training robotics.
-- **Agent Intrusion:** A cyberattack vector where autonomous software systems or external actors compromise, manipulate, or steal access to AI development pipelines or model parameters.
+- **Provenance Practices:** Methods used to track, verify, and document the origins, history, and ownership of data or AI-generated content to ensure copyright and ethical compliance.
+- **ARC-AGI-3 (Abstraction and Reasoning Corpus):** A highly rigorous benchmark designed to measure an AI's ability to learn new skills and adapt to unfamiliar, abstract tasks, serving as a primary yardstick for general intelligence progress.
+- **Compaction (Context Compaction):** An optimization technique that compresses the conversational context or tokens processed by a model, reducing memory usage and accelerating response times.
+- **Geospatial Inference:** The application of machine learning algorithms to planetary, satellite, or geographic data to recognize patterns, predict environmental changes, or track physical infrastructure.
+- **LFM (Liquid Foundation Models):** A type of AI architecture developed by Liquid AI that relies on continuous-time state-space formulations, offering a highly efficient, CPU-friendly alternative to standard Transformer models for processing long sequential data.
+- **Generative Simulation:** The process of using generative artificial intelligence to render hyper-realistic, dynamic virtual environments in real-time, typically used to train physical robots or autonomous vehicles.
+- **Agent Intrusion:** A cyber security breach executed autonomously or semi-autonomously by AI agents rather than human hackers, characterized by rapid adaptation and complex, multi-stage digital exploitation.
