@@ -1,11 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-07-31 02:01:51
+Last Updated: 2026-07-31 05:57:54
 
-- **GPT-5.6 (Luna/Terra):** The latest iteration of OpenAI models optimized for different tiers of price and performance.
-- **ARC-AGI-3:** A benchmark used to measure an AI's ability to solve novel reasoning problems it hasn't seen in training.
-- **Compaction:** An API setting that compresses data or prompts to increase efficiency without losing context.
-- **Geospatial Inference:** Using AI to interpret and make predictions based on satellite and geographic data.
-- **Long-Context Inference:** The ability of an AI to "remember" and process very large documents or datasets in a single session.
-- **Agent Intrusion:** A security breach specifically targeting the autonomous systems (agents) that have permission to act on a user's behalf.
-- **LFM (Liquid Foundation Model):** A type of AI architecture designed for continuous data processing and efficiency on various hardware.
+- **GPT-5.6 (Luna & Terra):** The latest family of frontier models from OpenAI, optimized to deliver high intelligence with enhanced efficiency and lower deployment costs.
+- **ARC-AGI-3 (Abstraction and Reasoning Corpus):** A highly regarded benchmark designed to measure an AI's ability to solve completely new, unfamiliar reasoning tasks, serving as a primary yardstick for progress toward Artificial General Intelligence (AGI).
+- **Compaction:** A mathematical or token-saving optimization technique that condenses an AI's context window, allowing it to retain crucial information while using fewer computing resources.
+- **Reasoning Tokens:** Specialized internal processing steps used by advanced AI models to think through complex problems before presenting an answer, rather than generating the first response that comes to mind.
+- **GPT-Realtime:** An API protocol that enables low-latency, real-time voice and multimodal interactions between humans and AI models, minimizing conversational delays.
+- **Liquid Foundation Model (LFM):** A class of foundation models based on liquid neural networks, which adapt to new incoming data dynamically and process long contexts with high computational efficiency.
+- **Geospatial Inference:** The process of using AI to analyze physical-world geographic, environmental, and satellite data to extract actionable insights.
+- **Generative Simulation:** The use of generative AI to build highly realistic, interactive, and physically accurate digital environments (digital twins) for testing and training robotics.
+- **Agent Intrusion:** A cyberattack vector where autonomous software systems or external actors compromise, manipulate, or steal access to AI development pipelines or model parameters.
