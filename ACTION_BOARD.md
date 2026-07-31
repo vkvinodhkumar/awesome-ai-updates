@@ -1,20 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-07-31 11:23:30
+Last Updated: 2026-07-31 13:45:09
 
-1.  **Audit Security:** Review the security protocols for any "agentic" or autonomous workflows currently in development.
-2.  **Evaluate Compute Efficiency:** Implement GPU management tools to minimize idle time and reduce cloud spend.
-3.  **Pilot Real-Time Voice:** Explore a pilot for GPT-Realtime in customer-facing roles, following the avatarin model.
+1.  **Audit Agentic Permissions:** Review any AI systems that have "write" access to company databases or codebases.
+2.  **Evaluate GPT-5.6:** Assess if the new price-performance tiers (Luna/Terra) make previously "too expensive" use cases now viable.
+3.  **Optimize Infrastructure:** Implement GPU management tools to ensure high utilization rates.
 
 ## Technology Trends
-*   **Reasoning-Over-Size:** A shift from simply making models "bigger" to making them "smarter" through reasoning settings and architectural efficiency.
-*   **Embodied Simulation:** Using generative AI to create training grounds for physical robots (Surgical, Retail, Geospatial).
-*   **Agentic Risk Management:** A new focus on the "cyber-hygiene" of autonomous AI agents.
+*   **Compaction and Efficiency:** The industry is moving away from "bigger is better" toward "smarter and leaner" models.
+*   **Real-Time Interaction:** Low-latency voice and video AI (GPT-Realtime, Cosmos) is moving from labs to the field.
+*   **Geospatial Intelligence:** AI is increasingly being used to interpret satellite and sensor data at a global scale.
 
 ## Terminology
-*   **EU AI Act:** A comprehensive set of rules by the European Union to regulate AI based on its potential risk to society.
-*   **GPT-Realtime:** An API that allows for near-instantaneous voice and text interaction, mimicking human conversation speeds.
-*   **ARC-AGI-3:** A difficult benchmark designed to test an AI’s ability to solve novel problems it hasn't seen in its training data (Artificial General Intelligence test).
-*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and satellite data.
-*   **LFM (Liquid Foundational Model):** A type of AI model designed to be more fluid and efficient in how it processes data over time compared to traditional models.
-*   **Agent Intrusion:** A security breach where an autonomous AI agent is hijacked or manipulated by an external attacker.
+*   **ARC-AGI-3:** A difficult benchmark that tests an AI’s ability to learn new skills on the fly, rather than just repeating memorized data.
+*   **Compaction:** A technique in AI to make models or their internal data representations smaller and faster without losing "intelligence."
+*   **GPT-Realtime:** An OpenAI API that allows for near-instantaneous voice or data processing, crucial for lifelike human interaction.
+*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic data (satellite imagery, maps, etc.).
+*   **LFM (Liquid Foundation Models):** A type of AI architecture designed for continuous data streams and high efficiency, often outperforming traditional models on simpler hardware like CPUs.
+*   **Frontier Lab Agent Intrusion:** A term referring to a security breach where an autonomous AI "agent" is used as a vector to hack into a high-security research environment.
