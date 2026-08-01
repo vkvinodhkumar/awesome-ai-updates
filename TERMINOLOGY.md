@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-01 22:46:57
+Last Updated: 2026-08-01 23:50:30
 
-- **Long-Context Inference:** The ability of an AI to "remember" and process vast amounts of information (like a whole book or a massive codebase) in a single session.
-- **Geospatial Inference:** Using AI to "understand" and draw conclusions from physical world data, such as satellite maps or weather patterns.
-- **Provenance:** The tracking of where data or AI-generated content comes from, ensuring it is authentic and hasn't been tampered with.
-- **Agent Intrusion:** A cyber-attack where an autonomous AI agent (rather than a human) is used to penetrate a network.
-- **LFM (Liquid Foundation Models):** A newer type of AI architecture that is designed to be more efficient and adaptable than traditional Transformers.
-- **GPU Orchestration:** The process of managing how computer chips (GPUs) are assigned to different tasks to ensure none are sitting idle.
+- **Long-Context Inference:** The ability of an AI to process and "remember" massive amounts of information (like a whole book or codebase) in a single session.
+- **Geospatial Inference:** Using AI to draw conclusions or identify patterns from satellite and map data.
+- **GPU Orchestration:** The automated management of graphics processing units to ensure they are working efficiently and not sitting idle.
+- **Agent Intrusion:** A cybersecurity event where an autonomous AI "agent" (software that can act on its own) is used to breach a system.
+- **Full-Stack AI:** An approach where a company controls everything from the hardware and data centers to the software and the final application.
+- **Liquid Foundation Models (LFM):** A type of AI architecture designed to be more flexible and efficient, often capable of running on less powerful hardware like CPUs.

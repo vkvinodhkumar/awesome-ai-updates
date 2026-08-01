@@ -1,22 +1,21 @@
 # AI Action Board
 
-Last Updated: 2026-08-01 22:46:57
+Last Updated: 2026-08-01 23:50:30
 
-1. **Audit Infrastructure:** Evaluate current GPU utilization rates to identify and eliminate "idle" waste.
-2. **Review Compliance:** Ensure all AI deployments in the European market are aligned with the provenance and transparency requirements of the EU AI Act.
-3. **Pilot CPU-Based AI:** Explore LFM (Liquid Foundation Model) encoders to run inference on existing CPU hardware to reduce cloud costs.
-4. **Red-Team AI Agents:** Update cybersecurity protocols to include defenses against autonomous AI agent intrusions.
+1. **Audit Compute Utilization:** Review GPU usage patterns to eliminate "idle" costs.
+2. **Explore CPU Inference:** Evaluate Liquid AI’s encoders for non-critical tasks to reduce dependence on expensive H100 clusters.
+3. **Draft "Agent-First" Security Protocols:** Prepare IT infrastructure for the risks associated with autonomous AI agents.
+4. **Cultural Alignment:** Initiate a leadership-led "AI-ready workforce" program modeled after successful enterprise case studies.
 
 ## Technology Trends
-- **Agentic Workflows:** Moving from single prompts to autonomous agents that can perform multi-step tasks.
-- **Full-Stack Optimization:** The shift from building "models" to building "integrated systems" (hardware, data, and software).
-- **Democratization of Inference:** The push to run sophisticated models on standard, non-specialized hardware (CPUs).
-- **Physical AI:** The integration of generative simulation into high-stakes physical robotics (surgery, manufacturing).
+- **The End of the GPU Monopoly:** The rise of CPU-optimized inference (LFM2.5) suggests a future where high-end hardware isn't always a prerequisite.
+- **Generative Simulation:** Using AI to create training data for physical robots (Cosmos-H-Dreams) is becoming the standard for robotics.
+- **Geospatial Intelligence:** The shift from LLMs (Large Language Models) to LMMs (Large Multimodal Models) that understand the physical Earth.
 
 ## Terminology
-- **Long-Context Inference:** The ability of an AI to "remember" and process vast amounts of information (like a whole book or a massive codebase) in a single session.
-- **Geospatial Inference:** Using AI to "understand" and draw conclusions from physical world data, such as satellite maps or weather patterns.
-- **Provenance:** The tracking of where data or AI-generated content comes from, ensuring it is authentic and hasn't been tampered with.
-- **Agent Intrusion:** A cyber-attack where an autonomous AI agent (rather than a human) is used to penetrate a network.
-- **LFM (Liquid Foundation Models):** A newer type of AI architecture that is designed to be more efficient and adaptable than traditional Transformers.
-- **GPU Orchestration:** The process of managing how computer chips (GPUs) are assigned to different tasks to ensure none are sitting idle.
+- **Long-Context Inference:** The ability of an AI to process and "remember" massive amounts of information (like a whole book or codebase) in a single session.
+- **Geospatial Inference:** Using AI to draw conclusions or identify patterns from satellite and map data.
+- **GPU Orchestration:** The automated management of graphics processing units to ensure they are working efficiently and not sitting idle.
+- **Agent Intrusion:** A cybersecurity event where an autonomous AI "agent" (software that can act on its own) is used to breach a system.
+- **Full-Stack AI:** An approach where a company controls everything from the hardware and data centers to the software and the final application.
+- **Liquid Foundation Models (LFM):** A type of AI architecture designed to be more flexible and efficient, often capable of running on less powerful hardware like CPUs.
