@@ -1,22 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-08-01 15:54:53
+Last Updated: 2026-08-01 16:51:58
 
-1.  **Audit Infrastructure:** Evaluate current GPU utilization to identify and eliminate "idle" costs.
-2.  **Update Security Protocols:** Prepare for "Agentic" threats by reviewing access controls for autonomous systems.
-3.  **Pilot Reasoning Models:** Explore how OpenAI’s advances in logic/math can be applied to internal data analysis or cryptography.
+1. **Compute Audit:** Review internal GPU utilization rates to eliminate "idle aircraft" costs.
+2. **Upskilling:** Model the Univé approach to integrate ChatGPT Enterprise at the leadership level first.
+3. **Security Update:** Review cybersecurity protocols specifically for "Agent-based" threats to internal IP.
 
 ## Technology Trends
-1.  **Democratization of Inference:** A move away from GPU-dependency toward CPU-optimized models.
-2.  **Agentic Autonomy:** The transition from chatbots to "agents" that can perform complex, multi-step tasks.
-3.  **Digital Twin Evolution:** Using generative AI to create real-time simulations for physical world applications (e.g., surgery).
-4.  **Governance as a Service:** Large labs (OpenAI) are becoming more vocal about their alignment with specific regional laws (EU AI Act).
+- **Sim2Real Evolution:** High-fidelity generative simulations (Cosmos) are making AI more capable in physical environments (Robotics).
+- **Democratized Inference:** Moving workloads from GPUs to CPUs for long-context tasks.
+- **Planetary AI:** Scaling AI inference to global datasets (Geospatial) rather than just text-based web data.
 
 ## Terminology
-
-*   **Geospatial Inference:** Using AI to analyze and make predictions based on satellite imagery, maps, and location data.
-*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a whole book or a massive codebase) in a single session.
-*   **GPU Management (Orchestration):** The process of efficiently distributing computing tasks across expensive graphics chips to ensure none are sitting idle.
-*   **Provenance:** In AI, this refers to tracking the origin of data or content to ensure it is authentic and hasn't been maliciously altered.
-*   **Agent Intrusion:** A cybersecurity event where an autonomous AI agent (rather than a human) gains unauthorized access to a system.
-*   **Digital Twin:** A virtual representation of a physical object or process (like a human organ or a robot) used for simulation.
+- **Geospatial Inference:** The process of using AI to analyze and make predictions based on geographic and satellite data.
+- **GPU Idle Time:** A metric measuring the period during which expensive graphics processing units are powered on but not performing computations.
+- **Long-Context Inference:** The ability of an AI to "remember" and process very large amounts of information (like a whole book or massive dataset) in one go.
+- **Frontier Lab Agent:** A highly capable, autonomous AI system developed by top-tier research laboratories.
+- **Encoders:** A specific part of an AI model that converts input data (like text or images) into a format the machine can understand.
+- **Provenance:** The tracking of where data comes from to ensure it is legal, ethical, and accurate.
