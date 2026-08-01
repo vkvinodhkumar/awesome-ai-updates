@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-01 14:53:28
+Last Updated: 2026-08-01 15:54:53
 
-- **Theoretical Computer Science:** The study of the mathematical underpinnings of computing, such as what can and cannot be calculated.
-- **Provenance:** The documentation of the origin and history of AI-generated content (vital for detecting "deepfakes").
-- **Full-stack AI:** An approach that optimizes everything from the physical power and chips up to the user-facing software.
-- **GPU Idle Time:** The period when expensive graphics chips are powered on but not performing computations, leading to massive financial waste.
-- **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic data like maps and satellite images.
-- **LFM (Liquid Foundation Models):** A type of AI architecture that is more fluid and efficient than traditional models, often requiring less power.
-- **Generative Simulation:** Using AI to create realistic, "synthetic" environments for robots to practice in before they enter the real world.
-- **Agent Intrusion:** A cyberattack where an autonomous AI agent is manipulated into performing harmful actions or leaking data.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on satellite imagery, maps, and location data.
+*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a whole book or a massive codebase) in a single session.
+*   **GPU Management (Orchestration):** The process of efficiently distributing computing tasks across expensive graphics chips to ensure none are sitting idle.
+*   **Provenance:** In AI, this refers to tracking the origin of data or content to ensure it is authentic and hasn't been maliciously altered.
+*   **Agent Intrusion:** A cybersecurity event where an autonomous AI agent (rather than a human) gains unauthorized access to a system.
+*   **Digital Twin:** A virtual representation of a physical object or process (like a human organ or a robot) used for simulation.
