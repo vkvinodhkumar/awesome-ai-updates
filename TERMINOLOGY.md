@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-01 13:11:46
+Last Updated: 2026-08-01 14:53:28
 
-- **Formal Reasoning:** The ability of an AI to follow strict logical or mathematical rules to reach a conclusion that is provably correct.
-- **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and satellite data.
-- **Long-Context Inference:** The ability of an AI to "read" and remember very large amounts of data (like entire books or codebases) in a single session.
-- **Agent Intrusion:** A security breach conducted by an autonomous AI agent rather than a human hacker.
-- **Generative Simulation:** AI that creates realistic, 3D digital environments (like a human body for surgery) to train robots or test software.
-- **Provenance:** The process of documenting the origin and history of AI-generated content to ensure it is authentic and not deep-faked.
+- **Theoretical Computer Science:** The study of the mathematical underpinnings of computing, such as what can and cannot be calculated.
+- **Provenance:** The documentation of the origin and history of AI-generated content (vital for detecting "deepfakes").
+- **Full-stack AI:** An approach that optimizes everything from the physical power and chips up to the user-facing software.
+- **GPU Idle Time:** The period when expensive graphics chips are powered on but not performing computations, leading to massive financial waste.
+- **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic data like maps and satellite images.
+- **LFM (Liquid Foundation Models):** A type of AI architecture that is more fluid and efficient than traditional models, often requiring less power.
+- **Generative Simulation:** Using AI to create realistic, "synthetic" environments for robots to practice in before they enter the real world.
+- **Agent Intrusion:** A cyberattack where an autonomous AI agent is manipulated into performing harmful actions or leaking data.
