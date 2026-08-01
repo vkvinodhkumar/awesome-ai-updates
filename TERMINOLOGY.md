@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-01 21:46:17
+Last Updated: 2026-08-01 22:46:57
 
-*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a whole library of books) in a single session.
-*   **GPU Management (Orchestration):** The software process of making sure expensive computer chips (GPUs) are always working and not sitting idle.
-*   **Geospatial Inference:** Using AI to look at satellite maps and automatically figure out what is happening on the ground (e.g., counting trees or tracking floods).
-*   **Agent Intrusion:** A security breach where an AI program (an "agent") designed to perform tasks accidentally or maliciously breaks into restricted areas of a computer network.
-*   **Provenance:** The digital "paper trail" that shows where a piece of AI-generated content came from and how it was made.
-*   **System 2 Thinking:** A term from psychology referring to slow, deliberate, and logical effort, as opposed to "System 1" (fast, intuitive, and automatic). In AI, this refers to models that "think" before they answer.
+- **Long-Context Inference:** The ability of an AI to "remember" and process vast amounts of information (like a whole book or a massive codebase) in a single session.
+- **Geospatial Inference:** Using AI to "understand" and draw conclusions from physical world data, such as satellite maps or weather patterns.
+- **Provenance:** The tracking of where data or AI-generated content comes from, ensuring it is authentic and hasn't been tampered with.
+- **Agent Intrusion:** A cyber-attack where an autonomous AI agent (rather than a human) is used to penetrate a network.
+- **LFM (Liquid Foundation Models):** A newer type of AI architecture that is designed to be more efficient and adaptable than traditional Transformers.
+- **GPU Orchestration:** The process of managing how computer chips (GPUs) are assigned to different tasks to ensure none are sitting idle.

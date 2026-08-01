@@ -1,24 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-08-01 21:46:17
+Last Updated: 2026-08-01 22:46:57
 
-1.  **Audit Compute Spend:** Review current GPU utilization to identify "idle time" waste.
-2.  **Evaluate CPU-Based LLMs:** Test Liquid AI’s encoders for internal document search to reduce reliance on expensive cloud GPU clusters.
-3.  **Red-Team Agentic Workflows:** If the company is deploying AI agents that can "act" (API calls, file access), conduct a security audit based on the "Frontier Lab" intrusion model.
-4.  **Governance Refresh:** Update AI usage policies to align with the transparency requirements of the EU AI Act.
+1. **Audit Infrastructure:** Evaluate current GPU utilization rates to identify and eliminate "idle" waste.
+2. **Review Compliance:** Ensure all AI deployments in the European market are aligned with the provenance and transparency requirements of the EU AI Act.
+3. **Pilot CPU-Based AI:** Explore LFM (Liquid Foundation Model) encoders to run inference on existing CPU hardware to reduce cloud costs.
+4. **Red-Team AI Agents:** Update cybersecurity protocols to include defenses against autonomous AI agent intrusions.
 
 ## Technology Trends
-
-*   **From LLM to LRM:** A shift from Large Language Models (text focus) to Large Reasoning Models (math/logic focus).
-*   **Compute Efficiency:** Moving away from "brute force" scaling toward smarter GPU management and CPU-based inference.
-*   **Agentic Sovereignty:** The rise of autonomous agents that can navigate software environments, necessitating a new field of AI-specific cybersecurity.
-*   **Vertical Generative AI:** Generative models being used to create "simulated worlds" for training robotics (e.g., NVIDIA Cosmos).
+- **Agentic Workflows:** Moving from single prompts to autonomous agents that can perform multi-step tasks.
+- **Full-Stack Optimization:** The shift from building "models" to building "integrated systems" (hardware, data, and software).
+- **Democratization of Inference:** The push to run sophisticated models on standard, non-specialized hardware (CPUs).
+- **Physical AI:** The integration of generative simulation into high-stakes physical robotics (surgery, manufacturing).
 
 ## Terminology
-
-*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a whole library of books) in a single session.
-*   **GPU Management (Orchestration):** The software process of making sure expensive computer chips (GPUs) are always working and not sitting idle.
-*   **Geospatial Inference:** Using AI to look at satellite maps and automatically figure out what is happening on the ground (e.g., counting trees or tracking floods).
-*   **Agent Intrusion:** A security breach where an AI program (an "agent") designed to perform tasks accidentally or maliciously breaks into restricted areas of a computer network.
-*   **Provenance:** The digital "paper trail" that shows where a piece of AI-generated content came from and how it was made.
-*   **System 2 Thinking:** A term from psychology referring to slow, deliberate, and logical effort, as opposed to "System 1" (fast, intuitive, and automatic). In AI, this refers to models that "think" before they answer.
+- **Long-Context Inference:** The ability of an AI to "remember" and process vast amounts of information (like a whole book or a massive codebase) in a single session.
+- **Geospatial Inference:** Using AI to "understand" and draw conclusions from physical world data, such as satellite maps or weather patterns.
+- **Provenance:** The tracking of where data or AI-generated content comes from, ensuring it is authentic and hasn't been tampered with.
+- **Agent Intrusion:** A cyber-attack where an autonomous AI agent (rather than a human) is used to penetrate a network.
+- **LFM (Liquid Foundation Models):** A newer type of AI architecture that is designed to be more efficient and adaptable than traditional Transformers.
+- **GPU Orchestration:** The process of managing how computer chips (GPUs) are assigned to different tasks to ensure none are sitting idle.
