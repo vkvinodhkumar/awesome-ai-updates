@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-01 02:02:04
+Last Updated: 2026-08-01 05:47:39
 
-*   **Provenance:** The documentation of the origin and history of data or content, used to prove it is authentic or responsibly sourced.
-*   **Geospatial Inference:** The process of using AI to analyze and make predictions based on geographic and satellite data.
-*   **Long-Context Inference:** The ability of an AI to "remember" and process vast amounts of information (like entire books or codebases) in a single session.
-*   **Full-Stack approach:** An AI development strategy that addresses everything from the physical hardware (chips) to the final software application.
-*   **Agent Intrusion:** A cybersecurity event where autonomous AI agents (rather than humans) perform the breach.
-*   **Price-Performance Frontier:** The balance between how much an AI model costs to run and how high its intelligence/speed is.
+*   **Data Provenance:** The record of where data originated and how it has moved/changed over time; vital for legal and ethical AI.
+*   **Price-Performance Frontier:** The balance between the cost of a model and its intelligence level; the "sweet spot" for business value.
+*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic and satellite data.
+*   **Long-Context Inference:** The ability of an AI to "read" and remember a very large amount of information (like a whole book) in one go.
+*   **Agent Intrusion:** A security breach where an autonomous AI agent is used (or hijacked) to perform unauthorized actions on a network.
+*   **Full-Stack AI:** An approach where a company controls everything from the hardware and data to the final user application.
