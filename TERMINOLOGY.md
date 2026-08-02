@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-02 05:28:07
+Last Updated: 2026-08-02 08:08:39
 
-*   **Reasoning Models:** AI models designed to go through multi-step logical processes before providing an answer.
-*   **Geospatial Inference:** The process of using AI to draw conclusions or identify patterns from geographic data (like satellite imagery).
-*   **LFM (Liquid Foundation Model):** A type of AI model designed for high efficiency and the ability to handle long sequences of data.
-*   **Sim-to-Real:** A technique where an AI is trained in a simulated environment before being deployed into the real physical world (e.g., robotics).
-*   **Agentic AI:** AI systems that are not just conversational but are capable of using tools and taking actions to achieve a goal.
-*   **Long-Context:** The ability of an AI to "remember" and process very large amounts of information (like a 500-page book) in a single session.
-*   **GPU Management:** The operational practice of scheduling and optimizing the use of Graphics Processing Units to ensure maximum efficiency.
+*   **Provenance:** The documentation of the origin and history of data or content (crucial for identifying AI-generated vs. human-made work).
+*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (e.g., thousands of pages of text) in a single session.
+*   **Geospatial Inference:** Using AI to analyze and draw conclusions from geographic or satellite data.
+*   **Digital Twin:** A virtual representation of a physical object or system (like a surgical robot or a city) used for simulation and testing.
+*   **Agentic AI:** AI systems that do not just provide information but can independently perform tasks or take actions in software environments.
+*   **GPU Orchestration:** The process of managing how and when graphics processing units are used to ensure no power or time is wasted.
