@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-02 11:55:47
+Last Updated: 2026-08-02 13:04:31
 
-*   **Geospatial Inference:** The process of using AI to draw conclusions and patterns from location-based data (satellites, maps).
-*   **Long-Context Inference:** The ability of an AI to process and "remember" very large amounts of data (like a 500-page book) in a single session.
-*   **GPU Orchestration:** Software that manages how graphics cards (the engines of AI) are used to ensure none are sitting idle.
-*   **Digital Twin:** A virtual copy of a physical object or process (like a surgical robot) used for testing and simulation.
-*   **Provenance:** In AI, the tracking of where data came from to ensure it is legal, ethical, and accurate.
+- **System 2 Reasoning:** A type of AI processing that takes more time to "think" through a problem logically, rather than just predicting the next most likely word.
+- **Geospatial Inference:** Using AI to analyze and make predictions based on geographic data, such as maps, satellite images, and weather patterns.
+- **Long-Context Inference:** The ability of an AI to "remember" and process very large documents (e.g., an entire book or a massive codebase) in a single session.
+- **Provenance:** In AI, this refers to the record of where data came from and how an AI-generated output was created, used for transparency and anti-fraud.
+- **Agent Intrusion:** A cyberattack where a hacker gains control over an autonomous AI agent to access restricted systems.
+- **GPU Idleness:** A metric measuring the time a high-powered graphics chip sits unused, representing a direct waste of capital.
