@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-02 10:27:20
+Last Updated: 2026-08-02 11:55:47
 
-*   **Long-Context Inference:** The ability of an AI to "read" and remember a massive amount of information (like a whole library) in one go.
-*   **Geospatial Inference:** Using AI to analyze and draw conclusions from satellite imagery, maps, and Earth-observation data.
-*   **Idle GPU:** A graphics processing unit that is powered on and costing money but not currently performing calculations.
-*   **Frontier Lab Agent:** An autonomous AI program designed to perform complex tasks within a high-end research environment.
-*   **Full-Stack AI:** An approach where a company controls the hardware, the data, the model, and the user interface to ensure maximum efficiency.
+*   **Geospatial Inference:** The process of using AI to draw conclusions and patterns from location-based data (satellites, maps).
+*   **Long-Context Inference:** The ability of an AI to process and "remember" very large amounts of data (like a 500-page book) in a single session.
+*   **GPU Orchestration:** Software that manages how graphics cards (the engines of AI) are used to ensure none are sitting idle.
+*   **Digital Twin:** A virtual copy of a physical object or process (like a surgical robot) used for testing and simulation.
+*   **Provenance:** In AI, the tracking of where data came from to ensure it is legal, ethical, and accurate.
