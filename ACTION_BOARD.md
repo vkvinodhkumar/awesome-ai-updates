@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-02 18:58:35
+Last Updated: 2026-08-02 20:10:28
 
-1.  **Audit Infrastructure:** Evaluate GPU utilization rates to eliminate "idle" compute waste.
-2.  **Security Update:** Review internal protocols to defend against automated "agentic" intrusions.
-3.  **Compliance Check:** Ensure all European operations are aligned with the evolving EU AI Act transparency requirements.
-4.  **Edge Strategy:** Explore LiquidAI’s CPU-based inference to reduce reliance on expensive GPU hardware for specific long-context tasks.
+1. **Audit Compute Usage:** Implement GPU management tools to ensure no "grounded aircraft" (idle hardware) in the infrastructure.
+2. **Explore CPU-Based Inference:** Evaluate if LFM2.5 encoders can move some workloads from GPUs to cheaper CPU instances.
+3. **Strengthen Agent Security:** Review cybersecurity protocols to account for autonomous, agent-led intrusion attempts.
+4. **Initiate AI Upskilling:** Launch internal pilots based on the Univé case study to prepare the workforce for generative tool integration.
