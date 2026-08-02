@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-02 15:55:35
+Last Updated: 2026-08-02 16:51:32
 
-- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
-- **GPU (Graphics Processing Unit):** Highly specialized hardware required to train and run large AI models.
-- **Geospatial Inference:** Using AI to identify patterns or make predictions based on geographic or satellite data.
-- **Long-Context:** The ability of an AI to "remember" or process a very large amount of information (like a whole book or a massive codebase) in a single session.
-- **Encoders:** Components of an AI model that convert raw data (like text or images) into a mathematical format the computer can understand.
-- **Frontier Lab:** A term for organizations (like OpenAI or DeepMind) that are developing the most advanced, "cutting-edge" AI models.
+- **Geospatial Inference:** Using AI to analyze and make predictions based on satellite imagery and mapping data.
+- **Long-Context Inference:** The ability of an AI to "read" and remember huge amounts of information (like a 500-page book) in one go.
+- **Provenance:** Methods for tracking the origin and history of data to ensure it is trustworthy and legally compliant.
+- **GPU Orchestration:** The software-driven process of managing and assigning "brain power" (GPUs) to different tasks to ensure none go to waste.
+- **Generative Simulation:** Using AI to create a realistic "virtual world" where robots or software can practice before doing things in the real world.
+- **Agentic Intrusion:** A cyberattack carried out by an autonomous AI "agent" that can make its own decisions to bypass security.
