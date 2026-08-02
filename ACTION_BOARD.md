@@ -1,25 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-02 14:55:29
+Last Updated: 2026-08-02 15:55:35
 
-1. **Audit Compute Usage:** Review GPU utilization metrics to identify "grounded aircraft" (idle hardware).
-2. **Implement AI Governance:** Mirror the Univé "leadership + employee-led" model for internal AI rollout.
-3. **Enhance Cybersecurity:** Update threat models to include "Agent Intrusion" scenarios.
-4. **Explore CPU Inference:** Evaluate Liquid AI’s LFM2.5 for non-GPU intensive reasoning tasks to save costs.
-
-## Technology Trends
-- **Full-Stack Optimization:** A move away from just "bigger models" toward "more efficient stacks."
-- **Geospatial AI:** Using AI to interpret the physical planet in real-time.
-- **Democratized Inference:** Shifting workloads to CPUs to bypass the GPU supply chain crunch.
-- **Agentic Safety:** A new focus on how autonomous agents can be both a threat and a tool for cybersecurity.
-
-## Terminology
-- **Cryptography:** The study of secure communication techniques (encryption).
-- **Computational Complexity:** A field of CS that classifies problems by how many resources (time/memory) they need to solve.
-- **Provenance:** The record of ownership or origin of an AI-generated asset (used for safety and copyright).
-- **Full-Stack AI:** An approach that optimizes everything from the physical chips and servers to the final software application.
-- **GPU FinOps:** The practice of managing the financial costs of cloud-based or physical graphics processing units.
-- **Geospatial Inference:** Using AI to draw conclusions or predictions from geographic data (maps, satellite images).
-- **Long-Context Inference:** The ability of an AI to "read" and remember a very large document or dataset in a single session.
-- **Generative Simulation:** Using AI to create realistic virtual worlds for robots to learn in.
-- **Agent Intrusion:** A cyberattack carried out or assisted by an autonomous AI agent.
+1. **Audit GPU Utilization:** Review cloud spend to ensure high-cost chips are not sitting idle.
+2. **Implement Agent Security:** Before deploying autonomous AI agents, conduct a red-teaming exercise based on recent "intrusion" findings.
+3. **Upskilling:** Follow the Univé model by creating a cross-functional "AI Readiness" task force to bridge the gap between IT and end-users.
