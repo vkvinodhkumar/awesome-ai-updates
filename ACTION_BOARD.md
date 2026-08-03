@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-03 20:21:50
+Last Updated: 2026-08-03 22:01:01
 
-1.  **Audit Compute Spend:** Review GPU utilization rates to ensure hardware is not sitting idle.
-2.  **Evaluate "Small" Hardware:** Explore CPU-based inference for non-latency-critical tasks to reduce dependency on NVIDIA chips.
-3.  **Update Security Protocols:** Incorporate "Agentic Security" into the 2025-2026 cybersecurity roadmap.
-4.  **Launch an AI Literacy Program:** Mimic the Univé model by encouraging employee-led innovation within a "safe sandbox" environment.
+1. **Infrastructure Audit:** Review current GPU cluster utilization metrics. Implement advanced orchestration toolsets to eliminate "idle GPU" financial waste.
+2. **Implement Agentic Guardrails:** If deploying autonomous coding or operational agents internally, enforce strict sandboxing, API rate-limiting, and zero-trust execution environments.
+3. **Establish an AI Governance Board:** Emulate the Univé case study by setting up a cross-functional committee to guide employee-led AI innovation while staying compliant with the incoming EU AI Act guidelines.

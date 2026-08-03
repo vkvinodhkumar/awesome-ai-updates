@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-03 20:21:50
+Last Updated: 2026-08-03 22:01:01
 
-*   **Long-Context Inference:** The ability of an AI to "remember" and process huge amounts of information (like a 500-page book) in a single session.
-*   **Geospatial Inference:** Using AI to identify patterns, objects, or changes in satellite imagery and map data.
-*   **Generative Simulation:** AI that creates a realistic, "fake" environment (like a digital surgery) for training or testing purposes.
-*   **Agent Intrusion:** A security breach where an autonomous AI agent (software that can take actions) gains unauthorized access to a system.
-*   **Full-stack AI:** An approach where a company controls everything from the hardware and data to the model and the final user application.
-*   **Formal Reasoning:** Using AI to produce logically certain answers (like in math) rather than "guessing" the next most likely word.
+- **Turnless Speech Model:** An AI voice interaction framework designed to process continuous, real-time speech. It allows natural human-like conversations, letting users interrupt the AI mid-sentence without breaking the system's state.
+- **Geospatial Inference:** The process of using machine learning models to analyze, interpret, and extract predictive patterns from geographic and environmental datasets, such as satellite imagery and GPS coordinates.
+- **Liquid Foundation Models (LFMs):** A class of highly efficient neural network architectures designed by Liquid AI. Unlike traditional Transformer models, they require significantly less computational overhead and can process continuous sequential data efficiently on standard hardware.
+- **Generative Simulation:** The use of generative AI to construct highly realistic, interactive, and physics-compliant 3D digital environments in real-time. This is primarily used to train robots and autonomous machines.
+- **Agent Intrusion / Agentic Security:** A cybersecurity domain focused on identifying, mitigating, and preventing attacks where autonomous AI agents are exploited (or act maliciously) to infiltrate secure digital environments.
+- **Data Provenance:** The documented history of data, detailing its origin, ownership, modifications, and legal rights. This is vital for ensuring training datasets do not violate copyright or privacy regulations.
