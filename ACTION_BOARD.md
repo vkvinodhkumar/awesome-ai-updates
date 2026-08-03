@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-03 10:34:46
+Last Updated: 2026-08-03 13:34:27
 
-1.  **Audit Compute Spend:** Review cloud and GPU utilization to eliminate "idle" costs.
-2.  **Compliance Check:** Ensure any AI deployments in Europe align with the safety and transparency standards outlined in the new EU AI Act guidance.
-3.  **Red-Team Internal Security:** Conduct a "threat model" exercise for your internal AI data pipelines to prevent intellectual property theft.
+1. **Audit Compute Efficiency:** Evaluate GPU utilization rates to ensure hardware investments are delivering maximum value.
+2. **Pilot Agentic Security:** If deploying autonomous agents, conduct "red team" exercises based on the latest intrusion timelines.
+3. **Explore CPU Inference:** Investigate LFM-style encoders for internal long-context tasks to reduce cloud/GPU costs.
+4. **Formalize EU Governance:** For firms with European operations, align AI deployment frameworks with the transparency requirements of the EU AI Act.
