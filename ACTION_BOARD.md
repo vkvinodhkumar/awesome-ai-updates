@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-03 02:01:03
+Last Updated: 2026-08-03 06:12:19
 
-1. **Audit GPU Spend:** Review current compute utilization to ensure resources are not sitting idle.
-2. **Pilot Long-Context CPU Inference:** Test Liquid AI-style encoders to see if certain tasks can be moved from GPUs to cheaper CPU environments.
-3. **Draft Agent Security Protocols:** If the organization is deploying "agents," establish strict "human-in-the-loop" safeguards to prevent unauthorized intrusions.
-4. **EU Compliance Review:** Ensure any customer-facing AI products meet the upcoming requirements of the EU AI Act.
+1. **Audit Compute:** Evaluate internal GPU utilization to eliminate "idle" costs.
+2. **Review Compliance:** Ensure all EU-facing AI products are prepared for the EU AI Act’s transparency requirements.
+3. **Security Patching:** Update security protocols to account for "Agentic" threats—AI that can execute code or move through networks autonomously.
