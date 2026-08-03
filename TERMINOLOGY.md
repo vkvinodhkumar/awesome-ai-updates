@@ -1,9 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-02 23:52:18
+Last Updated: 2026-08-03 02:01:03
 
-- **Long-Context Inference:** The ability of an AI to "read" and understand very large amounts of data (like a whole book or a massive codebase) in a single session.
-- **Geospatial Inference:** Using AI to analyze patterns in geographic data, such as satellite imagery or map coordinates.
-- **Generative Simulation:** AI creating a "virtual world" or scenario (like a surgery) to practice or predict outcomes before they happen in the real world.
-- **GPU Management (Orchestration):** The process of efficiently assigning "brain power" from computer chips to different tasks so no power is wasted.
-- **Data Provenance:** A record of where data came from, who moved it, and how it was changed—essential for legal and ethical AI.
+- **Geospatial Inference:** Using AI to analyze and make predictions based on satellite images, maps, and GPS data.
+- **CPU Inference:** Running an AI model on a standard computer processor (CPU) rather than a specialized graphics card (GPU). It is usually slower but much cheaper.
+- **Long-Context:** The ability of an AI to "remember" and analyze a very large amount of information (like a whole book or a massive dataset) in a single session.
+- **Generative Simulation:** Using AI to create realistic, fake environments (like a digital surgery room) for robots to practice in.
+- **AI Agent:** An AI system that doesn't just talk, but can take actions (like booking a flight or writing code) to achieve a goal.
+- **Frontier Lab:** A term used for the leading research organizations (OpenAI, Anthropic, Google) that are building the most advanced AI models.
+- **Provenance:** The tracking of where data or AI-generated content came from to ensure it is authentic and hasn't been tampered with.
