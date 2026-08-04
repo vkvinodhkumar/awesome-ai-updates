@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-04 22:54:41
+Last Updated: 2026-08-04 23:57:03
 
-*   **Turnless Speech:** AI voice interaction that doesn't require a user to stop talking before the AI processes the information; it "listens" and "speaks" simultaneously.
-*   **LFM (Liquid Foundation Model):** A type of AI model that can adapt its parameters more fluidly than traditional transformers, often resulting in higher efficiency for time-series data.
-*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic or spatial data (like satellite maps).
-*   **ARPU (Average Revenue Per User):** A key business metric measuring how much money a company makes from each individual customer.
-*   **GPU Management:** The orchestration of graphics processing units (the chips that power AI) to ensure they are being used at maximum capacity.
-*   **Agent Intrusion:** A cybersecurity breach conducted not by a human hacker, but by an autonomous AI agent programmed to find and exploit weaknesses.
-*   **Latency:** The delay between a user's input and the AI's response. Low latency is critical for natural conversation.
+*   **ARPU (Average Revenue Per User):** A metric used primarily by consumer-facing companies to measure how much money each customer generates.
+*   **Low-Latency:** A term describing a system that responds very quickly (with minimal delay).
+*   **Geospatial Inference:** Using AI to "make sense" of geographic or mapped data, like identifying buildings or crop health from satellite photos.
+*   **Turnless Speech:** AI interaction where the computer and human can speak and listen at the same time, much like a natural human conversation.
+*   **Codex:** An AI model specifically trained to understand and generate computer code.
+*   **Agent Intrusion:** A security breach where an autonomous AI agent (rather than a human hacker) performs unauthorized actions.
+*   **LFM (Liquid Foundation Models):** A type of AI model designed for high efficiency and continuous data processing, often used for smaller, faster applications.
