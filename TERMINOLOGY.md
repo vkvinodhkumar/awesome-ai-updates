@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-04 21:03:39
+Last Updated: 2026-08-04 22:54:41
 
-*   **Turnless Speech Model:** An AI system that processes audio continuously rather than waiting for a user to finish speaking, allowing for natural interruptions.
-*   **ARPU (Average Revenue Per User):** A key metric for subscription businesses, measuring the total revenue generated per customer.
-*   **LFM (Liquid Foundation Model):** A type of AI model architecture designed for continuous-time data, often more efficient and compact than traditional Transformers.
-*   **Geospatial Inference:** The process of using AI to recognize patterns, objects, or changes within geographic and satellite data.
-*   **Agentic Intrusion:** A cyberattack where the "hacker" is an autonomous AI agent, or where the target is an AI agent’s permissions.
-*   **Codex:** An OpenAI model specialized in translating natural language into computer code.
-*   **Edge Device:** Hardware (like a smartphone or local sensor) that processes data on-site rather than sending it to a central cloud server.
+*   **Turnless Speech:** AI voice interaction that doesn't require a user to stop talking before the AI processes the information; it "listens" and "speaks" simultaneously.
+*   **LFM (Liquid Foundation Model):** A type of AI model that can adapt its parameters more fluidly than traditional transformers, often resulting in higher efficiency for time-series data.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic or spatial data (like satellite maps).
+*   **ARPU (Average Revenue Per User):** A key business metric measuring how much money a company makes from each individual customer.
+*   **GPU Management:** The orchestration of graphics processing units (the chips that power AI) to ensure they are being used at maximum capacity.
+*   **Agent Intrusion:** A cybersecurity breach conducted not by a human hacker, but by an autonomous AI agent programmed to find and exploit weaknesses.
+*   **Latency:** The delay between a user's input and the AI's response. Low latency is critical for natural conversation.
