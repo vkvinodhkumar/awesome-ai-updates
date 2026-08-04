@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-04 01:46:40
+Last Updated: 2026-08-04 04:57:13
 
-*   **Turnless Speech Model:** An AI model that can listen and speak at the same time, allowing for interruptions and natural conversation flow.
-*   **ARPU (Average Revenue Per User):** A key business metric measuring the average amount of money a company makes from one customer.
-*   **Geospatial Inference:** Using AI to analyze and make predictions based on satellite images and geographic data.
-*   **Long-Context Inference:** The ability of an AI to "remember" and process a very large amount of information (like a whole book) in a single session.
-*   **Generative Simulation:** Using AI to create realistic virtual worlds where robots or software can practice tasks.
-*   **Agent Intrusion:** A cyberattack carried out by an autonomous AI agent rather than a human hacker.
+*   **Turnless Interaction:** AI conversation that doesn't require a "User speaks, AI waits, AI speaks" cycle; it allows for simultaneous input and output.
+*   **ARPU (Average Revenue Per User):** A key business metric measuring how much money a company makes from an individual customer.
+*   **Geospatial Inference:** Using AI to "understand" and make predictions based on satellite imagery or map data.
+*   **Long-Context Inference:** The ability of an AI to process and remember a vast amount of information (like a 500-page book) in a single session.
+*   **Provenance:** The tracking of the origin and history of data or AI-generated content to ensure it is authentic and legal.
+*   **Agent Intrusion:** A cybersecurity event where an autonomous AI agent enters a system without authorization to perform tasks.
+*   **Full-Stack AI:** An approach where a company controls everything from the hardware (chips) to the software and the final application.

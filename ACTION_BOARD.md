@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-04 01:46:40
+Last Updated: 2026-08-04 04:57:13
 
-1.  **Audit Compute Spend:** Review GPU utilization rates to ensure we aren't "grounding our aircraft."
-2.  **Explore CPU-Inference:** Investigate Liquid AI’s LFM encoders to see if internal workloads can be moved from GPUs to cheaper CPU clusters.
-3.  **Prepare for Agentic Security:** Update the threat model to include autonomous agents as potential breach vectors.
+1.  **Audit Infrastructure:** Evaluate current GPU utilization rates; consider implementing more aggressive scheduling or hybrid CPU/GPU workflows.
+2.  **Enhance Security Protocols:** Update cybersecurity frameworks to specifically defend against autonomous agent-based lateral movement.
+3.  **Explore Vertical AI:** Investigate how geospatial or real-time simulation models (like OlmoEarth or Cosmos) could benefit logistics or manufacturing arms.
