@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-04 15:17:46
+Last Updated: 2026-08-04 17:38:50
 
-- **Turnless Speech Model:** A continuous voice AI architecture that listens and speaks simultaneously, allowing natural interruptions and fluid conversation without requiring the user to press a button or wait for a silent pause.
-- **Liquid Foundation Models (LFMs):** A class of highly efficient, adaptable neural networks optimized for sequential data and lower parameter sizes, making them ideal for edge-device deployment.
-- **Geospatial Inference:** The process of using machine learning models to analyze geographic, satellite, and spatial data to identify patterns, track environmental changes, or make predictions.
-- **Agent Intrusion:** A cyberattack vector wherein malicious actors exploit the decision-making loops, prompts, or communication channels of autonomous AI agents to gain unauthorized system access.
-- **Codex:** An OpenAI-developed model series fine-tuned to translate natural language instructions into high-quality programming code.
-- **GPU Orchestration:** The automated management, scheduling, and distribution of Graphics Processing Unit workloads to maximize hardware efficiency and minimize idle processing time.
+- **Codex:** An AI model specifically trained to understand and generate computer code.
+- **Low-Latency:** A system design that minimizes the delay between an input (speaking) and a response (AI talking back).
+- **ARPU (Average Revenue Per User):** A metric used to measure the amount of money a company makes from an individual customer.
+- **LFM (Liquid Foundation Model):** A type of AI model designed to be more flexible and efficient than traditional transformers, often used for "continuous" data like audio or local deployment.
+- **Geospatial Inference:** Using AI to "guess" or identify patterns in geographic and mapping data (like satellite imagery).
+- **Generative Simulation:** Using AI to create a realistic, virtual environment where robots or systems can practice tasks.
+- **Agent Intrusion:** A cybersecurity event where an autonomous AI agent is used to gain unauthorized access to a secure system.
