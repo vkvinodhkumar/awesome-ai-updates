@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-05 19:17:46
+Last Updated: 2026-08-05 20:59:38
 
-1.  **Audit GPU Utilization:** Ensure current compute resources are being used at maximum capacity.
-2.  **Evaluate Local Models:** Test LFM 2.5B models for internal tasks that require high privacy.
-3.  **Update Incident Response:** Incorporate "agent-based" threat scenarios into cybersecurity drills.
+1.  **Audit Compute Usage:** Review GPU utilization metrics to ensure high-cost hardware is not sitting idle.
+2.  **Explore Edge AI:** Investigate LFM-style models for tasks requiring high privacy or low latency.
+3.  **Prepare for Real-Time Voice:** Assess how "turnless" voice interaction could improve customer service or internal tools.
