@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-04 23:57:03
+Last Updated: 2026-08-05 02:03:41
 
-*   **ARPU (Average Revenue Per User):** A metric used primarily by consumer-facing companies to measure how much money each customer generates.
-*   **Low-Latency:** A term describing a system that responds very quickly (with minimal delay).
-*   **Geospatial Inference:** Using AI to "make sense" of geographic or mapped data, like identifying buildings or crop health from satellite photos.
-*   **Turnless Speech:** AI interaction where the computer and human can speak and listen at the same time, much like a natural human conversation.
-*   **Codex:** An AI model specifically trained to understand and generate computer code.
-*   **Agent Intrusion:** A security breach where an autonomous AI agent (rather than a human hacker) performs unauthorized actions.
-*   **LFM (Liquid Foundation Models):** A type of AI model designed for high efficiency and continuous data processing, often used for smaller, faster applications.
+*   **ARPU (Average Revenue Per User):** A metric used primarily by digital service providers to measure how much money, on average, they make from a single customer.
+*   **Turnless Interaction:** A system where the AI listens and speaks simultaneously (like a human), rather than waiting for the user to finish a sentence and click a button.
+*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic and satellite data.
+*   **SLM (Small Language Model):** AI models with fewer parameters (e.g., 2B instead of 175B) designed to run on phones or laptops rather than massive data centers.
+*   **Agent Intrusion:** A cybersecurity breach where an autonomous AI agent is hijacked or manipulated to perform unauthorized actions.
+*   **Generative Simulation:** Using AI to create realistic, "fake" environments for robots to train in before they perform tasks in the real world.
