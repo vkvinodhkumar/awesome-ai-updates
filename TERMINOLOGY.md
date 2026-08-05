@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-05 02:03:41
+Last Updated: 2026-08-05 05:38:22
 
-*   **ARPU (Average Revenue Per User):** A metric used primarily by digital service providers to measure how much money, on average, they make from a single customer.
-*   **Turnless Interaction:** A system where the AI listens and speaks simultaneously (like a human), rather than waiting for the user to finish a sentence and click a button.
-*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic and satellite data.
-*   **SLM (Small Language Model):** AI models with fewer parameters (e.g., 2B instead of 175B) designed to run on phones or laptops rather than massive data centers.
-*   **Agent Intrusion:** A cybersecurity breach where an autonomous AI agent is hijacked or manipulated to perform unauthorized actions.
-*   **Generative Simulation:** Using AI to create realistic, "fake" environments for robots to train in before they perform tasks in the real world.
+*   **Turnless Speech:** A conversational system that doesn't require a pause or a "wake word" between speakers; it interprets audio as a continuous stream.
+*   **Low-Latency Architecture:** System design aimed at minimizing the delay between a user's input and the AI's response to provide a natural experience.
+*   **Agent Intrusion:** An event where an autonomous AI "agent" (a program that can perform tasks on its own) is manipulated or accessed unauthorizedly.
+*   **Geospatial Inference:** The process of using AI to draw conclusions or identify patterns from geographic or map-based data.
+*   **ARPU (Average Revenue Per User):** A metric used to measure how much revenue each customer generates for a company.
+*   **Churn:** The rate at which customers cancel or stop using a service.
