@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-05 05:38:22
+Last Updated: 2026-08-05 08:22:13
 
-*   **Turnless Speech:** A conversational system that doesn't require a pause or a "wake word" between speakers; it interprets audio as a continuous stream.
-*   **Low-Latency Architecture:** System design aimed at minimizing the delay between a user's input and the AI's response to provide a natural experience.
-*   **Agent Intrusion:** An event where an autonomous AI "agent" (a program that can perform tasks on its own) is manipulated or accessed unauthorizedly.
-*   **Geospatial Inference:** The process of using AI to draw conclusions or identify patterns from geographic or map-based data.
-*   **ARPU (Average Revenue Per User):** A metric used to measure how much revenue each customer generates for a company.
-*   **Churn:** The rate at which customers cancel or stop using a service.
+*   **LFM (Liquid Foundation Model):** A type of AI model designed to be more efficient and adaptable than traditional Transformers, often used for time-series or edge computing.
+*   **ARPU (Average Revenue Per User):** A key business metric measuring the revenue generated per customer; used here to show AI's impact on sales.
+*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic and satellite data.
+*   **Red Teaming:** The process of ethically "attacking" a system to find and fix vulnerabilities before they can be exploited.
+*   **Latancy:** The delay (lag) between a user's input and the AI's response.
+*   **Codex:** An OpenAI model specifically designed to understand and generate computer code.
+*   **Edge AI:** Running AI algorithms locally on a device (like a phone or a robot) rather than on a remote server.
