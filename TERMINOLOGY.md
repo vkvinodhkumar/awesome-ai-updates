@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-05 08:22:13
+Last Updated: 2026-08-05 11:13:39
 
-*   **LFM (Liquid Foundation Model):** A type of AI model designed to be more efficient and adaptable than traditional Transformers, often used for time-series or edge computing.
-*   **ARPU (Average Revenue Per User):** A key business metric measuring the revenue generated per customer; used here to show AI's impact on sales.
-*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic and satellite data.
-*   **Red Teaming:** The process of ethically "attacking" a system to find and fix vulnerabilities before they can be exploited.
-*   **Latancy:** The delay (lag) between a user's input and the AI's response.
-*   **Codex:** An OpenAI model specifically designed to understand and generate computer code.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or a robot) rather than on a remote server.
+*   **Edge AI:** AI processes performed on a local device (phone, laptop) rather than in a distant data center.
+*   **Turnless Speech:** AI that listens and responds simultaneously, allowing for interruption-friendly, natural human-like conversation.
+*   **Red-teaming:** A practice where security professionals intentionally try to "break" or find flaws in an AI model to make it safer.
+*   **ARPU (Average Revenue Per User):** A metric used to calculate the average income generated per customer.
+*   **Latency:** The delay between a user's input and the AI's response; lower is better.
+*   **Geospatial Inference:** Using AI to analyze geographic data to make predictions about land, climate, or infrastructure.
