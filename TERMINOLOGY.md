@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-05 20:59:38
+Last Updated: 2026-08-05 22:13:51
 
-*   **ARPU (Average Revenue Per User):** A metric used primarily by consumer-facing businesses to measure how much money each customer generates.
-*   **Codex:** An OpenAI model specialized in translating natural language into computer code.
-*   **Geospatial Inference:** Using AI to "understand" and make predictions based on geographic data, such as satellite maps.
-*   **GPU Orchestration:** The process of automatically managing and assigning "Graphics Processing Units" (the chips that run AI) to different tasks to ensure they are used efficiently.
-*   **Latency:** The delay or "lag" between a user giving a command and the AI responding. "Low-latency" means it is very fast.
-*   **LFM (Liquid Foundation Model):** A newer type of AI model designed to be more adaptable and efficient than traditional, "static" models.
-*   **Turnless Speech:** A mode of AI communication where the machine and human can speak at the same time or interrupt each other, similar to a natural human conversation.
+- **ARPU (Average Revenue Per User):** A metric used primarily by consumer-facing businesses to measure how much money each customer generates.
+- **Turnless AI:** A voice system that doesn't wait for a user to stop talking; it listens and responds continuously, like a human.
+- **SLM (Small Language Model):** AI models with fewer parameters (e.g., 2.5B) that can run on phones or laptops rather than massive data centers.
+- **Geospatial Inference:** The ability of an AI to look at maps or satellite images and "reason" or draw conclusions about what is happening on the ground.
+- **Generative Simulation:** Using AI to create a realistic, "fake" world (like a video game) so that robots can practice tasks like surgery without hurting anyone.
+- **Agent Intrusion:** A cyberattack where an autonomous AI (an "agent") is the one performing the hacking, rather than a human using a tool.
