@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-06 01:48:42
+Last Updated: 2026-08-06 04:59:28
 
-1.  **Audit GPU Utilization:** Ensure that any rented or owned compute is optimized to avoid the "grounded aircraft" scenario.
-2.  **Evaluate Voice UI:** Assess if your current customer-facing bots can be upgraded to low-latency, "turnless" systems to improve user retention.
-3.  **Update Security Protocols:** Review cybersecurity frameworks specifically for "agentic" behavior to prevent the intrusion scenarios outlined by recent lab reports.
+1.  **Audit Compute Spend:** Review GPU utilization metrics to ensure no "grounded aircraft" scenarios in internal R&D.
+2.  **Evaluate Local Models:** Pilot Liquid AI’s 2.5B model for privacy-sensitive internal tasks to reduce API dependency.
+3.  **Update Security Protocols:** Incorporate "Agent Intrusion" scenarios into the company’s 2024-2025 cybersecurity roadmap.
