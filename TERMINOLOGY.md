@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-06 10:31:01
+Last Updated: 2026-08-06 12:52:17
 
-- **Turnless Speech Model:** An AI system that can listen and talk simultaneously, allowing for interruptions and natural flow without waiting for the user to finish a "turn."
-- **LFM (Liquid Foundation Model):** A type of AI model designed for extreme efficiency and the ability to adapt to new data sequences more dynamically than traditional models.
-- **ARPU (Average Revenue Per User):** A business metric used to measure how much money a company makes from an individual customer.
-- **Geospatial Inference:** The process of using AI to analyze satellite imagery and map data to identify patterns or changes on Earth.
-- **Agent Intrusion:** A security breach specifically targeting autonomous AI agents that have the power to execute tasks or access data on a user's behalf.
-- **Codex:** An OpenAI model specifically fine-tuned for programming and code generation tasks.
+*   **ARPU (Average Revenue Per User):** A key business metric measuring how much money a company makes from an individual customer.
+*   **Liquid Foundation Model (LFM):** A type of AI model designed for continuous-time data processing, often more efficient than standard transformers for edge devices.
+*   **Turnless Speech:** AI interaction where the user and the machine can speak simultaneously or interrupt each other without the machine needing to "wait its turn."
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on satellite imagery, maps, and location data.
+*   **Agentic Intrusion:** A cyberattack carried out autonomously by an AI agent rather than a human hacker.
+*   **Red-Teaming:** The practice of rigorously testing a system’s security by acting as an adversary to find vulnerabilities.
