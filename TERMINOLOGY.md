@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-06 07:41:12
+Last Updated: 2026-08-06 10:31:01
 
-*   **Turnless Speech Model:** A voice AI system that does not require you to "wait your turn" to speak; it mimics human conversation by allowing interruptions and continuous audio streams.
-*   **Latency:** The delay between a user input (e.g., speaking) and the AI's response; lower latency feels more "real-time."
-*   **Edge Deployment:** Running AI models directly on the user's device (like a phone or laptop) rather than sending data to a remote cloud server.
-*   **ARPU (Average Revenue Per User):** A key metric in telecommunications representing the average amount of money a company earns from a single customer.
-*   **Churn:** The percentage of customers who stop doing business with a company over a specific time period.
-*   **Geospatial Inference:** Using AI to analyze and make predictions based on satellite or map-based geographical data.
-*   **Frontier Lab:** An organization developing the most advanced ("state-of-the-art") AI models.
+- **Turnless Speech Model:** An AI system that can listen and talk simultaneously, allowing for interruptions and natural flow without waiting for the user to finish a "turn."
+- **LFM (Liquid Foundation Model):** A type of AI model designed for extreme efficiency and the ability to adapt to new data sequences more dynamically than traditional models.
+- **ARPU (Average Revenue Per User):** A business metric used to measure how much money a company makes from an individual customer.
+- **Geospatial Inference:** The process of using AI to analyze satellite imagery and map data to identify patterns or changes on Earth.
+- **Agent Intrusion:** A security breach specifically targeting autonomous AI agents that have the power to execute tasks or access data on a user's behalf.
+- **Codex:** An OpenAI model specifically fine-tuned for programming and code generation tasks.
