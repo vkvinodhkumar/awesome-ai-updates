@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-05 23:52:34
+Last Updated: 2026-08-06 01:48:42
 
-*   **Codex:** An OpenAI model specifically designed to understand and generate computer code.
-*   **ARPU (Average Revenue Per User):** A key business metric measuring the average income generated from a single customer.
-*   **Low-Latency:** A system design that minimizes the delay between an input (speaking) and a response (the AI talking back).
-*   **Geospatial Inference:** Using AI to make predictions or identify patterns based on geographic and satellite data.
-*   **Agentic AI:** AI systems that can independently perform multi-step tasks and make decisions without constant human intervention.
-*   **Liquid Foundation Models (LFMs):** A type of AI model based on "liquid" neural networks that are more flexible and efficient at processing time-series data.
-*   **Red-Teaming:** The process of ethically hacking or attacking an AI model to find its weaknesses before it is released to the public.
+*   **ARPU (Average Revenue Per User):** A metric used to measure how much money a company makes from each individual customer.
+*   **Low-Latency:** A very short delay between a command and a response (crucial for natural conversation).
+*   **LFM (Linear Foundation Models):** A type of AI architecture designed to be more efficient than traditional Transformers, often used for local or edge computing.
+*   **Geospatial Inference:** Using AI to analyze and make sense of geographic data, such as satellite maps or GPS coordinates.
+*   **Generative Simulation:** Using AI to create realistic, virtual environments where robots or software can practice tasks safely.
+*   **Agent Intrusion:** A security breach caused or facilitated by an autonomous AI "agent" rather than a human hacker.
