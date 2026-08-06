@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-06 04:59:28
+Last Updated: 2026-08-06 07:41:12
 
-*   **LFM (Liquid Foundation Model):** A type of AI model designed for continuous data streams, often more efficient at processing time-sensitive information than standard models.
-*   **Turnless Speech Model:** An AI voice system that doesn't wait for a user to finish speaking to begin processing; it listens and interacts continuously, like a human.
-*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and satellite data.
-*   **ARPU (Average Revenue Per User):** A metric used primarily by telcos and SaaS companies to measure the monthly revenue generated per subscriber.
-*   **Agent Intrusion:** A cybersecurity event where an autonomous AI agent (rather than a human hacker) gains unauthorized access to a system.
-*   **Codex:** A specialized AI model trained specifically to understand and generate computer code.
-*   **Red-Teaming:** The practice of rigorously testing a system’s security by acting as an adversary to find vulnerabilities.
+*   **Turnless Speech Model:** A voice AI system that does not require you to "wait your turn" to speak; it mimics human conversation by allowing interruptions and continuous audio streams.
+*   **Latency:** The delay between a user input (e.g., speaking) and the AI's response; lower latency feels more "real-time."
+*   **Edge Deployment:** Running AI models directly on the user's device (like a phone or laptop) rather than sending data to a remote cloud server.
+*   **ARPU (Average Revenue Per User):** A key metric in telecommunications representing the average amount of money a company earns from a single customer.
+*   **Churn:** The percentage of customers who stop doing business with a company over a specific time period.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on satellite or map-based geographical data.
+*   **Frontier Lab:** An organization developing the most advanced ("state-of-the-art") AI models.
