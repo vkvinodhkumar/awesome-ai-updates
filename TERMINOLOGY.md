@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 09:53:47
+Last Updated: 2026-08-07 10:44:09
 
-- **GPT-5.6 Sol/Luna:** The latest iterative versions of OpenAI’s models; Sol is likely the high-reasoning variant, while Luna is the high-speed/accessible variant.
-- **Inference:** The process of a trained AI model making a prediction or generating text based on new data.
-- **Small Language Model (SLM):** AI models with fewer parameters (e.g., 2.5B) designed to be efficient and run on modest hardware.
-- **Edge AI:** Running AI algorithms locally on a device (like a phone or a local server) rather than in a centralized cloud data center.
-- **Geospatial Inference:** Using AI to analyze and interpret data related to geographic locations (satellite imagery, maps).
-- **Red-Teaming:** A security exercise where ethical hackers "attack" an AI system to find vulnerabilities before they can be exploited.
-- **GPU (Graphics Processing Unit):** The specialized chips (like those from NVIDIA) required to train and run modern AI models.
+*   **GPT-5.6 Sol:** A specialized version of OpenAI's model optimized for high accuracy and consistency.
+*   **GPT-5.6 Luna:** A version of the model optimized for speed and high-volume interaction, available to a broader user base.
+*   **Inference Provider:** A service (like Baseten) that hosts an AI model so other applications can "call" it and get results.
+*   **LFM (Liquid Foundation Model):** A type of AI model architecture designed to be efficient and adaptable, often capable of running on local hardware.
+*   **Geospatial Inference:** Using AI to analyze and make predictions based on geographic data, such as satellite maps or GPS coordinates.
+*   **Generative Simulation:** Using AI to create realistic, virtual 3D environments used for training robots or testing software.
+*   **Edge AI:** Running AI processes locally on a device (like a phone or a local server) rather than in a centralized cloud data center.
