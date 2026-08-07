@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 16:43:40
+Last Updated: 2026-08-07 17:41:47
 
-- **Inference Provider:** A service or company that hosts AI models so that they can be "run" or "queried" by users.
-- **Astra (Cybersecurity):** A framework for testing whether an AI model has the capability to assist in cyberattacks.
-- **Local Agent:** An AI program that runs directly on a user's computer or device (rather than in the cloud) to perform tasks.
-- **GPU Management:** The software-driven process of making sure expensive graphics chips (used for AI) are working efficiently and not sitting idle.
-- **Geospatial Inference:** Using AI to analyze map, satellite, and location data to draw conclusions about the physical world.
-- **Generative Simulation:** An AI-created virtual world used for training robots or software to handle real-life scenarios.
-- **LFM (Liquid Foundation Model):** A type of AI model designed to be highly efficient and adaptable, often capable of running on smaller hardware.
+*   **Astra:** OpenAI's internal codename for models being tested for advanced reasoning and cyber-capabilities.
+*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+*   **GPT-5.6 Sol:** A specialized version of GPT-5.6 optimized for high accuracy and reasoning consistency.
+*   **GPT-5.6 Luna:** A lightweight, high-speed version of the GPT-5.6 model designed for efficiency.
+*   **Agentic AI:** AI that can perform multi-step tasks and interact with other software autonomously, rather than just answering questions.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture designed for continuous-time data processing, often more efficient than traditional Transformers.
+*   **Geospatial Inference:** Using AI to extract meaningful information and patterns from geographic or satellite data.
+*   **GPU Orchestration:** The automated management of graphics processing units to ensure they are used efficiently across different tasks.
