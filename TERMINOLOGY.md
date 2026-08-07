@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-06 23:51:52
+Last Updated: 2026-08-07 02:12:57
 
-- **GPT-5.6 Sol & Luna:** Iterative model variants released by OpenAI, likely optimized for specific performance-to-cost ratios (Sol emphasizing enterprise-grade consistency, and Luna focusing on scalable, everyday consumer interaction).
-- **Agentic Workflows:** AI system behavior where models act as autonomous agents, planning, executing multi-step tasks, utilizing tools, and self-correcting without constant human prompting.
-- **Liquid Foundation Models (LFMs):** A class of stateful, continuous-time neural networks designed to process sequential data dynamically. They are highly computational-efficient and ideal for compact edge deployment.
-- **GPU Underutilization / Idle GPUs:** A state where graphic processing units are powered up and reserved (incurring rental or capital costs) but are not actively running calculations or training models.
-- **Geospatial Inference:** The application of machine learning and computer vision to analyze geographical, climate, and satellite imagery data to draw systemic earth-monitoring conclusions.
-- **Generative Physical AI Simulation:** A simulation approach that uses generative models to predict and construct realistic physical environments and object behaviors in real-time, allowing robots to "dream" and practice movements before physically executing them.
+- **Inference:** The phase in which a trained AI model processes new, incoming data (like a user's prompt) to generate a prediction, decision, or response.
+- **Inference Provider:** A cloud infrastructure platform (such as Baseten) that hosts and runs pre-trained machine learning models so developers can access them via APIs without managing the physical hardware.
+- **Local Foundation Model (LFM):** A foundational AI model designed to run locally on a user's device (like a laptop or smartphone) without sending data to an external server.
+- **Edge AI:** Deploying and running AI algorithms directly on physical devices (such as smart cameras, drones, or phones) at the "edge" of the network, rather than in centralized cloud data centers.
+- **Generative Physical Simulation:** Using generative AI to model and simulate physical laws (gravity, friction, fluid dynamics, anatomical movement) in a virtual environment in real time.
+- **Geospatial Inference:** The process of using AI to analyze, interpret, and make predictions based on geographic and satellite data.
+- **Red-Teaming:** A cybersecurity practice where ethical hackers simulate realistic attacks on an AI model or software system to identify security flaws, biases, or harmful output capabilities before bad actors can exploit them.

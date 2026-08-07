@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-06 23:51:52
+Last Updated: 2026-08-07 02:12:57
 
-1. **Audit GPU Allocations:** Direct the engineering team to review current cloud-GPU and internal compute cluster idle times, aligning utilization metrics with the "Dharma AI" model to minimize waste.
-2. **Pilot Local Agents:** Initiate a proof-of-concept using small, localized models (such as Liquid AI's LFM) for internal data processing to evaluate privacy benefits and API cost savings.
-3. **Establish an AI Safety & Compliance Framework:** In alignment with safety trends highlighted by the OpenAI-APA partnership, review customer-facing AI applications for compliance, ethical safety standards, and user-guardrails.
+1. **Audit GPU Workloads:** Task the infrastructure team with auditing current GPU utilization to identify and eliminate "idle" compute waste.
+2. **Implement Local Edge AI Feasibility Studies:** Evaluate whether low-latency, localized agent models can replace cloud-dependent API calls for internal workflows.
+3. **Establish Model Security Auditing:** Review internal software architectures using LLMs against the latest third-party cybersecurity frameworks to prevent code injection and logic exploits.
+4. **Leverage Action-Oriented AI Workflows:** Align product roadmaps to support "agentic" capabilities (workflows where the AI actively executes tasks rather than just outputting text summaries).
