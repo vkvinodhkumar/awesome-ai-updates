@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 15:46:16
+Last Updated: 2026-08-07 16:43:40
 
-*   **GPT-5.6 Sol/Luna:** Specific versions of OpenAI's latest models; Sol is likely optimized for complexity, while Luna is optimized for speed/efficiency.
-*   **Inference Provider:** A service that hosts and runs an AI model so users can interact with it without managing the hardware themselves.
-*   **Liquid Foundation Models (LFM):** A type of AI architecture designed to be more flexible and efficient at processing sequential data compared to traditional transformers.
-*   **Geospatial Inference:** Using AI to analyze and draw conclusions from geographic and satellite data.
-*   **GPU Management:** The process of allocating and optimizing "Graphics Processing Units," the chips required to run AI.
-*   **Generative Simulation:** Using AI to create realistic virtual environments where robots or software can be trained.
+- **Inference Provider:** A service or company that hosts AI models so that they can be "run" or "queried" by users.
+- **Astra (Cybersecurity):** A framework for testing whether an AI model has the capability to assist in cyberattacks.
+- **Local Agent:** An AI program that runs directly on a user's computer or device (rather than in the cloud) to perform tasks.
+- **GPU Management:** The software-driven process of making sure expensive graphics chips (used for AI) are working efficiently and not sitting idle.
+- **Geospatial Inference:** Using AI to analyze map, satellite, and location data to draw conclusions about the physical world.
+- **Generative Simulation:** An AI-created virtual world used for training robots or software to handle real-life scenarios.
+- **LFM (Liquid Foundation Model):** A type of AI model designed to be highly efficient and adaptable, often capable of running on smaller hardware.

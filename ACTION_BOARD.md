@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-07 15:46:16
+Last Updated: 2026-08-07 16:43:40
 
-1.  **Audit Compute Spend:** Review GPU utilization to ensure hardware isn't sitting idle.
-2.  **Explore "Luna" for General Staff:** Evaluate if the new free/unlimited tier of GPT-5.6 Luna can replace paid licenses for non-specialized roles.
-3.  **Pilot Local Agents:** Investigate Liquid Foundation Models for use cases involving sensitive data that cannot leave the company firewall.
+1.  **Audit Compute Spend:** Review current GPU utilization to ensure hardware is not sitting idle.
+2.  **Explore "Local Agent" Use Cases:** Identify if tasks involving sensitive data can be moved from cloud-based LLMs to local, edge-based models.
+3.  **Review Safety Protocols:** Ensure any internal AI tools are evaluated against the latest cybersecurity frameworks (like Astra).
+4.  **Adopt Industry-Specific Tools:** Look beyond general chatbots toward specialized platforms like OlmoEarth (geospatial) or Cosmos (robotics) for niche business needs.
