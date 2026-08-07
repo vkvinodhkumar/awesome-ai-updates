@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-07 08:08:53
+Last Updated: 2026-08-07 09:53:47
 
-1. **Audit GPU Allocations:** Direct the IT and engineering departments to audit cluster utilization rates to reduce "idle GPU" costs using modern scheduling platforms.
-2. **Implement Local Edge AI Feasibility Studies:** Evaluate whether low-latency, small-footprint models (like Liquid AI’s LFMs) can replace cloud-dependent LLMs for high-volume, privacy-sensitive workflows.
-3. **Establish Joint Ethical & Safety Review Panels:** When designing AI interfaces for customers or younger users, mirror OpenAI's APA partnership strategy by collaborating with industry-specific external experts to validate safety.
+1. **Audit Infrastructure:** Evaluate internal GPU usage to ensure we are not paying for "grounded" compute time.
+2. **Explore SLMs:** Pilot the use of Small Language Models (like LFM 2.5B) for tasks requiring high privacy or low latency.
+3. **Formalize AI Ethics:** Mirror the OpenAI/APA approach by establishing safety guidelines for internal AI use, particularly for sensitive data or vulnerable user groups.

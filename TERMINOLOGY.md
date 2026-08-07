@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 08:08:53
+Last Updated: 2026-08-07 09:53:47
 
-- **GPT-5.6 Sol / Luna:** Incremental versions of OpenAI's generative language models optimized for varying balances of reasoning depth (Sol) and high-speed, general-use accessibility (Luna).
-- **Liquid Foundation Model (LFM):** A class of highly efficient AI models built using "liquid" neural networks that adapt dynamically over time, allowing them to process continuous data using significantly less memory and compute power than traditional models.
-- **Edge Deployment:** Running AI models directly on a local physical device (like a phone or laptop) rather than sending data to a remote cloud data center.
-- **Geospatial Inference:** The process of using AI to analyze satellite, geographic, and environmental data to detect physical patterns or changes on Earth.
-- **Generative Simulation:** AI-driven generation of synthetic but physically realistic 3D environments, used to train robots and autonomous machines safely.
-- **GPU Idle Time:** The period during which expensive Graphics Processing Units are paid for and running but not actively processing data, representing wasted capital.
-- **Serverless Inference:** A cloud computing model where the developer does not manage the underlying servers; the provider automatically spins up hardware to run the AI model only when a request is made.
+- **GPT-5.6 Sol/Luna:** The latest iterative versions of OpenAI’s models; Sol is likely the high-reasoning variant, while Luna is the high-speed/accessible variant.
+- **Inference:** The process of a trained AI model making a prediction or generating text based on new data.
+- **Small Language Model (SLM):** AI models with fewer parameters (e.g., 2.5B) designed to be efficient and run on modest hardware.
+- **Edge AI:** Running AI algorithms locally on a device (like a phone or a local server) rather than in a centralized cloud data center.
+- **Geospatial Inference:** Using AI to analyze and interpret data related to geographic locations (satellite imagery, maps).
+- **Red-Teaming:** A security exercise where ethical hackers "attack" an AI system to find vulnerabilities before they can be exploited.
+- **GPU (Graphics Processing Unit):** The specialized chips (like those from NVIDIA) required to train and run modern AI models.
