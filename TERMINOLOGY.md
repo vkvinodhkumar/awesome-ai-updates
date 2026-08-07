@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 12:43:01
+Last Updated: 2026-08-07 14:06:35
 
-- **GPT-5.6 Sol/Luna:** Specific iterations of OpenAI models (Sol focusing on accuracy; Luna focusing on broader access/chat).
-- **Inference Provider:** A service that hosts and runs trained AI models so they can respond to user requests.
-- **Local Agents:** AI programs that run on a user's own device (offline) rather than on a remote server.
-- **Geospatial Inference:** Using AI to analyze and make predictions based on geographic and satellite data.
-- **Generative Simulation:** Using AI to create realistic, real-time virtual environments for training robots or humans (e.g., in surgery).
-- **GPU Idle Time:** The period during which expensive graphics processing units are powered on but not performing computations, leading to financial waste.
+*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+*   **Local Agents:** AI programs that run on a user's specific device (laptop/phone) rather than on a remote server, offering better privacy.
+*   **Geospatial Inference:** Using AI to analyze and draw conclusions from geographic data, such as satellite imagery or GPS maps.
+*   **Generative Simulation:** Using AI to create a realistic, fake version of reality (like a video game) for robots to practice in.
+*   **GPT-5.6 Sol/Luna:** The latest iterative versions of OpenAI’s models, optimized for different balances of performance and speed.
+*   **GPU (Graphics Processing Unit):** The specialized computer chips required to run and train AI models.
+*   **LFM (Liquid Foundation Model):** A type of AI model designed to be highly efficient and adaptable to different types of data.
