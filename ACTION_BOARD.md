@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-07 02:12:57
+Last Updated: 2026-08-07 04:50:10
 
-1. **Audit GPU Workloads:** Task the infrastructure team with auditing current GPU utilization to identify and eliminate "idle" compute waste.
-2. **Implement Local Edge AI Feasibility Studies:** Evaluate whether low-latency, localized agent models can replace cloud-dependent API calls for internal workflows.
-3. **Establish Model Security Auditing:** Review internal software architectures using LLMs against the latest third-party cybersecurity frameworks to prevent code injection and logic exploits.
-4. **Leverage Action-Oriented AI Workflows:** Align product roadmaps to support "agentic" capabilities (workflows where the AI actively executes tasks rather than just outputting text summaries).
+1. **Infrastructure Audit:** Review current GPU/Cloud usage to eliminate "idle" costs identified in the Dharma AI report.
+2. **Local AI Pilot:** Explore the LFM 2.5B models for internal tasks that require high privacy or offline availability.
+3. **Safety Compliance:** Align internal AI usage policies with the emerging APA guidelines to mitigate risks regarding employee and user well-being.
