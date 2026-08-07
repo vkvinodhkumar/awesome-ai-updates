@@ -1,8 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 06:05:51
+Last Updated: 2026-08-07 08:08:53
 
-*   **Inference Providers:** Third-party services that host machine learning models, allowing developers to run them via API without managing the underlying hardware.
-*   **Edge AI:** Running artificial intelligence computations on local devices (like a smartphone or laptop) rather than in a distant data center.
-*   **Geospatial Inference:** The process of using AI to analyze or predict patterns based on satellite images and geographic data.
-*   **Generative Simulation:** AI that creates realistic "environments" or digital physics to train robots or machines before they encounter real-world scenarios.
+- **GPT-5.6 Sol / Luna:** Incremental versions of OpenAI's generative language models optimized for varying balances of reasoning depth (Sol) and high-speed, general-use accessibility (Luna).
+- **Liquid Foundation Model (LFM):** A class of highly efficient AI models built using "liquid" neural networks that adapt dynamically over time, allowing them to process continuous data using significantly less memory and compute power than traditional models.
+- **Edge Deployment:** Running AI models directly on a local physical device (like a phone or laptop) rather than sending data to a remote cloud data center.
+- **Geospatial Inference:** The process of using AI to analyze satellite, geographic, and environmental data to detect physical patterns or changes on Earth.
+- **Generative Simulation:** AI-driven generation of synthetic but physically realistic 3D environments, used to train robots and autonomous machines safely.
+- **GPU Idle Time:** The period during which expensive Graphics Processing Units are paid for and running but not actively processing data, representing wasted capital.
+- **Serverless Inference:** A cloud computing model where the developer does not manage the underlying servers; the provider automatically spins up hardware to run the AI model only when a request is made.
