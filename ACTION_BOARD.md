@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-07 19:45:50
+Last Updated: 2026-08-07 20:32:04
 
-1.  **Audit Infrastructure:** Evaluate current GPU/Cloud usage to identify "idle" costs as highlighted by the Dharma AI report.
-2.  **Explore Small Models:** Pilot the use of 2.5B-class models for internal tasks that require privacy or low-latency local execution.
-3.  **Review Safety Guidelines:** If utilizing GPT-5.6 models for sensitive tasks, update internal safety protocols based on the new cyber-capability benchmarks.
+1. **Audit GPU Footprints:** Review current cloud and on-premise GPU utilization metrics to identify idle resource waste; implement dynamic scheduling where possible.
+2. **Explore Localized Architectures:** Run pilot projects testing low-parameter, highly efficient edge models (e.g., Liquid Foundation Models) for high-privacy or low-latency tasks.
+3. **Formulate Agentic Safeguards:** Before deploying autonomous or agentic workflows internally, establish clear security and operational boundaries to mitigate potential unauthorized computer actions.
