@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 18:42:13
+Last Updated: 2026-08-07 19:45:50
 
-*   **Astra:** OpenAI’s project name for a multimodal AI agent capable of seeing, hearing, and taking actions in real-time.
-*   **GPT-5.6 Sol:** A high-accuracy, "performance-tuned" version of OpenAI’s latest model series.
-*   **GPT-5.6 Luna:** A lightweight, high-speed version of the model optimized for efficiency and wide-scale use.
-*   **LFM (Liquid Foundation Model):** A type of AI architecture designed by Liquid AI that is more fluid and efficient at processing sequential data than traditional Transformers.
-*   **Inference Provider:** A service or company that provides the hardware and software environment to "run" an AI model so users can get responses.
-*   **Edge AI:** Running AI models directly on a local device (like a phone or a robot) rather than on a central server in the cloud.
-*   **GPU Orchestration:** The process of automatically managing and assigning computer chips (GPUs) to different tasks to ensure none are sitting idle.
+*   **Astra:** OpenAI’s internal framework/project name for evaluating and managing critical model capabilities, specifically in cybersecurity.
+*   **GPT-5.6 Sol/Luna:** The latest iteration of OpenAI models; "Sol" likely refers to the high-performance tier, while "Luna" refers to the high-availability/efficiency tier.
+*   **Inference Provider:** A service that hosts and runs AI models so that users can access them via an API without managing their own hardware.
+*   **LFM (Liquid Foundation Model):** A type of neural architecture (developed by LiquidAI) designed for continuous time-series data and high efficiency compared to traditional Transformers.
+*   **Scaffolding (AI Tutoring):** A pedagogical method where the AI provides minimal support to help a student reach a solution, rather than giving the answer directly.
+*   **Idle GPUs:** Computer processing units that are powered on and reserved but not currently performing calculations, leading to wasted operational costs.
+*   **Generative Simulation:** Using AI to create realistic, dynamic 3D environments used to train robots or autonomous systems.
