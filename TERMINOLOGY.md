@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 01:00:10
+Last Updated: 2026-08-08 02:57:18
 
-- **Inference Provider:** A service or infrastructure that hosts and runs an AI model so that users can get responses from it.
-- **LFM (Liquid Foundation Model):** A type of AI architecture designed to be highly efficient and capable of processing sequences of data with less computational power than standard models.
-- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Astra).
-- **Agentic Behavior:** The ability of an AI to take actions, use tools, and complete multi-step goals autonomously.
-- **GPU Orchestration:** The process of managing and distributing workloads across multiple Graphics Processing Units to ensure maximum efficiency.
-- **Scaffolding (AI Tutoring):** A method where AI provides just enough help for a human to learn a concept, rather than providing the final answer immediately.
+*   **Project Astra:** OpenAI’s vision for a universal, multimodal AI agent that can see, hear, and remember in real-time.
+*   **GPT-5.6 Sol/Luna:** Recent iterations of OpenAI’s models; Sol focuses on high-precision tasks, while Luna is optimized for speed and general accessibility.
+*   **Inference Provider:** A service that hosts and runs AI models so users can access them via API without managing hardware.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture that is more efficient at processing sequential data and can be shrunk to small sizes for mobile/local use.
+*   **Scaffolding:** An instructional technique where AI provides just enough support for a user to solve a problem themselves, rather than doing it for them.
+*   **World Model:** An AI that understands and can simulate the physical laws and visual reality of an environment (e.g., a surgical theater).
