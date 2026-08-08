@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 18:24:55
+Last Updated: 2026-08-08 19:22:40
 
-*   **Astra:** OpenAI’s latest frontier model capable of advanced reasoning and real-world interaction.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed by Liquid AI that is optimized for efficiency and local deployment.
-*   **Inference Provider:** A service that hosts AI models so that they can be "queried" or used by end-users.
-*   **Generative Simulation:** Using AI to create realistic, interactive environments for training robots or humans.
-*   **Agentic Behavior:** When an AI takes independent steps to complete a multi-stage goal rather than just answering a single prompt.
-*   **Scaffolding:** An educational technique where an AI provides just enough help to a student to keep them moving toward a solution without giving the answer away.
+- **Astra:** OpenAI's project name for advanced, multi-modal AI agents capable of seeing and reasoning in real-time.
+- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+- **Liquid Foundation Models (LFM):** A type of AI architecture designed to be more efficient and adaptable than standard Transformers, often used for time-series or edge computing.
+- **Generative Simulation:** The use of AI to create dynamic, 3D environments for training other AI or robots.
+- **Red-Teaming:** The practice of rigorously testing an AI system for vulnerabilities or harmful outputs by acting as an adversary.
+- **Edge AI:** Running AI algorithms directly on a local device (like a smartphone or sensor) rather than a centralized cloud server.
