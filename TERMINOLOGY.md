@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 07:41:29
+Last Updated: 2026-08-08 08:30:21
 
-- **Astra:** OpenAI’s project name for advanced, multimodal, and agentic AI capabilities.
-- **GPT-5.6 Sol/Luna:** The latest iterative updates to the GPT-5.x architecture; Sol is optimized for consistency/accuracy, while Luna is designed for speed and accessibility.
-- **Agentic AI:** AI that can proactively complete tasks, use tools, and make decisions to achieve a goal, rather than just generating text.
-- **Liquid Foundation Models (LFM):** A type of AI architecture designed by Liquid AI that is more efficient and adaptable than traditional Transformers, especially for time-series data or edge devices.
-- **Inference Provider:** A service (like Baseten) that hosts and runs AI models so developers don't have to manage the underlying hardware.
-- **Scaffolding:** An educational technique where a teacher (or AI) provides temporary support to a student, gradually removing it as the student masters the task.
+*   **GPT-5.6 Sol:** A specific version of the GPT model optimized for high accuracy and consistency in professional tasks.
+*   **GPT-5.6 Luna:** A version of the model designed for high-speed, everyday interaction, now available to free users.
+*   **Astra:** OpenAI’s internal designation for a high-reasoning model being tested for cybersecurity capabilities.
+*   **Edge Agents:** AI programs that run locally on a device (like a phone or laptop) rather than on a remote server.
+*   **Generative Simulation:** Using AI to create realistic, dynamic environments (like a digital twin of a human body) for training robots.
+*   **Productive Struggle:** A learning concept where an AI tutor intentionally allows a student to struggle with a problem to build deeper understanding.
+*   **Inference Provider:** A service (like Baseten) that provides the hardware and software needed to "run" an AI model so it can respond to requests.
+*   **Idle GPUs:** Graphics processing units that are powered on but not currently processing data, leading to wasted financial resources.
