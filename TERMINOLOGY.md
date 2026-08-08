@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 13:39:25
+Last Updated: 2026-08-08 14:24:05
 
-*   **Astra:** OpenAI's project name for a multimodal AI agent capable of seeing, hearing, and taking action in real-time.
-*   **Agentic AI:** AI systems that can independently plan and execute tasks to achieve a goal, rather than just generating text.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed for high efficiency and adaptability, often capable of running on smaller, local hardware.
-*   **Generative Simulation:** Using AI to create realistic, dynamic virtual environments (like a digital surgery room) for training or testing.
-*   **Inference Provider:** A service that hosts and runs AI models so developers can access them via an API without managing their own servers.
-*   **GPU Idleness:** The state where expensive Graphics Processing Units are powered on but not performing computations, leading to financial waste.
-*   **Scaffolding:** An educational technique where a teacher (or AI) provides temporary support that is gradually removed as the student gains mastery.
+*   **Astra:** OpenAI’s internal project name for a high-capability AI agent system.
+*   **GPT-5.6 Sol:** A professional-grade model optimized for high accuracy, consistency, and reasoning.
+*   **GPT-5.6 Luna:** A lightweight, high-speed model optimized for everyday tasks and consumer-level access.
+*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+*   **GPU Idle Time:** The period during which expensive Graphics Processing Units are powered on but not performing computations, leading to financial waste.
+*   **LFM (Liquid Foundation Models):** A type of AI architecture (by LiquidAI) designed for efficiency and better performance on sequential data.
+*   **Generative Simulation:** Using AI to create realistic, interactive digital environments for training robots or testing systems.
+*   **Edge AI:** Running AI algorithms locally on a device (like a phone or robot) rather than on a remote cloud server.
