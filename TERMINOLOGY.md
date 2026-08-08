@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 15:21:52
+Last Updated: 2026-08-08 16:22:32
 
-- **GPT-5.6 Sol/Luna:** The latest iterative versions of OpenAI’s language models, with "Sol" focused on high-end performance and "Luna" on speed and accessibility.
-- **Astra:** A project name/framework at OpenAI focused on advanced capabilities and safety evaluations.
-- **LFM (Liquid Foundation Model):** A type of AI architecture designed for high efficiency and handling sequential data, often outperforming traditional models at smaller sizes.
-- **Inference:** The process of running a trained AI model to get a result or prediction (essentially "using" the AI).
-- **Agentic AI:** AI that has the capacity to take actions, use tools, and complete multi-step goals with minimal human intervention.
-- **GPU (Graphics Processing Unit):** The specialized computer chips required to train and run modern AI models.
-- **Scaffolding:** An educational technique where a teacher (or AI) provides support to a student, gradually removing it as the student masters the task.
-- **Generative Simulation:** Using AI to create "synthetic" video or environments that look and behave like the real world.
+*   **Astra:** An OpenAI project focused on advanced model capabilities, specifically monitored for cybersecurity implications.
+*   **GPT-5.6 Sol:** A high-performance iteration of the GPT-5.6 model family optimized for accuracy and consistency.
+*   **GPT-5.6 Luna:** A version of the GPT-5.6 model optimized for speed and high-volume usage, available to free users.
+*   **Agentic AI:** AI systems that don't just process text but can use tools, browse the web, and complete multi-step tasks autonomously.
+*   **LFM (Liquid Foundation Model):** A type of model architecture designed by LiquidAI for high efficiency and continuous data processing.
+*   **Inference Provider:** A service or company that provides the hardware and software environment to "run" an AI model so it can respond to queries.
+*   **Scaffolding:** An educational technique where an instructor (or AI) provides temporary support to a learner, gradually removing it as the learner gains mastery.
+*   **Generative Simulation:** Using generative AI to create realistic, synthetic environments for training other AI systems or robots.
