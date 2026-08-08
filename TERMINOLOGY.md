@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-07 23:26:33
+Last Updated: 2026-08-08 01:00:10
 
-*   **GPT-5.6 Sol:** A specific version of OpenAI's model optimized for high accuracy and professional consistency.
-*   **GPT-5.6 Luna:** A version of OpenAI's model optimized for speed and broad availability for the general public.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed for flexibility and efficiency, often used for continuous data streams or edge devices.
-*   **Small-Parameter Models (e.g., 2.6B):** AI models with fewer "variables" (parameters) that can run on consumer hardware like laptops or phones.
-*   **Inference Provider:** A service or company that provides the hardware and software environment to "run" an AI model so users can interact with it.
-*   **Generative Simulation:** Using AI to create realistic, 3D environments that can be used to train other AI systems or robots.
-*   **Scaffolding (AI):** A teaching method where the AI provides just enough support for a user to solve a problem themselves, rather than doing it for them.
+- **Inference Provider:** A service or infrastructure that hosts and runs an AI model so that users can get responses from it.
+- **LFM (Liquid Foundation Model):** A type of AI architecture designed to be highly efficient and capable of processing sequences of data with less computational power than standard models.
+- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Astra).
+- **Agentic Behavior:** The ability of an AI to take actions, use tools, and complete multi-step goals autonomously.
+- **GPU Orchestration:** The process of managing and distributing workloads across multiple Graphics Processing Units to ensure maximum efficiency.
+- **Scaffolding (AI Tutoring):** A method where AI provides just enough help for a human to learn a concept, rather than providing the final answer immediately.

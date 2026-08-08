@@ -1,22 +1,24 @@
 # AI Action Board
 
-Last Updated: 2026-08-07 23:26:33
+Last Updated: 2026-08-08 01:00:10
 
-1.  **Evaluate Compute Efficiency:** Audit internal GPU usage to ensure that resources are not sitting idle, utilizing tools like those from Dharma-AI.
-2.  **Pilot GPT-5.6 Sol:** Transition high-accuracy departments (Engineering/Legal) to the Sol model to take advantage of its increased consistency.
-3.  **Local AI Exploration:** Investigate the use of LiquidAI’s 2.6B models for mobile or sensitive data tasks that require local processing.
+1.  **Infrastructure Audit:** Review GPU utilization rates to ensure compute resources are not being wasted.
+2.  **Edge AI Pilot:** Explore the use of small-scale models (like LFM 2.5B) for privacy-sensitive internal tasks that don't require cloud connectivity.
+3.  **Ethics Compliance:** Align internal AI usage policies with the emerging APA guidelines, especially for products interfacing with younger users.
+4.  **Workflow Transformation:** Shift internal AI strategy from "Search/Q&A" to "Agentic Workflows" to capture the productivity gains seen in recent global usage trends.
 
 ## Technology Trends
-1.  **The Shift to "Doing":** AI is evolving from a chatbot interface (answering) to an "agentic" interface (executing tasks).
-2.  **Parameter Efficiency:** There is a "race to the bottom" regarding model size; developers are finding ways to squeeze more intelligence into smaller models (2.6B parameters) for edge computing.
-3.  **Generative Simulation:** Using AI to create training data for physical robots (Digital Twins) is becoming the standard for training AI in hardware.
+
+- **Edge AI/Local Models:** Moving away from massive cloud-only models toward smaller, efficient models that run on local hardware.
+- **Agentic AI:** AI that can execute tasks and use tools rather than just predicting the next word in a sentence.
+- **Generative Simulation:** Using AI to build realistic, real-time environments for training robots and autonomous systems.
+- **Verticalization:** AI models and interfaces tailored specifically for niche professional fields like tax, law, and medicine.
 
 ## Terminology
 
-*   **GPT-5.6 Sol:** A specific version of OpenAI's model optimized for high accuracy and professional consistency.
-*   **GPT-5.6 Luna:** A version of OpenAI's model optimized for speed and broad availability for the general public.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed for flexibility and efficiency, often used for continuous data streams or edge devices.
-*   **Small-Parameter Models (e.g., 2.6B):** AI models with fewer "variables" (parameters) that can run on consumer hardware like laptops or phones.
-*   **Inference Provider:** A service or company that provides the hardware and software environment to "run" an AI model so users can interact with it.
-*   **Generative Simulation:** Using AI to create realistic, 3D environments that can be used to train other AI systems or robots.
-*   **Scaffolding (AI):** A teaching method where the AI provides just enough support for a user to solve a problem themselves, rather than doing it for them.
+- **Inference Provider:** A service or infrastructure that hosts and runs an AI model so that users can get responses from it.
+- **LFM (Liquid Foundation Model):** A type of AI architecture designed to be highly efficient and capable of processing sequences of data with less computational power than standard models.
+- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Astra).
+- **Agentic Behavior:** The ability of an AI to take actions, use tools, and complete multi-step goals autonomously.
+- **GPU Orchestration:** The process of managing and distributing workloads across multiple Graphics Processing Units to ensure maximum efficiency.
+- **Scaffolding (AI Tutoring):** A method where AI provides just enough help for a human to learn a concept, rather than providing the final answer immediately.
