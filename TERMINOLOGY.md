@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 08:30:21
+Last Updated: 2026-08-08 09:29:20
 
-*   **GPT-5.6 Sol:** A specific version of the GPT model optimized for high accuracy and consistency in professional tasks.
-*   **GPT-5.6 Luna:** A version of the model designed for high-speed, everyday interaction, now available to free users.
-*   **Astra:** OpenAI’s internal designation for a high-reasoning model being tested for cybersecurity capabilities.
-*   **Edge Agents:** AI programs that run locally on a device (like a phone or laptop) rather than on a remote server.
-*   **Generative Simulation:** Using AI to create realistic, dynamic environments (like a digital twin of a human body) for training robots.
-*   **Productive Struggle:** A learning concept where an AI tutor intentionally allows a student to struggle with a problem to build deeper understanding.
-*   **Inference Provider:** A service (like Baseten) that provides the hardware and software needed to "run" an AI model so it can respond to requests.
-*   **Idle GPUs:** Graphics processing units that are powered on but not currently processing data, leading to wasted financial resources.
+*   **Astra:** A code name for OpenAI’s advanced, multi-modal, and potentially agentic AI research project.
+*   **GPT-5.6 Sol/Luna:** The latest iterations of OpenAI's models; "Sol" is optimized for accuracy, "Luna" for speed and accessibility.
+*   **Agentic AI:** AI that can perform multi-step tasks and make decisions autonomously rather than just answering questions.
+*   **Inference Providers:** Services that host and run AI models so developers can access them via an API.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture designed to be more flexible and efficient than traditional Transformers, especially for time-series or edge computing.
+*   **GPU Idle Time:** The period when expensive graphics processing units are powered on but not performing computations, leading to financial waste.
+*   **Generative Simulation:** Using AI to create realistic, 3D virtual environments for training robots or testing software.
