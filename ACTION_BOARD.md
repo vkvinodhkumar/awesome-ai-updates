@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-08 14:24:05
+Last Updated: 2026-08-08 15:21:52
 
-1.  **Audit Compute Spend:** Evaluate current GPU utilization to identify "idle" waste.
-2.  **Pilot Edge Agents:** Test LiquidAI’s small models for internal tools that handle sensitive data.
-3.  **Update Security Protocols:** Review cybersecurity safeguards in light of the new "Astra" evaluations.
-4.  **Integrate Sol/Luna:** Update internal ChatGPT licenses to utilize the Sol model for high-accuracy financial or legal reporting.
+1.  **Upgrade Workflow:** Evaluate the GPT-5.6 Sol model for complex internal analytical tasks.
+2.  **Audit Compute:** Review current cloud and GPU usage to eliminate "grounded" (idle) capacity.
+3.  **Implement Local Agents:** Pilot the LFM 2.5 model for tasks requiring high data privacy or offline capabilities.

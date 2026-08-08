@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 14:24:05
+Last Updated: 2026-08-08 15:21:52
 
-*   **Astra:** OpenAI’s internal project name for a high-capability AI agent system.
-*   **GPT-5.6 Sol:** A professional-grade model optimized for high accuracy, consistency, and reasoning.
-*   **GPT-5.6 Luna:** A lightweight, high-speed model optimized for everyday tasks and consumer-level access.
-*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
-*   **GPU Idle Time:** The period during which expensive Graphics Processing Units are powered on but not performing computations, leading to financial waste.
-*   **LFM (Liquid Foundation Models):** A type of AI architecture (by LiquidAI) designed for efficiency and better performance on sequential data.
-*   **Generative Simulation:** Using AI to create realistic, interactive digital environments for training robots or testing systems.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or robot) rather than on a remote cloud server.
+- **GPT-5.6 Sol/Luna:** The latest iterative versions of OpenAI’s language models, with "Sol" focused on high-end performance and "Luna" on speed and accessibility.
+- **Astra:** A project name/framework at OpenAI focused on advanced capabilities and safety evaluations.
+- **LFM (Liquid Foundation Model):** A type of AI architecture designed for high efficiency and handling sequential data, often outperforming traditional models at smaller sizes.
+- **Inference:** The process of running a trained AI model to get a result or prediction (essentially "using" the AI).
+- **Agentic AI:** AI that has the capacity to take actions, use tools, and complete multi-step goals with minimal human intervention.
+- **GPU (Graphics Processing Unit):** The specialized computer chips required to train and run modern AI models.
+- **Scaffolding:** An educational technique where a teacher (or AI) provides support to a student, gradually removing it as the student masters the task.
+- **Generative Simulation:** Using AI to create "synthetic" video or environments that look and behave like the real world.
