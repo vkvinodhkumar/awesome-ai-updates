@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 02:57:18
+Last Updated: 2026-08-08 04:07:12
 
-*   **Project Astra:** OpenAI’s vision for a universal, multimodal AI agent that can see, hear, and remember in real-time.
-*   **GPT-5.6 Sol/Luna:** Recent iterations of OpenAI’s models; Sol focuses on high-precision tasks, while Luna is optimized for speed and general accessibility.
-*   **Inference Provider:** A service that hosts and runs AI models so users can access them via API without managing hardware.
-*   **LFM (Liquid Foundation Model):** A type of AI architecture that is more efficient at processing sequential data and can be shrunk to small sizes for mobile/local use.
-*   **Scaffolding:** An instructional technique where AI provides just enough support for a user to solve a problem themselves, rather than doing it for them.
-*   **World Model:** An AI that understands and can simulate the physical laws and visual reality of an environment (e.g., a surgical theater).
+*   **Astra:** The codename for OpenAI’s project focused on advanced, agentic, and multimodal capabilities.
+*   **Agentic AI:** AI that can plan, use tools, and execute multi-step tasks to achieve a specific goal autonomously.
+*   **Edge AI:** Running AI models locally on a device (phone, laptop, robot) rather than on a remote server.
+*   **Scaffolding:** An educational technique where the AI provides just enough support for a student to solve a problem, rather than giving the answer.
+*   **Generative Simulation:** Using AI to create realistic virtual environments for training robots or testing software.
+*   **Inference Provider:** A service or company that hosts AI models so they can be accessed and used by applications.
