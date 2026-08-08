@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-08 11:21:20
+Last Updated: 2026-08-08 12:30:15
 
-1.  **Audit Compute Spend:** Evaluate current GPU utilization to ensure assets are not "grounded."
-2.  **Pilot Agentic Workflows:** Move beyond "chat" pilots and begin testing AI for task execution (e.g., automated tax prep or documentation).
-3.  **Security Review:** If implementing agents, review OpenAI’s Astra cybersecurity framework to update internal safety protocols.
+1.  **Compute Audit:** Evaluate current GPU/Cloud usage to ensure "idle time" is minimized.
+2.  **Privacy-First Agents:** Explore LFM (Liquid Foundation Models) for internal tasks that require high data privacy.
+3.  **Safety Compliance:** Review all youth-facing or customer-facing AI interactions against the new APA-style safety guidelines.
