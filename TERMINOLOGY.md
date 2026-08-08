@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-08 16:22:32
+Last Updated: 2026-08-08 17:22:17
 
-*   **Astra:** An OpenAI project focused on advanced model capabilities, specifically monitored for cybersecurity implications.
-*   **GPT-5.6 Sol:** A high-performance iteration of the GPT-5.6 model family optimized for accuracy and consistency.
-*   **GPT-5.6 Luna:** A version of the GPT-5.6 model optimized for speed and high-volume usage, available to free users.
-*   **Agentic AI:** AI systems that don't just process text but can use tools, browse the web, and complete multi-step tasks autonomously.
-*   **LFM (Liquid Foundation Model):** A type of model architecture designed by LiquidAI for high efficiency and continuous data processing.
-*   **Inference Provider:** A service or company that provides the hardware and software environment to "run" an AI model so it can respond to queries.
-*   **Scaffolding:** An educational technique where an instructor (or AI) provides temporary support to a learner, gradually removing it as the learner gains mastery.
-*   **Generative Simulation:** Using generative AI to create realistic, synthetic environments for training other AI systems or robots.
+*   **Astra:** A codename for OpenAI’s advanced project focusing on multimodal and potentially autonomous capabilities.
+*   **GPT-5.6 Sol/Luna:** The latest incremental versions of OpenAI's models, optimized for accuracy (Sol) and broad availability (Luna).
+*   **Inference Provider:** A service that hosts and runs an AI model so users can get responses from it without managing the underlying hardware.
+*   **LFM (Liquid Foundation Model):** A type of AI model architecture designed for efficiency and continuous-time data processing, often used for edge devices.
+*   **GPU Idleness:** A metric measuring the time a Graphics Processing Unit sits without processing tasks; high idleness indicates wasted operational costs.
+*   **Scaffolding:** A teaching technique where the AI provides just enough support for a user to solve a problem themselves, rather than giving the answer immediately.
+*   **Generative Simulation:** Using AI to create realistic, dynamic environments for training robots or testing systems.
