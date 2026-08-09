@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-09 16:24:32
+Last Updated: 2026-08-09 17:23:51
 
-1.  **Audit Compute Spend:** Implement GPU management protocols to ensure high utilization of existing hardware.
-2.  **Evaluate "Agent" Readiness:** Begin pilot programs for multi-step agentic workflows in administrative and client-facing departments.
-3.  **Review Safety Compliance:** Align AI implementation with the new APA/OpenAI youth mental health guidelines if developing consumer-facing tools.
+1. **Audit GPU Utilization:** Conduct an immediate infrastructure review to measure and minimize GPU idle times using modern orchestration platforms.
+2. **Standardize Agentic Safeguards:** Before deploying autonomous system agents, establish a strict testing protocol based on emerging industry benchmarks (such as OpenAI's Astra cyber-evaluations).
+3. **Explore Edge AI Deployment:** Task the engineering team with benchmarking small language models (SLMs) under 3 billion parameters for non-sensitive local tasks to reduce external API dependency.
