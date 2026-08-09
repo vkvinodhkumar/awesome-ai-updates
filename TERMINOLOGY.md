@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-09 17:23:51
+Last Updated: 2026-08-09 18:27:33
 
-- **Agentic AI (AI Agents):** AI systems designed to act autonomously, make decisions, use tools, and complete multi-step tasks without human intervention at every step.
-- **Inference:** The phase in which a trained AI model processes new, incoming data to generate an output or make a prediction (as opposed to the "training" phase).
-- **Small Language Models (SLMs):** Lightweight language models (typically under 10 billion parameters) that require significantly less computational power to run, making them ideal for local or edge deployment.
-- **Liquid Foundation Model (LFM):** A class of highly adaptable neural networks designed to process sequential data dynamically and with extreme computational efficiency.
-- **Generative Simulation (World Models):** Using generative AI to simulate physically accurate virtual environments where robots or software can practice real-world actions safely.
-- **GPU Duty Cycle / GPU Utilization:** A metric measuring the percentage of time that graphics processors are actively executing AI calculations versus sitting idle.
+- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+- **Agentic AI:** AI systems designed to autonomously perform tasks or follow multi-step instructions to achieve a goal.
+- **GPU Orchestration:** Software that manages how graphics processing units (the "brains" of AI) are used to ensure they are always busy and never wasted.
+- **LFM (Liquid Foundation Model):** A type of AI model designed to be highly efficient and adaptable, often capable of running on smaller hardware.
+- **Edge AI:** Running AI algorithms locally on a device (like a phone or a factory sensor) instead of on a distant cloud server.
+- **Scaffolding (AI Pedagogy):** A technique where an AI provides just enough help to a student to bridge the gap between what they can do alone and what they can't.
