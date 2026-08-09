@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-09 09:30:53
+Last Updated: 2026-08-09 10:24:10
 
-*   **Astra:** OpenAI’s framework for agentic systems capable of interacting with the physical world or complex digital environments.
-*   **GPT-5.6 Sol:** A specialized version of OpenAI's latest model optimized for accuracy, consistency, and professional-grade tasks.
-*   **GPT-5.6 Luna:** A lightweight, high-speed version of the GPT-5.6 architecture designed for high-volume consumer use.
-*   **LFM (Liquid Foundation Model):** A type of AI model architecture (pioneered by LiquidAI) that is highly efficient at processing sequential data and can run on limited hardware.
-*   **Inference:** The process of a trained AI model actually running and providing an output to a user.
-*   **Scaffolding:** An educational technique where an AI provides just enough support for a student to solve a problem themselves, rather than giving the answer.
-*   **Idle GPU:** A graphics processing unit that is powered on and costing money but not currently performing calculations.
+- **Astra:** OpenAI’s multimodal AI agent designed to see, hear, and interact with the physical and digital world in real-time.
+- **GPT-5.6 Sol:** A specialized version of OpenAI's latest model optimized for high accuracy, consistency, and reliability.
+- **GPT-5.6 Luna:** A version of the model optimized for speed and high-volume usage, often available for free or high-frequency chat.
+- **Inference Provider:** A service (like Baseten) that provides the hardware and software infrastructure to "run" an AI model so users can get responses.
+- **Liquid Foundation Model (LFM):** A type of AI architecture (developed by LiquidAI) that is designed to be more fluid and efficient than traditional Transformers, especially for time-series data or edge devices.
+- **Pedagogical Intelligence:** The ability of an AI (specifically an AI tutor) to understand the best way to teach, including when to withhold information to encourage student growth.
+- **GPU Management:** The logistical process of ensuring that Graphics Processing Units (the chips that power AI) are being used efficiently and not sitting idle.
