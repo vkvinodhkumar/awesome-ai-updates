@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-09 18:27:33
+Last Updated: 2026-08-09 19:26:20
 
-- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
-- **Agentic AI:** AI systems designed to autonomously perform tasks or follow multi-step instructions to achieve a goal.
-- **GPU Orchestration:** Software that manages how graphics processing units (the "brains" of AI) are used to ensure they are always busy and never wasted.
-- **LFM (Liquid Foundation Model):** A type of AI model designed to be highly efficient and adaptable, often capable of running on smaller hardware.
-- **Edge AI:** Running AI algorithms locally on a device (like a phone or a factory sensor) instead of on a distant cloud server.
-- **Scaffolding (AI Pedagogy):** A technique where an AI provides just enough help to a student to bridge the gap between what they can do alone and what they can't.
+- **Agentic AI:** AI systems designed to act autonomously by planning, utilizing external software tools, and executing complex, multi-step workflows over time to achieve a specified goal without constant human intervention.
+- **Liquid Foundation Models (LFMs):** A novel class of neural network architectures (pioneered by Liquid AI) that excel at sequential data processing. Unlike traditional Transformers, they can dynamically adapt their behavior at run-time and are highly efficient on smaller hardware footprints.
+- **GPU Orchestration:** The automated management, scheduling, and distribution of computational workloads across Graphics Processing Units (GPUs) to maximize efficiency and minimize idle time.
+- **Physical AI:** Artificial intelligence designed to perceive, comprehend, simulate, and physically interact with the real, three-dimensional world (crucial for robotics and autonomous vehicles).
+- **Pedagogical Scaffolding:** An educational technique where an instructor (or AI) provides temporary, structured support to a learner, gradually removing that support as the student gains competence, rather than simply providing the answers.
