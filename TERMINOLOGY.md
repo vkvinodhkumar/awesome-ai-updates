@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-09 08:32:31
+Last Updated: 2026-08-09 09:30:53
 
-- **Astra:** A framework or model series by OpenAI focused on advanced capabilities (often associated with agentic or multi-modal tasks).
-- **LFM (Liquid Foundation Model):** A new type of AI architecture (different from standard Transformers) that is more efficient at processing sequential data and can run on smaller hardware.
-- **Inference:** The process of a trained AI model actually running and providing an answer or output.
-- **Edge AI:** AI that runs locally on a device (like a phone or a factory sensor) rather than on a remote server.
-- **Red-Teaming:** A security exercise where ethical hackers try to find ways to make an AI model behave badly or bypass its rules.
-- **Desirable Difficulty:** A learning science concept where making a task slightly harder for a student actually helps them remember the information better in the long run.
+*   **Astra:** OpenAI’s framework for agentic systems capable of interacting with the physical world or complex digital environments.
+*   **GPT-5.6 Sol:** A specialized version of OpenAI's latest model optimized for accuracy, consistency, and professional-grade tasks.
+*   **GPT-5.6 Luna:** A lightweight, high-speed version of the GPT-5.6 architecture designed for high-volume consumer use.
+*   **LFM (Liquid Foundation Model):** A type of AI model architecture (pioneered by LiquidAI) that is highly efficient at processing sequential data and can run on limited hardware.
+*   **Inference:** The process of a trained AI model actually running and providing an output to a user.
+*   **Scaffolding:** An educational technique where an AI provides just enough support for a student to solve a problem themselves, rather than giving the answer.
+*   **Idle GPU:** A graphics processing unit that is powered on and costing money but not currently performing calculations.
