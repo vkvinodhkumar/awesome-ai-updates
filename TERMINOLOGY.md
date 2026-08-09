@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-09 22:21:24
+Last Updated: 2026-08-09 23:23:10
 
-- **Astra:** A frontier OpenAI model focused on advanced reasoning and potentially agentic or multimodal capabilities.
-- **GPT-5.6 Sol/Luna:** The latest iterative versions of OpenAI’s Large Language Models (Sol likely being high-performance, Luna being optimized for speed/access).
-- **LFM (Liquid Foundation Model):** A type of AI architecture designed for efficiency and adaptability, often requiring less memory than traditional transformers.
-- **Inference Provider:** A service that hosts and runs an AI model so that others can use it via the internet.
-- **Generative Simulation:** Using AI to create realistic digital environments where robots or humans can practice complex tasks (like surgery).
-- **Scaffolding:** An educational technique where an AI provides just enough support for a student to solve a problem on their own, rather than doing it for them.
-- **Edge AI:** AI that processes data on the local device (phone/laptop) rather than in a distant data center.
+- **Astra:** An OpenAI project/model focused on advanced capabilities, currently undergoing cybersecurity evaluation.
+- **GPT-5.6 Sol/Luna:** The latest iterations of OpenAI's language models, optimized for accuracy (Sol) and broad accessibility (Luna).
+- **Inference Provider:** A service that provides the hardware and software environment to "run" an AI model so it can respond to prompts.
+- **LFM (Liquid Foundation Model):** A type of AI architecture designed to be highly efficient and adaptable, often capable of running on smaller devices.
+- **Edge AI:** Running AI processes locally on a device (like a phone or a robot) rather than on a distant cloud server.
+- **GPU Utilization:** A metric showing how much of a Graphics Processing Unit's power is actually being used for work versus sitting idle.
+- **Generative Simulation:** Using AI to create realistic, dynamic environments (like a virtual operating room) for training purposes.
