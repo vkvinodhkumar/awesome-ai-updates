@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-09 13:42:42
+Last Updated: 2026-08-09 14:26:22
 
-1. **Audit Infrastructure:** Evaluate GPU utilization rates to ensure compute spend is optimized.
-2. **Review AI Safety:** For firms using "agentic" capabilities, implement the safeguards suggested in OpenAI’s Astra evaluations.
-3. **Explore Local Models:** Pilot the use of small foundation models (LFMs) for tasks involving sensitive data that cannot leave the local network.
+1.  **Audit Compute Spend:** Review GPU utilization rates to ensure hardware is not sitting idle.
+2.  **Pilot GPT-5.6 Sol:** Test the new Sol model against current workflows to see if the increased accuracy justifies potential cost changes.
+3.  **Explore Local Agents:** Evaluate LiquidAI’s LFM models for departments handling highly sensitive data where cloud access is restricted.
+4.  **Review Safety Protocols:** Align internal AI usage policies with the new APA/OpenAI guidelines on responsible AI.
