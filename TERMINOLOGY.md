@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-09 01:03:56
+Last Updated: 2026-08-09 03:25:43
 
-*   **GPT-5.6 Sol/Luna:** The latest iterations of OpenAI's language models, with "Sol" focused on high-tier reasoning and "Luna" focused on efficiency and accessibility.
-*   **Astra:** OpenAI's project focused on developing and testing advanced cybersecurity safeguards for AI.
-*   **LFM (Liquid Foundation Model):** A type of AI architecture (distinct from Transformers) designed for efficiency and continuous data processing, often better for "edge" (local) devices.
-*   **GPU Orchestration:** The process of managing and allocating graphics processing units to ensure they are always working and never sitting idle.
-*   **Generative Simulation:** Using AI to generate a synthetic, interactive environment (like a digital operating room) for training other AI or robots.
-*   **Inference Provider:** A service that hosts an AI model and provides the computing power needed to process requests (answers) from users.
+*   **Astra:** OpenAI’s multimodal agent project capable of seeing, hearing, and taking action on a computer.
+*   **GPT-5.6 Sol/Luna:** The latest iterations of OpenAI models; "Sol" focuses on high-accuracy reasoning, while "Luna" is the accessible, high-speed version.
+*   **Inference Provider:** A service that hosts and runs AI models so that users can access them via the cloud.
+*   **LFM (Liquid Foundation Model):** A type of AI model designed for continuous data streams and efficient processing, often used for local or edge computing.
+*   **GPU Idle Time:** The period during which expensive graphics processing units are powered on but not performing computations, leading to financial waste.
+*   **Generative Simulation:** Using AI to create realistic, dynamic environments (like a human body for surgery) to train other systems.
+*   **Scaffolding (AI Education):** An instructional technique where the AI provides just enough support for a student to succeed, gradually removing help as they learn.
