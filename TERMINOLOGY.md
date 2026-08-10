@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 03:45:17
+Last Updated: 2026-08-10 05:17:59
 
-- **Agentic AI:** AI that can use tools, browse the web, and execute tasks autonomously to achieve a goal.
-- **Inference:** The process of a trained AI model making a prediction or generating content based on new data.
-- **LFM (Liquid Foundation Model):** A type of AI model designed to be highly efficient and adaptable, often capable of running on smaller hardware.
-- **GPU Orchestration:** The management of computer chips (GPUs) to ensure they are being used effectively and not wasting electricity or money while idle.
-- **Generative Simulation:** Using AI to create realistic, 3D interactive environments for training robots or humans.
-- **Sol/Luna:** OpenAI’s latest model designations, where Sol represents high-performance "Sun" power and Luna represents a lighter "Moon" version.
+*   **GPT-5.6 Sol/Luna:** Specific versions of OpenAI’s latest model series; "Sol" is the high-performance variant, while "Luna" is the efficiency-optimized variant.
+*   **Agentic AI:** AI that can use tools, browse the web, and perform multi-step actions to complete a goal, rather than just generating text.
+*   **Red Teaming:** A security exercise where "ethical hackers" (or AI researchers) attack a system to find vulnerabilities before bad actors do.
+*   **Inference Provider:** A service that hosts and runs trained AI models so that users can get responses (predictions/answers) from them.
+*   **LFM (Liquid Foundation Model):** A type of AI model architecture designed for continuous-time data and high efficiency on smaller hardware.
+*   **Generative Simulation:** Using AI to create realistic, dynamic digital environments (like a digital twin of a surgery) for training purposes.
+*   **Scaffolding (AI Education):** A method where an AI provides hints or support to a learner, gradually removing that support as the learner becomes more proficient.
