@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 17:44:42
+Last Updated: 2026-08-10 18:44:27
 
-- **Knowledge Distillation:** The process of "teaching" a smaller, faster AI model using the data and outputs of a larger, smarter model.
-- **Agentic:** The ability of an AI to not just generate text, but to perform actions (like clicking buttons or creating files) to achieve a goal.
-- **TTS (Text-to-Speech):** Technology that converts written text into human-sounding spoken audio.
-- **Open Weights:** A middle ground in AI where the internal "settings" of a model are public, allowing others to run it on their own hardware.
-- **Inference Provider:** A service/company that provides the computer power (GPUs) necessary to run an AI model for users.
-- **Multimodal:** An AI's ability to process and understand multiple types of input, such as text, images, and audio, simultaneously.
+- **GPT-5.6 Sol/Cyber:** Specialized versions of OpenAI’s frontier models optimized for finance (Sol) and security (Cyber).
+- **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large "teacher" model to save on computational costs.
+- **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
+- **Agentic AI:** AI that can independently perform multi-step tasks or interact with software tools to achieve a goal.
+- **Inference Provider:** A service that hosts and runs trained AI models so they can respond to user requests in real-time.
+- **Open Weights:** A middle ground in AI transparency where the model’s "brain" (weights) is shared, but the full training data or code might not be.
+- **Multimodal:** The ability of an AI to process and generate multiple types of data (text, images, audio, video) simultaneously.
