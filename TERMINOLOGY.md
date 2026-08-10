@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 12:49:37
+Last Updated: 2026-08-10 14:15:27
 
-- **Knowledge Distillation:** A process where a large, complex model (the "teacher") trains a smaller, faster model (the "student") to mimic its behavior, making it cheaper to run.
-- **Agentic AI:** AI that can take actions, use tools, and make decisions to complete a goal, rather than just responding to prompts.
-- **Multimodal:** An AI’s ability to process and understand different types of input simultaneously, such as text, images, video, and audio.
-- **Edge AI / Local AI:** Running AI models directly on a user's device (phone, laptop) instead of on a central server in the cloud.
-- **Liquid Foundation Models (LFM):** A type of AI architecture designed to be highly efficient and adaptable, particularly at smaller sizes.
-- **Productive Struggle:** A learning concept where the AI intentionally withholds the answer to help the user learn the process of problem-solving.
+- **GPT-5.6 Sol:** A high-accuracy, reasoning-heavy version of the GPT model designed for complex analysis.
+- **GPT-5.6 Luna:** A lightweight, high-speed version of the GPT model optimized for conversational efficiency.
+- **Knowledge Distillation:** A technique where a small, efficient model (the "student") is trained to mimic the behavior of a large, complex model (the "teacher").
+- **Agentic AI:** AI that can independently perform multi-step tasks and interact with external tools or software rather than just generating text.
+- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+- **Scaffolding:** A pedagogical technique where an instructor (or AI) provides temporary support to a student, gradually removing it as the student masters the concept.
+- **Multimodal:** The ability of an AI to process and relate information from different "modes," such as text, images, video, and audio, at the same time.
