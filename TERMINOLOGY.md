@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 11:51:01
+Last Updated: 2026-08-10 12:49:37
 
-*   **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior and performance of a large "teacher" model to save on computing power.
-*   **Agentic AI:** AI that can act autonomously to achieve a goal, rather than just responding to a single prompt.
-*   **Multimodal:** The ability of an AI to understand and generate different types of data, such as text, images, and video.
-*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
-*   **LFM (Liquid Foundation Model):** A type of AI architecture (by LiquidAI) designed to be more efficient and adaptable than traditional models, especially for time-series or sequential data.
-*   **Astra:** OpenAI’s specific internal framework for evaluating the cybersecurity capabilities and risks of their latest models.
+- **Knowledge Distillation:** A process where a large, complex model (the "teacher") trains a smaller, faster model (the "student") to mimic its behavior, making it cheaper to run.
+- **Agentic AI:** AI that can take actions, use tools, and make decisions to complete a goal, rather than just responding to prompts.
+- **Multimodal:** An AI’s ability to process and understand different types of input simultaneously, such as text, images, video, and audio.
+- **Edge AI / Local AI:** Running AI models directly on a user's device (phone, laptop) instead of on a central server in the cloud.
+- **Liquid Foundation Models (LFM):** A type of AI architecture designed to be highly efficient and adaptable, particularly at smaller sizes.
+- **Productive Struggle:** A learning concept where the AI intentionally withholds the answer to help the user learn the process of problem-solving.
