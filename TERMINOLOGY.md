@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 05:17:59
+Last Updated: 2026-08-10 07:14:37
 
-*   **GPT-5.6 Sol/Luna:** Specific versions of OpenAI’s latest model series; "Sol" is the high-performance variant, while "Luna" is the efficiency-optimized variant.
-*   **Agentic AI:** AI that can use tools, browse the web, and perform multi-step actions to complete a goal, rather than just generating text.
-*   **Red Teaming:** A security exercise where "ethical hackers" (or AI researchers) attack a system to find vulnerabilities before bad actors do.
-*   **Inference Provider:** A service that hosts and runs trained AI models so that users can get responses (predictions/answers) from them.
-*   **LFM (Liquid Foundation Model):** A type of AI model architecture designed for continuous-time data and high efficiency on smaller hardware.
-*   **Generative Simulation:** Using AI to create realistic, dynamic digital environments (like a digital twin of a surgery) for training purposes.
-*   **Scaffolding (AI Education):** A method where an AI provides hints or support to a learner, gradually removing that support as the learner becomes more proficient.
+*   **Astra:** An internal OpenAI project focusing on advanced reasoning and safety testing for high-level capabilities.
+*   **Inference Provider:** A service that hosts AI models on powerful servers so other companies can use them via the internet.
+*   **LFM (Liquid Foundational Model):** A new type of AI architecture (by Liquid AI) that is more efficient at processing data sequences than traditional models.
+*   **GPU (Graphics Processing Unit):** The specialized computer chips required to train and run AI models.
+*   **Edge AI:** Running AI models locally on a device (like a phone) rather than in a giant data center.
+*   **Scaffolding:** An educational technique where an AI provides hints or support to help a human solve a problem, rather than giving the final answer.
+*   **GPT-5.6 Sol/Luna:** The latest specialized versions of OpenAI's language models, optimized for different levels of accuracy and accessibility.

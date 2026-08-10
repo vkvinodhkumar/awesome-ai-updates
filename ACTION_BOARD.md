@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-10 05:17:59
+Last Updated: 2026-08-10 07:14:37
 
-1.  **Compute Audit:** Evaluate current GPU utilization to ensure no "idle" resources are draining the budget.
-2.  **Workflow Assessment:** Identify "multi-step" processes in the department that can benefit from GPT-5.6 Sol’s increased consistency.
-3.  **Local Deployment Pilot:** Explore the use of LiquidAI’s 2.6B models for privacy-sensitive, local-only agent tasks.
+1.  **Audit Infrastructure:** Evaluate current GPU utilization to eliminate "idle" costs.
+2.  **Pilot GPT-5.6:** Integrate GPT-5.6 Sol into internal workflows to test for improved accuracy over previous versions.
+3.  **Explore Local Models:** Investigate LFM 2.5B for tasks requiring high privacy or offline capabilities.
+4.  **Review APA Guidelines:** Ensure any student- or youth-facing AI tools align with upcoming APA/OpenAI safety standards.
