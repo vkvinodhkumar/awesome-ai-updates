@@ -1,13 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 16:44:34
+Last Updated: 2026-08-10 17:44:42
 
-*   **GPT-5.6 Sol:** A specialized version of a Generative Pre-trained Transformer optimized for high-level financial and analytical tasks.
-*   **Knowledge Distillation:** A technique where a small, efficient model (the "student") is trained to reproduce the behavior and accuracy of a large, complex model (the "teacher").
-*   **Inference Provider:** A service or company that provides the hardware and software environment to run a finished AI model so users can get results (predictions).
-*   **Agentic:** Refers to AI that can autonomously perform tasks or take actions in an environment to achieve a specific goal.
-*   **Multimodal:** The ability of an AI to process and relate information from different "modes," such as text, images, video, and audio.
-*   **Low-Latency:** A very short delay between a command and a response, essential for real-time applications like voice agents.
-*   **Open Weights:** A type of open-source release where the "intelligence" (weights) of the model is shared, allowing others to run and modify it, even if the training data isn't public.
-*   **TTS (Text-to-Speech):** Technology that converts written text into spoken voice output.
-*   **Astra:** A specific model or framework by OpenAI currently undergoing cybersecurity and safety evaluations.
+- **Knowledge Distillation:** The process of "teaching" a smaller, faster AI model using the data and outputs of a larger, smarter model.
+- **Agentic:** The ability of an AI to not just generate text, but to perform actions (like clicking buttons or creating files) to achieve a goal.
+- **TTS (Text-to-Speech):** Technology that converts written text into human-sounding spoken audio.
+- **Open Weights:** A middle ground in AI where the internal "settings" of a model are public, allowing others to run it on their own hardware.
+- **Inference Provider:** A service/company that provides the computer power (GPUs) necessary to run an AI model for users.
+- **Multimodal:** An AI's ability to process and understand multiple types of input, such as text, images, and audio, simultaneously.
