@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 18:50:17
+Last Updated: 2026-08-11 19:56:32
 
-*   **GPT-5.6 Sol/Cyber:** Specialized variants of OpenAI’s underlying architecture tuned for specific industries (Finance/Cybersecurity).
-*   **Knowledge Distillation:** A technique where a large, complex model (the "teacher") is used to train a smaller, faster model (the "student") to perform similar tasks.
-*   **Tokens:** The basic units of text or data that an AI processes. Fewer tokens mean faster processing and lower costs.
-*   **Agentic:** The ability of an AI to not just talk, but to take actions and complete workflows (like opening a file, editing it, and saving it).
-*   **TTS (Text-to-Speech):** Technology that converts written text into human-sounding spoken voice.
-*   **Scaffolding:** An educational technique where a teacher (or AI) provides just enough help for a student to solve a problem themselves, rather than giving the answer.
-*   **Open Weights:** A type of open-source AI where the "brain" of the model is shared, allowing others to run and modify it locally.
+- **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large "teacher" model, resulting in a faster, cheaper, but still smart model.
+- **Token:** The basic unit of text that an AI processes (roughly 0.75 of a word). Fewer tokens = lower cost.
+- **Multimodal:** An AI's ability to understand and process multiple types of data, such as text, images, and audio, simultaneously.
+- **TTS (Text-to-Speech):** Technology that converts written text into spoken voice.
+- **Agentic AI:** AI that doesn't just talk but can "act"—such as opening files, sending emails, or conducting research independently.
+- **Open Weights:** A middle ground in AI transparency where the underlying "brain" of the model is shared publicly, allowing others to run and modify it.
