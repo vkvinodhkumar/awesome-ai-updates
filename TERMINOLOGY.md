@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 19:56:32
+Last Updated: 2026-08-11 20:38:06
 
-- **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large "teacher" model, resulting in a faster, cheaper, but still smart model.
-- **Token:** The basic unit of text that an AI processes (roughly 0.75 of a word). Fewer tokens = lower cost.
-- **Multimodal:** An AI's ability to understand and process multiple types of data, such as text, images, and audio, simultaneously.
-- **TTS (Text-to-Speech):** Technology that converts written text into spoken voice.
-- **Agentic AI:** AI that doesn't just talk but can "act"—such as opening files, sending emails, or conducting research independently.
-- **Open Weights:** A middle ground in AI transparency where the underlying "brain" of the model is shared publicly, allowing others to run and modify it.
+*   **GPT-5.6 Sol/Cyber:** Specific versions of OpenAI's advanced models optimized for Finance (Sol) and Cybersecurity (Cyber).
+*   **Knowledge Distillation:** A technique where a small, efficient model is trained to mimic the behavior of a much larger, "smarter" model.
+*   **Token Efficiency:** The ability for an AI to solve a problem using the smallest amount of data units (tokens), reducing both cost and time.
+*   **Low-Latency TTS:** Text-to-Speech technology that converts text to audio almost instantaneously, essential for natural conversation.
+*   **Agentic:** Refers to AI that can take independent actions to achieve a goal, rather than just generating text.
+*   **Scaffolding:** An educational term where the AI provides just enough help for a student to solve a problem themselves, rather than giving the answer.
+*   **Multimodal:** The ability of an AI to understand and generate multiple types of data, such as text, images, and audio, simultaneously.
