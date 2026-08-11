@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 03:27:48
+Last Updated: 2026-08-11 04:59:56
 
-*   **GPT-5.6 Sol:** A specialized version of OpenAI's model optimized for financial research, analysis, and document creation.
-*   **Knowledge Distillation:** The process of training a small, efficient model (the "student") to mimic the behavior and accuracy of a large, complex model (the "teacher").
-*   **Multimodal:** The ability of an AI model to process and understand multiple types of data, such as text, images, audio, and video, simultaneously.
-*   **Agentic AI:** AI that can independently perform multi-step tasks or interact with other software tools to achieve a goal, rather than just answering questions.
-*   **TTS (Text-to-Speech):** Technology that converts written text into spoken voice output.
-*   **Low-Latency:** Minimal delay between an input (like a voice command) and the AI's response.
-*   **Scaffolding:** An educational technique where an instructor provides support to a student, gradually removing that support as the student masters the task.
-*   **Inference Provider:** A service that provides the hardware and software environment needed to run a trained AI model so it can process real-world data.
+- **GPT-5.6 Sol/Cyber:** Specialized versions of OpenAI's models optimized for specific industries (Sol = Finance/Structure; Cyber = Security).
+- **Knowledge Distillation:** A technique where a large, "teacher" model trains a smaller, "student" model to perform at a similar level but with less compute.
+- **TTS (Text-to-Speech):** Technology that converts written text into human-like spoken voice.
+- **Inference Provider:** A company that provides the hardware and software environment needed to actually "run" an AI model so users can interact with it.
+- **Agentic:** The ability of an AI to not just answer questions, but to perform multi-step tasks and interact with other software autonomously.
+- **Open Weights:** A middle ground between "closed" and "open source" where the model's "brain" is shared, but the full training data or code might not be.
