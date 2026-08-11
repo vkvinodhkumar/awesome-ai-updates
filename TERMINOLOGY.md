@@ -1,12 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-08-10 23:27:01
+Last Updated: 2026-08-11 01:04:59
 
-- **GPT-5.6 Sol:** A specialized version of OpenAI's model optimized for financial reasoning, Excel, and PowerPoint generation.
-- **GPT-5.6-Cyber:** A version of OpenAI's model specifically trained for cybersecurity research and testing.
-- **Knowledge Distillation:** A process where a large, "teacher" model trains a smaller, "student" model to perform similarly, making it faster and cheaper to run.
-- **Agentic:** The ability of an AI to not just talk, but to perform tasks, navigate software, and make decisions to achieve a goal.
-- **Multimodal:** An AI that can process and understand multiple types of input, such as text, images, and audio, simultaneously.
-- **Inference:** The process of a trained AI model actually being used to make a prediction or generate a response.
-- **Low-Latency:** A very short delay between a user's input and the AI's response (critical for voice conversations).
-- **Open Weights:** A model where the "brain" (the weights) is shared publicly, allowing anyone to run it on their own hardware.
+*   **Responsible AI Infrastructure:** The physical hardware (servers, power) built with environmental, ethical, and legal safeguards in mind.
+*   **Traceable Workflows:** AI-generated work where every data point can be traced back to its original source for verification.
+*   **AI-Native:** A business function designed from the ground up to utilize AI, rather than just adding AI to existing old processes.
+*   **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large, expensive "teacher" model.
+*   **Low-Latency:** Minimal delay between an input (like a voice command) and the response.
+*   **Agentic:** The ability of an AI to work independently toward a goal, rather than just reacting to individual prompts.
+*   **Multimodal:** An AI model that can process and generate different types of data, such as text, images, and audio.
+*   **Open Weights:** A model where the "brain" (the weights) is shared publicly, allowing anyone to run it on their own hardware.
+*   **Inference Provider:** A service that hosts and runs AI models so that applications can use them via the cloud.
