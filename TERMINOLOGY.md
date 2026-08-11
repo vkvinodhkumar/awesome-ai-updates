@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 06:52:41
+Last Updated: 2026-08-11 08:05:18
 
-- **Knowledge Distillation:** The process of training a small, efficient model (the "student") to mimic the behavior and performance of a large, complex model (the "teacher").
-- **Agentic AI:** AI systems that can independently plan, use tools, and complete multi-step tasks to achieve a goal, rather than just generating text.
-- **Open Weights:** A model where the "brain" (weights) is shared publicly, allowing anyone to run it on their own hardware, though the training data or code might remain private.
-- **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
-- **Multimodal:** The ability of an AI to understand and process different types of input simultaneously, such as text, images, and audio.
-- **Inference:** The process of an AI model actually running and providing an output (e.g., answering a prompt) after it has been trained.
-- **Low-Latency:** Very fast response time; essential for real-time applications like voice conversation.
+*   **Knowledge Distillation:** A technique where a small, efficient model (the "student") is trained to mimic the behavior and performance of a large, complex model (the "teacher").
+*   **Text-to-Speech (TTS):** Technology that converts written text into natural-sounding spoken audio.
+*   **Inference Provider:** A company that provides the hardware and software environment to run a trained AI model so it can process requests.
+*   **Multimodal:** The ability of an AI model to process and understand different types of data simultaneously, such as text, images, and audio.
+*   **Scaffolding:** An educational technique where an instructor (or AI) provides temporary support to a student, gradually removing it as the student masters the task.
+*   **Frontier Model:** The most advanced, high-scale AI models currently in existence, representing the state-of-the-art in performance.
+*   **Open Weights:** A type of AI release where the internal "settings" of the model are made public, allowing others to run and modify it, though the training data or code may remain private.
