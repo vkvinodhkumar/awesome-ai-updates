@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 16:49:35
+Last Updated: 2026-08-11 17:51:28
 
-*   **GPT-5.6 Sol/Cyber:** Specialized versions of OpenAI’s models tailored for Finance (Sol) and Cybersecurity (Cyber).
-*   **Knowledge Distillation:** The process of "teaching" a smaller, faster AI model using the outputs of a larger, more expensive model.
-*   **Open Weights:** AI models where the "brain" (weights) is shared publicly, allowing anyone to run or modify it on their own hardware.
-*   **Low-Latency:** Minimal delay between an input (speaking) and an output (AI response), essential for natural conversation.
-*   **Agentic:** The capability of an AI to plan and execute a multi-step task autonomously (like creating an entire PowerPoint from a prompt).
-*   **Tokens:** The basic units (words or parts of words) that an AI processes. Fewer tokens mean faster and cheaper AI.
-*   **Multimodal:** The ability of an AI to understand and generate multiple types of data, such as text, images, and audio, simultaneously.
+- **Knowledge Distillation:** A process where a large, complex AI model (the "Teacher") is used to train a smaller, more efficient model (the "Student") to perform the same tasks.
+- **Agentic:** Refers to an AI that can independently plan and execute multi-step tasks to achieve a goal, rather than just providing a one-off response.
+- **Low-Latency:** A very short delay between a command and a response; critical for natural-sounding voice AI.
+- **Multimodal:** The ability of an AI model to process different types of information simultaneously, such as text, images, and audio.
+- **Tokens:** The basic units (pieces of words or characters) that an AI model reads. Fewer tokens used means less processing power and lower cost.
+- **TTS (Text-to-Speech):** Technology that converts written text into spoken voice output.
+- **Red Teaming:** The practice of rigorously testing a system (like an AI) by simulating an attack to find vulnerabilities.
