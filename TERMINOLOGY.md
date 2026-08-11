@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 12:44:11
+Last Updated: 2026-08-11 14:14:43
 
-- **Knowledge Distillation:** A technique where a large, complex AI model (the "Teacher") trains a smaller, faster model (the "Student") to mimic its behavior.
-- **Low-Latency:** The minimal delay between a command and a response; crucial for making voice AI feel human.
-- **Multimodal:** An AI’s ability to understand and generate different types of data, such as text, images, and audio, simultaneously.
-- **Agentic:** Refers to AI that can take autonomous actions to complete a goal, rather than just answering a question.
-- **Inference:** The process of an AI model actually running and providing an output (as opposed to "Training," which is how the model learns).
-- **Open Weights:** A middle ground in open source where the "brain" of the AI is shared publicly so others can run it, but the full training data may remain private.
-- **GPT-5.6 Sol/Cyber:** Specialized versions of OpenAI's frontier models tuned specifically for financial analysis (Sol) or security research (Cyber).
+* **GPT-5.6 Sol:** A specialized model from OpenAI optimized for financial analysis, spreadsheet generation, and corporate reporting.
+* **GPT-5.6-Cyber:** A domain-specific model from OpenAI engineered for cybersecurity tasks like vulnerability scanning and security research.
+* **Daybreak / Daybreak Red:** OpenAI's controlled-access ecosystem designed to securely distribute sensitive, dual-use cybersecurity models to authorized organizations.
+* **Token Efficiency / Token Optimization:** Engineering methods designed to reduce the number of basic text units ("tokens") an AI processes, directly cutting down API usage bills and system latency.
+* **Knowledge Distillation:** A process where a small, efficient "student" model is trained to mimic the behavior of a massive, expensive "teacher" model, allowing enterprise-grade AI to run on cheaper, local hardware.
+* **Open Weights:** AI models whose internal learning parameters are publicly released, allowing enterprises to download, modify, and host the software locally on their own infrastructure without relying on cloud APIs.
+* **Multimodal:** AI models capable of processing and generating multiple types of media simultaneously, such as text, images, video, and audio.
+* **Pedagogical AI:** AI systems designed with teaching-specific methodologies, focusing on guiding human learning and critical thinking rather than simply providing answers.
