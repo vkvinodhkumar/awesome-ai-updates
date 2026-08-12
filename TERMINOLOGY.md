@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 09:04:00
+Last Updated: 2026-08-12 10:53:57
 
-*   **Knowledge Distillation:** A technique where a small, efficient model is trained to mimic the behavior and performance of a much larger, complex model.
-*   **Token:** The basic unit of text (roughly 4 characters) that an AI processes. Fewer tokens mean lower costs and faster speeds.
-*   **Agentic:** Refers to an AI that can take independent actions to achieve a goal, rather than just generating text.
-*   **Multimodal:** The ability of an AI to process and generate multiple types of data, such as text, images, and audio, simultaneously.
-*   **Open Weights:** A model where the "brain" (the weights) is shared publicly, allowing others to run it on their own hardware, as opposed to "Closed" models hidden behind an API.
-*   **TTS (Text-to-Speech):** Technology that converts written text into spoken audio.
-*   **AWS Bedrock:** A service from Amazon that provides easy access to various high-performing AI models from different companies.
-*   **GPT-5.6 Sol:** A specialized version of a Large Language Model optimized for specific high-level professional tasks (in this case, finance).
+- **Tokens:** The basic units of text (words or parts of words) that an AI processes. More tokens = more cost and time.
+- **Knowledge Distillation:** The process of "teaching" a smaller, faster AI model to mimic the behavior of a much larger, slower one.
+- **Multimodal:** An AI's ability to understand and process different types of input at once, such as text, images, and audio.
+- **Agentic:** Refers to AI that can autonomously perform tasks or use tools (like browsing the web or editing a file) rather than just generating text.
+- **TTS (Text-to-Speech):** Technology that converts written text into human-like spoken voice.
+- **Low-Latency:** Minimal delay between an input (a question) and an output (an answer), crucial for realistic voice conversations.
+- **Open Weights:** A type of "open source" for AI where the core "brain" of the model is shared, allowing others to run and modify it on their own hardware.
