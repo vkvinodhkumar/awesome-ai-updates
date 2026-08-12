@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 11:40:29
+Last Updated: 2026-08-12 12:49:30
 
-- **Knowledge Distillation:** The process of training a small, efficient AI model to mimic the behavior of a much larger, "smarter" model.
-- **Agentic:** Refers to AI that can autonomously perform multi-step tasks or interact with other software to achieve a goal.
-- **Tokens:** The basic units (words or parts of words) that an AI processes. More tokens usually mean higher costs.
-- **Multimodal:** An AI's ability to process and understand different types of input simultaneously, such as text, images, and audio.
-- **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding spoken audio.
-- **Open Weights:** A middle ground in AI transparency where the internal "brain" of the model is shared publicly, allowing others to run and modify it.
-- **Bedrock:** An Amazon Web Services (AWS) platform that makes it easy to build and scale generative AI applications.
+- **Knowledge Distillation:** The process of transferring "knowledge" from a massive, complex AI model to a smaller, more efficient one.
+- **Agentic:** The ability of an AI to not just "talk" but to take actions, use tools, and complete multi-step tasks.
+- **Tokens:** The basic units of text (words or fragments) that an AI processes; fewer tokens mean lower cost and faster speed.
+- **Multimodal:** An AI's ability to understand and generate different types of data, such as text, images, and audio, simultaneously.
+- **TTS (Text-to-Speech):** Technology that converts written text into human-like spoken voice.
+- **Scaffolding (AI Education):** A teaching method where the AI provides just enough support for a student to solve a problem themselves, rather than giving the answer.
