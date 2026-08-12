@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-12 18:51:23
+Last Updated: 2026-08-12 19:57:09
 
-1.  **Audit Workflows:** Identify internal tasks that can transition from "assistance" to "agentic execution."
-2.  **Evaluate Edge AI:** Explore whether Liquid AI or NVIDIA Magpie can bring AI capabilities to local devices to improve latency.
-3.  **Optimize Costs:** Investigate knowledge distillation to create smaller, cheaper internal models for repetitive tasks.
+1.  **Pilot Agentic Workflows:** Identify manual data entry or reporting tasks (Finance/HR) to test "execution" AI like Model ML.
+2.  **Evaluate Security Posture:** Explore Daybreak models on AWS Bedrock to enhance internal SOC (Security Operations Center) capabilities.
+3.  **Audit Token Usage:** Review current AI API spend to see if token-optimization techniques (per IBM’s research) can be applied to reduce costs.

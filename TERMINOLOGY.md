@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 18:51:23
+Last Updated: 2026-08-12 19:57:09
 
-- **Agentic AI:** AI that doesn't just talk but can take actions, like running code, browsing the web, or creating files to finish a job.
-- **Knowledge Distillation:** A process where a large, "smart" model teaches a smaller, "faster" model how to perform a task.
-- **Embeddings:** A way for computers to turn complex data (like photos of Earth or paragraphs of text) into numbers so they can be easily compared and analyzed.
-- **Edge AI:** Running AI software directly on a device (like a smartphone or a camera) instead of sending the data to a far-away server.
-- **Token Reduction:** Using fewer "pieces" of data to process a request, which makes the AI faster and cheaper to run.
-- **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human voices.
-- **VLM (Vision-Language Model):** An AI model that can understand both images and text at the same time.
+*   **Agentic AI:** AI that can plan and execute multi-step tasks autonomously to reach a specific goal.
+*   **Knowledge Distillation:** A technique where a small, efficient model is trained to replicate the performance of a much larger, more expensive model.
+*   **Embeddings:** A way of representing data (like text or images) as numbers so an AI can understand the relationships between different pieces of information.
+*   **Edge AI:** Running AI algorithms directly on a local device (like a smartphone or factory sensor) instead of on a central cloud server.
+*   **Token Optimization:** Reducing the number of "tokens" (fragments of words) required for an AI to process information, which makes it faster and cheaper.
+*   **LFM (Liquid Foundation Model):** A newer type of AI architecture designed to be more efficient and adaptable than standard Transformers.
+*   **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding spoken audio.
