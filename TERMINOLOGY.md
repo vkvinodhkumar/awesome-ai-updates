@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 03:57:19
+Last Updated: 2026-08-12 05:28:50
 
-*   **Tokens:** The basic units of text (like syllables or parts of words) that AI models process. Reducing tokens makes AI cheaper and faster.
-*   **Knowledge Distillation:** A technique where a small "student" model is trained to mimic a large, "teacher" model. It creates lightweight models that are still very smart.
-*   **Low Latency:** A very short delay between a command and a response. In voice AI, this means the AI speaks back instantly without an awkward pause.
-*   **Open Weights:** When a company releases the "brains" of the AI model publicly so anyone can download and run it on their own computer.
-*   **Multimodal:** The ability of an AI to understand and generate more than one type of data, such as text, images, and audio, at the same time.
-*   **Scaffolding:** An educational technique where an AI provides hints or support to help a human solve a problem, rather than just giving the answer.
-*   **Agentic:** Refers to an AI that can take actions (like sending an email or creating a file) rather than just talking about them.
+*   **GPT-5.6 Sol:** A specialized version of OpenAI's model optimized for financial analysis and document generation.
+*   **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large "teacher" model to save on computing costs.
+*   **Tokens:** The basic units of text (words or parts of words) that an AI processes. Fewer tokens mean lower costs.
+*   **TTS (Text-to-Speech):** Technology that converts written text into audible human speech.
+*   **Agentic AI:** AI systems that can independently plan and execute tasks using various digital tools.
+*   **Multimodal:** The ability of an AI to process and generate different types of data, such as text, images, and audio, simultaneously.
+*   **Open Weights:** A model where the "brain" (weights) is made public, allowing developers to run and modify it on their own hardware.
+*   **Scaffolding:** An instructional method of providing temporary support to a student as they develop new skills, which AI is now attempting to emulate.
