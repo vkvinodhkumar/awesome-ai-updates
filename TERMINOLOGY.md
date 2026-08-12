@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 05:28:50
+Last Updated: 2026-08-12 07:11:55
 
-*   **GPT-5.6 Sol:** A specialized version of OpenAI's model optimized for financial analysis and document generation.
-*   **Knowledge Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large "teacher" model to save on computing costs.
-*   **Tokens:** The basic units of text (words or parts of words) that an AI processes. Fewer tokens mean lower costs.
-*   **TTS (Text-to-Speech):** Technology that converts written text into audible human speech.
-*   **Agentic AI:** AI systems that can independently plan and execute tasks using various digital tools.
-*   **Multimodal:** The ability of an AI to process and generate different types of data, such as text, images, and audio, simultaneously.
-*   **Open Weights:** A model where the "brain" (weights) is made public, allowing developers to run and modify it on their own hardware.
-*   **Scaffolding:** An instructional method of providing temporary support to a student as they develop new skills, which AI is now attempting to emulate.
+*   **GPT-5.6 Sol:** A specialized or iterative version of OpenAI's generative models, likely optimized for "Sol" (Solutions/Solid) performance in technical fields.
+*   **Knowledge Distillation:** The process of training a small "student" model to mimic the behavior and accuracy of a large, expensive "teacher" model.
+*   **Token Efficiency:** Reducing the number of "tokens" (chunks of text) a model needs to process a request, which saves money and time.
+*   **Agentic AI:** AI that can use tools, browse the web, or execute software tasks on its own to achieve a goal.
+*   **Open Weights:** A type of open-source AI where the "brain" of the model is shared, allowing anyone to run and modify it.
+*   **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
+*   **Scaffolding:** An educational technique where the teacher (or AI) provides support to a student and then gradually removes it as the student masters the task.
