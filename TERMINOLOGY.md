@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 15:52:22
+Last Updated: 2026-08-12 16:48:29
 
-*   **Agentic AI:** AI that can act autonomously to complete a goal by using external tools and making sequential decisions.
-*   **Knowledge Distillation:** A technique where a small model is trained to mimic the behavior of a larger, more complex model to save on computing power.
-*   **Tokens:** The basic units of text (usually chunks of characters) that an AI processes; fewer tokens mean faster and cheaper operations.
-*   **Edge AI:** AI that processes data on the device where it is collected (like a phone or a camera) rather than in a distant data center.
-*   **Multimodal:** The ability of an AI model to understand and process different types of data, such as text, images, and audio, simultaneously.
-*   **Open Weights:** A type of open-source AI where the "brain" of the model is shared publicly, allowing others to run and modify it.
+- **Agentic AI:** AI that can independently perform a series of tasks to achieve a goal, rather than just answering questions.
+- **Embeddings:** A way of representing data (like words or images) as numbers so a computer can understand the relationships between them.
+- **Knowledge Distillation:** A technique where a large, smart AI model "teaches" a smaller model, making the smaller one nearly as smart but much faster and cheaper to run.
+- **Edge Computing:** Running AI directly on a device (like a phone or a camera) instead of sending the data to a remote server.
+- **Token:** The basic unit of text that an AI processes (roughly 0.75 words). Fewer tokens mean lower costs.
+- **TTS (Text-to-Speech):** Technology that converts written text into spoken human voice.
