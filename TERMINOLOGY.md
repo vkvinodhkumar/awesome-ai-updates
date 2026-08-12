@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-11 23:32:08
+Last Updated: 2026-08-12 01:12:21
 
-*   **Tokens:** The basic units of text or code that an AI processes. Fewer tokens mean faster and cheaper AI.
-*   **Knowledge Distillation:** A process where a large, "smart" model (the teacher) trains a smaller, faster model (the student) to perform just as well.
-*   **Agentic:** Refers to an AI that can take independent actions to achieve a goal, rather than just generating text.
-*   **Multimodal:** The ability of an AI to understand and generate multiple types of data, such as text, images, and audio, simultaneously.
-*   **Open Weights:** A type of open-source AI where the "brain" of the model is shared, allowing anyone to run and modify it on their own hardware.
-*   **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
-*   **Low-Latency:** Minimal delay between an input and a response; crucial for real-time applications like voice agents.
+- **Tokens:** The basic units (words or parts of words) that AI models process. Reducing tokens means the AI works faster and costs less.
+- **Knowledge Distillation:** A process where a large "Teacher" model trains a smaller "Student" model to be nearly as smart but much more efficient.
+- **GPT-5.6 Sol:** A specialized version of OpenAI’s model optimized for high-level financial reasoning and data structure.
+- **Agentic AI:** AI that can plan and execute multi-step tasks independently, rather than just answering a single prompt.
+- **Low-Latency:** Minimal delay between a command and a response; crucial for natural-sounding voice conversations.
+- **Open Weights:** When a model's internal "brain" is made public, allowing anyone to download and run it on their own hardware.
