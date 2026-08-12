@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-12 07:11:55
+Last Updated: 2026-08-12 09:04:00
 
-*   **GPT-5.6 Sol:** A specialized or iterative version of OpenAI's generative models, likely optimized for "Sol" (Solutions/Solid) performance in technical fields.
-*   **Knowledge Distillation:** The process of training a small "student" model to mimic the behavior and accuracy of a large, expensive "teacher" model.
-*   **Token Efficiency:** Reducing the number of "tokens" (chunks of text) a model needs to process a request, which saves money and time.
-*   **Agentic AI:** AI that can use tools, browse the web, or execute software tasks on its own to achieve a goal.
-*   **Open Weights:** A type of open-source AI where the "brain" of the model is shared, allowing anyone to run and modify it.
-*   **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
-*   **Scaffolding:** An educational technique where the teacher (or AI) provides support to a student and then gradually removes it as the student masters the task.
+*   **Knowledge Distillation:** A technique where a small, efficient model is trained to mimic the behavior and performance of a much larger, complex model.
+*   **Token:** The basic unit of text (roughly 4 characters) that an AI processes. Fewer tokens mean lower costs and faster speeds.
+*   **Agentic:** Refers to an AI that can take independent actions to achieve a goal, rather than just generating text.
+*   **Multimodal:** The ability of an AI to process and generate multiple types of data, such as text, images, and audio, simultaneously.
+*   **Open Weights:** A model where the "brain" (the weights) is shared publicly, allowing others to run it on their own hardware, as opposed to "Closed" models hidden behind an API.
+*   **TTS (Text-to-Speech):** Technology that converts written text into spoken audio.
+*   **AWS Bedrock:** A service from Amazon that provides easy access to various high-performing AI models from different companies.
+*   **GPT-5.6 Sol:** A specialized version of a Large Language Model optimized for specific high-level professional tasks (in this case, finance).
