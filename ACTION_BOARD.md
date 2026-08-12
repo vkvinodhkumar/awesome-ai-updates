@@ -1,22 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-08-12 21:37:10
+Last Updated: 2026-08-12 22:32:34
 
-1.  **Audit Workflows:** Identify "high-friction" tasks in finance and security for pilot testing with GPT-5.6 Sol and Daybreak.
-2.  **Evaluate Edge AI:** Explore Liquid AI models for any mobile or IoT hardware projects to reduce cloud dependency.
-3.  **Monitor Ad Impact:** Assess how OpenAI’s new ad model affects enterprise data usage agreements and "free tier" limitations.
+1. **Audit Agent Readiness:** Assess which internal workflows can move from "AI-assisted" to "AI-executed."
+2. **Review AWS Bedrock Integration:** Explore Daybreak models for enhancing corporate cybersecurity postures.
+3. **Explore "Edge" Use Cases:** Investigate if 3B-parameter models can replace larger cloud-based models for specific vision or voice tasks to save on latency and costs.
 
 ## Technology Trends
-- **Verticalization:** Development of models specifically tuned for finance, security, and geospatial data.
-- **Agentic Workflows:** A focus on AI that *does* rather than AI that *speaks*.
-- **Efficiency Engineering:** A move toward "Liquid" models and "Distillation" to make AI cheaper and faster without losing intelligence.
-- **Infrastructure Diplomacy:** Direct engagement between AI companies and government entities to secure power and land.
+- **Small Language Models (SLMs):** A pivot toward 3B-parameter models that punch above their weight class for edge and mobile use.
+- **Knowledge Distillation:** A focus on making AI cheaper to run by transferring knowledge from giant models to smaller, specialized ones.
+- **Agentic Workflows:** Designing AI systems that don't just talk, but interact with APIs and software to complete end-to-end tasks.
 
 ## Terminology
-- **Agentic AI:** AI that can independently plan and execute multi-step tasks to achieve a goal.
-- **Embeddings:** Numerical representations of data (like text or images) that allow computers to understand relationships between different pieces of information.
-- **Knowledge Distillation:** The process of training a small, efficient "student" model to mimic the behavior of a large, complex "teacher" model.
-- **Edge AI:** Running AI algorithms directly on a device (like a phone or sensor) rather than on a centralized cloud server.
-- **Token Efficiency:** Reducing the amount of "data units" a model needs to process to reach an answer, which saves money and time.
-- **TTS (Text-to-Speech):** Technology that converts written text into spoken audio.
-- **Open Weights:** A model where the internal "settings" are released to the public, allowing anyone to run and modify it on their own hardware.
+- **Agentic AI:** AI that can take independent actions to achieve a goal, rather than just generating text or images.
+- **Knowledge Distillation:** A technique where a small "student" model is trained to reproduce the behavior of a large "teacher" model.
+- **Embeddings:** Numerical representations of data (like text or images) that help computers understand relationships between different pieces of information.
+- **Token:** The basic unit of text (roughly 4 characters) that an AI processes; fewer tokens mean lower costs.
+- **Edge Computing:** Processing data near the source of the data (on the device itself) rather than in a centralized cloud data center.
+- **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding spoken audio.
