@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-13 09:55:12
+Last Updated: 2026-08-13 10:56:12
 
-1.  **Audit Workflows:** Identify manual, multi-step processes that can be automated via the new "agentic AI" capabilities.
-2.  **Evaluate Edge Solutions:** Explore the use of small-footprint models (like LFM2.5) for local data processing to reduce cloud costs.
-3.  **Monitor Ad Implementation:** For organizations using ChatGPT, monitor how the new ad-supported model affects internal user sentiment and data privacy settings.
+1. **Transition from Chat to Agents:** Shift internal AI pilots away from basic prompt engineering and toward autonomous agents that carry out multi-step tasks (e.g., automated coding, ops pipelines).
+2. **Implement Token-Saving Frameworks:** Mandate engineering teams to evaluate IBM's AltK-Evolve/SLDD and knowledge distillation methods to reduce inference costs.
+3. **Evaluate AWS Bedrock Integration:** If operating under strict data security constraints, migrate proprietary datasets and operations toward protected cloud options like AWS Bedrock.
