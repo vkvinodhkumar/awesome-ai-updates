@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-13 04:02:45
+Last Updated: 2026-08-13 06:10:43
 
-*   **Agentic AI:** AI systems that can independently complete multi-step tasks and make decisions without constant human prompting.
-*   **Embeddings:** Numerical representations of data (like text or images) that allow AI to understand relationships between different concepts.
-*   **Knowledge Distillation:** A process where a large, complex "teacher" model trains a smaller "student" model to perform the same tasks more efficiently.
-*   **Edge Computing:** Running AI processing on local devices (like a phone or a camera) rather than on a central server in the cloud.
-*   **Vision-Language Model (VLM):** An AI model capable of understanding and describing images or video.
-*   **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
-*   **Tokens:** The basic units of text (or data) that an AI processes. Fewer tokens mean less computing power used.
+-   **Agentic AI:** AI that doesn't just provide information but can independently use tools and software to complete a multi-step task.
+-   **Embeddings:** A way to represent data (like text or images) as numbers so a computer can understand the relationship between different concepts.
+-   **Knowledge Distillation:** A technique where a large, complex AI model "teaches" a smaller model how to perform a task, making the smaller model faster and cheaper to use.
+-   **Edge Computing:** Running AI processes on a local device (like a phone or a robot) rather than in a distant cloud data center.
+-   **Tokens:** The basic units of text or data that an AI processes; fewer tokens mean lower costs and faster speeds.
+-   **LFM (Liquid Foundation Model):** A type of AI architecture designed for continuous data and high efficiency, often outperforming traditional models at smaller sizes.
