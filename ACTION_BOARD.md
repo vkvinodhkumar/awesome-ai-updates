@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-13 22:32:27
+Last Updated: 2026-08-13 23:33:02
 
-1.  **Pilot GPT-5.6 Sol:** Test high-speed API tiers for customer-facing applications where latency is a pain point.
-2.  **Audit for "Agent" Potential:** Identify internal processes (e.g., DevOps, Customer Support) that can move from "AI-assisted" to "AI-executed."
-3.  **Explore Edge AI:** Evaluate 3B-parameter models for on-device tasks to reduce cloud computing costs.
+1.  **Pilot Agentic Workflows:** Move beyond basic chatbot usage; identify one internal process (e.g., procurement or bug triaging) for "agentic" automation.
+2.  **Evaluate High-Speed API:** Test GPT-5.6 Sol for customer-facing applications where latency has previously been a barrier.
+3.  **Audit Data Infrastructure:** Ensure data is "agent-ready" by centralizing knowledge bases, following the RingCentral model.
