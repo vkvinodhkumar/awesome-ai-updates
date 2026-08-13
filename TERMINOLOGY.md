@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-13 21:37:07
+Last Updated: 2026-08-13 22:32:27
 
-*   **GPT-5.6 Sol:** A specialized version of the GPT-5.6 model optimized for high-speed performance.
-*   **Agentic AI:** AI systems that can independently plan, use tools, and execute tasks to reach a goal, rather than just generating text.
-*   **Tokens per Second (TPS):** The measurement of an AI's generation speed; higher TPS means faster responses.
-*   **Edge AI:** Running AI models locally on a device (like a phone or robot) rather than sending data to a remote server.
-*   **Embeddings:** A way of representing data (words, images, or geographic data) as numbers so that a computer can understand relationships between them.
-*   **LeRobot:** An open-source toolkit designed to simplify the training and control of robotic systems using AI.
-*   **Responses API:** A tool for developers that allows more granular control over how an AI model structures its output.
+*   **Inference:** The process of an AI model generating an output from a given input.
+*   **Tokens:** The basic units of text or data that an AI processes (roughly 0.75 words per token).
+*   **Agentic AI:** AI systems that can independently follow steps to complete a goal, rather than just answering questions.
+*   **Edge AI:** Running AI models locally on a device (like a phone or sensor) rather than in a distant data center.
+*   **Embeddings:** A way of representing data (text, images, locations) as numbers so an AI can understand the relationships between them.
+*   **Vision-Language Model (VLM):** An AI that can "see" images and talk about them in natural language.
+*   **Latency:** The delay between a user's request and the AI's response.
