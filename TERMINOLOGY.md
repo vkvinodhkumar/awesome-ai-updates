@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-13 18:52:02
+Last Updated: 2026-08-13 19:52:27
 
-*   **Agentic AI:** AI systems that can independently plan, use tools, and complete multi-step tasks rather than just answering questions.
-*   **Tokens/Second:** A measure of how fast an AI generates text. One token is roughly ¾ of a word.
-*   **Inference:** The process of an AI model "thinking" or generating an output from an input.
-*   **Embeddings:** Numerical representations of data (text, images, etc.) that allow computers to understand relationships between different pieces of information.
-*   **Edge AI:** Running AI models locally on a device (like a phone or sensor) rather than on a remote cloud server.
-*   **Liquid Foundation Model (LFM):** A newer type of AI architecture designed to be more computationally efficient and adaptable than traditional Transformers.
-*   **Responses API:** A tool for developers to programmatically control how an AI structures its answers for better integration into software.
+*   **GPT-5.6 Sol:** A specialized version of GPT-5.6 optimized for extreme speed.
+*   **Agentic AI:** AI that can independently use tools and make decisions to complete a multi-step goal.
+*   **Tokens per Second (TPS):** A measure of how fast an AI generates text; higher is faster.
+*   **Embeddings:** Numerical representations of data (like images or text) that allow computers to understand relationships between concepts.
+*   **Edge AI:** Running AI models directly on a local device (like a camera or phone) rather than a central server.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture that is highly efficient and adaptable to different types of data.
+*   **Codex:** A specialized AI model designed to understand and generate computer code.
+*   **Responses API:** A tool for developers that standardizes how an AI model returns data to be used by other software.
