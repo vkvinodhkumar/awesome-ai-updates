@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-13 20:32:53
+Last Updated: 2026-08-13 21:37:07
 
-1.  **Pilot High-Speed Workflows:** Assess which customer-facing services would benefit from the "Ultrafast" GPT-5.6 Sol tier.
-2.  **Audit for "Agentic" Potential:** Identify manual, multi-step digital processes that can be transitioned from human assistance to AI execution.
-3.  **Evaluate Edge Solutions:** For departments handling sensitive data (e.g., security or on-site inspections), investigate LFM 2.5 for local processing.
+1.  **Pilot Ultrafast Tier:** Test GPT-5.6 Sol for customer-facing voice or chat applications where latency is currently a friction point.
+2.  **Audit Agent Readiness:** Review current "assistance" workflows to identify which can be upgraded to "agentic" workflows using the new OpenAI builder tools.
+3.  **Evaluate Edge Use Cases:** Explore the 3B parameter vision models for any hardware or mobile app products to reduce cloud latency and costs.
