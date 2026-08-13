@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-13 08:13:18
+Last Updated: 2026-08-13 09:55:12
 
-- **Agentic AI:** AI systems that don't just provide information but can independently complete a multi-step task (e.g., booking a flight or fixing code).
-- **Embeddings:** A way of representing data (like words or images) as a list of numbers so a computer can understand the relationship between different items.
-- **Knowledge Distillation:** A technique where a large, "teacher" model trains a smaller, "student" model to perform similarly while being more efficient.
-- **Edge Computing:** Running AI processing directly on a local device (like a smartphone or factory sensor) rather than in a distant data center.
-- **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding human speech.
-- **Tokens:** The basic units (chunks of characters) that AI models process. Fewer tokens usually mean lower costs and faster speed.
-- **Frontier Firms:** Organizations that are at the leading edge of adopting and integrating new technologies before they become mainstream.
+*   **Agentic AI:** AI that doesn't just talk, but can use tools and take actions to complete a goal (e.g., "Book a flight" vs. just "Tell me about flights").
+*   **Embeddings:** A way of turning data (like words or images) into numbers so the AI can understand the relationships between them.
+*   **Knowledge Distillation:** A process where a small AI model is taught by a large AI model, allowing the small one to be nearly as smart but much faster and cheaper.
+*   **Edge AI:** Running AI models directly on a device (like a phone or a camera) rather than in a distant data center.
+*   **TTS (Text-to-Speech):** Technology that converts written text into a natural-sounding human voice.
+*   **Tokens:** The basic units of text that an AI processes (roughly 0.75 words). Reducing tokens means reducing the amount of work the AI has to do.
+*   **Frontier Firms:** Companies that are at the leading edge of adopting and integrating new technologies before they become mainstream.
