@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-13 14:18:19
+Last Updated: 2026-08-13 15:52:04
 
-*   **Agentic AI:** AI systems that can independently perform tasks, use software tools, and achieve goals with minimal human intervention.
-*   **Codex:** An AI model specifically trained to understand and generate computer code.
-*   **Knowledge Distillation:** A process where a small, efficient model is trained to replicate the behavior and knowledge of a much larger, complex model.
-*   **Embeddings:** A way of representing data (like text or images) as numbers so that an AI can understand the relationships between different pieces of information.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or a robot) rather than on a remote server in the cloud.
-*   **TTS (Text-to-Speech):** Technology that converts written text into natural-sounding spoken audio.
-*   **Token:** The basic unit of text that an AI processes (roughly 4 characters or 0.75 words).
+*   **Agentic AI:** AI that can use tools and perform multi-step tasks autonomously (e.g., booking a flight or updating a database) rather than just writing text.
+*   **Edge AI:** Running AI models directly on a device (like a phone or a factory robot) instead of sending the data to a remote cloud server.
+*   **Embeddings:** A way of converting complex data (like words or images) into lists of numbers that an AI can easily compare and understand.
+*   **Knowledge Distillation:** A process where a large "teacher" model trains a smaller "student" model to perform almost as well but with much less computing power.
+*   **Tokens:** The basic units of text (chunks of characters) that an AI processes. More tokens usually mean higher costs.
+*   **TTS (Text-to-Speech):** Technology that converts written text into human-sounding spoken voice.
+*   **Vision-Language Model (VL):** An AI model that can "see" (process images/video) and "talk" (process text) at the same time.
