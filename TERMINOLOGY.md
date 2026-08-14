@@ -1,11 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-08-14 18:42:10
+Last Updated: 2026-08-14 19:43:43
 
-- **GPT-5.6 Sol:** A specialized version of OpenAI's newest model optimized for extreme speed and high token throughput.
-- **Agentic AI:** AI systems that can independently take actions, browse the web, or use tools to complete a multi-step goal, rather than just answering questions.
-- **Tokens per Second (TPS):** The speed at which an AI generates text. Higher TPS results in faster, more fluid responses.
-- **Embeddings:** A way of converting complex data (like text or satellite images) into lists of numbers that a computer can easily compare and analyze.
-- **Edge AI:** Running AI models directly on local devices (like a phone or a robot) instead of sending data to a remote cloud server.
-- **Liquid Foundation Models (LFMs):** A new type of AI architecture (distinct from Transformers) that is often more efficient at processing sequences of data and requires less computing power.
-- **Codex:** An AI system designed specifically to understand and generate computer code.
+- **GPT-5.6 Sol:** A highly optimized, next-generation iteration of OpenAI's core language model family.
+- **Responses API:** An API feature that allows developers to request structured, validated, and predictable formatting from AI models to ensure reliable software integrations.
+- **Ultrafast Mode:** A high-speed API service tier designed to generate outputs at up to 750 tokens per second with minimal delay.
+- **Cerebras:** A hardware technology company known for manufacturing massive, wafer-scale microchips specifically optimized for high-velocity deep learning training and inference.
+- **Agentic AI (Agents):** AI systems that do not just write or summarize text, but can autonomously plan, make decisions, use external tools, and execute complex multi-step workflows.
+- **LeRobot:** An open-source, community-driven robotics toolkit created by Hugging Face to simplify capturing data, training AI models, and running them on physical robots.
+- **Embeddings:** Numerical representations of data (like words, images, or geographical coordinates) that allow computers to quickly recognize semantic similarities, relationships, and context.
+- **Liquid Foundation Model (LFM):** A non-Transformer AI architecture designed by Liquid AI that relies on continuous-time neural networks, offering superior computational efficiency and memory performance—especially on edge devices.
+- **Edge AI:** Deploying and running machine learning models directly on physical, local devices (like cameras, phones, or factory machinery) rather than routing the data to a remote cloud server.
