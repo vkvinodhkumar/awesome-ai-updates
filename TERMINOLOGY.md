@@ -1,13 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-14 19:43:43
+Last Updated: 2026-08-14 20:23:23
 
-- **GPT-5.6 Sol:** A highly optimized, next-generation iteration of OpenAI's core language model family.
-- **Responses API:** An API feature that allows developers to request structured, validated, and predictable formatting from AI models to ensure reliable software integrations.
-- **Ultrafast Mode:** A high-speed API service tier designed to generate outputs at up to 750 tokens per second with minimal delay.
-- **Cerebras:** A hardware technology company known for manufacturing massive, wafer-scale microchips specifically optimized for high-velocity deep learning training and inference.
-- **Agentic AI (Agents):** AI systems that do not just write or summarize text, but can autonomously plan, make decisions, use external tools, and execute complex multi-step workflows.
-- **LeRobot:** An open-source, community-driven robotics toolkit created by Hugging Face to simplify capturing data, training AI models, and running them on physical robots.
-- **Embeddings:** Numerical representations of data (like words, images, or geographical coordinates) that allow computers to quickly recognize semantic similarities, relationships, and context.
-- **Liquid Foundation Model (LFM):** A non-Transformer AI architecture designed by Liquid AI that relies on continuous-time neural networks, offering superior computational efficiency and memory performance—especially on edge devices.
-- **Edge AI:** Deploying and running machine learning models directly on physical, local devices (like cameras, phones, or factory machinery) rather than routing the data to a remote cloud server.
+*   **GPT-5.6 Sol:** A specialized, high-speed variant of the GPT-5.6 model optimized for low latency.
+*   **Agentic AI:** AI systems designed to use tools and take actions autonomously to achieve a specific goal.
+*   **Tokens per second (TPS):** The speed at which an AI generates text; higher TPS allows for more natural, real-time interactions.
+*   **Embeddings:** Numerical representations of data (text or images) that allow computers to understand relationships between concepts.
+*   **Edge Computing:** Processing data on the local device (like a phone or camera) rather than sending it to a central cloud server.
+*   **Vision-Language Model (VL):** An AI model that can understand and reason about both images and text simultaneously.
