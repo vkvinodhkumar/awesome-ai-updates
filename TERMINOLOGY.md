@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-14 12:45:04
+Last Updated: 2026-08-14 14:10:24
 
-*   **Tokens per Second (TPS):** A measure of how fast an AI generates text. Higher TPS means faster responses.
-*   **Agentic AI:** AI systems that can independently complete tasks and interact with other software, rather than just generating text.
-*   **Embeddings:** Numerical representations of data (text, images, or maps) that help computers understand relationships between different pieces of information.
-*   **Edge AI:** Running AI models locally on a device (like a phone or a robot) instead of on a distant server in the cloud.
-*   **Responses API:** A tool for developers that allows them to define exactly how an AI should "behave" and interact with other programs.
-*   **Reproducibility:** The ability for an independent team to take a research paper's methods and achieve the same results, proving the science is sound.
+*   **GPT-5.6 Sol:** A specialized version of OpenAI’s latest model optimized for extreme speed (Sol = speed of light/highly performant).
+*   **Agentic AI:** AI systems designed to autonomously complete multi-step tasks or "execute" workflows rather than just answering questions.
+*   **Tokens Per Second (TPS):** A measure of how fast an AI model generates text. Higher TPS results in a smoother, more human-like interaction.
+*   **Edge AI:** Running AI models locally on hardware (like a smartphone or a factory sensor) instead of on a centralized cloud server.
+*   **Embeddings:** A way of representing data (like text or images) as numbers so that a computer can understand the relationships between different pieces of information.
+*   **Liquid Neural Networks (LFMs):** A newer type of AI architecture that is more flexible and efficient at handling data over time compared to traditional models.
