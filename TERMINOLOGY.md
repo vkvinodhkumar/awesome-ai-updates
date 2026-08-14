@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-14 22:15:51
+Last Updated: 2026-08-14 23:13:52
 
-- **GPT-5.6 Sol:** An optimized, high-performance variant of OpenAI’s GPT-5 model line designed for speed and efficiency.
-- **Ultrafast Mode:** A new API endpoint tier powered by specialized hardware (such as Cerebras wafer-scale engines) designed to output tokens at speeds up to 14 times faster than standard cloud servers.
-- **Agentic AI (Autonomous Agents):** AI systems designed not just to answer prompts, but to autonomously plan, use digital tools, execute multi-step processes, and correct errors to achieve a specified goal.
-- **Liquid Foundation Model (LFM):** An alternative neural network architecture to traditional Transformers. Based on continuous-time dynamical systems, LFMs are highly efficient at processing sequential, time-series, or edge-based data while using less compute.
-- **Embodied AI:** AI systems integrated directly into physical bodies—such as robots, drones, or IoT devices—allowing the model to interact with and react to the physical world.
-- **Embeddings:** Vector representations of data (like text, images, or geographic coordinates) that translate complex characteristics into numbers, allowing computers to measure semantic similarity and perform downstream machine learning tasks.
-- **LeRobot:** An open-source robotics and machine learning framework curated by Hugging Face, designed to streamline data collection and model training for physical robots.
+- **GPT-5.6 Sol:** A specific variant of the GPT-5.6 model optimized for high-speed throughput and lower latency.
+- **Agentic AI:** AI systems that can independently perform a series of steps to achieve a complex goal, rather than just generating text.
+- **Token:** The basic unit of text (roughly 3/4 of a word) that an AI processes. 750 tokens/sec is roughly 500 words per second.
+- **Embeddings:** A way of representing data (text, images, etc.) as numbers so that an AI can understand the relationship between different concepts.
+- **Liquid Foundation Model (LFM):** A newer type of AI architecture (distinct from Transformers) that is more efficient at processing sequences and requires less power.
+- **Edge AI:** Running AI models locally on a device (like a smartphone or robot) rather than on a remote server in the cloud.
