@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-14 16:42:01
+Last Updated: 2026-08-14 17:45:20
 
-1.  **Pilot Agentic Workflows:** Identify one operational process (e.g., customer support or dev-ops) to move from "AI-assisted" to "AI-executed."
-2.  **Evaluate Low-Latency Needs:** Assess if the speed of GPT-5.6 Sol can unlock new product features that were previously bottlenecked by slow response times.
-3.  **Review Open-Source Policy:** With open models becoming highly competitive, evaluate if hosting models locally (using Hugging Face assets) could reduce long-term API costs.
+1.  **Audit Current AI Use:** Move projects from "Assistance" (summarization) to "Execution" (agentic task completion).
+2.  **Evaluate GPT-5.6 Sol:** Test "Ultrafast" mode for customer-facing latency-sensitive applications.
+3.  **Explore Edge Vision:** Investigate LFM2.5 for on-site security or operational monitoring to reduce cloud latency and costs.
