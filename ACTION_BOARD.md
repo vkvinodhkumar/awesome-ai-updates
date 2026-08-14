@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-14 10:07:25
+Last Updated: 2026-08-14 11:38:08
 
-1. **Assess Latency Needs:** Evaluate if "Ultrafast" tiers can enable new customer-facing products that were previously too slow.
-2. **Audit for Agency:** Identify departmental processes where AI can move from "suggesting" to "executing" (e.g., automated bug fixing or procurement).
-3. **Explore Specialized Embeddings:** For environmental or spatial projects, pivot from general-purpose models to specialized ones like OlmoEarth.
+1. **Audit Current AI Use:** Move beyond simple summarization and identify one internal process to "agentize" using GPT-5.6.
+2. **Evaluate Infrastructure:** Assess if the speed of "GPT-5.6 Sol" enables new customer-facing features that were previously too slow.
+3. **Explore Edge AI:** Investigate LiquidAI’s LFM for any on-site or mobile application needs to reduce cloud dependency.
