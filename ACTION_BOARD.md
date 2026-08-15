@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-15 15:12:29
+Last Updated: 2026-08-15 16:14:45
 
-1.  **Pilot Agentic Workflows:** Transition one internal pilot project from "chat-based" to "action-based" (using the Responses API).
-2.  **Evaluate Edge Solutions:** For departments with hardware components, test the LFM2.5-VL-3B for local vision tasks to reduce cloud costs.
-3.  **Review Inference Strategy:** Assess whether GPT-5.6 Sol's speed can enable new real-time features that were previously technically impossible.
+1.  **Pilot Agentic Workflows:** Identify one high-volume operational process to transition from "human-led with AI help" to "AI-led with human oversight."
+2.  **Evaluate Edge Vision:** For mobile or hardware-based projects, test the LFM2.5-VL-3B model to reduce latency and cloud dependency.
+3.  **Review Inference Costs:** Analyze if switching to the "Ultrafast" GPT-5.6 Sol tier provides enough efficiency gain to offset potential premium API pricing.
