@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-15 07:23:00
+Last Updated: 2026-08-15 08:17:33
 
-*   **GPT-5.6 Sol:** A version of GPT-5.6 optimized for "Small" size and "Latency" (Sol), prioritized for speed over sheer knowledge depth.
-*   **Agentic AI:** AI that can use tools, browse the web, and execute tasks autonomously rather than just generating text.
-*   **Tokens per Second (TPS):** The metric for AI speed; it measures how many "words/parts of words" the AI can generate in one second.
-*   **Liquid Foundation Models (LFMs):** A new type of AI architecture (different from Transformers) that is more efficient at processing continuous data and running on small devices.
-*   **Embeddings:** A way of turning complex data (like a photo or a sentence) into a list of numbers that an AI can understand and compare.
-*   **Responses API:** A tool for developers that ensures the AI gives answers in a specific, "clean" format that other computer programs can read easily.
-*   **Edge AI:** Running AI models directly on a local device (like a smartphone or a factory sensor) rather than in a giant remote data center.
+*   **GPT-5.6 Sol:** A specialized, high-speed version of OpenAI's latest model architecture.
+*   **Agentic AI:** AI that can independently perform multi-step tasks and interact with other software, rather than just generating text.
+*   **Inference Speed (Tokens per Second):** How fast an AI generates words/data. 750 TPS is roughly 10x faster than a fast human reader.
+*   **Embeddings:** A way of representing data (like text or images) as numbers so an AI can understand the relationships between different concepts.
+*   **LFM (Liquid Foundational Model):** A type of AI model designed to be more efficient and adaptable than standard architectures, often used for edge computing.
+*   **Edge AI:** Running AI models locally on a device (like a phone or a robot) rather than on a remote cloud server.
+*   **Open-Weights/Open Models:** AI models where the "brain" (weights) is shared publicly, allowing anyone to run or modify it.
