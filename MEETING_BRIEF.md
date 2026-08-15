@@ -1,39 +1,36 @@
 # Executive Meeting Brief
 
 ### Key Developments
-*   **Speed is the new frontier:** GPT-5.6 Sol's 14x speed increase changes the feasibility of real-time AI interactions.
-*   **Agentic Shift:** The industry is transitioning from "AI as a helper" to "AI as a doer" (Agentic AI).
-*   **Specialized Hardware:** Partnerships between model providers (OpenAI) and hardware innovators (Cerebras) are creating exclusive performance tiers.
+- **Speed as a Commodity:** The jump to 750 tokens/sec (GPT-5.6 Sol) makes real-time, human-like interaction possible for the first time.
+- **Agentic Shift:** The industry has moved from "Chat" to "Execute." AI is now being designed to take actions in external software.
+- **Edge Intelligence:** Models like LFM2.5 show that powerful vision AI no longer requires massive data centers.
 
 ### Risks
-*   **The "Frontier Gap":** Organizations failing to move toward "execution-based" AI risk being left behind by faster-moving competitors.
-*   **Infrastructure Dependency:** Highly optimized models (like Ultrafast) may lead to vendor lock-in with specific hardware/software ecosystems.
+- **Hardware Lock-in:** The reliance on specific hardware (Cerebras) for "Ultrafast" modes may lead to supply chain dependencies.
+- **Integration Gap:** Companies failing to move from "assistance" to "execution" risk being left behind by "frontier firms."
+- **Data Sovereignty:** As AI becomes more agentic, the security of the data handled by these agents becomes a primary concern.
 
 ### Opportunities
-*   **Edge Intelligence:** With models like LFM2.5-VL-3B, companies can deploy sophisticated vision AI on-site without heavy cloud costs.
-*   **Operational Efficiency:** Utilizing agentic frameworks (as seen with RingCentral) can dramatically reduce engineering and ops overhead.
+- **Automated Operations:** Implementing "Agentic AI" in engineering and ops can significantly reduce overhead (as seen with RingCentral).
+- **Specialized Analytics:** Using OlmoEarth embeddings for sustainability and ESG reporting.
+- **On-Device AI:** Deploying vision models to edge hardware for security or manufacturing quality control.
 
 ### Recommended Actions
-1.  **Audit Current AI Use:** Identify workflows where "assistance" (chat) can be upgraded to "execution" (agents).
-2.  **Evaluate Edge vs. Cloud:** Assess if vision-based tasks can be moved to the edge using new 3B-parameter models to save costs.
-3.  **Explore High-Speed Inference:** Determine if customer-facing applications could benefit from the 750 tokens/sec "Ultrafast" speeds for better UX.
-
----
+1.  **Audit Workflows:** Identify internal processes that can be transitioned from "AI-assisted" to "AI-executed."
+2.  **Evaluate Speed Requirements:** Determine if customer-facing applications require the "Ultrafast" tier for better UX.
+3.  **Explore Open Source:** Review the "Summer 2026" open models for internal use cases where data privacy is paramount.
 
 ## Technology Trends
-*   **Agentic Workflows:** Moving from simple Q&A to systems that can use tools, browse the web, and complete multi-step business processes.
-*   **Hardware-Software Co-optimization:** The use of specialized AI chips (like Cerebras) to achieve speeds that traditional GPUs cannot reach.
-*   **Embodied AI/Robotics Data Loops:** Standardizing how we collect data from physical robots and use it to train better control models.
-*   **Small Language Models (SLMs) for Vision:** Proving that 3B-parameter models can handle complex visual tasks previously reserved for much larger models.
-
----
+- **The Rise of Agentic AI:** Moving from models that talk to models that *do*.
+- **Hardware-Software Co-optimization:** Software speed is increasingly dependent on specific hardware architectures (e.g., Cerebras for Sol).
+- **Physical AI (Robotics):** The convergence of LLM data pipelines with robotic control (LeRobot).
+- **Extreme Model Compression:** High-performance vision models are getting smaller and faster for edge use.
 
 ## Terminology
-
-*   **GPT-5.6 Sol:** A specific, high-optimization variant of the GPT-5.6 model family designed for speed.
-*   **Tokens Per Second (TPS):** The measurement of how fast an AI generates text. 750 TPS is roughly 1,000 words per second.
-*   **Agentic AI:** AI systems that don't just talk but can take actions (like sending emails or writing code) to achieve a goal.
-*   **Embeddings:** A way of turning complex data (like images or text) into numbers that a computer can easily compare and analyze.
-*   **Edge AI:** Running AI models directly on local devices (like a phone or a camera) rather than on a central cloud server.
-*   **Liquid Foundation Models (LFM):** A type of AI architecture designed to be more flexible and efficient at processing continuous data compared to traditional models.
-*   **Responses API:** A tool for developers that provides more control over how the AI generates and formats its answers.
+- **GPT-5.6 Sol:** The latest iteration of OpenAI's model, optimized for speed and agentic tasks.
+- **Agentic AI:** AI systems designed to complete end-to-end tasks (like booking a flight or writing and deploying code) rather than just generating text.
+- **Tokens per Second (TPS):** A measure of how fast an AI generates information. Higher TPS allows for real-time applications.
+- **Responses API:** A tool for developers to control exactly how an AI structures its answers for better integration into other software.
+- **LFM (Liquid Foundation Model):** A type of AI model that is more computationally efficient and adaptable than standard Transformers.
+- **Embeddings:** A way of turning complex data (like images or maps) into numbers that an AI can understand and compare.
+- **Edge AI:** Running AI models directly on local devices (like a smartphone or a robot) instead of on a central cloud server.
