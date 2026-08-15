@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-15 00:44:52
+Last Updated: 2026-08-15 02:09:36
 
-1.  **Pilot Agentic Workflows:** Transition internal pilot programs from simple "help bots" to "action agents" that can interface with internal APIs.
-2.  **Evaluate Edge Use-Cases:** Assess if LFM2.5-VL-3B can replace cloud-based vision APIs to save costs and improve privacy.
-3.  **Review AI ROI:** With the new CRO at OpenAI, expect changes in enterprise pricing; now is the time to lock in favorable enterprise agreements.
+1.  **Audit Current AI Use:** Identify workflows where "assistance" (chat) can be upgraded to "execution" (agents).
+2.  **Evaluate Edge vs. Cloud:** Assess if vision-based tasks can be moved to the edge using new 3B-parameter models to save costs.
+3.  **Explore High-Speed Inference:** Determine if customer-facing applications could benefit from the 750 tokens/sec "Ultrafast" speeds for better UX.
