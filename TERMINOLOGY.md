@@ -1,9 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-15 10:14:44
+Last Updated: 2026-08-15 11:12:29
 
-*   **AI Agent:** A system that can use tools, browse the web, and take actions in software to complete a goal, rather than just generating text.
-*   **Tokens per Second (TPS):** A measure of how fast an AI generates information. Higher TPS means faster responses.
-*   **Embeddings:** A way of converting complex data (like images or environmental data) into a list of numbers that an AI can understand and compare.
-*   **Edge AI:** AI models that run directly on a device (like a smartphone or a factory robot) rather than on a remote server.
-*   **LFM (Liquid Foundation Model):** A type of AI architecture designed to be more efficient and adaptable than standard models, often used for continuous data like video or sensors.
+*   **GPT-5.6 Sol:** A specialized, high-speed variant of the GPT-5.6 model optimized for low-latency output.
+*   **AI Agents:** AI systems designed to achieve goals autonomously by breaking down tasks, using tools, and making decisions.
+*   **Tokens:** The basic units of text (words or parts of words) that AI models process; 750 tokens is roughly 550–600 words.
+*   **Agentic AI:** A category of AI that focuses on execution and action rather than just content generation.
+*   **Embeddings:** Numerical representations of data that allow computers to understand the relationship between different concepts (e.g., words, images, or geographic data).
+*   **Edge AI:** Running AI models directly on local devices (like a robot or a phone) rather than in a distant cloud data center.
+*   **Reproducibility:** The ability for an independent team to take a research paper and achieve the same results using the same methods.
