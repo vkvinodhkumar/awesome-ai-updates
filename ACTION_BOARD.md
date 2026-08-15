@@ -1,22 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-08-15 11:12:29
+Last Updated: 2026-08-15 12:20:24
 
-1.  **Audit Workflows:** Identify internal processes that can move from "Assisted" (human-in-the-loop) to "Agentic" (AI-led with human oversight).
-2.  **Evaluate Edge Needs:** Assess if vision-based tasks should be moved to the edge for lower latency and better privacy.
-3.  **Review the Speed Tier:** Determine if the 14x speed of "Ultrafast" justifies the cost for customer-facing applications where latency is a churn factor.
+1.  **Pilot Agentic Workflows:** Identify one high-frequency manual process to test with GPT-5.6’s new Responses API.
+2.  **Evaluate Speed Requirements:** Determine if "Ultrafast" mode (750 tps) is required for customer-facing applications or if standard tiers suffice.
+3.  **Review Open Source Alternatives:** For edge-case or privacy-heavy projects, evaluate the LFM2.5-VL models to reduce reliance on API costs.
 
 ## Technology Trends
-*   **Agentic AI:** The primary focus has shifted from generative text to autonomous task execution.
-*   **Physical AI:** The convergence of LLMs and robotics (LeRobot) is accelerating.
-*   **Specialized Embeddings:** Moving away from "one-size-fits-all" models toward domain-specific data representations (e.g., Earth data).
-*   **Vertical Integration:** AI companies are increasingly managing the entire stack, from custom hardware to the end-user API.
+- **Agentic AI:** The transition from models that talk to models that act autonomously.
+- **Hardware-Software Co-optimization:** Using specialized chips (Cerebras) to achieve 10x+ performance gains.
+- **Scientific Rigor:** A renewed focus on reproducing AI research to ensure reliability.
+- **Edge-First Vision:** Developing small but powerful models for local device processing.
 
 ## Terminology
-*   **GPT-5.6 Sol:** A specialized, high-speed variant of the GPT-5.6 model optimized for low-latency output.
-*   **AI Agents:** AI systems designed to achieve goals autonomously by breaking down tasks, using tools, and making decisions.
-*   **Tokens:** The basic units of text (words or parts of words) that AI models process; 750 tokens is roughly 550–600 words.
-*   **Agentic AI:** A category of AI that focuses on execution and action rather than just content generation.
-*   **Embeddings:** Numerical representations of data that allow computers to understand the relationship between different concepts (e.g., words, images, or geographic data).
-*   **Edge AI:** Running AI models directly on local devices (like a robot or a phone) rather than in a distant cloud data center.
-*   **Reproducibility:** The ability for an independent team to take a research paper and achieve the same results using the same methods.
+- **Agentic AI:** AI that can perform tasks and make decisions autonomously rather than just answering questions.
+- **Tokens per Second (TPS):** A measure of how fast an AI generates text; higher TPS means faster responses.
+- **Responses API:** A tool for developers that ensures an AI’s answer follows a specific, predictable format.
+- **Embeddings:** A way of representing data (like words or images) as numbers so an AI can understand the relationships between them.
+- **Edge AI:** Running AI models directly on a local device (like a smartphone) rather than on a distant cloud server.
+- **LFM (Liquid Foundation Model):** A type of AI model designed to be more efficient and adaptable than traditional architectures.
+- **Reproducibility:** The ability for a different team to get the same results from a scientific experiment or AI model test.
