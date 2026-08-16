@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-16 14:14:50
+Last Updated: 2026-08-16 15:13:31
 
-1.  **Pilot the Responses API:** Transition current internal "chatbot" tools to "agentic" workflows using the GPT-5.6 builder's guide.
-2.  **Evaluate Edge Vision:** Test the LFM2.5-VL-3B for any hardware-based or on-site security/monitoring needs.
-3.  **Review AI Governance:** Update safety protocols to account for "Agentic Execution" where AI has permission to modify code or databases.
+1. **Pilot Agentic Workflows:** Identify one department (e.g., Ops or Engineering) to move from "AI assistance" to "AI execution."
+2. **Evaluate Edge Needs:** Assess if vision-based tasks (security, QC) can be moved to the edge using Liquid AI’s new models to save on latency and costs.
+3. **Review Revenue Strategy:** Align with the trends signaled by OpenAI’s new CRO hire—focusing on ROI and the "full value" of AI rather than just experimentation.
