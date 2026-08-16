@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-15 23:12:38
+Last Updated: 2026-08-16 00:47:32
 
-- **GPT-5.6 Sol:** A specialized, high-velocity version of the GPT-5.6 model optimized for speed.
-- **Agentic AI:** AI systems capable of planning, using tools, and executing multi-step tasks autonomously.
-- **Tokens per second (TPS):** A measure of how fast an AI generates content; 750 TPS is roughly 500-600 words per second.
-- **Embeddings:** A way of representing data (like text or images) as numbers so that computers can understand relationships between them.
-- **Liquid Foundation Model (LFM):** A type of AI architecture that is more adaptable and efficient than traditional transformers, often used for edge computing.
-- **LeRobot:** An open-source framework specifically designed for training and controlling robots using AI.
+- **GPT-5.6 Sol:** A specific high-performance version of the GPT-5.6 model optimized for speed.
+- **Agentic AI:** AI that can take independent actions to achieve a goal, rather than just generating text or answering questions.
+- **Tokens Per Second (TPS):** A measure of how fast an AI generates information. Higher TPS equals faster responses.
+- **Responses API:** A tool that helps AI models interact more reliably with other software and databases.
+- **Embeddings:** A way of representing data (like images or text) as numbers so that an AI can easily compare and analyze them.
+- **Edge AI:** Running AI models directly on a local device (like a phone or a camera) instead of on a distant server.
+- **LFM (Liquid Foundation Models):** A type of AI architecture designed to be more efficient and adaptable than traditional models.
