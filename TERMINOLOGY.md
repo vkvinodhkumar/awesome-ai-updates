@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-16 12:22:08
+Last Updated: 2026-08-16 13:24:38
 
-*   **Agentic AI:** AI that can take actions, use tools, and complete multi-step tasks autonomously, rather than just answering questions.
-*   **Inference:** The process of an AI model generating an output from a given input.
-*   **Tokens per Second (TPS):** A measure of how fast an AI model produces text; higher is faster.
-*   **Embeddings:** A way of representing data (like text or images) as numbers so that an AI can understand the relationships between different pieces of information.
-*   **Edge AI:** Running AI models directly on a local device (like a smartphone or a factory sensor) instead of a distant cloud server.
-*   **Vision-Language Model (VLM):** An AI model that can understand both images and text at the same time.
-*   **Responses API:** A specific interface for developers that simplifies how an AI model returns structured data to be used by other software.
+*   **GPT-5.6 Sol:** A specific high-performance variant of the GPT-5.6 model family optimized for speed.
+*   **Agentic AI:** AI systems that don't just generate text but can use tools, browse the web, and execute tasks autonomously to achieve a goal.
+*   **Responses API:** A new interface design that allows for more structured and reliable outputs from AI models.
+*   **Cerebras:** A hardware company specializing in massive AI chips designed for high-speed deep learning.
+*   **VL (Vision-Language):** Models that can process and understand both images and text simultaneously.
+*   **Embeddings:** Numerical representations of data (text, images, or earth data) that allow machines to understand relationships between different pieces of information.
+*   **Edge Computing:** Running AI models directly on local devices (phones, sensors) rather than in a centralized cloud data center.
