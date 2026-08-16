@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-16 13:24:38
+Last Updated: 2026-08-16 14:14:50
 
-*   **GPT-5.6 Sol:** A specific high-performance variant of the GPT-5.6 model family optimized for speed.
-*   **Agentic AI:** AI systems that don't just generate text but can use tools, browse the web, and execute tasks autonomously to achieve a goal.
-*   **Responses API:** A new interface design that allows for more structured and reliable outputs from AI models.
-*   **Cerebras:** A hardware company specializing in massive AI chips designed for high-speed deep learning.
-*   **VL (Vision-Language):** Models that can process and understand both images and text simultaneously.
-*   **Embeddings:** Numerical representations of data (text, images, or earth data) that allow machines to understand relationships between different pieces of information.
-*   **Edge Computing:** Running AI models directly on local devices (phones, sensors) rather than in a centralized cloud data center.
+*   **GPT-5.6 Sol:** A specific variant of the GPT-5.6 model optimized for "solar" speed (high-velocity inference).
+*   **Agentic AI:** AI that can independently plan, use tools, and execute tasks to achieve a goal, rather than just generating text.
+*   **Tokens per Second (TPS):** The speed at which an AI generates content; higher TPS means faster responses.
+*   **Embeddings:** Numerical representations of data (like images or text) that allow computers to understand relationships between different pieces of information.
+*   **Edge AI:** Running AI models directly on a local device (like a camera or phone) rather than in a distant data center.
+*   **Vision-Language (VL) Model:** An AI that can "see" and process images/video while also understanding and generating human language.
+*   **Codex:** A specialized AI model designed for understanding and writing computer code.
