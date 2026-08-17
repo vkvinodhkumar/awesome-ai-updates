@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 14:19:40
+Last Updated: 2026-08-17 15:17:34
 
-- **GPT-5.6 Sol:** The latest iteration of OpenAI’s model family, optimized for a balance of high intelligence and extreme speed.
-- **Ultrafast Mode:** A specialized API tier designed for near-instantaneous output, often leveraging specialized hardware (like Cerebras).
-- **LFM (Liquid Foundation Model):** A type of AI model that uses "liquid" neural networks, which are more efficient at processing time-series or sequential data than traditional architectures.
-- **Embeddings (OlmoEarth):** Mathematical representations of data (in this case, earth observation data) that allow computers to understand relationships between different environmental factors.
-- **Edge Capabilities:** The ability of an AI model to run directly on a device (like a phone or a robot) rather than on a distant, powerful server.
-- **Agentic Workflow:** A method where AI doesn't just answer questions but performs a series of tasks (like a digital employee) to achieve a goal.
+*   **Tokens per Second (TPS):** A measure of how fast an AI generates text. Higher TPS means the AI "types" faster.
+*   **Embeddings:** A way of turning complex data (like an image or a sentence) into a list of numbers that an AI can easily compare and understand.
+*   **The Edge:** Computing that happens locally on a device (like a phone or a robot) rather than in a distant data center.
+*   **Vision-Language Model (VLM):** An AI that can understand both images and text simultaneously.
+*   **Inference:** The process of an AI model actually running and providing an answer after it has already been trained.
+*   **Open Weights:** AI models where the "brain" of the model is shared publicly, allowing anyone to run it on their own hardware.
