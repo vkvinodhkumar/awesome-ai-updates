@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 22:15:35
+Last Updated: 2026-08-17 23:15:29
 
-- **GPT-5.6 Sol:** The latest iteration of OpenAI's model, optimized specifically for high-speed "Ultrafast" performance.
-- **Tokens per Second (TPS):** The speed at which an AI generates words or characters. 750 TPS is roughly 10-15 pages of text per second.
-- **GPU Utilization:** A measure of how much of a graphics card's processing power is actually being used; higher utilization means less wasted money.
-- **Embeddings:** A way of converting complex data (like a photo of Earth or a paragraph of text) into a list of numbers that an AI can understand and compare.
-- **LeRobot:** An open-source toolkit designed to simplify the training and control of physical robots using AI.
-- **Red-Teaming:** The process of intentionally attacking a system to find and fix its weaknesses.
+- **Tokens per Second (TPS):** A measure of how fast an AI can generate text. For context, humans read at about 5-10 tokens per second.
+- **Embeddings:** A way of converting complex data (like images or earth maps) into a list of numbers that an AI can easily compare and understand.
+- **GPU Utilization:** A metric showing how much of a computer chip's power is actually being used; higher is better.
+- **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is the learning phase).
+- **Open-Weights Models:** AI models where the "brain" of the system is shared publicly, allowing anyone to run it on their own hardware.
+- **Agentic Workflows:** AI systems that don't just talk, but can perform multi-step actions like booking a flight or managing a database.
