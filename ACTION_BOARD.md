@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-17 05:28:25
+Last Updated: 2026-08-17 06:36:20
 
-1.  **Pilot GPT-5.6 Sol:** Evaluate the "Ultrafast" mode for any customer-facing interfaces where latency currently impacts user experience.
-2.  **Audit Workflows for "Agentic" Potential:** Identify manual, multi-step digital processes that can be transitioned from "AI-assisted" to "AI-executed."
-3.  **Investigate Edge AI:** For mobile or field-based operations, test the LFM2.5-VL-3B model to reduce reliance on stable internet connectivity.
+1. **Audit Current AI Usage:** Transition from "assistance" (summarization) to "execution" (agents) in internal workflows.
+2. **Evaluate Sol API:** Pilot the GPT-5.6 Sol "Ultrafast" tier for real-time customer service or internal engineering tools.
+3. **Explore Open Models:** Review the Summer 2026 Open Model report to determine if proprietary model costs can be reduced by switching to open-source alternatives for specific tasks.
