@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 13:33:40
+Last Updated: 2026-08-17 14:19:40
 
-- **Tokens per Second (TPS):** The speed at which an AI generates text. 750 TPS is roughly the speed of reading several pages of text in one second.
-- **Agentic Workflows:** Systems where the AI doesn't just talk, but actually uses software tools (like email or code executors) to complete a goal.
-- **Embeddings:** A way of turning complex data (like a satellite image or a sentence) into a list of numbers that a computer can easily compare and understand.
-- **Edge AI:** Running AI models directly on a local device (like a phone or a robot) instead of sending the data to a giant data center.
-- **Vision-Language Model (VLM):** An AI that can "see" (process images) and "talk" (process or generate text) at the same time.
-- **Chain of Thought:** A technique where the AI "thinks out loud" to solve complex problems step-by-step before giving a final answer.
+- **GPT-5.6 Sol:** The latest iteration of OpenAI’s model family, optimized for a balance of high intelligence and extreme speed.
+- **Ultrafast Mode:** A specialized API tier designed for near-instantaneous output, often leveraging specialized hardware (like Cerebras).
+- **LFM (Liquid Foundation Model):** A type of AI model that uses "liquid" neural networks, which are more efficient at processing time-series or sequential data than traditional architectures.
+- **Embeddings (OlmoEarth):** Mathematical representations of data (in this case, earth observation data) that allow computers to understand relationships between different environmental factors.
+- **Edge Capabilities:** The ability of an AI model to run directly on a device (like a phone or a robot) rather than on a distant, powerful server.
+- **Agentic Workflow:** A method where AI doesn't just answer questions but performs a series of tasks (like a digital employee) to achieve a goal.
