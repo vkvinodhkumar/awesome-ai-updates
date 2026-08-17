@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 04:33:20
+Last Updated: 2026-08-17 05:28:25
 
-*   **GPT-5.6 Sol:** A variant of the GPT-5.6 model optimized specifically for high-speed inference and low-latency responses.
-*   **Agentic AI:** AI systems designed not just to generate content, but to use tools and take actions to complete a multi-step goal.
-*   **Tokens per Second (TPS):** The metric for measuring the speed of an AI model; 750 TPS is roughly equivalent to reading 500+ words in a single second.
-*   **Liquid Foundation Model (LFM):** A type of neural network that can adapt its parameters over time, often more efficient for processing continuous data (like video or sensor feeds).
-*   **Embeddings:** A way of representing data (text, images, or climate data) as a list of numbers that a computer can easily compare and analyze.
-*   **Edge Computing:** Running AI models locally on a device (like a smartphone) rather than on a remote server.
-*   **Sim-to-Real:** The process of training an AI in a computer simulation and successfully transferring that knowledge to a physical robot.
+*   **AI Agent:** An AI system that can take actions, use tools, and complete multi-step goals with minimal human oversight.
+*   **Tokens per second (TPS):** A measure of how fast an AI generates text; higher TPS means faster responses.
+*   **Edge AI:** AI models that run locally on a device (like a phone or robot) rather than on a remote cloud server.
+*   **Embeddings:** A way of representing data (like text or maps) as numbers so that computers can easily understand relationships between different concepts.
+*   **Agentic AI:** A category of AI focused on "doing" tasks (execution) rather than just "talking" about them (assistance).
+*   **LFM (Liquid Foundation Model):** A type of AI model architecture designed to be more efficient and adaptable than traditional transformers.
+*   **Open-Weights Models:** AI models where the underlying "brain" (the weights) is shared publicly for others to use and modify.
