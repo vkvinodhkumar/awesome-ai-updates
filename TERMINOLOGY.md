@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 06:36:20
+Last Updated: 2026-08-17 07:44:58
 
-- **Agentic AI:** AI that doesn't just suggest answers but takes actions (e.g., booking a flight or writing and running code) to complete a goal.
-- **Tokens per Second (TPS):** The speed at which an AI generates text. Higher TPS means faster responses.
-- **Embeddings:** A way of representing data (like words or images) as numbers so an AI can understand the relationship between different concepts.
-- **Edge AI:** Running AI models directly on a local device (like a smartphone or a sensor) instead of on a massive remote server.
-- **Vision-Language Model (VLM):** An AI that can "see" and "read" simultaneously, allowing it to describe images or follow visual instructions.
-- **Liquid Foundation Models (LFM):** A type of AI model designed to be more efficient and adaptable in processing continuous data streams, often better for smaller devices.
+*   **AI Agents:** AI systems that can independently complete tasks and make decisions rather than just answering questions.
+*   **Responses API:** A tool for developers that standardizes how AI outputs are formatted, making it easier for other software to "read" and "act on" AI results.
+*   **Tokens per Second (TPS):** The speed at which an AI generates content. 750 TPS is roughly the speed of several pages of text per second.
+*   **Liquid Foundation Models (LFM):** A type of AI model designed to be more adaptable and efficient, often used for continuous data like video or sensor feeds.
+*   **Embeddings:** A way of converting complex data (like images or text) into numbers so that an AI can understand the relationships between different pieces of information.
+*   **Edge AI:** Running AI models directly on local devices (like a smartphone or a factory camera) instead of in a massive remote data center.
