@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 17:19:57
+Last Updated: 2026-08-17 18:26:08
 
-*   **Intelligence Age:** A proposed new era where AI is the primary driver of economic and societal structure.
-*   **GPT-5.6 Sol:** The latest iteration of OpenAI’s model, optimized for speed and agentic tasks.
-*   **Tokens Per Second (tps):** The speed at which an AI generates words or parts of words.
-*   **Embeddings:** A way of representing data (text, images, etc.) as numbers so an AI can understand the relationship between different concepts.
-*   **Edge AI:** Running AI models directly on a local device (like a phone or a camera) instead of a distant server.
-*   **Agentic AI:** AI systems that can independently plan, use tools, and complete multi-step goals.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed for high efficiency and continuous data processing.
+- **Tokens Per Second (TPS):** The speed at which an AI generates text; higher TPS means faster responses.
+- **Inference:** The process of an AI model generating an output from a given input.
+- **Embeddings:** A way of representing data (like words or images) as numbers so that computers can understand the relationships between them.
+- **Edge AI:** AI that runs directly on a local device (like a phone or robot) rather than on a remote server.
+- **Vision-Language Model (VLM):** An AI that can understand and describe both images and text simultaneously.
+- **Agentic Workflow:** A system where the AI doesn't just answer questions but performs a series of tasks or steps to achieve a goal.
+- **Open Models:** AI models whose "weights" and code are shared publicly for anyone to use or modify.
