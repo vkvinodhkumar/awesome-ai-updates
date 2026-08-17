@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-17 12:26:21
+Last Updated: 2026-08-17 13:33:40
 
-- **GPT-5.6 Sol:** A specific variant of the GPT-5.6 model optimized for extreme inference speed.
-- **Tokens Per Second (TPS):** The speed at which an AI generates text; higher TPS allows for smoother, real-time interactions.
-- **Agentic AI:** AI systems that can independently plan, use tools, and execute multi-step tasks to reach a goal.
-- **Embeddings:** A way of representing data (like text or images) as numbers so that an AI can understand the relationships between different pieces of information.
-- **Edge AI:** Running AI models directly on local devices (like a phone or robot) rather than on a central cloud server.
-- **Open Models:** AI models whose "weights" and architecture are shared publicly for anyone to use or modify.
+- **Tokens per Second (TPS):** The speed at which an AI generates text. 750 TPS is roughly the speed of reading several pages of text in one second.
+- **Agentic Workflows:** Systems where the AI doesn't just talk, but actually uses software tools (like email or code executors) to complete a goal.
+- **Embeddings:** A way of turning complex data (like a satellite image or a sentence) into a list of numbers that a computer can easily compare and understand.
+- **Edge AI:** Running AI models directly on a local device (like a phone or a robot) instead of sending the data to a giant data center.
+- **Vision-Language Model (VLM):** An AI that can "see" (process images) and "talk" (process or generate text) at the same time.
+- **Chain of Thought:** A technique where the AI "thinks out loud" to solve complex problems step-by-step before giving a final answer.
