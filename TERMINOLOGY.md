@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 12:27:59
+Last Updated: 2026-08-18 13:36:11
 
-- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
-- **GPU Utilization:** A measure of how much of a computer chip’s processing power is actually being used; higher is more efficient.
-- **Embeddings:** A way of turning complex data (like images or text) into a list of numbers that a computer can easily compare and analyze.
-- **Open Models:** AI models whose "blueprints" are available for anyone to see, modify, and use.
-- **Reproducibility:** The ability for an independent researcher to achieve the same results as the original study using the same methods.
-- **Data Loop:** The continuous cycle of collecting data from a robot, training the AI, and sending the updated instructions back to the robot.
+- **Intelligence Age:** A term used by OpenAI to describe the era where AI is as fundamental to society as electricity or the internet.
+- **GPU Cluster Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
+- **Open Models:** AI models whose "weights" and code are public, allowing anyone to download and run them locally.
+- **Embeddings:** A way of converting complex data (like text or satellite images) into a list of numbers that a computer can easily compare and analyze.
+- **LeRobot:** An open-source toolkit designed to make it easier to train and control robots using AI.

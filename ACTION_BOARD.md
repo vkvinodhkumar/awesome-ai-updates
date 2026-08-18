@@ -1,20 +1,19 @@
 # AI Action Board
 
-Last Updated: 2026-08-18 12:27:59
+Last Updated: 2026-08-18 13:36:11
 
-1. **Optimize Infrastructure:** Task the engineering team to review "task ordering" in GPU clusters based on the Dharma AI findings to reduce cloud costs.
-2. **Review AI Policy:** Align internal AI usage policies with the safety standards being set by "ChatGPT for Teens" to protect younger users/interns.
-3. **Explore Robotics:** Evaluate the LeRobot framework for any physical automation needs within the supply chain.
+1. **Infrastructure Audit:** Review internal GPU utilization metrics to see if the "workload ordering" techniques can be applied to reduce costs.
+2. **Education Policy:** Update corporate AI usage policies to reflect the new safety standards and tools available for younger users (if applicable to the workforce).
+3. **Robotics Exploration:** Assign a technical lead to evaluate the "LeRobot" framework for potential warehouse or physical process automation.
 
 ## Technology Trends
-- **AI Literacy as a Skill:** Shift from "using AI" to "understanding AI" as a core competency in early education.
-- **Sustainability and Efficiency:** Moving away from "more GPUs" toward "better GPU management."
-- **Niche Embedding Models:** The rise of specialized data representations (like OlmoEarth) for specific industries like climate and geography.
+- **Verticalization:** Moving away from "one-model-fits-all" toward specialized models (e.g., OlmoEarth for climate).
+- **The "Efficiency Era":** A shift in focus from "bigger models" to "better utilization" of existing hardware.
+- **Embodied AI:** The convergence of LLMs and physical robotics is accelerating via simplified developer toolchains.
 
 ## Terminology
-- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
-- **GPU Utilization:** A measure of how much of a computer chip’s processing power is actually being used; higher is more efficient.
-- **Embeddings:** A way of turning complex data (like images or text) into a list of numbers that a computer can easily compare and analyze.
-- **Open Models:** AI models whose "blueprints" are available for anyone to see, modify, and use.
-- **Reproducibility:** The ability for an independent researcher to achieve the same results as the original study using the same methods.
-- **Data Loop:** The continuous cycle of collecting data from a robot, training the AI, and sending the updated instructions back to the robot.
+- **Intelligence Age:** A term used by OpenAI to describe the era where AI is as fundamental to society as electricity or the internet.
+- **GPU Cluster Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
+- **Open Models:** AI models whose "weights" and code are public, allowing anyone to download and run them locally.
+- **Embeddings:** A way of converting complex data (like text or satellite images) into a list of numbers that a computer can easily compare and analyze.
+- **LeRobot:** An open-source toolkit designed to make it easier to train and control robots using AI.
