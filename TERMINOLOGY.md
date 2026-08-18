@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 13:36:11
+Last Updated: 2026-08-18 14:24:58
 
-- **Intelligence Age:** A term used by OpenAI to describe the era where AI is as fundamental to society as electricity or the internet.
-- **GPU Cluster Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
-- **Open Models:** AI models whose "weights" and code are public, allowing anyone to download and run them locally.
-- **Embeddings:** A way of converting complex data (like text or satellite images) into a list of numbers that a computer can easily compare and analyze.
-- **LeRobot:** An open-source toolkit designed to make it easier to train and control robots using AI.
+- **Multi-Vector (Late Interaction) Embeddings:** A method where the AI looks at individual words in a query and matches them against individual parts of a document separately, rather than turning the whole sentence into one single number. This makes searching much more accurate.
+- **GPU Utilization:** A measure of how much of a computer chip’s power is actually being used. High utilization means you are getting your money's worth out of expensive hardware.
+- **Open Models:** AI models where the "blueprints" (weights) are shared publicly so anyone can use or modify them, as opposed to "Closed Models" like GPT-4.
+- **Reproducibility:** The ability for a different team of scientists to achieve the same results as the original researchers. If a paper isn't reproducible, its findings might not be trustworthy.
+- **LeRobot:** An open-source toolkit designed to help developers build and train AI for physical robots.
