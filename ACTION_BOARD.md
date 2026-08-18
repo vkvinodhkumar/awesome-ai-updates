@@ -1,20 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-08-18 03:38:03
+Last Updated: 2026-08-18 04:26:51
 
-1.  **Pilot GPT-5.6:** Transition current GPT-4o or GPT-5 projects to GPT-5.6 to take advantage of improved agentic capabilities.
-2.  **Audit Security:** Review the "Defender’s Window" guidelines to ensure internal security teams are using AI defensively.
-3.  **Explore Hardware Partnerships:** Investigate if Cerebras-backed inference (Ultrafast) is necessary for your high-frequency applications.
+1.  **Evaluate Compute Efficiency:** Audit internal GPU usage using Dharma AI’s scheduling insights to reduce cloud costs.
+2.  **Explore High-Speed Inference:** Test "Ultrafast" mode for customer-facing applications where latency is currently a bottleneck.
+3.  **Invest in Robotics Pipelines:** For firms in manufacturing or logistics, explore the LeRobot/Strands integration for physical task automation.
 
 ## Technology Trends
-*   **Hardware-Software Co-optimization:** The partnership between OpenAI and Cerebras shows that the next performance leaps will come from matching specific model architectures to specific silicon.
-*   **Embodied AI (Robotics):** AI is moving into the physical world faster through standardized platforms like LeRobot.
-*   **Hyper-Specialization:** Moving away from "one-size-fits-all" models toward specialized tools like OlmoEarth embeddings for niche scientific data.
+*   **Ultra-Low Latency:** The industry is moving toward "instant" AI, removing the wait time for text and reasoning generation.
+*   **Regional AI Investment:** A shift toward domestic infrastructure projects (like PORTS-Pike) to secure supply chains and political goodwill.
+*   **Open-Source Parity:** Open models are reaching a point where they can serve as viable, private alternatives to top-tier proprietary models.
 
 ## Terminology
-*   **GPT-5.6 "Sol":** The latest high-performance variant of the GPT-5.6 model family, optimized for speed and reasoning.
-*   **Tokens Per Second (TPS):** A measure of how fast an AI "thinks" or writes text. Higher TPS means faster responses.
-*   **Embeddings:** A way of turning complex data (like a satellite image or a sentence) into a list of numbers that a computer can easily compare and analyze.
-*   **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is when the model is learning).
-*   **Open Models:** AI models where the "code" and "weights" are public, allowing anyone to run them on their own hardware.
-*   **Reproducibility:** The ability for a different team of scientists to achieve the same results as the original researchers, proving the findings are real.
+*   **GPT-5.6 Sol:** A specific version of OpenAI's model optimized for high-speed performance and efficiency.
+*   **Tokens per Second (TPS):** A measure of how fast an AI can generate text. High TPS (750+) is necessary for real-time interaction.
+*   **Embeddings:** A way to turn complex data (like text or satellite images) into a list of numbers that an AI can understand and compare.
+*   **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," where it learns).
+*   **GPU Utilization:** A metric showing how much of a computer's "AI brain" (Graphics Processing Unit) is actually being used at any given time.
+*   **Open-Weights:** Models where the "brain" of the AI is shared publicly, allowing anyone to run it on their own hardware.
