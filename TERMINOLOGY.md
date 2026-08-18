@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 02:10:40
+Last Updated: 2026-08-18 03:38:03
 
-*   **GPT-5.6 Sol:** A specific variant of the GPT-5.6 model optimized for extreme speed and efficiency.
-*   **Tokens Per Second (TPS):** The speed at which an AI generates words or characters. 750 TPS is considered "near-instant."
-*   **Embeddings (OlmoEarth):** Mathematical representations of data (in this case, satellite or earth data) that allow AI to understand relationships between different points of information.
-*   **Agentic Workflows:** Systems where an AI is given a goal and independently chooses the steps/tools needed to achieve it.
-*   **GPU Utilization:** A measure of how much of a computer chip's power is actually being used; higher utilization means less wasted money.
-*   **Embodied AI:** AI that is integrated into a physical body, such as a robot, allowing it to interact with the real world.
+*   **GPT-5.6 "Sol":** The latest high-performance variant of the GPT-5.6 model family, optimized for speed and reasoning.
+*   **Tokens Per Second (TPS):** A measure of how fast an AI "thinks" or writes text. Higher TPS means faster responses.
+*   **Embeddings:** A way of turning complex data (like a satellite image or a sentence) into a list of numbers that a computer can easily compare and analyze.
+*   **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is when the model is learning).
+*   **Open Models:** AI models where the "code" and "weights" are public, allowing anyone to run them on their own hardware.
+*   **Reproducibility:** The ability for a different team of scientists to achieve the same results as the original researchers, proving the findings are real.
