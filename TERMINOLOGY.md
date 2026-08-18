@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 08:25:49
+Last Updated: 2026-08-18 09:23:56
 
-- **GPT-5.6 Sol:** A specialized version of the GPT-5.6 model optimized for high-speed performance.
-- **Tokens per Second (TPS):** A measure of how fast an AI generates text; higher TPS means faster responses.
-- **Embeddings:** Numerical representations of data (text, images, or earth data) that allow computers to understand relationships between concepts.
-- **AI Agents:** AI systems designed to perform tasks, make decisions, and interact with other software autonomously.
-- **GPU Utilization:** A metric showing how much of a Graphics Processing Unit's power is actually being used; higher utilization means better value for money.
-- **ICML (International Conference on Machine Learning):** One of the most prestigious global research conferences for AI and machine learning.
-- **LeRobot:** An open-source framework focused on making robotics research and deployment more accessible.
+*   **GPT-5.6 Sol:** A specialized, high-speed variant of the GPT-5.6 model optimized for throughput.
+*   **Ultrafast Mode:** A service tier that utilizes specialized hardware to deliver extremely high token-per-second outputs.
+*   **Embeddings (OlmoEarth):** Numerical representations of data (in this case, satellite/earth data) that allow machines to understand relationships between complex inputs.
+*   **Agent:** An AI system capable of planning and executing multi-step tasks with minimal human intervention.
+*   **GPU Utilization:** A metric showing how much of a Graphics Processing Unit's power is actually being used; higher utilization equals better cost-efficiency.
+*   **LeRobot:** An open-source framework for training and deploying AI models on robotic hardware.
