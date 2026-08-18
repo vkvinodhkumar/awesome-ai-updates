@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 05:21:14
+Last Updated: 2026-08-18 06:28:12
 
-- **GPT-5.6 / Sol:** The latest iteration of OpenAI’s Large Language Models, optimized for agents and high-speed (Sol) processing.
-- **AI Agents:** AI systems capable of autonomous action—planning, using tools, and making decisions to achieve a goal.
-- **Tokens per Second (TPS):** The speed at which an AI generates text; higher TPS allows for more human-like or real-time interaction.
-- **Inference:** The process of an AI model "thinking" or generating a response based on new data.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means better efficiency.
-- **Embeddings:** A way of representing data (like text or satellite images) as numbers so that an AI can understand the relationships between different pieces of information.
-- **Embodied AI:** AI that is integrated into a physical body (like a robot) to interact with the real world.
-- **Open-Weight Models:** AI models where the "brain" (weights) is shared publicly, allowing anyone to run or modify it.
+*   **GPT-5.6 Sol:** The latest iteration of OpenAI’s model family, optimized for high-speed "Ultrafast" inference.
+*   **Tokens per Second (TPS):** A measure of how fast an AI generates text. 750 TPS is roughly equivalent to reading several pages of text in one second.
+*   **Inference:** The process of an AI model generating an answer or "thinking" after it has been trained.
+*   **Embeddings:** A way of turning complex data (like a satellite image or a sentence) into a list of numbers that a computer can easily compare and analyze.
+*   **Embodied AI:** AI that exists in a physical body, such as a robot, rather than just in a computer screen.
+*   **LeRobot:** An open-source toolkit designed to make it easy to train and control robots using AI.
+*   **GPU Utilization:** A metric showing how much of a computer's "brain power" (Graphic Processing Unit) is actually being used; higher utilization means less wasted money.
