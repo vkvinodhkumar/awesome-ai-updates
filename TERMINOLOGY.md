@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 11:17:34
+Last Updated: 2026-08-18 12:27:59
 
-- **Embeddings:** A way of representing data (like text or satellite images) as a list of numbers so that a computer can easily compare similarities between different pieces of information.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less money is wasted.
-- **Open Models:** AI models where the "brain" (weights) is shared publicly for anyone to use or modify, rather than being kept secret by a company.
-- **Reproducibility:** The ability for an independent scientist to take a research paper's data and code and get the exact same results, proving the research is valid.
-- **Embodied AI:** AI that is connected to a physical body, like a robot, allowing it to interact with the real world rather than just existing on a screen.
+- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
+- **GPU Utilization:** A measure of how much of a computer chip’s processing power is actually being used; higher is more efficient.
+- **Embeddings:** A way of turning complex data (like images or text) into a list of numbers that a computer can easily compare and analyze.
+- **Open Models:** AI models whose "blueprints" are available for anyone to see, modify, and use.
+- **Reproducibility:** The ability for an independent researcher to achieve the same results as the original study using the same methods.
+- **Data Loop:** The continuous cycle of collecting data from a robot, training the AI, and sending the updated instructions back to the robot.

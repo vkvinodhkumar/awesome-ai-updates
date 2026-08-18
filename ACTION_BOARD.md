@@ -1,19 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-08-18 11:17:34
+Last Updated: 2026-08-18 12:27:59
 
-1. **Optimize Compute:** Audit internal GPU cluster management to implement "order-based" scheduling optimizations to save on compute costs.
-2. **Review AI Policy:** Monitor the 14 OpenAI-funded policy projects to anticipate future regulatory shifts in the "Intelligence Age."
-3. **Assess Specialized Models:** Evaluate if domain-specific embeddings (like OlmoEarth) provide better ROI than general-purpose models for specialized business data.
+1. **Optimize Infrastructure:** Task the engineering team to review "task ordering" in GPU clusters based on the Dharma AI findings to reduce cloud costs.
+2. **Review AI Policy:** Align internal AI usage policies with the safety standards being set by "ChatGPT for Teens" to protect younger users/interns.
+3. **Explore Robotics:** Evaluate the LeRobot framework for any physical automation needs within the supply chain.
 
 ## Technology Trends
-1. **Embodied AI:** The streamlining of data from robots to training buckets suggests a surge in robotics-ready AI.
-2. **AI Literacy:** A shift from "using" AI to "shaping" AI via educational partnerships.
-3. **Hyper-Efficiency:** Moving beyond "bigger is better" to "smarter scheduling" for hardware utilization.
+- **AI Literacy as a Skill:** Shift from "using AI" to "understanding AI" as a core competency in early education.
+- **Sustainability and Efficiency:** Moving away from "more GPUs" toward "better GPU management."
+- **Niche Embedding Models:** The rise of specialized data representations (like OlmoEarth) for specific industries like climate and geography.
 
 ## Terminology
-- **Embeddings:** A way of representing data (like text or satellite images) as a list of numbers so that a computer can easily compare similarities between different pieces of information.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less money is wasted.
-- **Open Models:** AI models where the "brain" (weights) is shared publicly for anyone to use or modify, rather than being kept secret by a company.
-- **Reproducibility:** The ability for an independent scientist to take a research paper's data and code and get the exact same results, proving the research is valid.
-- **Embodied AI:** AI that is connected to a physical body, like a robot, allowing it to interact with the real world rather than just existing on a screen.
+- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
+- **GPU Utilization:** A measure of how much of a computer chip’s processing power is actually being used; higher is more efficient.
+- **Embeddings:** A way of turning complex data (like images or text) into a list of numbers that a computer can easily compare and analyze.
+- **Open Models:** AI models whose "blueprints" are available for anyone to see, modify, and use.
+- **Reproducibility:** The ability for an independent researcher to achieve the same results as the original study using the same methods.
+- **Data Loop:** The continuous cycle of collecting data from a robot, training the AI, and sending the updated instructions back to the robot.
