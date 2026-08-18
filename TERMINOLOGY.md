@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 22:14:03
+Last Updated: 2026-08-18 23:14:19
 
-*   **Democratic Oversight:** Ensuring that government use of AI is accountable to elected officials and public law rather than just private corporations.
-*   **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
-*   **Codex:** An OpenAI model specifically fine-tuned for translating natural language into code.
-*   **Multi-Vector (Late Interaction) Embeddings:** A way of "tagging" data that allows an AI to understand the relationship between specific words in a sentence, rather than just the overall topic.
-*   **GPU Utilization:** A measure of how much of a graphics chip's processing power is actually being used; higher utilization means less wasted money.
-*   **LeRobot:** An open-source toolkit designed to make it easier to train and control robots using AI.
-*   **Cyber-critical Capabilities:** AI features that could be used to significantly help or hinder digital security (e.g., finding software bugs or writing malware).
+- **Late Interaction:** A search method where the AI compares the individual parts of a query to the individual parts of a document separately, leading to much higher accuracy than traditional search.
+- **Codex:** An AI model specialized in understanding and generating computer code.
+- **Cyber-critical Capabilities:** AI features that could be used to launch or defend against high-level cyberattacks on infrastructure.
+- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
+- **Agentic Memory:** The system an AI "agent" uses to remember past interactions and information so it can perform multi-step tasks over time.
+- **Embodied AI:** AI that exists in the physical world, such as in a robot or a self-driving car, rather than just on a screen.
+- **Open Models:** AI models whose "blueprints" are available for anyone to use, modify, and run on their own hardware.
