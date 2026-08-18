@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 16:21:07
+Last Updated: 2026-08-18 17:19:45
 
-- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
-- **Multi-Vector Embedding:** A method of representing data where multiple "vibe" or "meaning" points are stored for a single piece of text, rather than just one, making search more accurate.
-- **Late Interaction:** A technique in AI search where the query and the document are compared at a detailed level at the very last step, rather than being simplified too early.
-- **GPU Utilization:** A measure of how much of a computer’s graphics processing power is actually being used; higher utilization means less wasted money.
-- **Open Models:** AI models where the "brain" (weights) and often the training data are shared publicly for anyone to use.
-- **LeRobot:** An open-source toolkit specifically designed for training and controlling robots using AI.
-- **Reproducibility:** The ability for a different team to achieve the same results as a research paper by using the same methods; a hallmark of reliable science.
+- **Codex:** An AI model designed specifically to understand and generate computer code.
+- **Late Interaction (Multi-Vector):** A method of searching data where the AI looks at the relationship between individual words in a query and a document, rather than just the general "vibe" of the text.
+- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means less wasted money.
+- **Open Models:** AI models where the "source code" and weights are available for anyone to download and use (unlike "closed" models like GPT-4).
+- **LeRobot:** An open-source toolkit designed to make it easier to train and control robots using AI.
+- **RAG (Retrieval-Augmented Generation):** The process of giving an AI a "library" of your own documents to look at before it answers a question.
