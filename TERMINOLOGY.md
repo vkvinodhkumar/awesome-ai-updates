@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 19:21:58
+Last Updated: 2026-08-18 20:14:15
 
-*   **Frontier Models:** The most advanced, high-scale AI models currently in development (e.g., GPT-4, Claude 3.5).
-*   **Multi-Vector Embedding:** A way of representing text where a single sentence is turned into multiple "math points" to capture deeper meaning.
-*   **Late Interaction:** A retrieval technique that compares every part of a query to every part of a document for extreme accuracy.
-*   **GPU Utilization:** A measure of how much of a computer’s graphics processing unit (the "brain" of AI) is actually being used.
-*   **AI Agent:** An AI system designed to not just talk, but to perform tasks, make decisions, and use tools autonomously.
-*   **Codex:** An AI model specifically trained to understand and generate computer code.
+- **Democratic Oversight:** Systems that ensure government use of AI remains accountable to elected officials and public law.
+- **Technical Debt:** The implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
+- **Late Interaction:** A retrieval method where the AI compares multiple parts of a query to multiple parts of a document separately, leading to higher precision.
+- **Multi-Vector Embeddings:** A way of representing data where a single piece of text is turned into multiple mathematical "points" to capture different meanings.
+- **GPU Utilization:** A measure of how much of a graphics chip's processing power is actually being used; higher utilization equals better value for money.
