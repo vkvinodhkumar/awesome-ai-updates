@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 15:23:06
+Last Updated: 2026-08-18 16:21:07
 
-*   **Multi-Vector (Late Interaction) Models:** A way for AI to look at multiple parts of a sentence at once to find a better match in its memory, rather than squashing the whole sentence into one single number.
-*   **GPU Utilization:** A measure of how much of a computer's "graphics chip" (the engine for AI) is actually being used; higher utilization means less wasted money.
-*   **Embodied AI:** AI that has a "body," such as a robot or a drone, allowing it to interact with the physical world.
-*   **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific facts from a document before answering a question to ensure accuracy.
-*   **Intelligence Age:** A term used to describe a future era where AI is as fundamental to society as electricity or the internet.
-*   **Open Models:** AI models where the "blueprint" is available for anyone to download and use for free, rather than being kept secret by a company.
+- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
+- **Multi-Vector Embedding:** A method of representing data where multiple "vibe" or "meaning" points are stored for a single piece of text, rather than just one, making search more accurate.
+- **Late Interaction:** A technique in AI search where the query and the document are compared at a detailed level at the very last step, rather than being simplified too early.
+- **GPU Utilization:** A measure of how much of a computer’s graphics processing power is actually being used; higher utilization means less wasted money.
+- **Open Models:** AI models where the "brain" (weights) and often the training data are shared publicly for anyone to use.
+- **LeRobot:** An open-source toolkit specifically designed for training and controlling robots using AI.
+- **Reproducibility:** The ability for a different team to achieve the same results as a research paper by using the same methods; a hallmark of reliable science.
