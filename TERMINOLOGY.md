@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 09:23:56
+Last Updated: 2026-08-18 10:19:21
 
-*   **GPT-5.6 Sol:** A specialized, high-speed variant of the GPT-5.6 model optimized for throughput.
-*   **Ultrafast Mode:** A service tier that utilizes specialized hardware to deliver extremely high token-per-second outputs.
-*   **Embeddings (OlmoEarth):** Numerical representations of data (in this case, satellite/earth data) that allow machines to understand relationships between complex inputs.
-*   **Agent:** An AI system capable of planning and executing multi-step tasks with minimal human intervention.
-*   **GPU Utilization:** A metric showing how much of a Graphics Processing Unit's power is actually being used; higher utilization equals better cost-efficiency.
-*   **LeRobot:** An open-source framework for training and deploying AI models on robotic hardware.
+- **Tokens per Second (TPS):** The speed at which an AI generates words or pieces of words. Higher TPS means faster responses.
+- **GPT-5.6 Sol:** A specific iteration of the GPT model optimized for high-speed "solar" (speed-centric) performance.
+- **Embeddings:** Numerical representations of data (like text or earth images) that allow computers to understand relationships between different pieces of information.
+- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computing power is actually being used at any given time.
+- **Ultrafast Mode:** A specialized API tier designed for maximum output speed, often requiring specialized hardware like Cerebras.
+- **PORTS-Pike:** A specific regional infrastructure and economic development project involving AI investment in Ohio.
+- **LeRobot:** An open-source toolkit designed to simplify the process of training and controlling robots with AI.
