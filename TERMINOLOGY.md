@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 15:22:48
+Last Updated: 2026-08-19 16:21:27
 
-*   **GPT-5.6 Luna:** A hypothetical/advanced iteration of generative models optimized for coding and logical reasoning.
-*   **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
-*   **Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large, powerful "teacher" model.
-*   **Multi-Vector (Late Interaction):** A search method that looks at many different parts of a sentence at once to find a better match, rather than just looking at the overall "vibe" of the sentence.
-*   **GPU Utilization:** A measure of how much of a computer's graphics chip power is actually being used; higher utilization means less wasted money.
-*   **Token Costs:** The fees paid to AI providers based on the amount of text generated or processed.
-*   **RAG (Retrieval-Augmented Generation):** Giving an AI a "library" of your own documents to look at so it provides more accurate, factual answers.
+- **GPT-5.6 Luna:** A high-level, advanced iteration of the Generative Pre-trained Transformer model optimized for coding and reasoning.
+- **Quantization-Aware Distillation:** A process of shrinking an AI model to make it run faster and use less memory while training it to keep its original intelligence.
+- **Multi-Vector Embedding:** A way for AI to represent information using multiple "maps" instead of just one, making it much better at finding the right answer in a search.
+- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means more work for the same cost.
+- **Frontier AI Models:** The most advanced, "cutting-edge" AI models that have capabilities not seen before, often requiring special safety monitoring.
+- **Token Costs:** The price paid for the amount of text an AI processes; "Free Mode" eliminates this for the user.
+- **Agentic Memory:** The ability of an AI agent to remember past actions and data to perform complex, multi-step tasks over time.
