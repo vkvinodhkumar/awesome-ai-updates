@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-19 04:29:03
+Last Updated: 2026-08-19 05:22:12
 
-1. **Audit Resource Utilization:** Review current GPU/Cloud spend to see if scheduling optimizations (like those by Dharma-AI) can reclaim wasted capacity.
-2. **Explore "Late Interaction" for RAG:** If using RAG for internal knowledge bases, evaluate multi-vector embedding models to increase retrieval precision.
-3. **Establish an AI Literacy Policy:** Following the CodeAI/OpenAI model, develop internal guidelines for staff on how to use AI responsibly and critically.
+1.  **Audit Ad Strategy:** For marketing departments, evaluate the efficacy of "Conversational Search" ads vs. traditional display ads.
+2.  **Optimize Infrastructure:** Technical teams should review the GPU sequencing and "Late Interaction" embedding techniques to improve system performance.
+3.  **Governance Review:** Ensure any national security or high-stakes projects align with the new "Democratic Oversight" frameworks being standardized.
