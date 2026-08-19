@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-19 11:17:34
+Last Updated: 2026-08-19 12:28:00
 
-1.  **Audit Compute Efficiency:** Task the DevOps team with reviewing current GPU orchestration to see if a 20-30% utilization gain is possible via improved scheduling.
-2.  **Evaluate Multi-Vector Search:** If the company uses RAG for internal data, investigate upgrading to Late Interaction models to improve retrieval accuracy.
-3.  **Monitor AI Literacy:** Consider incorporating AI literacy training (similar to the CodeAI model) for internal staff to improve responsible tool adoption.
+1. **Marketing Audit:** Evaluate the potential for ChatGPT Ads within European marketing strategies.
+2. **Infrastructure Optimization:** Review GPU scheduling protocols to see if "Order-based" utilization gains (per Article 8) can be applied to internal clusters.
+3. **Cybersecurity Review:** Update internal AI safety protocols to align with new frontier model "pacing" standards.
+4. **Talent Development:** Explore the OpenAI/CodeAI literacy frameworks for internal upskilling of junior staff.

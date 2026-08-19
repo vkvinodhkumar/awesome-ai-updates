@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 11:17:34
+Last Updated: 2026-08-19 12:28:00
 
-*   **Late Interaction:** A retrieval method where queries and documents are compared at a granular level late in the process, leading to higher search accuracy than standard methods.
-*   **GPU Utilization:** A measure of how much of a graphics card's processing power is actually being used; higher utilization means better value for money.
-*   **Cyber-critical capabilities:** Features of an AI model that could be used to perform or assist in advanced cyber-attacks (e.g., writing malware or finding software vulnerabilities).
-*   **Multi-Vector Embeddings:** A way of turning text into numbers that captures multiple different meanings or "facets" of a sentence, rather than just one average meaning.
-*   **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
-*   **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies effectively and ethically.
+- **Multi-Vector (Late Interaction):** A method of searching data where the AI looks at many different parts of a query simultaneously to find a better match, rather than turning the whole query into one single number.
+- **GPU Utilization:** A measure of how much of a computer chip’s power is actually being used; higher utilization means you are getting more work done for the same cost.
+- **Cyber-critical Capabilities:** Abilities of an AI that could be used to either launch or defend against high-level cyberattacks (hacking, malware creation, etc.).
+- **Frontier Models:** The most advanced, powerful AI models currently in existence (e.g., GPT-4, Claude 3.5).
+- **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific documents to answer a question accurately instead of relying only on its memory.
+- **Open Models:** AI models where the "weights" or internal settings are shared publicly, allowing anyone to run them on their own hardware.
