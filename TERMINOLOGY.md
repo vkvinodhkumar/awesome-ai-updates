@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 12:28:00
+Last Updated: 2026-08-19 13:38:10
 
-- **Multi-Vector (Late Interaction):** A method of searching data where the AI looks at many different parts of a query simultaneously to find a better match, rather than turning the whole query into one single number.
-- **GPU Utilization:** A measure of how much of a computer chip’s power is actually being used; higher utilization means you are getting more work done for the same cost.
-- **Cyber-critical Capabilities:** Abilities of an AI that could be used to either launch or defend against high-level cyberattacks (hacking, malware creation, etc.).
-- **Frontier Models:** The most advanced, powerful AI models currently in existence (e.g., GPT-4, Claude 3.5).
-- **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific documents to answer a question accurately instead of relying only on its memory.
-- **Open Models:** AI models where the "weights" or internal settings are shared publicly, allowing anyone to run them on their own hardware.
+- **Multi-Vector (Late Interaction):** A method where the AI compares all parts of a question to all parts of a document individually, rather than summarizing the whole document into one number. This leads to much more accurate search results.
+- **Frontier Models:** The newest and most powerful AI models that are at the "edge" of what is technologically possible.
+- **GPU Utilization:** A measure of how much of a computer’s "brain power" (specifically the Graphics Processing Unit) is actually being used. High utilization means you aren't wasting money.
+- **AI Literacy:** The ability to understand how AI works, how to use it effectively, and how to spot its biases or errors.
+- **Late Interaction:** A specific way AI "reads" information that allows it to understand the context of words better during a search.
+- **Data Loop:** The continuous process of a robot recording what it does, learning from it, and getting a new update to perform better.
