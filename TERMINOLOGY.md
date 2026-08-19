@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 14:25:12
+Last Updated: 2026-08-19 15:22:48
 
-- **GPT-5.6 Luna:** An advanced generative model optimized for code generation and low-latency reasoning, currently deployed in Replit’s developer environment.
-- **Quantization-Aware Distillation (QAD):** A model compression technique where a smaller "student" model is trained to mimic a larger "teacher" model while simultaneously reducing its mathematical precision (e.g., converting 16-bit numbers to 4-bit numbers) during the training phase.
-- **Q4_0 Checkpoints:** Model files that have been compressed down to 4-bit integer precision, allowing them to run efficiently on devices with limited memory (such as laptops or phones) without severe performance loss.
-- **Liquid Foundation Model (LFM):** A type of neural network model based on "liquid" state spaces that can adapt dynamically to varying sequences and inputs over time, often boasting high efficiency.
-- **Multi-Vector / Late Interaction Embeddings:** A retrieval method that maps documents and queries to multiple vectors (representing individual words or phrases) rather than a single compressed vector, allowing the search engine to perform precise, word-by-word structural matching.
-- **GPU Cluster Utilization:** A metric showing how much of a system's total graphics card processing power is actively engaged in workloads, as opposed to sitting idle during data-shuffling delays.
-- **Cyber-Critical Capabilities:** Features in an AI model that enable it to discover, execute, or defend against software security exploits, making it a dual-use asset in cybersecurity and defense.
+*   **GPT-5.6 Luna:** A hypothetical/advanced iteration of generative models optimized for coding and logical reasoning.
+*   **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
+*   **Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large, powerful "teacher" model.
+*   **Multi-Vector (Late Interaction):** A search method that looks at many different parts of a sentence at once to find a better match, rather than just looking at the overall "vibe" of the sentence.
+*   **GPU Utilization:** A measure of how much of a computer's graphics chip power is actually being used; higher utilization means less wasted money.
+*   **Token Costs:** The fees paid to AI providers based on the amount of text generated or processed.
+*   **RAG (Retrieval-Augmented Generation):** Giving an AI a "library" of your own documents to look at so it provides more accurate, factual answers.
