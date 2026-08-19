@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-18 23:14:19
+Last Updated: 2026-08-19 00:44:28
 
-- **Late Interaction:** A search method where the AI compares the individual parts of a query to the individual parts of a document separately, leading to much higher accuracy than traditional search.
-- **Codex:** An AI model specialized in understanding and generating computer code.
-- **Cyber-critical Capabilities:** AI features that could be used to launch or defend against high-level cyberattacks on infrastructure.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
-- **Agentic Memory:** The system an AI "agent" uses to remember past interactions and information so it can perform multi-step tasks over time.
-- **Embodied AI:** AI that exists in the physical world, such as in a robot or a self-driving car, rather than just on a screen.
-- **Open Models:** AI models whose "blueprints" are available for anyone to use, modify, and run on their own hardware.
+*   **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3).
+*   **Late Interaction:** A retrieval method that keeps specific details of a query and a document separate until the very last second, allowing for much more accurate searching.
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means less wasted money.
+*   **AI Agent:** An AI system designed to not just talk, but to perform actions and complete multi-step tasks autonomously.
+*   **RAG (Retrieval-Augmented Generation):** The process of giving an AI a "textbook" of your own data to look at before it answers a question.
