@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 05:22:12
+Last Updated: 2026-08-19 06:28:54
 
-- **Frontier AI:** The most advanced, large-scale AI models that push the boundaries of current capabilities.
-- **Multi-Vector Embedding:** A method of converting text into numbers that preserves more detail by using multiple "vectors" instead of one, leading to better search results.
-- **Late Interaction:** A retrieval technique where the AI compares the query and the document at a granular level at the very end of the process, increasing accuracy.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used; higher is better and more cost-effective.
-- **Embodied AI:** AI that has a physical body (a robot) and can interact with the real world.
-- **Democratic Oversight:** Systems and processes that ensure AI is governed by public laws and transparency rather than private corporate interests.
+- **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
+- **Multi-Vector (Late Interaction):** A way for AI to "look" at multiple parts of a sentence simultaneously to understand context better, rather than squashing everything into one summary.
+- **Agentic AI:** AI systems that don't just answer questions but can perform multi-step tasks autonomously.
+- **GPU Utilization:** A measure of how much of a computer chip's power is actually being used (higher is better/more efficient).
+- **RAG (Retrieval-Augmented Generation):** Giving an AI a "textbook" (your data) to look at so it answers questions based on facts rather than guessing.
