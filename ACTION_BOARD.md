@@ -1,19 +1,21 @@
 # AI Action Board
 
-Last Updated: 2026-08-19 06:28:54
+Last Updated: 2026-08-19 07:31:17
 
-1. **Infrastructure Audit:** Review internal GPU utilization based on the "ordering" findings to recoup wasted compute costs.
-2. **Search Upgrade:** Evaluate switching to Multi-Vector (Late Interaction) models for internal knowledge bases to improve AI accuracy.
-3. **Marketing Strategy:** Assess the impact of ChatGPT Ads on the European market for potential brand placement.
+1. **Audit Infrastructure:** Evaluate current GPU utilization to see if scheduling reordering can yield efficiency gains.
+2. **Review Ad Strategy:** Marketing teams should assess the ROI of the new ChatGPT Ads platform vs. traditional Google/Meta spend.
+3. **Safety Compliance:** Update internal AI usage policies to reflect the new "cyber-critical" safeguard standards.
 
 ## Technology Trends
-- **Agentic Efficiency:** A shift from "bigger models" to "smarter agents" that use less memory.
-- **The Ad-Supported LLM:** The transition of AI from a tool to a media platform (similar to the evolution of Google Search).
-- **Physical AI:** The convergence of LLMs and robotics through unified data pipelines (LeRobot).
+- **Contextual Efficiency:** A move away from "brute force" computing toward smarter, more memory-efficient AI agents.
+- **Retrieval Sophistication:** Transitioning from simple vector search to "Late Interaction" models for better data accuracy.
+- **Physical AI (Embodiment):** The convergence of LLMs and robotics via streamlined training loops (LeRobot).
 
 ## Terminology
-- **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
-- **Multi-Vector (Late Interaction):** A way for AI to "look" at multiple parts of a sentence simultaneously to understand context better, rather than squashing everything into one summary.
-- **Agentic AI:** AI systems that don't just answer questions but can perform multi-step tasks autonomously.
-- **GPU Utilization:** A measure of how much of a computer chip's power is actually being used (higher is better/more efficient).
-- **RAG (Retrieval-Augmented Generation):** Giving an AI a "textbook" (your data) to look at so it answers questions based on facts rather than guessing.
+
+- **ChatGPT Ads:** A new advertising format where brands pay to appear within the AI's conversational flow.
+- **Cyber-critical capabilities:** AI features that have the potential to significantly impact cybersecurity, such as advanced code generation or vulnerability detection.
+- **Late Interaction (Multi-Vector):** A retrieval technique that keeps different parts of a query separate until the very end of the process, leading to much more precise search results.
+- **GPU Utilization:** A measure of how much of a graphics processing unit's power is actually being used to perform tasks.
+- **LeRobot:** An open-source toolkit designed to simplify the training and deployment of AI models for physical robotics.
+- **RAG (Retrieval-Augmented Generation):** A method where an AI looks up external information to provide more accurate, fact-based answers.
