@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 00:44:28
+Last Updated: 2026-08-19 02:13:57
 
-*   **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3).
-*   **Late Interaction:** A retrieval method that keeps specific details of a query and a document separate until the very last second, allowing for much more accurate searching.
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means less wasted money.
-*   **AI Agent:** An AI system designed to not just talk, but to perform actions and complete multi-step tasks autonomously.
-*   **RAG (Retrieval-Augmented Generation):** The process of giving an AI a "textbook" of your own data to look at before it answers a question.
+- **Late Interaction:** A retrieval method where the AI compares the query and the document at a more granular level, rather than just comparing two broad summaries.
+- **Cyber-critical capabilities:** Features of an AI model that could be used to discover, exploit, or defend against software vulnerabilities.
+- **Multi-Vector Embeddings:** A way of representing a piece of text as multiple mathematical points, allowing the AI to understand complex documents from several different "angles" at once.
+- **GPU Utilization:** A measure of how much of a graphics card’s processing power is actually being used; higher utilization means less wasted money.
+- **Embodied AI:** AI that exists in a physical body (like a robot) and can interact with the real world, rather than just living on a screen.
