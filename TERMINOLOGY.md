@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 08:26:30
+Last Updated: 2026-08-19 09:24:44
 
-*   **Frontier AI:** The most advanced, high-scale AI models that push the current limits of what technology can do.
-*   **Multi-Vector (Late Interaction):** A way for AI to search through data by looking at individual parts of a sentence rather than turning the whole sentence into a single number, leading to much better search results.
-*   **GPU Utilization:** A measure of how much of a computer's "brain power" (Graphics Processing Unit) is actually being used; higher utilization means less money is wasted.
-*   **Agentic Memory:** The ability of an AI "agent" to remember past interactions and information to complete complex, multi-step tasks.
-*   **Embodied AI:** AI that is put into a physical body, such as a robot, allowing it to interact with the real world.
+*   **Frontier Models:** The most advanced AI models currently in existence, which possess capabilities at the "frontier" of what is technologically possible.
+*   **Multi-Vector Embeddings:** A method of representing data where a document is broken into multiple mathematical points (vectors) rather than one, allowing for more precise searching.
+*   **Late Interaction:** A retrieval technique where the AI compares the query and the document at the very end of the process, preserving more detail and accuracy.
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means better value for the money spent on hardware.
+*   **Agentic Memory:** The ability of an AI "agent" to store and recall past interactions and data to complete long-term tasks.
+*   **Embodied AI:** AI that is integrated into a physical body, such as a robot, allowing it to interact with the real world.
