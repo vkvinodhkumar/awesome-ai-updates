@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-19 02:13:57
+Last Updated: 2026-08-19 03:39:17
 
-- **Late Interaction:** A retrieval method where the AI compares the query and the document at a more granular level, rather than just comparing two broad summaries.
-- **Cyber-critical capabilities:** Features of an AI model that could be used to discover, exploit, or defend against software vulnerabilities.
-- **Multi-Vector Embeddings:** A way of representing a piece of text as multiple mathematical points, allowing the AI to understand complex documents from several different "angles" at once.
-- **GPU Utilization:** A measure of how much of a graphics card’s processing power is actually being used; higher utilization means less wasted money.
-- **Embodied AI:** AI that exists in a physical body (like a robot) and can interact with the real world, rather than just living on a screen.
+- **Late Interaction (Multi-Vector) Embedding:** A search methodology that calculates and stores embeddings for individual words or tokens rather than compressing an entire sentence into a single vector. This allows for token-level comparison at query time, drastically increasing search precision while remaining highly efficient.
+- **Frontier AI Models:** The most advanced, highly capable generative AI systems currently under development, typically sitting at the absolute edge of existing scaling laws and presenting novel capability profiles.
+- **Cyber-critical Capabilities:** Abilities within an AI model that could allow it to autonomously or semi-autonomously discover, exploit, or execute software vulnerabilities, presenting severe cyber security risks.
+- **Agentic Memory:** The structural architecture that determines how an autonomous AI agent retains, recalls, and prunes contextual information over prolonged, multi-step tasks.
+- **Open-Weights Models:** AI models where the underlying neural network weights are released publicly, allowing developers to host, run, and modify the model locally, as opposed to closed proprietary APIs.
+- **LeRobot:** An open-source robotics library developed by Hugging Face designed to standardize the recording of physical demonstrations, training of neural policies, and deployment to physical robotic hardware.
