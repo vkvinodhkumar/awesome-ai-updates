@@ -1,21 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-20 17:20:54
+Last Updated: 2026-08-20 18:26:07
 
-1. **Infrastructure Audit:** Review GPU scheduling protocols to implement "order-based" utilization improvements.
-2. **Privacy Upgrade:** Transition sensitive data workflows to OpenAI’s Zero Data Retention API endpoints.
-3. **Marketing Strategy:** Evaluate the entry into ChatGPT’s European ad ecosystem for B2C/B2B outreach.
-
-## Technology Trends
-- **Democratized Development:** The move toward "Free Mode" software creation tools indicates a future where coding knowledge is secondary to logic and prompting.
-- **Compute Efficiency:** The focus is shifting from "bigger models" to "faster inference" (LFM2.5) and "smarter scheduling" (Dharma AI).
-- **RAG Refinement:** Move from simple vector search to Multi-Vector Late Interaction for enterprise data reliability.
-
-## Terminology
-- **Codex:** An AI model designed specifically to translate natural language into code.
-- **Zero Data Retention (ZDR):** A privacy standard where the AI provider does not store any of the data sent via the API after the request is processed.
-- **GPT-5.6 Luna:** The latest iteration of generative models, optimized for high-reasoning tasks and software creation.
-- **Inference:** The process of a trained AI model generating a prediction or response to new input.
-- **Late Interaction:** A retrieval method that keeps different parts of a query separate to better match against document details, increasing search precision.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
-- **Open Models:** AI models whose weights and architectures are made available to the public, allowing anyone to run them locally.
+1.  **Compliance Review:** Legal teams should review OpenAI’s ZDR terms to see if previously "blocked" use cases can now be greenlit.
+2.  **Infrastructure Audit:** Engineering should investigate GPU task ordering (per Dharma AI) to maximize current compute spend.
+3.  **GTM Speed:** Marketing and Product teams should adopt the Stampli model of using Codex/ChatGPT to bypass creative bottlenecks.
