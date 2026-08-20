@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 21:19:46
+Last Updated: 2026-08-20 22:18:34
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent via API for any length of time after the request is processed.
-*   **Frontier Models:** The most advanced, high-capability AI models currently in existence (e.g., GPT-5.6).
-*   **Inference:** The process of a trained AI model making a prediction or generating text based on new input.
-*   **Late Interaction:** A retrieval method that keeps detailed information about a document’s parts rather than squashing it into one single number, allowing for better search results.
-*   **LFM (Liquid Foundation Model):** A newer type of AI architecture designed to be more flexible and faster than standard models.
-*   **Tokens:** The basic units of text (words or parts of words) that AI models process and charge for.
-*   **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific documents to answer a question more accurately.
+*   **Zero Data Retention (ZDR):** A privacy setting where a provider (like OpenAI) processes your data to give an answer but does not save the data on their servers once the session is over.
+*   **Inference:** The process of an AI model actually running and generating an output (as opposed to "training," which is when the model is learning).
+*   **Late Interaction:** A technique in search where the AI looks at multiple parts of a query and a document separately before bringing them together, leading to much higher accuracy.
+*   **Multi-Vector Embedding:** A way of representing a piece of text as multiple mathematical points instead of just one, capturing more nuance and detail.
+*   **Liquid Foundation Models (LFM):** A type of AI model designed to be more flexible and efficient, often capable of processing sequences of data faster than traditional Transformers.
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's (the "brain" of AI hardware) power is actually being used at any given time.
