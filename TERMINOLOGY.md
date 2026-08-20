@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 04:28:44
+Last Updated: 2026-08-20 05:22:53
 
-*   **Zero Data Retention (ZDR):** A privacy configuration where the AI provider does not store any of the data sent via API once the request is processed.
-*   **GPT-5.6 Luna:** A high-performance iteration of the GPT-5 family optimized for coding and logic (as referenced in Replit's latest release).
-*   **Private Safety Processing:** A method of running safety filters on AI input/output in a way that the data remains encrypted or transient, never stored by the provider.
-*   **Quantization-Aware Distillation (QAD):** A process where a large model "teaches" a smaller model how to function with less numerical precision (fewer bits), making it faster and smaller.
-*   **Multi-Vector Embedding:** A way of representing text as multiple mathematical points rather than just one, allowing for much more precise searching and matching.
-*   **Late Interaction:** A retrieval technique that compares the individual parts of a query and a document at the very last step to ensure the highest possible relevance.
+- **Zero Data Retention (ZDR):** A privacy feature where the AI provider does not store any of the data sent via the API for training or review.
+- **Quantization (Q4_0):** A process of reducing the precision of a model's numbers to make the file smaller and faster to run on less powerful hardware.
+- **Distillation:** A technique where a small "student" model is trained to mimic the behavior of a large "teacher" model.
+- **Late Interaction (Multi-Vector):** A search method that compares individual words/concepts in a query to individual words in a document, rather than comparing the entire sentence as a single block. This is much more accurate.
+- **GPU Utilization:** A measure of how much of a graphics card's processing power is actually being used; higher utilization means less wasted money.
+- **AI Literacy:** The ability to understand, use, and critically evaluate AI technologies.
