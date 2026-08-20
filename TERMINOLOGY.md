@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 06:30:44
+Last Updated: 2026-08-20 07:34:02
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or save the data sent to their servers after the request is processed.
-*   **GPT-5.6 Luna:** A specific iteration of a Large Language Model optimized for speed and software coding tasks.
-*   **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
-*   **Late Interaction:** A retrieval method that compares multiple parts of a query to multiple parts of a document separately, leading to much more accurate search results.
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's actual computing power is being used at any given time.
-*   **Distillation:** A technique where a smaller "student" model is trained to mimic the behavior of a larger, more complex "teacher" model.
+*   **Zero Data Retention (ZDR):** A guarantee that the AI provider does not store or use your input data to train their models.
+*   **Private Safety Processing:** A method of checking content for safety violations without actually "seeing" or storing the underlying private data.
+*   **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
+*   **Multi-Vector (Late Interaction):** A sophisticated way for AI to search through data by comparing multiple points of context at the end of the process, rather than just one.
+*   **Token Costs:** The price paid for the amount of text an AI processes; "Free Mode" implies these costs are being subsidized or eliminated through efficiency.
+*   **GPU Utilization:** A measure of how much of a computer's graphics chip power is actually being used; higher utilization means less wasted money.
