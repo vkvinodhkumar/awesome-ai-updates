@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 16:24:00
+Last Updated: 2026-08-20 17:20:54
 
-*   **Zero Data Retention (ZDR):** A privacy guarantee where the AI provider does not store or log the data sent to the model for any purpose, including training.
-*   **GPT-5.6 Luna:** A specific iteration of OpenAI's model family optimized for coding and high-speed interaction within the Replit ecosystem.
-*   **Quantization-Aware Distillation:** A method of training a small model (the "student") to mimic a large model (the "teacher") while simultaneously preparing it to run on lower-precision hardware.
-*   **Multi-Vector / Late Interaction:** A search technique where the AI looks at many different parts of a sentence simultaneously to find a match, rather than trying to summarize the whole sentence into one single number.
-*   **GPU Utilization:** A measure of how much of a computer's graphics chip power is actually being used; higher utilization means less wasted money.
-*   **Token:** The basic unit of text (roughly 4 characters) that AI models process. "Token costs" are the fees associated with how much text the AI reads or writes.
+- **Codex:** An AI model designed specifically to translate natural language into code.
+- **Zero Data Retention (ZDR):** A privacy standard where the AI provider does not store any of the data sent via the API after the request is processed.
+- **GPT-5.6 Luna:** The latest iteration of generative models, optimized for high-reasoning tasks and software creation.
+- **Inference:** The process of a trained AI model generating a prediction or response to new input.
+- **Late Interaction:** A retrieval method that keeps different parts of a query separate to better match against document details, increasing search precision.
+- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
+- **Open Models:** AI models whose weights and architectures are made available to the public, allowing anyone to run them locally.
