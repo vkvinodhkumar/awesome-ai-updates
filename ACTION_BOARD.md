@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-20 10:21:25
+Last Updated: 2026-08-20 11:19:19
 
-1. **Infrastructure Audit:** Review current GPU utilization workflows to implement the "ordering" optimizations discovered by Dharma AI.
-2. **Product Strategy:** Evaluate if the GPT-5.6 Luna "Free Mode" model on Replit can be used to accelerate internal prototyping.
-3. **Privacy Update:** For departments handling sensitive client data, transition to the Zero Data Retention API tier immediately.
+1.  **Review Data Policies:** Evaluate moving internal API usage to "Zero Data Retention" tiers to enhance security.
+2.  **Explore Open-Source:** Assess whether "Open Models" (per the Summer 2026 report) are now viable replacements for proprietary models to save costs.
+3.  **Optimize Infrastructure:** Investigate task-scheduling software for internal GPU clusters to recover "lost" compute capacity.
