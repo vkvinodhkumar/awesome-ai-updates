@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 13:39:24
+Last Updated: 2026-08-20 14:27:41
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent in an API request after the request is processed.
-- **GPT-5.6 Luna:** The latest iteration of generative models, optimized for reasoning and code generation.
-- **Quantization-Aware Distillation (QAD):** A method of training a smaller AI model (the "student") to mimic a larger one (the "teacher") while simultaneously compressing it to use less memory.
-- **Multi-Vector Embedding:** A technique where a document is represented by multiple mathematical "snapshots" rather than just one, allowing for much more accurate searching.
-- **Late Interaction:** A retrieval method that compares the individual parts of a question to the individual parts of a document at the very last step, leading to higher accuracy than traditional search.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means less wasted money and faster results.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the request is processed.
+*   **GPT-5.6 Luna:** A specific version of the GPT-5 family optimized for high-speed, cost-efficient software generation.
+*   **Quantization-Aware Distillation (QAD):** A method of training a smaller model (the student) to mimic a larger model (the teacher) while simultaneously preparing it to run on less powerful hardware.
+*   **Late Interaction:** A retrieval technique that compares multiple parts of a search query against multiple parts of a document, rather than comparing them as two single blocks, leading to higher accuracy.
+*   **Token:** The basic unit of text (roughly 0.75 words) that AI models process. "Token costs" refer to the usage fees associated with these units.
