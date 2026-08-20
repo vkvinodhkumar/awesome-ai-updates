@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 20:19:00
+Last Updated: 2026-08-20 21:19:46
 
-- **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training" where it learns).
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider agrees to delete your data immediately after processing it.
-- **Multi-Vector / Late Interaction:** A sophisticated way for AI to search for information by looking at multiple parts of a sentence at once, rather than just the overall meaning.
-- **GPU Utilization:** A measure of how much of your expensive computer hardware (graphics chips) is actually working vs. sitting idle.
-- **Open Models:** AI models where the "source code" and weights are available for anyone to download and use for free.
-- **Frontier Models:** A term used for the most powerful, state-of-the-art AI models currently in existence.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent via API for any length of time after the request is processed.
+*   **Frontier Models:** The most advanced, high-capability AI models currently in existence (e.g., GPT-5.6).
+*   **Inference:** The process of a trained AI model making a prediction or generating text based on new input.
+*   **Late Interaction:** A retrieval method that keeps detailed information about a document’s parts rather than squashing it into one single number, allowing for better search results.
+*   **LFM (Liquid Foundation Model):** A newer type of AI architecture designed to be more flexible and faster than standard models.
+*   **Tokens:** The basic units of text (words or parts of words) that AI models process and charge for.
+*   **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific documents to answer a question more accurately.
