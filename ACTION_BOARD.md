@@ -1,21 +1,21 @@
 # AI Action Board
 
-Last Updated: 2026-08-20 07:34:02
+Last Updated: 2026-08-20 08:27:37
 
-1.  **Compliance Review:** Audit current API usage to leverage Zero Data Retention for sensitive client data.
-2.  **Infrastructure Audit:** Evaluate task-scheduling logic in GPU clusters to capture potential 30%+ efficiency gains.
-3.  **Education:** Partner with AI literacy programs to upskill staff on "Agentic" workflows.
+1. **Security Audit:** Evaluate if the new "Zero Data Retention" API tier meets internal compliance for handling sensitive client data.
+2. **Infrastructure Optimization:** Task the engineering team to investigate "Quantization-Aware Distillation" to lower the cost of self-hosted models.
+3. **Marketing Strategy:** Monitor the performance of ChatGPT Ads in Europe to determine if a conversational ad strategy is viable for our brand.
 
 ## Technology Trends
-*   **Quantization-Aware Distillation:** A move toward making "light" versions of models that don't lose their "heavy" intelligence.
-*   **Agentic Memory Management:** A shift from simple "chat" history to sophisticated, tiered memory systems for AI agents.
-*   **Late Interaction Retrieval:** Moving beyond simple keyword or vector search to more complex, multi-layered data retrieval (Multi-Vector).
+- **Quantization-Aware Distillation:** Moving away from massive models toward highly efficient, compressed versions.
+- **Late Interaction (Multi-Vector):** A shift in how AI "searches" for information, moving toward more complex, high-accuracy retrieval.
+- **Conversational Monetization:** The transition of LLMs from "tools" to "ad-supported platforms."
 
 ## Terminology
 
-*   **Zero Data Retention (ZDR):** A guarantee that the AI provider does not store or use your input data to train their models.
-*   **Private Safety Processing:** A method of checking content for safety violations without actually "seeing" or storing the underlying private data.
-*   **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
-*   **Multi-Vector (Late Interaction):** A sophisticated way for AI to search through data by comparing multiple points of context at the end of the process, rather than just one.
-*   **Token Costs:** The price paid for the amount of text an AI processes; "Free Mode" implies these costs are being subsidized or eliminated through efficiency.
-*   **GPU Utilization:** A measure of how much of a computer's graphics chip power is actually being used; higher utilization means less wasted money.
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data you send them, ensuring it isn't used to train future models.
+- **Quantization:** The process of shrinking an AI model by reducing the precision of its numbers (like changing a high-res photo to a smaller file size) so it runs faster on weaker hardware.
+- **Distillation:** Teaching a small, efficient AI model to mimic the behavior of a much larger, "smarter" model.
+- **Multi-Vector Embedding:** A way for AI to represent text using several "coordinates" instead of just one, allowing for much more accurate searches.
+- **GPU Utilization:** A measure of how much of a computer's graphics chip is actually being used; higher utilization means you are getting more work done for the same price.
+- **AI Literacy:** The basic understanding of how AI works, its limitations, and how to use it effectively and ethically.
