@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-20 03:39:51
+Last Updated: 2026-08-20 04:28:44
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or save any of the data sent to the model after the request is processed.
-- **Quantization:** The process of reducing the precision of a model's numbers to make it smaller and faster without losing too much intelligence.
-- **Multi-Vector Embedding:** A way of representing text as multiple mathematical points rather than one, allowing for much more precise searching and matching.
-- **GPU Utilization:** A measure of how much of a computer’s graphics processing power is actually being used; higher utilization means less wasted money.
-- **Agentic Memory:** The ability of an AI "agent" to remember past interactions and information to complete long-term, multi-step tasks.
+*   **Zero Data Retention (ZDR):** A privacy configuration where the AI provider does not store any of the data sent via API once the request is processed.
+*   **GPT-5.6 Luna:** A high-performance iteration of the GPT-5 family optimized for coding and logic (as referenced in Replit's latest release).
+*   **Private Safety Processing:** A method of running safety filters on AI input/output in a way that the data remains encrypted or transient, never stored by the provider.
+*   **Quantization-Aware Distillation (QAD):** A process where a large model "teaches" a smaller model how to function with less numerical precision (fewer bits), making it faster and smaller.
+*   **Multi-Vector Embedding:** A way of representing text as multiple mathematical points rather than just one, allowing for much more precise searching and matching.
+*   **Late Interaction:** A retrieval technique that compares the individual parts of a query and a document at the very last step to ensure the highest possible relevance.

@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-20 03:39:51
+Last Updated: 2026-08-20 04:28:44
 
-1. **Audit Data Policies:** Assess which internal departments require "Zero Data Retention" to move from testing to production.
-2. **Review Infrastructure:** Task the engineering team with evaluating Dharma-AI’s scheduling findings to optimize current GPU spend.
-3. **Pilot Multi-Vector Search:** Upgrade existing RAG pipelines to use multi-vector (late interaction) models to improve accuracy in client-facing chatbots.
+1.  **Security Audit:** Review all API implementations to see if "Zero Data Retention" and "Private Safety Processing" can be enabled to enhance client trust.
+2.  **RAG Optimization:** Explore "Multi-Vector" embedding models to improve the accuracy of internal knowledge bases.
+3.  **Ad Strategy:** Marketing teams should evaluate the new ChatGPT Ads platform for European market reach.
