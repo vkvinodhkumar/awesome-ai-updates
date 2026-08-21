@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-21 09:28:05
+Last Updated: 2026-08-21 10:21:36
 
-- **Inference:** The process of an AI model generating an answer or output from a given input.
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data you send them, nor do they use it to train future models.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means better value for the money spent on hardware.
-- **Multi-Vector Embedding:** A way of turning text into numbers that allows the AI to understand the relationship between multiple words at once, leading to better search results.
-- **GPT-5.6 Luna:** A fictional or future-dated iteration of OpenAI’s generative model (used in the Replit context).
-- **Token:** The basic unit of text that an AI processes (roughly 4 characters). "Token costs" are the fees associated with how much text the AI generates or reads.
+*   **Inference:** The process of an AI model generating an output from an input (the "thinking" phase).
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not save any of the data sent to the model after the response is generated.
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's (the "brain" of AI) power is actually being used at any given time.
+*   **Late Interaction (Multi-Vector):** A sophisticated way for AI to compare two pieces of information by looking at multiple parts of the data simultaneously, rather than one single summary.
+*   **Token Costs:** The price paid for the amount of text an AI processes; "Free Mode" eliminates this barrier for the user.
+*   **RAG (Retrieval-Augmented Generation):** Giving an AI a "textbook" (your data) to look at so it can answer questions based on specific facts rather than general knowledge.
