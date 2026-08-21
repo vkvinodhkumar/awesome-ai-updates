@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-21 00:49:01
+Last Updated: 2026-08-21 02:19:14
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not save any of the text or data sent to the model after the request is processed.
-- **Inference:** The process of an AI model "thinking" or generating an answer based on new input.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher is better for cost-efficiency.
-- **Late Interaction:** A more detailed way for AI to search through documents that looks at the relationship between words at the very last moment to ensure high accuracy.
-- **Frontier Models:** The most advanced, high-performing AI models currently in existence (e.g., the latest versions of GPT).
-- **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific facts from a private database before answering a question.
+- **Inference:** The process of an AI model generating an output from an input (e.g., answering a question).
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the request is processed.
+- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means less wasted money.
+- **Multi-Vector Embedding:** A way of representing text as multiple points of data rather than one, allowing the AI to understand nuances in search more effectively.
+- **Agentic Workflows:** Systems where AI "agents" can perform multi-step tasks autonomously, rather than just answering a single prompt.
+- **Private Safety Processing:** A technique that checks if an AI's output is safe without having to permanently record or view the user's private data.
