@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-21 12:29:37
+Last Updated: 2026-08-21 13:38:51
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the initial request is processed.
-- **Inference:** The process of an AI model generating an output from an input (the "thinking" phase).
-- **GPT-5.6 Luna:** A high-performance model optimized for code generation and software creation.
-- **Multi-Vector Embedding:** A way for AI to represent a piece of text as multiple mathematical points, allowing for much more precise searching and matching.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used to do work at any given time.
-- **Late Interaction:** A technique in search where the AI compares the query and the document at the very last step to ensure higher accuracy.
-- **LFM (Liquid Foundation Model):** A type of AI model designed to be more flexible and efficient than traditional static models.
+*   **Zero Data Retention (ZDR):** A security standard where the AI provider does not store any of the data sent to the model after the request is processed.
+*   **Frontier Models:** The most advanced, large-scale AI models currently in existence (e.g., GPT-4o, Claude 3.5).
+*   **Inference:** The process of an AI model providing an output based on new data (the "thinking" phase of AI).
+*   **Multi-Vector Embedding:** A method of representing text that captures more detail by using multiple mathematical points (vectors) instead of just one.
+*   **Late Interaction:** A retrieval technique that compares every part of a query to every part of a document, leading to much higher search accuracy.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture that differs from standard Transformers, often optimized for speed and continuous data.
