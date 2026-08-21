@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-21 14:26:22
+Last Updated: 2026-08-21 15:24:42
 
-- **Zero Data Retention (ZDR):** A security setting where the AI provider does not save any of the data sent in a prompt after the response is generated.
-- **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4o, GPT-5.6).
-- **Inference:** The process of an AI model actually running to produce an answer (as opposed to "training").
-- **Late Interaction:** A retrieval method that compares multiple parts of a query to multiple parts of a document, leading to much higher accuracy than traditional search.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **LFM (Liquid Foundation Model):** A type of AI model designed for extreme efficiency and speed, often using different mathematical foundations than standard LLMs.
-- **Token:** The basic unit of text (roughly 4 characters) that AI models process and charge for.
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent to them after the request is processed.
+- **Inference:** The process of an AI model "thinking" or generating an output from an input.
+- **GPU Utilization:** A measure of how much of a graphics chip's processing power is actually being used; higher utilization means less wasted money.
+- **Multi-Vector Embedding:** A way of turning text into numbers that captures multiple layers of meaning, making it easier for AI to find specific information.
+- **Late Interaction:** A retrieval method that compares the words in a search query to the words in a document more thoroughly at the very last step, increasing accuracy.
+- **Hidden Markov Models (HMM):** A mathematical way to model systems that change over time; used here to help AI agents manage their "memory."
