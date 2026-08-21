@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-21 21:15:49
+Last Updated: 2026-08-21 22:15:23
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider processes your data but does not store it on their servers after the request is complete.
-*   **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, GPT-5 series).
-*   **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is when the model is built).
-*   **GPU Utilization:** A measure of how much of a computer’s graphics processing power is actually being used; higher is more cost-effective.
-*   **Multi-Vector Embedding:** A way of turning text into numbers that captures multiple layers of meaning rather than just one general summary.
-*   **ASR (Automatic Speech Recognition):** The technology that turns spoken words into text.
+*   **Zero Data Retention (ZDR):** A security setting where the AI provider does not store the user's input or the model's output for any period, ensuring it isn't used for training.
+*   **Inference:** The process of an AI model generating a response from a given input.
+*   **Multi-Vector / Late Interaction:** A sophisticated search method that looks at multiple parts of a sentence simultaneously to understand context better than a simple search.
+*   **GPU Utilization:** A measure of how much of a computer's graphics processing power (the "brain" of AI) is actually being used at any given time.
+*   **ASR (Automatic Speech Recognition):** The technology used to convert spoken language into text.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture designed for extreme efficiency and speed compared to traditional Transformer models.
