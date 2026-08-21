@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-21 10:21:36
+Last Updated: 2026-08-21 11:18:24
 
-*   **Inference:** The process of an AI model generating an output from an input (the "thinking" phase).
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not save any of the data sent to the model after the response is generated.
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's (the "brain" of AI) power is actually being used at any given time.
-*   **Late Interaction (Multi-Vector):** A sophisticated way for AI to compare two pieces of information by looking at multiple parts of the data simultaneously, rather than one single summary.
-*   **Token Costs:** The price paid for the amount of text an AI processes; "Free Mode" eliminates this barrier for the user.
-*   **RAG (Retrieval-Augmented Generation):** Giving an AI a "textbook" (your data) to look at so it can answer questions based on specific facts rather than general knowledge.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent via the API after the request is processed.
+*   **Inference:** The process of a trained AI model making a prediction or generating text based on new input.
+*   **Multi-Vector / Late Interaction:** A sophisticated way of searching through data where the AI looks at multiple parts of a sentence simultaneously to find a better match, rather than just one general summary.
+*   **GPU Utilization:** A measure of how much of a computer chip’s power is actually being used; higher utilization means less money is wasted.
+*   **Agentic Memory:** The "short-term" or "long-term" storage an AI assistant uses to remember what happened earlier in a conversation or task.
+*   **Open Models:** AI models where the "weights" or internal settings are shared publicly, allowing anyone to run them on their own hardware.
