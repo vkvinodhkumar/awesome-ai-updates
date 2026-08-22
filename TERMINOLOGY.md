@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-22 09:18:59
+Last Updated: 2026-08-22 10:14:33
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not save or log the data sent to their servers after the request is processed.
-- **Inference:** The process of an AI model running and producing an output (e.g., answering a prompt).
-- **Multi-Vector / Late Interaction:** A search method that looks at the relationship between multiple individual words/concepts in a query and a document, rather than just the overall "vibe" of the text.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's power is actually being used; higher utilization means less wasted money on idle hardware.
-- **Liquid Foundation Model (LFM):** A type of AI architecture designed to be more flexible and faster than standard models by changing its parameters based on the input over time.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the input data or output generated after the request is processed.
+*   **GPT-5.6 Luna:** A specialized, high-efficiency model variant (introduced via Replit) optimized for coding and software creation.
+*   **Liquid Foundation Models (LFM):** A type of AI architecture that is more fluid and adaptable than traditional Transformers, often resulting in faster processing.
+*   **Late Interaction (Multi-Vector):** A retrieval method that compares parts of a query to parts of a document individually, rather than comparing one single summary of each.
+*   **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization equals better value for money.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Inference:** The process of an AI model actually running and generating a result from an input.
