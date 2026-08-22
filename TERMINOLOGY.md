@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-22 04:24:16
+Last Updated: 2026-08-22 05:19:41
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or log the input data or output results once the request is processed.
-*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computing power is actually being used; higher utilization means better value for the money.
-*   **Multi-Vector Embedding:** A method of converting text into mathematical vectors that captures more nuance by using multiple points of reference instead of just one.
-*   **Late Interaction:** A retrieval technique that compares multiple parts of a query to multiple parts of a document at the end of the process, leading to higher search accuracy.
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **Context Window:** The amount of information (tokens) an AI can "keep in mind" at any one time during a conversation.
+- **Zero Data Retention (ZDR):** A privacy framework where an AI provider processes data requests in real-time without writing, caching, or saving any of the input/output data to their persistent storage drives.
+- **GPT-5.6 Luna:** A cutting-edge LLM optimized specifically for high-speed, highly accurate software generation.
+- **Private Safety Processing:** An emerging architecture that allows AI models to run safety, moderation, and alignment checks on data without exposing the raw, unencrypted data to the cloud.
+- **Benchmark Optimization (Overfitting):** A scenario where an AI model is trained so specifically to score high on standardized test sets (benchmarks) that it loses its ability to generalize effectively to new, real-world data.
+- **Late Interaction (Multi-Vector) Embeddings:** A retrieval methodology that represents documents as multiple vectors (at the token level) rather than compressing a whole document into a single vector. This allows the search system to compare every word in a query to every word in a document, drastically increasing search precision.
+- **Hidden Markov Model (HMM):** A statistical model used to predict future states based on a sequence of observed, incomplete variables. In AI agents, it is used to mathematically model the minimum amount of state history (memory) required to complete a task.
+- **GPU Cluster Utilization:** A metric measuring what percentage of an array of Graphics Processing Units is actively performing calculations, as opposed to sitting idle waiting for data to transfer.
