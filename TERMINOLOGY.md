@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-22 21:13:46
+Last Updated: 2026-08-22 22:13:18
 
-- **Inference:** The process of an AI model providing an output (an answer, a code snippet, an image) based on input data.
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider promises to delete the user's data immediately after the request is processed, never using it for training.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing unit (the "brain" of AI) is actually being used; higher utilization means better value for money.
-- **Multi-Vector Embedding:** A complex way of turning text into numbers that allows the AI to understand the nuance and context of a sentence much better than simple keyword matching.
-- **Late Interaction:** A technique in AI search that compares different parts of a query to different parts of a document individually, leading to much more accurate search results.
-- **AGI (Artificial General Intelligence):** A hypothetical AI that can perform any intellectual task a human can.
-- **Benchmark:** A standardized test used to compare the performance of different AI models.
+- **Zero Data Retention (ZDR):** A privacy setting where a service provider processes data but does not save it to their servers after the task is complete.
+- **Inference:** The process of an AI model using its training to make a prediction or generate text/speech.
+- **Late Interaction:** A retrieval method that allows for more detailed comparison between a user's question and a document, leading to more accurate search results.
+- **Liquid Foundation Model (LFM):** A type of AI model designed to be more flexible and faster than traditional models by changing its parameters during inference.
+- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
