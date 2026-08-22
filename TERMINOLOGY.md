@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-22 13:25:35
+Last Updated: 2026-08-22 14:13:47
 
-- **Zero Data Retention (ZDR):** A privacy feature where the AI provider does not store the inputs or outputs of a session after the request is processed.
-- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
-- **Multi-Vector / Late Interaction:** A method of searching through data that looks at multiple points of a document simultaneously to find a more accurate match for a user's question.
+- **Zero Data Retention (ZDR):** A security setting where the AI provider does not store any of the data sent to the model after the request is processed.
+- **Inference:** The process of an AI model "thinking" or generating an output from an input.
 - **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Token Costs:** The fees associated with the amount of text (tokens) processed by an AI model.
-- **LFM (Liquid Foundation Models):** A type of AI architecture designed to be highly efficient and adaptable to different types of data.
+- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher is more efficient.
+- **Late Interaction:** A sophisticated search method that compares individual parts of a query to individual parts of a document, rather than comparing them as single blocks.
+- **LFM (Liquid Foundation Model):** A newer type of AI architecture designed to be more fluid and computationally efficient than traditional Transformers.
+- **Token Costs:** The fee associated with the number of words or characters processed by an AI model.
