@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 19:16:30
+Last Updated: 2026-08-23 20:13:54
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider (like OpenAI) does not store any of the data sent to the model for training or review.
-- **Inference:** The process of an AI model "thinking" or generating an answer after it has been trained.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher is better for cost-efficiency.
-- **Multi-Vector Embeddings:** A way of turning text into numbers that allows the AI to understand the relationship between words more deeply, leading to better search results.
-- **Late Interaction:** A technique in AI search where the model compares different parts of a query at the very last second to ensure the most relevant answer is found.
-- **Token Costs:** The price paid to use an AI model, usually calculated based on the number of words or characters processed.
-- **ASR (Automatic Speech Recognition):** The technology that allows a computer to turn spoken words into text.
+* **Zero Data Retention (ZDR):** A privacy framework where an API provider guarantees that user data is processed purely in real-time, meaning it is never stored, logged, cached, or used to train future models.
+* **Liquid Foundation Models (LFMs):** A novel class of neural networks built using dynamical systems that adapt continuously to sequential data, offering superior execution speeds and reduced memory usage compared to standard Transformers.
+* **Late Interaction (Multi-Vector Embeddings):** A search-retrieval method (e.g., ColBERT) where queries and documents are represented as multiple vectors (one per word/token) instead of a single merged vector, allowing for a highly precise, token-by-token alignment phase during search.
+* **Automatic Speech Recognition (ASR):** The computational process of translating spoken language into written text (speech-to-text).
+* **Private Safety Processing:** A security method that runs necessary safety, bias, and compliance checks on AI queries without exposing the raw underlying text or data to logging systems.
+* **GPU Utilization Optimization:** The process of restructuring how computing tasks are queued and processed on Graphics Processing Units to reduce idle cycles and maximize overall processing output.
