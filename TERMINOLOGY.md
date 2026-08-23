@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 00:49:21
+Last Updated: 2026-08-23 02:20:08
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or log any of the data sent to the model, ensuring it isn't used for future training.
-- **Inference:** The process of an AI model generating an output from an input (the "running" of the model).
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
-- **Multi-Vector Embedding:** Instead of representing a whole document as one long string of numbers, it breaks it into several numerical representations to capture more detail.
-- **Late Interaction:** A retrieval method that compares the individual parts of a query to the individual parts of a document, leading to much higher accuracy than traditional search.
-- **LFM (Liquid Foundation Model):** A type of AI architecture that is designed to be more fluid and efficient than the standard "Transformer" models used by ChatGPT.
+*   **Zero Data Retention (ZDR):** A security setting where the AI provider does not save or log the data you send to the model, ensuring it isn't used for training.
+*   **Inference:** The process of an AI model "thinking" or generating an output based on the input it receives.
+*   **GPU Utilization:** A measure of how much of a computer's graphics processing power (needed for AI) is actually being used; higher utilization means less wasted money.
+*   **Tokens:** The basic units of text (words or parts of words) that AI models process. "Token costs" are how much you pay to use the AI.
+*   **Embedding Models:** A way of turning text into numbers so an AI can compare different pieces of information to see how related they are.
+*   **Late Interaction:** A technique that allows an AI to more carefully compare a search query to a document, leading to much more accurate search results.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into written text.
