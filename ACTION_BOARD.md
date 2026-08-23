@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-23 05:21:28
+Last Updated: 2026-08-23 06:26:21
 
-1. **Infrastructure Audit:** Review GPU cluster management protocols to implement the "ordering" optimizations suggested by Dharma AI.
-2. **Privacy Assessment:** Evaluate if shifting to Zero Data Retention API tiers allows for the handling of previously "off-limits" sensitive customer data.
-3. **Competitive Strategy:** Monitor the impact of Replit’s GPT-5.6 Luna on internal dev-tooling; assess if "Free Mode" tools can be used to accelerate internal prototyping.
+1.  **Audit AI Infrastructure:** Task the IT/Ops team to review GPU scheduling based on the Dharma AI findings to reclaim lost compute capacity.
+2.  **Pilot ZDR Workflows:** Identify high-sensitivity departments (Legal/HR) that have been restricted from using AI and trial OpenAI’s Zero Data Retention API.
+3.  **Evaluate Marketing Strategy:** For the marketing team to explore the ChatGPT Ads expansion in Europe to capture high-intent users early in the funnel.

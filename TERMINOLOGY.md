@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 05:21:28
+Last Updated: 2026-08-23 06:26:21
 
-- **Zero Data Retention (ZDR):** A privacy standard where the AI provider does not save or log the data sent to the model after the request is processed.
-- **Inference:** The process of an AI model generating an output from an input (e.g., answering a prompt).
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computing power is actually being used at any given time.
-- **Late Interaction:** A retrieval technique that keeps different parts of a search query separate for longer, leading to more accurate search results.
-- **Agentic AI:** AI systems that can independently perform multi-step tasks or "reason" through a problem without constant human prompting.
-- **Embeddings:** A way of representing words or data as numbers so that an AI can understand the relationships between them.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent via API once the request is processed.
+*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new input.
+*   **Frontier Models:** The most advanced, high-capability AI models currently available (e.g., GPT-4, GPT-5.6).
+*   **Late Interaction:** A retrieval method that keeps different parts of a query separate until the very end, allowing for more precise matching than standard methods.
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Agentic AI:** AI designed to act as an "agent" that can perform tasks, use tools, and make decisions autonomously to reach a goal.
