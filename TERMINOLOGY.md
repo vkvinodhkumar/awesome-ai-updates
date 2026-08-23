@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 08:19:42
+Last Updated: 2026-08-23 09:20:08
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider promises not to store or use the data sent via API for training or any other purpose after the request is processed.
-*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new input.
-*   **Multi-Vector Embeddings:** A way of representing text where instead of one single summary "score," multiple points of data are used to allow for more precise matching during search.
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's (the chip powering the AI) capacity is actually being used at any given time.
-*   **Late Interaction:** A retrieval technique where the AI compares the query and the document at a very granular level at the end of the process, leading to higher accuracy.
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the request is processed.
+- **Late Interaction (Multi-Vector):** A search technique that compares every word in a search query with every word in a document, rather than summarizing the whole document into one single number (vector).
+- **Inference:** The process of an AI model actually running and generating an answer (as opposed to "training," which is the learning phase).
+- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
+- **AGI (Artificial General Intelligence):** A hypothetical AI that can perform any intellectual task a human can.
