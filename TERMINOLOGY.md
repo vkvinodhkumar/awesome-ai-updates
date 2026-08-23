@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 16:15:25
+Last Updated: 2026-08-23 17:13:54
 
-- **Zero Data Retention (ZDR):** A privacy standard where the AI provider does not store the input data or output results after a request is processed.
-- **Private Safety Processing:** A method where safety filters analyze content for policy violations without storing the data for human review or training.
-- **Inference:** The process of an AI model generating a prediction or response from new input data.
-- **Late Interaction (Multi-Vector):** A retrieval technique that compares the individual parts of a query to the individual parts of a document, leading to much higher accuracy than comparing them as single blocks.
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
-- **GPT-5.6 Luna:** A high-performance model variant used in the Replit ecosystem for advanced code generation.
-- **LFM (Liquid Foundation Model):** A type of AI architecture designed for continuous data and high-speed processing, often outperforming traditional Transformer models in latency.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the request is processed.
+*   **Inference:** The process of an AI model generating an output from an input (the "live" use of the model).
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used.
+*   **Multi-Vector Embedding:** A way of representing data that allows an AI to understand the relationship between different parts of a sentence or document more deeply than standard methods.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Late Interaction:** A retrieval technique that keeps different parts of a query separate until the last moment to ensure more precise search results.
