@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 17:13:54
+Last Updated: 2026-08-23 18:17:42
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the request is processed.
-*   **Inference:** The process of an AI model generating an output from an input (the "live" use of the model).
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used.
-*   **Multi-Vector Embedding:** A way of representing data that allows an AI to understand the relationship between different parts of a sentence or document more deeply than standard methods.
-*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-*   **Late Interaction:** A retrieval technique that keeps different parts of a query separate until the last moment to ensure more precise search results.
+- **Zero Data Retention (ZDR):** A privacy framework where an API provider processes incoming user data but promises not to store, write to disk, or use that data to train future models.
+- **Liquid Foundation Models (LFMs):** A type of neural network architecture designed as an alternative to Transformers. They excel at processing sequential data and adapt continuously over time with a smaller computational footprint.
+- **Late Interaction (Multi-Vector) Embeddings:** A retrieval method (like ColBERT) that keeps token-level representations separate until the very end of the search process. This allows for highly precise, contextual matching compared to standard single-vector embeddings.
+- **GPU Cluster Utilization:** A metric representing how much of a system's available graphics processing units (GPUs) are actively performing calculations at any given time.
+- **Hidden Markov Model (HMM):** A statistical model used to predict future states based on a sequence of observed, past events. It is increasingly being used to minimize the memory footprints of AI agents.
+- **Private Safety Processing:** An emerging AI architecture that performs content safety and moderation checks on inputs in a highly secured environment, ensuring the underlying data is analyzed but never exposed or saved.
