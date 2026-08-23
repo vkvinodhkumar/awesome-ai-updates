@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 20:13:54
+Last Updated: 2026-08-23 21:13:36
 
-* **Zero Data Retention (ZDR):** A privacy framework where an API provider guarantees that user data is processed purely in real-time, meaning it is never stored, logged, cached, or used to train future models.
-* **Liquid Foundation Models (LFMs):** A novel class of neural networks built using dynamical systems that adapt continuously to sequential data, offering superior execution speeds and reduced memory usage compared to standard Transformers.
-* **Late Interaction (Multi-Vector Embeddings):** A search-retrieval method (e.g., ColBERT) where queries and documents are represented as multiple vectors (one per word/token) instead of a single merged vector, allowing for a highly precise, token-by-token alignment phase during search.
-* **Automatic Speech Recognition (ASR):** The computational process of translating spoken language into written text (speech-to-text).
-* **Private Safety Processing:** A security method that runs necessary safety, bias, and compliance checks on AI queries without exposing the raw underlying text or data to logging systems.
-* **GPU Utilization Optimization:** The process of restructuring how computing tasks are queued and processed on Graphics Processing Units to reduce idle cycles and maximize overall processing output.
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not save any of the text sent to the model.
+- **Inference:** The process of an AI model generating an output from an input (the "running" of the model).
+- **GPU Utilization:** A measure of how much of a computer's graphics chip power is actually being used; higher is better.
+- **Multi-Vector (Late Interaction):** A sophisticated way for AI to "read" and compare two pieces of text to see how well they match.
+- **LFM (Liquid Foundation Model):** A type of AI model designed to be more flexible and faster than the standard "Transformer" models (like GPT).
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
