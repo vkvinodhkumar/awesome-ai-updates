@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-23 04:28:48
+Last Updated: 2026-08-23 05:21:28
 
-1.  **Review API Security:** Evaluate if current AI implementations qualify for OpenAI’s Zero Data Retention to enhance compliance.
-2.  **Audit ASR Tools:** If using speech-to-text, test models on "noisy" internal data rather than relying on vendor-provided benchmark scores.
-3.  **Explore LFM Architectures:** For high-throughput needs, pilot Liquid AI models to potentially triple inference speeds.
-4.  **Monitor European Ad Launch:** Assess if the new ChatGPT Ads platform is a viable marketing channel for your European segments.
+1. **Infrastructure Audit:** Review GPU cluster management protocols to implement the "ordering" optimizations suggested by Dharma AI.
+2. **Privacy Assessment:** Evaluate if shifting to Zero Data Retention API tiers allows for the handling of previously "off-limits" sensitive customer data.
+3. **Competitive Strategy:** Monitor the impact of Replit’s GPT-5.6 Luna on internal dev-tooling; assess if "Free Mode" tools can be used to accelerate internal prototyping.
