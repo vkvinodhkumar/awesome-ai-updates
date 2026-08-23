@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 06:26:21
+Last Updated: 2026-08-23 07:26:36
 
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent via API once the request is processed.
-*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new input.
-*   **Frontier Models:** The most advanced, high-capability AI models currently available (e.g., GPT-4, GPT-5.6).
-*   **Late Interaction:** A retrieval method that keeps different parts of a query separate until the very end, allowing for more precise matching than standard methods.
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used at any given time.
-*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-*   **Agentic AI:** AI designed to act as an "agent" that can perform tasks, use tools, and make decisions autonomously to reach a goal.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or save any of the data sent to the model after the request is processed.
+*   **Inference:** The process of an AI model generating an output from a given input (e.g., answering a question).
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computing power is actually being used at any given time.
+*   **Multi-Vector Embeddings:** A method of turning text into numbers where a single piece of text is represented by multiple data points, allowing for much more accurate search results.
+*   **Late Interaction:** A technique in AI search that compares the individual parts of a query to the individual parts of a document, rather than comparing them as two single summaries.
+*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+*   **Hidden Markov Models (HMM):** A statistical model used to predict future states based on current data, used here to help AI agents "decide" what to remember.
