@@ -1,19 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-08-23 09:20:08
+Last Updated: 2026-08-23 10:14:54
 
-1.  **IT/Security:** Evaluate OpenAI’s Zero Data Retention (ZDR) for internal proprietary workflows.
-2.  **Marketing/Sales:** Pilot ad placements in European markets to capitalize on early-mover advantages in the ChatGPT ecosystem.
-3.  **Product/Engineering:** Investigate Replit’s Luna integration for internal "low-code" tool development to empower non-technical staff.
+1.  **Audit Data Privacy:** Ensure all API-connected internal tools are utilizing Zero Data Retention (ZDR) to mitigate data leak risks.
+2.  **Evaluate Scheduling:** Review cloud compute/GPU usage patterns to implement the "ordering" optimizations suggested by Dharma AI.
+3.  **Monitor Ad Performance:** If your company advertises, begin small-scale testing of ChatGPT Ads in Europe to capitalize on early-mover advantages in a high-intent environment.
 
 ## Technology Trends
-- **Retrieval Refinement:** Moving from single-vector to multi-vector (Late Interaction) search to improve AI accuracy.
-- **Inference Speed War:** A shift in focus from "bigger models" to "faster, more efficient models" (Liquid AI).
-- **AI Governance:** Increasing transparency from AI labs regarding their long-term impact on the economy and society.
+*   **Specialization over Generalization:** We are seeing models like "Luna" designed specifically for coding/creation rather than general-purpose chat.
+*   **Inference Efficiency:** The focus has shifted from "how large is the model" to "how fast can it run on existing hardware."
+*   **Late Interaction RAG:** Moving beyond simple vector search to more complex multi-vector retrieval to improve the accuracy of corporate AI knowledge bases.
 
 ## Terminology
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store any of the data sent to the model after the request is processed.
-- **Late Interaction (Multi-Vector):** A search technique that compares every word in a search query with every word in a document, rather than summarizing the whole document into one single number (vector).
-- **Inference:** The process of an AI model actually running and generating an answer (as opposed to "training," which is the learning phase).
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
-- **AGI (Artificial General Intelligence):** A hypothetical AI that can perform any intellectual task a human can.
+*   **Zero Data Retention (ZDR):** A security setting where the AI provider does not store the prompts or outputs sent to their servers once the request is processed.
+*   **Inference:** The process of an AI model "thinking" to generate an answer; "faster inference" means the AI responds more quickly.
+*   **Late Interaction:** A retrieval method that keeps query and document information separate until the very last step, allowing for more precise matching in search.
+*   **GPT-5.6 Luna:** A specific version of the GPT model family optimized for developers and software creation on the Replit platform.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **GPU Utilization:** A measure of how much of a computer’s graphics processing power is actually being used; higher utilization means less wasted money.
