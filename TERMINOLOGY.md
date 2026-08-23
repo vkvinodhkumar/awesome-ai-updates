@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-23 18:17:42
+Last Updated: 2026-08-23 19:16:30
 
-- **Zero Data Retention (ZDR):** A privacy framework where an API provider processes incoming user data but promises not to store, write to disk, or use that data to train future models.
-- **Liquid Foundation Models (LFMs):** A type of neural network architecture designed as an alternative to Transformers. They excel at processing sequential data and adapt continuously over time with a smaller computational footprint.
-- **Late Interaction (Multi-Vector) Embeddings:** A retrieval method (like ColBERT) that keeps token-level representations separate until the very end of the search process. This allows for highly precise, contextual matching compared to standard single-vector embeddings.
-- **GPU Cluster Utilization:** A metric representing how much of a system's available graphics processing units (GPUs) are actively performing calculations at any given time.
-- **Hidden Markov Model (HMM):** A statistical model used to predict future states based on a sequence of observed, past events. It is increasingly being used to minimize the memory footprints of AI agents.
-- **Private Safety Processing:** An emerging AI architecture that performs content safety and moderation checks on inputs in a highly secured environment, ensuring the underlying data is analyzed but never exposed or saved.
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider (like OpenAI) does not store any of the data sent to the model for training or review.
+- **Inference:** The process of an AI model "thinking" or generating an answer after it has been trained.
+- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher is better for cost-efficiency.
+- **Multi-Vector Embeddings:** A way of turning text into numbers that allows the AI to understand the relationship between words more deeply, leading to better search results.
+- **Late Interaction:** A technique in AI search where the model compares different parts of a query at the very last second to ensure the most relevant answer is found.
+- **Token Costs:** The price paid to use an AI model, usually calculated based on the number of words or characters processed.
+- **ASR (Automatic Speech Recognition):** The technology that allows a computer to turn spoken words into text.
