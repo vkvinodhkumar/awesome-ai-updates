@@ -1,21 +1,19 @@
 # AI Action Board
 
-Last Updated: 2026-08-23 07:26:36
+Last Updated: 2026-08-23 08:19:42
 
-1.  **Privacy Audit:** Review current API usage to see if projects qualify for Zero Data Retention to minimize data liability.
-2.  **Infrastructure Review:** Assess GPU orchestration tools to see if utilization can be improved through better task ordering.
-3.  **Ad Strategy:** Marketing departments should evaluate the ChatGPT Ads platform for the European market expansion.
+1.  **Audit Data Privacy:** Review current API implementations to ensure they leverage Zero Data Retention where available.
+2.  **Evaluate RAG Pipelines:** Explore Multi-Vector embedding models to improve the accuracy of internal knowledge bases.
+3.  **Optimize Compute:** Investigate GPU scheduling optimizations to maximize existing hardware before purchasing more capacity.
 
 ## Technology Trends
-*   **Inference Speed Optimization:** The industry is pivoting from "bigger models" to "faster, more efficient models" (e.g., LFM2.5-DSpark).
-*   **Agentic Memory:** Moving away from simple "context windows" toward structured, long-term memory for AI agents.
-*   **Governance-as-a-Service:** AI labs are increasingly focusing on the ethics and governance of their models to preempt regulation.
+*   **Agentic Memory Optimization:** Moving beyond "short-term context" to structured, efficient long-term memory for AI agents.
+*   **Inference Speed Supremacy:** A shift in focus from "bigger models" to "faster models" (e.g., LFM2.5-DSpark).
+*   **Late Interaction Retrieval:** Moving toward more complex embedding strategies to solve the "lost in the middle" and accuracy problems in RAG.
 
 ## Terminology
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or save any of the data sent to the model after the request is processed.
-*   **Inference:** The process of an AI model generating an output from a given input (e.g., answering a question).
-*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computing power is actually being used at any given time.
-*   **Multi-Vector Embeddings:** A method of turning text into numbers where a single piece of text is represented by multiple data points, allowing for much more accurate search results.
-*   **Late Interaction:** A technique in AI search that compares the individual parts of a query to the individual parts of a document, rather than comparing them as two single summaries.
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **Hidden Markov Models (HMM):** A statistical model used to predict future states based on current data, used here to help AI agents "decide" what to remember.
+*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider promises not to store or use the data sent via API for training or any other purpose after the request is processed.
+*   **Inference:** The process of a trained AI model making a prediction or generating a response based on new input.
+*   **Multi-Vector Embeddings:** A way of representing text where instead of one single summary "score," multiple points of data are used to allow for more precise matching during search.
+*   **GPU Utilization:** A measure of how much of a Graphics Processing Unit's (the chip powering the AI) capacity is actually being used at any given time.
+*   **Late Interaction:** A retrieval technique where the AI compares the query and the document at a very granular level at the end of the process, leading to higher accuracy.
