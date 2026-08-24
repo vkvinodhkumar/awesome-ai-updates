@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-08-24 12:30:46
+Last Updated: 2026-08-24 13:43:37
 
-*   **Zero Data Retention (ZDR):** A guarantee that the AI provider will not store or look at your data after the AI has finished processing your request.
-*   **Inference:** The process of an AI model actually "thinking" or generating a response after it has been trained.
-*   **GPU Utilization:** A measure of how much of a computer’s graphics processor (the "brain" of AI) is actually being used at any given time.
-*   **Multi-Vector Embedding:** A way of turning text into complex mathematical maps that allow AI to find information with much higher precision.
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **Codex:** A specialized AI model designed specifically to understand and write computer code.
-*   **Late Interaction:** A technique in search where the AI compares specific parts of a query to specific parts of a document at the very last second for better accuracy.
+- **Zero Data Retention (ZDR):** A privacy setting where a service provider processes data but does not store it or use it to train models after the session is complete.
+- **Inference:** The process of an AI model using its trained knowledge to make a prediction or generate a response.
+- **Multi-Vector Embedding:** A method of representing data where multiple points of information are used to capture the meaning of a single piece of text, leading to better search results.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Agentic Memory:** The system an AI "agent" uses to remember past interactions or specific data points to complete complex, multi-step tasks.
