@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-24 09:38:15
+Last Updated: 2026-08-24 10:29:32
 
-1. **Audit Data Security:** Determine if internal workflows qualify for OpenAI’s Zero Data Retention to move sensitive projects into the cloud.
-2. **Review RAG Pipelines:** Evaluate the shift toward "Multi-Vector" models to improve the accuracy of internal knowledge bases.
-3. **Explore Advertising:** Marketing teams should evaluate the new ChatGPT Ads platform for reaching high-intent European audiences.
+1.  **Audit Data Privacy:** Transition high-sensitivity API workflows to Zero Data Retention (ZDR) tiers.
+2.  **Evaluate LFM Models:** Assess Liquid Foundation Models for latency-sensitive applications.
+3.  **Review Ad Spend:** For marketing departments, explore early-mover advantages in the new European ChatGPT Ads market.
