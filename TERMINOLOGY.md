@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-24 11:19:22
+Last Updated: 2026-08-24 12:30:46
 
-- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the data sent to the model after the request is processed.
-- **Inference:** The process of an AI model generating an output from a given input (running the model).
-- **GPU Utilization:** A measure of how much of a Graphics Processing Unit's computational power is actually being used.
-- **Multi-Vector / Late Interaction:** A method of search that looks at multiple parts of a sentence or document simultaneously to find the best match, rather than summarizing it into one single value.
-- **RAG (Retrieval-Augmented Generation):** A technique where an AI looks up specific facts from an external database before answering a prompt.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Zero Data Retention (ZDR):** A guarantee that the AI provider will not store or look at your data after the AI has finished processing your request.
+*   **Inference:** The process of an AI model actually "thinking" or generating a response after it has been trained.
+*   **GPU Utilization:** A measure of how much of a computer’s graphics processor (the "brain" of AI) is actually being used at any given time.
+*   **Multi-Vector Embedding:** A way of turning text into complex mathematical maps that allow AI to find information with much higher precision.
+*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+*   **Codex:** A specialized AI model designed specifically to understand and write computer code.
+*   **Late Interaction:** A technique in search where the AI compares specific parts of a query to specific parts of a document at the very last second for better accuracy.
