@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-24 19:23:32
+Last Updated: 2026-08-24 20:20:25
 
-1. **Initiate GPU Audit:** Task the infrastructure team with auditing current GPU utilization and evaluating Dharma-AI’s scheduling methodology to reduce active cloud spend.
-2. **Review API Security:** Engage the compliance officer to explore OpenAI's Zero Data Retention and Private Safety Processing APIs for handling sensitive customer workflows.
-3. **Upgrade Search Infrastructure:** Direct the engineering team to prototype a Retrieval-Augmented Generation (RAG) system utilizing late-interaction models to boost internal information retrieval accuracy.
+1.  **Audit API Usage:** Identify high-cost legacy model implementations that can be migrated to the GPT-5.6/Luna tier for cost savings.
+2.  **Privacy Review:** Ensure that all departments handling sensitive data are utilizing the "Zero Data Retention" API settings.
+3.  **RAG Enhancement:** Task the engineering team with evaluating "Late Interaction" embedding models to improve the accuracy of internal knowledge bases.
