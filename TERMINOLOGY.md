@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-24 02:18:26
+Last Updated: 2026-08-24 03:46:38
 
-- **Zero Data Retention (ZDR):** A privacy standard where the AI provider does not store any of the input or output data once the request is processed.
-- **Liquid Foundation Models (LFM):** A type of AI architecture designed to be more fluid and efficient than traditional Transformers, often resulting in faster processing.
-- **Inference:** The process of an AI model generating an output from a given input (e.g., answering a question).
-- **Multi-Vector Embedding:** A way of representing text as multiple mathematical points to capture more detail than a single summary.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Late Interaction:** A retrieval technique that keeps different parts of a query separate until the very last moment to ensure better matching accuracy.
+*   **Zero Data Retention (ZDR):** A privacy feature where the AI provider does not store any of the input or output data on their servers after the request is processed.
+*   **Inference:** The process of an AI model "thinking" or generating a response to an input.
+*   **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Embedding Models:** Tools that turn text into numbers (vectors) so that the AI can understand the relationships between different ideas.
+*   **Late Interaction:** A sophisticated way for AI to search through data by comparing multiple parts of a query at the last possible second for higher accuracy.
+*   **Token Costs:** The fee paid for each "chunk" of text an AI processes; Replit’s "Free Mode" removes these for the user.
