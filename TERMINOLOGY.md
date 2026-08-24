@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-24 22:17:24
+Last Updated: 2026-08-24 23:15:36
 
-- **GPT-5.6 / Luna:** The latest iteration of generative models, with Luna likely being a "distilled" or smaller version optimized for speed and cost.
-- **Zero Data Retention (ZDR):** A privacy standard where the AI provider promises not to store the inputs or outputs of an API call on their servers after the request is processed.
-- **Private Safety Processing:** A safety layer that checks for harmful content in real-time without storing the underlying user data for training purposes.
-- **Inference:** The process of an AI model "thinking" or generating a response after it has already been trained.
-- **Late Interaction (Multi-Vector):** A sophisticated way for AI to search through data by comparing multiple "meaning points" (vectors) rather than just one single summary of a sentence.
-- **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher utilization means less wasted money on idle hardware.
+*   **GPT-5.6 Luna:** Likely a "distilled" or smaller, faster version of the GPT-5 series optimized for efficiency and low-cost tasks.
+*   **Zero Data Retention (ZDR):** A privacy guarantee where the service provider does not store the prompts or outputs sent through their system.
+*   **Liquid Foundation Models (LFM):** A newer type of AI architecture (non-Transformer) that can adapt more dynamically to data and often runs much faster.
+*   **Late Interaction (Multi-Vector):** A search method that looks at multiple parts of a sentence at once to find information, rather than turning the whole sentence into a single number.
+*   **GPU Utilization:** A measure of how much of a computer's "AI brain power" is actually being used at any given moment.
+*   **Private Safety Processing:** A way to check if an AI's answer is safe/appropriate without the service provider actually "seeing" the private data being processed.
