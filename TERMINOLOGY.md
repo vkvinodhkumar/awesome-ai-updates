@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 11:20:06
+Last Updated: 2026-08-25 12:31:26
 
-- **Zero Data Retention (ZDR):** A privacy framework where an AI provider guarantees that customer data sent via APIs is not saved, logged, or utilized to train future models.
-- **Late Interaction / Multi-Vector Embeddings:** A retrieval method (like ColBERT) that keeps separate vector representations for every token in a document rather than compressing the whole document into one vector, allowing for highly precise search matching.
-- **Liquid Foundation Models (LFMs):** A class of AI models built on sequential dynamical systems rather than the traditional Transformer architecture, optimized for high computational efficiency and fast inference.
-- **Agentic Memory:** The storage capacity and retrieval mechanisms used by an autonomous AI agent to retain context, history, and goals over multi-step, long-running tasks.
-- **Gradio:** An open-source Python library used to quickly build, customize, and share web-based user interfaces for machine learning models.
+- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
+- **Zero Data Retention (ZDR):** A privacy guarantee where a provider promises that user data sent to an AI is not stored on their servers or used for training.
+- **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is when the model is learning).
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Liquid Foundation Models (LFM):** A type of AI model based on "liquid" neural networks that can adapt to new data patterns more fluidly and often more efficiently than standard models.
+- **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4o, Claude 3.5).
