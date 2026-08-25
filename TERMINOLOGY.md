@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 00:46:07
+Last Updated: 2026-08-25 02:14:25
 
-*   **GPT-5.6 / Luna:** The latest iteration of OpenAI models, likely optimized for specific tasks like coding and reasoning.
-*   **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store the prompts or outputs sent through their system.
-*   **Inference:** The process of an AI model generating an output from an input (the "running" of the model).
-*   **Multi-Vector / Late Interaction:** A method of searching through data that looks at multiple parts of a sentence at once to find a better match than a single summary.
-*   **Liquid Foundation Models (LFM):** A type of AI model that uses different math than standard Transformers, often resulting in faster speeds for certain tasks.
-*   **GPU Utilization:** A measure of how much of a computer's graphics processing power is actually being used; higher is more cost-efficient.
+*   **Zero Data Retention (ZDR):** A privacy guarantee where the AI provider does not store any of the data sent to the model after the request is processed.
+*   **Inference:** The process of an AI model "thinking" to provide an answer after it has already been trained.
+*   **Price-Performance:** A measure of how much computational "power" or intelligence you get for every dollar spent.
+*   **Multi-Vector (Late Interaction):** A way for AI to "search" through information by looking at multiple parts of a sentence at once, rather than summarizing the whole thing into one number.
+*   **Liquid Foundation Models (LFM):** A newer type of AI architecture designed to be faster and more adaptable to continuous data (like video or audio) than traditional models.
+*   **Token Costs:** The fees associated with the number of words or characters an AI processes.
+*   **GPU Utilization:** A measure of how much of a computer’s graphics card (the "brain" of AI) is actually being used at any given time.
