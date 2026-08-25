@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 04:31:10
+Last Updated: 2026-08-25 05:24:21
 
-*   **GPT-5.6 Luna:** A specific variant of the GPT-5.6 model family optimized for high speed and lower cost, often used in consumer-facing or "free" tiers.
-*   **Zero Data Retention (ZDR):** A privacy guarantee where the AI provider does not store any of the data sent via API for training or review purposes.
-*   **Liquid Foundation Model (LFM):** A type of AI architecture (distinct from Transformers) designed to be more efficient at processing sequential data and faster at inference.
-*   **Late Interaction:** A retrieval method that compares multiple parts of a query to multiple parts of a document separately, resulting in much higher search accuracy.
-*   **RAG (Retrieval-Augmented Generation):** A technique where an AI model looks up facts from an external database before generating an answer to ensure accuracy.
-*   **ASR (Automatic Speech Recognition):** The technology used to convert spoken language into text.
+*   **Price-Performance:** The amount of computing power or "intelligence" received for every dollar spent.
+*   **Zero Data Retention (ZDR):** A privacy guarantee where the AI provider does not store or use your input data to train their models.
+*   **Inference:** The process of an AI model "thinking" or generating an output from an input.
+*   **Late Interaction:** A retrieval method that compares multiple parts of a query to multiple parts of a document, rather than comparing them as two single blocks.
+*   **Tokens:** The basic units (words or parts of words) that AI models read and write; usually the basis for billing.
+*   **LFM (Liquid Foundation Model):** A type of AI architecture designed for extreme efficiency and continuous time-series data.
+*   **RAG (Retrieval-Augmented Generation):** A technique that gives an AI model access to specific, private data to answer questions more accurately.
