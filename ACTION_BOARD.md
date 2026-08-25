@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-25 13:44:31
+Last Updated: 2026-08-25 14:37:38
 
-1. **Initiate Pilot for GPT-5.6:** Integrate Kiro/GPT-5.6 into the internal software engineering pipeline to measure code-completion efficiency gains.
-2. **Audit Data Privacy:** Review current API integrations to ensure "Zero Data Retention" is enabled for departments handling sensitive corporate or client information.
-3. **Assess Quantized Models:** Direct the engineering team to evaluate 4-bit models utilizing "Quantization-Aware Healing" for internal edge-computing applications.
-4. **Implement Real-World ASR Testing:** If utilizing speech-to-text systems, implement custom, non-public voice datasets to evaluate tools, avoiding rely-on-benchmark bias.
+1. **Audit Security Protocols:** Review data pipeline architectures to transition sensitive enterprise workloads to OpenAI’s Zero Data Retention (ZDR) APIs.
+2. **Pilot Edge Models:** Task the R&D team with exploring Quantization-Aware Healing (QAH) to see if our on-device applications can be migrated to ultra-efficient 4-bit models.
+3. **Upgrade Dev Tooling:** Evaluate the Kiro IDE integrated with GPT-5.6 for our engineering department to boost software development cycles.
+4. **ASR Model Verification:** Instruct the product team to test speech-to-text systems on proprietary, real-world audio samples rather than relying on public benchmark claims.
