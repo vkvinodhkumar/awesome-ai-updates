@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-25 21:19:41
+Last Updated: 2026-08-25 22:18:40
 
-1. **Audit Security Policies:** Implement OpenAI's new Admin plugin features for ChatGPT Work/Codex immediately to establish strict workspace guardrails.
-2. **Review Edge Architecture:** Task the engineering team with evaluating 4-bit quantized models optimized via "Healing" protocols for our mobile or on-premise applications.
-3. **Enhance Validation Protocols:** Shift internal QA testing for AI products (especially Speech and NLP) away from standard public benchmarks toward localized, proprietary test sets.
+1. **Pilot GPT-5.6 in Software Engineering:** Evaluate Kiro/GPT-5.6 for the engineering department to assess productivity gains and API cost reductions.
+2. **Review Edge-AI Strategy:** Direct the R&D team to investigate *Quantization-Aware Healing* to compress proprietary models for mobile/edge deployments.
+3. **Audit Admin Controls:** Implement the ChatGPT Work Admin plugin to clean up inactive accounts, manage permissions, and enforce data security protocols.
+4. **Enforce Robust Testing:** Require data science teams to utilize custom, real-world datasets rather than relying solely on standard public benchmarks when purchasing or fine-tuning models.

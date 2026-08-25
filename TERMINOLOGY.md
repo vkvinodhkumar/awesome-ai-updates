@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 21:19:41
+Last Updated: 2026-08-25 22:18:40
 
-- **Inference:** The process of running live data through a trained AI model to generate a prediction or response.
-- **Throughput:** The volume of data or tokens an AI system can process within a given timeframe.
-- **Latency:** The delay or time taken for an AI model to generate a response after receiving an input.
-- **Quantization:** A compression technique that reduces the numerical precision of a model's parameters (e.g., from 16-bit to 4-bit), making the model smaller and faster.
-- **Quantization-Aware Healing (QAH):** A specialized compression framework that corrects internal errors during the quantization process, preventing performance degradation.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken audio into written text.
-- **Open-Weight Models:** AI models where the neural network weights are released publicly, allowing developers to host, modify, and run the models locally.
-- **Vector/Semantic Search:** A search technique that understands the contextual meaning of query terms rather than just matching literal keywords.
+- **Inference:** The process of running live data through a trained AI model to generate a prediction, response, or output (as opposed to the "training" phase).
+- **Quantization:** A model compression technique that reduces the numerical precision of an AI's internal weights (e.g., converting 16-bit numbers to 4-bit numbers) to make the model run faster and consume far less memory.
+- **Quantization-Aware Healing (QAH):** An advanced compression method that systematically corrects or "heals" the mathematical errors introduced during quantization, occasionally resulting in a model that performs better than the uncompressed original.
+- **Full-Stack Optimization:** The practice of optimizing every layer of the computing stack—from physical silicon chips and cloud data centers to the machine learning algorithms and front-end application layers—to work together flawlessly.
+- **Benchmark Optimization:** The practice (and potential pitfall) of tuning an AI model specifically to score highly on standardized industry tests, which can sometimes result in poor performance on real-world tasks not covered by the test.
+- **ASR (Automatic Speech Recognition):** AI technology designed to transcribe spoken audio into written text.
