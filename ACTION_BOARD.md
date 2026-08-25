@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-25 10:23:15
+Last Updated: 2026-08-25 11:20:06
 
-1. **Audit Developer Tools:** Evaluate if switching to GPT-5.6 via Kiro can reduce software development costs.
-2. **Review Data Privacy:** Ensure all API-based AI projects utilize Zero Data Retention (ZDR) where sensitive customer data is involved.
-3. **Explore Workflow Automation:** Review the Gradio workflow guides to see if internal prototypes can be more effectively deployed to staff.
+1. **Approve Privacy Evaluation:** Transition highly sensitive internal data pipelines to OpenAI’s new Zero Data Retention (ZDR) APIs.
+2. **Upgrade Internal Dev Tooling:** Pilot GPT-5.6 in Kiro for software engineering teams, targeting the 60%+ productivity improvements observed in early enterprise adopters.
+3. **Refactor Search Systems:** Direct the data science team to explore multi-vector embeddings to upgrade current internal RAG search applications.
