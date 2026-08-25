@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 22:18:40
+Last Updated: 2026-08-25 23:18:30
 
-- **Inference:** The process of running live data through a trained AI model to generate a prediction, response, or output (as opposed to the "training" phase).
-- **Quantization:** A model compression technique that reduces the numerical precision of an AI's internal weights (e.g., converting 16-bit numbers to 4-bit numbers) to make the model run faster and consume far less memory.
-- **Quantization-Aware Healing (QAH):** An advanced compression method that systematically corrects or "heals" the mathematical errors introduced during quantization, occasionally resulting in a model that performs better than the uncompressed original.
-- **Full-Stack Optimization:** The practice of optimizing every layer of the computing stack—from physical silicon chips and cloud data centers to the machine learning algorithms and front-end application layers—to work together flawlessly.
-- **Benchmark Optimization:** The practice (and potential pitfall) of tuning an AI model specifically to score highly on standardized industry tests, which can sometimes result in poor performance on real-world tasks not covered by the test.
-- **ASR (Automatic Speech Recognition):** AI technology designed to transcribe spoken audio into written text.
+*   **Inference:** The process of an AI model providing an answer or output based on new data (running the model, rather than training it).
+*   **Throughput:** The amount of data an AI system can process in a given amount of time (how many words/tokens it can generate per second).
+*   **Latency:** The delay before a transfer of data begins following an instruction (how long you wait for the AI to start typing).
+*   **Quantization:** A technique to reduce the size of an AI model by using less "detail" (bits) for its internal numbers, making it run faster and use less memory.
+*   **Full Stack:** In this context, it refers to owning every part of the technology—from the physical chip up to the software application.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Open-Weights:** Models where the "brain" of the AI is shared publicly so others can run it on their own hardware, as opposed to "Closed" models like ChatGPT.
