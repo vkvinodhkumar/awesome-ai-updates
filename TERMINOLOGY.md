@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 02:14:25
+Last Updated: 2026-08-25 03:41:33
 
-*   **Zero Data Retention (ZDR):** A privacy guarantee where the AI provider does not store any of the data sent to the model after the request is processed.
-*   **Inference:** The process of an AI model "thinking" to provide an answer after it has already been trained.
-*   **Price-Performance:** A measure of how much computational "power" or intelligence you get for every dollar spent.
-*   **Multi-Vector (Late Interaction):** A way for AI to "search" through information by looking at multiple parts of a sentence at once, rather than summarizing the whole thing into one number.
-*   **Liquid Foundation Models (LFM):** A newer type of AI architecture designed to be faster and more adaptable to continuous data (like video or audio) than traditional models.
-*   **Token Costs:** The fees associated with the number of words or characters an AI processes.
-*   **GPU Utilization:** A measure of how much of a computer’s graphics card (the "brain" of AI) is actually being used at any given time.
+- **GPT-5.6 Luna:** A specific variant of the GPT-5.6 model optimized for speed and cost-efficiency, integrated into the Replit platform.
+- **Zero Data Retention (ZDR):** A privacy setting where the AI provider does not store or use the input data or output results for any purpose (including model training) after the request is processed.
+- **Inference:** The process of a trained AI model making a prediction or generating a response based on new data.
+- **Late Interaction:** A retrieval technique that compares multiple parts of a query to multiple parts of a document individually, rather than condensing them into a single summary, leading to much higher accuracy.
+- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+- **Token Costs:** The way AI usage is typically billed (by the "chunk" of text). New "Free Mode" models attempt to abstract this cost away from the user.
+- **HMM (Hidden Markov Model):** A statistical model used to predict future states based on current ones; in this context, used to optimize how AI agents "remember" things.
