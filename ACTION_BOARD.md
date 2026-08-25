@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-25 07:37:29
+Last Updated: 2026-08-25 08:32:21
 
-1.  **Audit internal dev workflows** to see if GPT-5.6 (via Kiro or Replit) can reduce the current software development backlog.
-2.  **Review API data agreements** to ensure the organization is utilizing Zero Data Retention where sensitive client data is involved.
-3.  **Evaluate RAG pipelines** to determine if switching to Multi-Vector embedding models could improve the accuracy of internal AI knowledge bases.
+1.  **Audit Data Privacy:** Check if current AI API usage qualifies for Zero Data Retention to enhance corporate data security.
+2.  **Evaluate GPT-5.6:** Pilot the GPT-5.6 model in internal developer environments (via Kiro or Replit) to assess potential cost savings.
+3.  **Optimize RAG Pipelines:** Explore "Multi-Vector" embeddings to improve the accuracy of internal knowledge bases and customer-facing bots.
