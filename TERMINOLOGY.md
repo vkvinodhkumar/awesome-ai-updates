@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-25 12:31:26
+Last Updated: 2026-08-25 13:44:31
 
-- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
-- **Zero Data Retention (ZDR):** A privacy guarantee where a provider promises that user data sent to an AI is not stored on their servers or used for training.
-- **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is when the model is learning).
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Liquid Foundation Models (LFM):** A type of AI model based on "liquid" neural networks that can adapt to new data patterns more fluidly and often more efficiently than standard models.
-- **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4o, Claude 3.5).
+- **Quantization:** The process of reducing the precision of a model's numbers (weights) to make the model smaller, faster, and less memory-intensive.
+- **4-bit Precision:** An extreme level of model compression where parameters are stored using only 4 bits of data instead of the standard 16 or 32 bits, dramatically lowering hardware requirements.
+- **Zero Data Retention (ZDR):** A privacy agreement where an AI provider guarantees that any data sent to their API is processed in real-time and immediately deleted, never saved on their servers or used for training models.
+- **Inference:** The process of an already trained AI model running and generating an output or prediction based on new input data.
+- **Benchmark Optimization (Over-fitting):** The practice of tuning an AI model specifically to score well on standard industry tests, which can sometimes result in poorer performance on everyday, real-world tasks.
+- **Semantic Search:** A search method that understands the actual meaning and intent behind user queries, rather than just matching exact keywords.
+- **Automatic Speech Recognition (ASR):** The technology that converts spoken language (audio) into written text.

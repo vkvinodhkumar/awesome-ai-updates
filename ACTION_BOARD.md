@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-08-25 12:31:26
+Last Updated: 2026-08-25 13:44:31
 
-1.  **Audit Data Privacy:** Transition sensitive AI workflows to providers offering Zero Data Retention (ZDR) to minimize legal and security risks.
-2.  **Evaluate Compression:** Task technical teams with exploring "Quantization-Aware Healing" for on-device or edge-computing needs to save on cloud costs.
-3.  **Modernize DevStacks:** Integrate Kiro/GPT-5.6 into the software development lifecycle to mirror the productivity gains seen in recent enterprise case studies.
+1. **Initiate Pilot for GPT-5.6:** Integrate Kiro/GPT-5.6 into the internal software engineering pipeline to measure code-completion efficiency gains.
+2. **Audit Data Privacy:** Review current API integrations to ensure "Zero Data Retention" is enabled for departments handling sensitive corporate or client information.
+3. **Assess Quantized Models:** Direct the engineering team to evaluate 4-bit models utilizing "Quantization-Aware Healing" for internal edge-computing applications.
+4. **Implement Real-World ASR Testing:** If utilizing speech-to-text systems, implement custom, non-public voice datasets to evaluate tools, avoiding rely-on-benchmark bias.
