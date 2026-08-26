@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-26 16:11:35
+Last Updated: 2026-08-26 18:52:21
 
-*   **Inference:** The process of using a trained AI model to make predictions or generate content; it is the "running" phase of AI.
-*   **Quantization:** A technique to reduce the size of an AI model by using lower-precision numbers, making it faster and cheaper to run.
-*   **Embedding Models:** Tools that translate text into numbers (vectors), allowing computers to understand the semantic meaning or "relatedness" of different concepts.
-*   **Multi-Vector:** A more advanced way of representing data that captures multiple layers of meaning, rather than just a single numeric summary.
-*   **Latency:** The delay time between an input (a prompt) and the output (the answer); lower latency equals a snappier, more responsive AI.
-*   **Throughput:** The total amount of work (number of requests) an AI system can handle in a given timeframe.
+- **Inference:** The process of an AI model using its training to make a prediction or generate text (the "running" of the AI).
+- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it smaller and faster.
+- **Embeddings:** Numerical representations of text that allow computers to understand the "meaning" and relationship between words.
+- **Multi-vector:** A technique where a single piece of information is represented by multiple numerical summaries instead of just one, making it easier for the AI to find later.
+- **Full-stack AI:** A strategy where a company controls every layer of the technology, from the physical chips to the software the user interacts with.
+- **LLM (Large Language Model):** An AI trained on vast amounts of text to understand and generate human-like language.
