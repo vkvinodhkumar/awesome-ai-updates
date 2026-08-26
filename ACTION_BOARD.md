@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-26 18:52:21
+Last Updated: 2026-08-26 21:30:48
 
-1. **Pilot Internal "Builder" Programs:** Explore how Codex-style tools can empower non-engineering teams to build small-scale automation.
-2. **Infrastructure Audit:** Evaluate if current AI deployments can be moved to 4-bit quantized versions to save on compute costs without losing quality.
-3. **Monitor IBM Granite:** For enterprise applications requiring high compliance, evaluate the Granite 4.2 models for their safety and data transparency.
+1. **Audit Security:** Review third-party AI integrations in light of recent industry security incidents.
+2. **Explore Quantization:** Task technical teams to evaluate "Quantization-Aware Healing" for internal models to optimize compute spending.
+3. **Pilot AI Literacy:** Consider internal training programs modeled after the "ChatGPT for Teachers" rollout to standardize AI use across the organization.
