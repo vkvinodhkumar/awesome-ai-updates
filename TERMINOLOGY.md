@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-26 05:26:24
+Last Updated: 2026-08-26 06:33:40
 
-*   **Inference:** The process of an AI model "thinking" or generating an output based on input.
-*   **Throughput:** The amount of data an AI system can process in a specific amount of time.
-*   **Latency:** The delay or "lag" between a user’s prompt and the AI’s response.
-*   **Full Stack:** Controlling every part of a system, from the physical hardware (chips) to the software and user interface.
-*   **Quantization:** A technique to make AI models smaller by reducing the precision of the numbers they use to calculate (e.g., shrinking a 16-bit model to 4-bit).
-*   **Influence Campaign:** A coordinated effort (often by a government) to use social media and AI to shift public opinion or spread misinformation.
+*   **Inference:** The phase where a trained AI model actually processes new information to provide an answer (as opposed to "training").
+*   **Latency:** The delay or "lag" between a user's input and the AI's response.
+*   **Throughput:** The amount of data an AI chip or system can process in a given amount of time.
+*   **Quantization:** The process of "shrinking" an AI model by reducing the precision of its numbers (e.g., from 16-bit to 4-bit) to make it run faster on smaller devices.
 *   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-*   **Inference Endpoints:** A dedicated "location" on the web where a model lives, allowing other apps to send it data and get results back.
+*   **Full Stack:** In this context, it refers to owning everything from the hardware (chips) to the final application used by the customer.
