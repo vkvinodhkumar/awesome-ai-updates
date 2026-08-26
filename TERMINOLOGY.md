@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-26 02:20:38
+Last Updated: 2026-08-26 03:46:21
 
-* **Inference:** The process of using a trained machine learning model to make predictions or generate text/media when given new input data.
-* **Silicon / Custom Chips (e.g., Jalapeño):** Microchips custom-built for specific workloads (like executing neural networks) rather than general-purpose computing (like traditional CPUs).
-* **Quantization:** A compression technique that lowers the mathematical precision of a model's parameters (e.g., converting 16-bit numbers to 4-bit numbers) to make the model run faster and use less memory.
-* **Quantization-Aware Healing (QAH):** An advanced compression technique that actively repairs or corrects errors introduced during the model-shrinking process, allowing compressed models to retain—and sometimes exceed—their original accuracy.
-* **Full-Stack (AI):** An approach where a company develops and integrates all layers of the AI pipeline, including physical chips, cloud infrastructure, foundational algorithms, and user-facing applications.
-* **Automatic Speech Recognition (ASR):** The technology that identifies spoken words and converts them into searchable, readable digital text.
-* **Benchmark Optimization:** The unintended practice of tuning an AI model to perform exceptionally well on standard test suites (benchmarks) rather than focusing on real-world usability.
+*   **Inference:** The process of a trained AI model making a prediction or generating content based on new input.
+*   **Throughput:** The amount of data or tasks an AI system can process in a specific amount of time.
+*   **Latency:** The delay or "lag" between a user’s request and the AI’s response.
+*   **Quantization:** A technique to make AI models smaller and faster by reducing the precision of the numbers used in their calculations (e.g., from 16-bit to 4-bit).
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **LLM (Large Language Model):** AI trained on vast amounts of text to understand and generate human-like language.
+*   **Full Stack:** In this context, it refers to controlling everything from the physical hardware (chips) to the final software product.
+*   **Quantization-Aware Healing:** A specific method of compression that "fixes" errors introduced when a model is made smaller, ensuring it stays accurate.
