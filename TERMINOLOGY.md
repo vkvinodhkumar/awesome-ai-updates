@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-08-26 11:21:59
+Last Updated: 2026-08-26 12:34:26
 
-- **Inference:** The process of an AI model actually running and providing an answer (as opposed to "training," which is the learning phase).
-- **Codex:** A specialized AI model designed to understand and write computer code.
-- **Quantization:** The process of "shrinking" an AI model so it takes up less memory, usually by reducing the precision of its numbers.
-- **4-Bit:** A very high level of compression where each piece of data in the model is stored using only 4 bits of information.
-- **Throughput:** How much data or how many requests an AI system can handle at one time.
-- **Latency:** The "delay" or the time it takes for an AI to respond to a single prompt.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Full Stack Intelligence:** A strategy where a company controls everything from the hardware (chips) to the final application.
+*   **Inference:** The process of an AI model using its trained knowledge to make predictions or generate text based on new data (the "running" phase of AI).
+*   **Codex:** A model developed by OpenAI that translates natural language (English) into computer code.
+*   **Quantization:** A technique to reduce the size of an AI model by using less "precision" for its numbers (e.g., switching from 32-bit to 4-bit), similar to shrinking a high-res photo into a smaller file size.
+*   **4-bit:** A very high level of compression for AI models that allows them to use significantly less memory.
+*   **Throughput:** The amount of data or number of requests an AI system can process in a given amount of time.
+*   **Latency:** The delay or "wait time" between a user's prompt and the AI's response.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Overfitting:** A mistake in AI training where a model learns the "test answers" by heart instead of learning the underlying patterns, making it perform poorly on new, real-world data.
