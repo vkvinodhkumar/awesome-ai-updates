@@ -1,7 +1,3 @@
-```
-```
-
-````
 # 🤖 Automated AI Updates System
 
 An AI-powered news automation system that collects the latest AI news from multiple RSS feeds, summarizes it using Google's Gemini API, generates structured Markdown reports, and automatically publishes updates using GitHub Actions.
@@ -52,17 +48,15 @@ This project generates different AI reports for different types of readers.
 
 Start with:
 
-```text
-MEETING_BRIEF.md
-````
+`MEETING_BRIEF.md`
 
 Best for:
 
--  Major AI developments 
--  Business impact 
--  Important industry changes 
--  Key points requiring attention 
--  Decision-making 
+- Major AI developments
+- Business impact
+- Important industry changes
+- Key points requiring attention
+- Decision-making
 
 ---
 
@@ -70,29 +64,19 @@ Best for:
 
 Start with:
 
-```
-```
-
-```
-LATEST.md
-```
+`LATEST.md`
 
 Then explore:
 
-```
-```
-
-```
-INDEX.md
-```
+`INDEX.md`
 
 Best for:
 
--  AI trends 
--  New AI technologies 
--  Model releases 
--  Research developments 
--  Industry developments 
+- AI trends
+- New AI technologies
+- Model releases
+- Research developments
+- Industry developments
 
 ---
 
@@ -100,29 +84,19 @@ Best for:
 
 Start with:
 
-```
-```
-
-```
-TERMINOLOGY.md
-```
+`TERMINOLOGY.md`
 
 Then read:
 
-```
-```
-
-```
-LATEST.md
-```
+`LATEST.md`
 
 Best for:
 
--  AI terminology 
--  New technologies 
--  Machine learning concepts 
--  Generative AI 
--  Industry vocabulary 
+- AI terminology
+- New technologies
+- Machine learning concepts
+- Generative AI
+- Industry vocabulary
 
 ---
 
@@ -130,29 +104,19 @@ Best for:
 
 Start with:
 
-```
-```
-
-```
-ACTION_BOARD.md
-```
+`ACTION_BOARD.md`
 
 Then:
 
-```
-```
-
-```
-MEETING_BRIEF.md
-```
+`MEETING_BRIEF.md`
 
 Best for:
 
--  AI opportunities 
--  Business implications 
--  Important developments 
--  Potential actions 
--  Product opportunities 
+- AI opportunities
+- Business implications
+- Important developments
+- Potential actions
+- Product opportunities
 
 ---
 
@@ -160,28 +124,18 @@ Best for:
 
 Start with:
 
-```
-```
-
-```
-INDEX.md
-```
+`INDEX.md`
 
 Then explore:
 
-```
-```
-
-```
-hourly/
-```
+`hourly/`
 
 Best for:
 
--  Historical AI developments 
--  Research announcements 
--  Technology evolution 
--  Tracking AI trends over time 
+- Historical AI developments
+- Research announcements
+- Technology evolution
+- Tracking AI trends over time
 
 ---
 
@@ -189,31 +143,21 @@ Best for:
 
 Start with:
 
-```
-```
-
-```
-scripts/update.py
-```
+`scripts/update.py`
 
 Then explore:
 
-```
-```
-
-```
-scripts/
-```
+`scripts/`
 
 Best for understanding:
 
--  Python architecture 
--  RSS data collection 
--  Gemini API integration 
--  AI summarization 
--  Report generation 
--  File generation 
--  Automation pipeline 
+- Python architecture
+- RSS data collection
+- Gemini API integration
+- AI summarization
+- Report generation
+- File generation
+- Automation pipeline
 
 ---
 
@@ -221,22 +165,17 @@ Best for understanding:
 
 Start with:
 
-```
-```
-
-```
-.github/workflows/update.yml
-```
+`.github/workflows/update.yml`
 
 Best for understanding:
 
--  GitHub Actions 
--  Scheduled execution 
--  Python environment setup 
--  Dependency installation 
--  Automated execution 
--  Git commits 
--  Automatic publishing 
+- GitHub Actions
+- Scheduled execution
+- Python environment setup
+- Dependency installation
+- Automated execution
+- Git commits
+- Automatic publishing
 
 ---
 
@@ -244,33 +183,11 @@ Best for understanding:
 
 Recommended reading order:
 
-```
-```
-
-```
-LATEST.md
-      ↓
-TERMINOLOGY.md
-      ↓
-ACTION_BOARD.md
-      ↓
-INDEX.md
-```
+`LATEST.md` → `TERMINOLOGY.md` → `ACTION_BOARD.md` → `INDEX.md`
 
 This provides:
 
-```
-```
-
-```
-Current News
-     ↓
-AI Concepts
-     ↓
-Practical Opportunities
-     ↓
-Historical Information
-```
+**Current News → AI Concepts → Practical Opportunities → Historical Information**
 
 ---
 
@@ -278,12 +195,7 @@ Historical Information
 
 Start with:
 
-```
-```
-
-```
-LATEST.md
-```
+`LATEST.md`
 
 This is the easiest way to understand the latest important developments in AI.
 
@@ -291,10 +203,7 @@ This is the easiest way to understand the latest important developments in AI.
 
 # 📂 Project Structure
 
-```
-```
-
-```
+```text
 awesome-ai-updates/
 │
 ├── .github/
@@ -335,10 +244,7 @@ awesome-ai-updates/
 
 # 🚀 Workflow
 
-```
-```
-
-```
+```text
                     RSS FEEDS
                        │
                        ▼
@@ -384,19 +290,11 @@ awesome-ai-updates/
 
 The main controller is:
 
-```
-```
-
-```
-scripts/update.py
-```
+`scripts/update.py`
 
 It coordinates the complete system.
 
-```
-```
-
-```
+```text
 Fetch News
     ↓
 Generate Report
@@ -428,19 +326,11 @@ The system collects AI news from configured RSS feeds.
 
 Main file:
 
-```
-```
-
-```
-scripts/fetch_news.py
-```
+`scripts/fetch_news.py`
 
 Pipeline:
 
-```
-```
-
-```
+```text
 RSS Feeds
     ↓
 fetch_news.py
@@ -456,19 +346,11 @@ The collected news is processed using Google's Gemini API.
 
 Main file:
 
-```
-```
-
-```
-scripts/summarize.py
-```
+`scripts/summarize.py`
 
 Pipeline:
 
-```
-```
-
-```
+```text
 AI News
    ↓
 Gemini API
@@ -490,36 +372,36 @@ Contains the latest AI news and generated summaries.
 
 **Recommended for:**
 
--  Data Scientists 
--  Data Analysts 
--  AI/ML Enthusiasts 
--  General Readers 
+- Data Scientists
+- Data Analysts
+- AI/ML Enthusiasts
+- General Readers
 
 ---
 
-## MEETING\_BRIEF.md
+## MEETING_BRIEF.md
 
 Provides an executive-oriented summary of important AI developments.
 
 **Recommended for:**
 
--  Managers 
--  Executives 
--  Team Leads 
--  Business Professionals 
+- Managers
+- Executives
+- Team Leads
+- Business Professionals
 
 ---
 
-## ACTION\_BOARD.md
+## ACTION_BOARD.md
 
 Converts AI developments into action-oriented insights.
 
 **Recommended for:**
 
--  Product Professionals 
--  Business Professionals 
--  Managers 
--  AI Strategy Teams 
+- Product Professionals
+- Business Professionals
+- Managers
+- AI Strategy Teams
 
 ---
 
@@ -529,10 +411,10 @@ Contains important AI terminology and concepts extracted from the generated repo
 
 **Recommended for:**
 
--  Students 
--  Beginners 
--  AI/ML Learners 
--  Developers learning AI 
+- Students
+- Beginners
+- AI/ML Learners
+- Developers learning AI
 
 ---
 
@@ -542,9 +424,9 @@ Provides an index of generated reports and historical information.
 
 **Recommended for:**
 
--  Researchers 
--  Analysts 
--  Project Maintainers 
+- Researchers
+- Analysts
+- Project Maintainers
 
 ---
 
@@ -554,9 +436,9 @@ Contains archived hourly AI reports.
 
 **Recommended for:**
 
--  Researchers 
--  Analysts 
--  Anyone interested in historical AI developments 
+- Researchers
+- Analysts
+- Anyone interested in historical AI developments
 
 ---
 
@@ -624,14 +506,14 @@ Main controller that executes the complete pipeline.
 
 # 🧠 Technologies Used
 
--  Python 3.12 
--  Google Gemini API 
--  Google GenAI SDK 
--  Feedparser 
--  Requests 
--  GitHub Actions 
--  Markdown 
--  Git 
+- Python 3.12
+- Google Gemini API
+- Google GenAI SDK
+- Feedparser
+- Requests
+- GitHub Actions
+- Markdown
+- Git
 
 ---
 
@@ -639,28 +521,19 @@ Main controller that executes the complete pipeline.
 
 ## Clone the Repository
 
-```
-```
-
-```
+```bash
 git clone https://github.com/vkvinodhkumar/awesome-ai-updates.git
 ```
 
 ## Move into the Project
 
-```
-```
-
-```
+```bash
 cd awesome-ai-updates
 ```
 
 ## Install Dependencies
 
-```
-```
-
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -670,10 +543,7 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root.
 
-```
-```
-
-```
+```text
 GEMINI_API_KEY=YOUR_API_KEY
 GEMINI_MODEL=gemini-3-flash-preview
 ```
@@ -688,19 +558,13 @@ For GitHub Actions, store the Gemini API key as a GitHub Actions Secret.
 
 Run the complete pipeline:
 
-```
-```
-
-```
+```bash
 python scripts/update.py
 ```
 
 The system will:
 
-```
-```
-
-```
+```text
 Fetch AI News
       ↓
 Summarize News
@@ -724,10 +588,7 @@ Save Reports
 
 Every successful execution can update:
 
-```
-```
-
-```
+```text
 LATEST.md
 INDEX.md
 MEETING_BRIEF.md
@@ -743,23 +604,18 @@ hourly/
 
 The workflow is located at:
 
-```
-```
-
-```
-.github/workflows/update.yml
-```
+`.github/workflows/update.yml`
 
 GitHub Actions automatically:
 
--  Installs dependencies 
--  Sets up Python 
--  Fetches AI news 
--  Runs the AI processing pipeline 
--  Generates reports 
--  Updates Markdown files 
--  Creates Git commits 
--  Pushes changes to GitHub 
+- Installs dependencies
+- Sets up Python
+- Fetches AI news
+- Runs the AI processing pipeline
+- Generates reports
+- Updates Markdown files
+- Creates Git commits
+- Pushes changes to GitHub
 
 ---
 
@@ -767,20 +623,14 @@ GitHub Actions automatically:
 
 The workflow is configured to run automatically every hour.
 
-```
-```
-
-```
+```yaml
 schedule:
   - cron: "0 * * * *"
 ```
 
 This means:
 
-```
-```
-
-```
+```text
 Every hour
 at minute 00
 UTC
@@ -788,10 +638,7 @@ UTC
 
 The workflow can also be executed manually using:
 
-```
-```
-
-```
+```text
 GitHub
    ↓
 Actions
@@ -835,36 +682,36 @@ Run workflow
 
 # 🔮 Future Enhancements
 
--  📅 Daily Reports 
--  📆 Weekly Reports 
--  🗓️ Monthly Reports 
--  🧠 AI Knowledge Base 
--  📊 Advanced JSON Reporting 
--  📈 AI Trend Analytics 
--  🔎 Search Functionality 
--  📊 Streamlit Dashboard 
--  📈 Historical AI Trend Analysis 
--  🏷️ AI Topic Classification 
--  🔍 Advanced Report Search 
+- 📅 Daily Reports
+- 📆 Weekly Reports
+- 🗓️ Monthly Reports
+- 🧠 AI Knowledge Base
+- 📊 Advanced JSON Reporting
+- 📈 AI Trend Analytics
+- 🔎 Search Functionality
+- 📊 Streamlit Dashboard
+- 📈 Historical AI Trend Analysis
+- 🏷️ AI Topic Classification
+- 🔍 Advanced Report Search
 
 ---
 
 # ⭐ Project Highlights
 
--  End-to-end AI news automation 
--  RSS-based AI news collection 
--  Gemini-powered summarization 
--  Automated report generation 
--  Executive-focused reporting 
--  Action-oriented AI insights 
--  AI terminology extraction 
--  Historical hourly reports 
--  Automated GitHub publishing 
--  Scheduled GitHub Actions 
--  Modular Python architecture 
--  API integration 
--  CI/CD automation 
--  Easy to extend with new report types 
+- End-to-end AI news automation
+- RSS-based AI news collection
+- Gemini-powered summarization
+- Automated report generation
+- Executive-focused reporting
+- Action-oriented AI insights
+- AI terminology extraction
+- Historical hourly reports
+- Automated GitHub publishing
+- Scheduled GitHub Actions
+- Modular Python architecture
+- API integration
+- CI/CD automation
+- Easy to extend with new report types
 
 ---
 
@@ -874,14 +721,4 @@ Run workflow
 
 Data Science & Analytics Enthusiast
 
-GitHub:
-
-[https://github.com/vkvinodhkumar](https://github.com/vkvinodhkumar)
-
-```
-```
-
-```
-
-This is the **full Markdown file**, ready to replace your existing `README.md`.
-```
+GitHub: https://github.com/vkvinodhkumar
