@@ -48,7 +48,9 @@ This project generates different AI reports for different types of readers.
 
 Start with:
 
-`MEETING_BRIEF.md`
+```text
+MEETING_BRIEF.md
+```
 
 Best for:
 
@@ -64,11 +66,15 @@ Best for:
 
 Start with:
 
-`LATEST.md`
+```text
+LATEST.md
+```
 
 Then explore:
 
-`INDEX.md`
+```text
+INDEX.md
+```
 
 Best for:
 
@@ -84,11 +90,15 @@ Best for:
 
 Start with:
 
-`TERMINOLOGY.md`
+```text
+TERMINOLOGY.md
+```
 
 Then read:
 
-`LATEST.md`
+```text
+LATEST.md
+```
 
 Best for:
 
@@ -104,11 +114,15 @@ Best for:
 
 Start with:
 
-`ACTION_BOARD.md`
+```text
+ACTION_BOARD.md
+```
 
 Then:
 
-`MEETING_BRIEF.md`
+```text
+MEETING_BRIEF.md
+```
 
 Best for:
 
@@ -124,11 +138,15 @@ Best for:
 
 Start with:
 
-`INDEX.md`
+```text
+INDEX.md
+```
 
 Then explore:
 
-`hourly/`
+```text
+hourly/
+```
 
 Best for:
 
@@ -143,11 +161,15 @@ Best for:
 
 Start with:
 
-`scripts/update.py`
+```text
+scripts/update.py
+```
 
 Then explore:
 
-`scripts/`
+```text
+scripts/
+```
 
 Best for understanding:
 
@@ -165,7 +187,9 @@ Best for understanding:
 
 Start with:
 
-`.github/workflows/update.yml`
+```text
+.github/workflows/update.yml
+```
 
 Best for understanding:
 
@@ -183,11 +207,27 @@ Best for understanding:
 
 Recommended reading order:
 
-`LATEST.md` → `TERMINOLOGY.md` → `ACTION_BOARD.md` → `INDEX.md`
+```text
+LATEST.md
+      ↓
+TERMINOLOGY.md
+      ↓
+ACTION_BOARD.md
+      ↓
+INDEX.md
+```
 
 This provides:
 
-**Current News → AI Concepts → Practical Opportunities → Historical Information**
+```text
+Current News
+     ↓
+AI Concepts
+     ↓
+Practical Opportunities
+     ↓
+Historical Information
+```
 
 ---
 
@@ -195,7 +235,9 @@ This provides:
 
 Start with:
 
-`LATEST.md`
+```text
+LATEST.md
+```
 
 This is the easiest way to understand the latest important developments in AI.
 
@@ -290,7 +332,9 @@ awesome-ai-updates/
 
 The main controller is:
 
-`scripts/update.py`
+```text
+scripts/update.py
+```
 
 It coordinates the complete system.
 
@@ -326,7 +370,9 @@ The system collects AI news from configured RSS feeds.
 
 Main file:
 
-`scripts/fetch_news.py`
+```text
+scripts/fetch_news.py
+```
 
 Pipeline:
 
@@ -346,7 +392,9 @@ The collected news is processed using Google's Gemini API.
 
 Main file:
 
-`scripts/summarize.py`
+```text
+scripts/summarize.py
+```
 
 Pipeline:
 
@@ -366,7 +414,7 @@ The project supports automatic model fallback so that alternative configured Gem
 
 The system generates several different reports for different audiences.
 
-## LATEST.md
+## `LATEST.md`
 
 Contains the latest AI news and generated summaries.
 
@@ -379,7 +427,7 @@ Contains the latest AI news and generated summaries.
 
 ---
 
-## MEETING_BRIEF.md
+## `MEETING_BRIEF.md`
 
 Provides an executive-oriented summary of important AI developments.
 
@@ -392,7 +440,7 @@ Provides an executive-oriented summary of important AI developments.
 
 ---
 
-## ACTION_BOARD.md
+## `ACTION_BOARD.md`
 
 Converts AI developments into action-oriented insights.
 
@@ -405,7 +453,7 @@ Converts AI developments into action-oriented insights.
 
 ---
 
-## TERMINOLOGY.md
+## `TERMINOLOGY.md`
 
 Contains important AI terminology and concepts extracted from the generated reports.
 
@@ -418,7 +466,7 @@ Contains important AI terminology and concepts extracted from the generated repo
 
 ---
 
-## INDEX.md
+## `INDEX.md`
 
 Provides an index of generated reports and historical information.
 
@@ -430,7 +478,7 @@ Provides an index of generated reports and historical information.
 
 ---
 
-## hourly/
+## `hourly/`
 
 Contains archived hourly AI reports.
 
@@ -554,24 +602,87 @@ For GitHub Actions, store the Gemini API key as a GitHub Actions Secret.
 
 ---
 
-# ▶️ Run the Project
+# 🚀 How to Use
 
-Run the complete pipeline:
+There are two main ways to use this project:
+
+1. 📖 Read the generated AI reports
+2. ⚙️ Run the AI news automation system
+
+---
+
+## 📖 1. Read the Generated Reports
+
+You do **not** need to install anything if you only want to read the reports.
+
+Choose the file based on your requirement:
+
+| If you are a... | Read | What you get |
+|---|---|---|
+| 👔 Manager / Executive | `MEETING_BRIEF.md` | Executive-level AI updates and business insights |
+| 📊 Data Scientist / Analyst | `LATEST.md` | Latest AI news, technologies, models, and trends |
+| 👨‍🎓 Student / Learner | `TERMINOLOGY.md` | AI concepts, terminology, and technologies |
+| 💼 Business / Product Professional | `ACTION_BOARD.md` | AI opportunities, implications, and actions |
+| 🔬 Researcher | `INDEX.md` + `hourly/` | Historical AI developments and archived reports |
+| 👨‍💻 Developer | `scripts/` | Source code and implementation |
+| ⚙️ DevOps Engineer | `.github/workflows/update.yml` | Automation and scheduled workflow |
+| 🌐 General Reader | `LATEST.md` | Quick overview of current AI developments |
+
+---
+
+## ▶️ 2. Run the Project Locally
+
+### Step 1 — Clone the Repository
+
+```bash
+git clone https://github.com/vkvinodhkumar/awesome-ai-updates.git
+```
+
+### Step 2 — Enter the Project Directory
+
+```bash
+cd awesome-ai-updates
+```
+
+### Step 3 — Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4 — Configure Gemini API
+
+Create a `.env` file in the project root:
+
+```text
+GEMINI_API_KEY=YOUR_API_KEY
+GEMINI_MODEL=gemini-3-flash-preview
+```
+
+Replace `YOUR_API_KEY` with your actual Gemini API key.
+
+**Never commit the `.env` file or API key to GitHub.**
+
+### Step 5 — Run the Automation
+
+Execute:
 
 ```bash
 python scripts/update.py
 ```
 
-The system will:
+The program will automatically:
 
 ```text
 Fetch AI News
       ↓
-Summarize News
+Process News
+      ↓
+Generate AI Summaries
       ↓
 Generate AI Report
       ↓
-Generate Index
+Generate INDEX
       ↓
 Generate Meeting Brief
       ↓
@@ -584,44 +695,76 @@ Save Reports
 
 ---
 
-# 📄 Generated Outputs
+# ⚙️ GitHub Actions Automation
 
-Every successful execution can update:
+You can also allow GitHub Actions to run the project automatically.
+
+The workflow is located at:
 
 ```text
-LATEST.md
-INDEX.md
-MEETING_BRIEF.md
-ACTION_BOARD.md
-TERMINOLOGY.md
-reports.json
-hourly/
+.github/workflows/update.yml
+```
+
+The workflow performs:
+
+```text
+GitHub Actions
+      ↓
+Setup Python
+      ↓
+Install Dependencies
+      ↓
+Run scripts/update.py
+      ↓
+Generate Reports
+      ↓
+Commit Changes
+      ↓
+Push Changes
 ```
 
 ---
 
-# ⚙️ GitHub Actions
+## 🔑 Configure GitHub Secret
 
-The workflow is located at:
+For GitHub Actions, the Gemini API key should be stored as a repository secret.
 
-`.github/workflows/update.yml`
+Go to:
 
-GitHub Actions automatically:
+```text
+GitHub Repository
+      ↓
+Settings
+      ↓
+Secrets and variables
+      ↓
+Actions
+      ↓
+New repository secret
+```
 
-- Installs dependencies
-- Sets up Python
-- Fetches AI news
-- Runs the AI processing pipeline
-- Generates reports
-- Updates Markdown files
-- Creates Git commits
-- Pushes changes to GitHub
+Create:
+
+```text
+Name:
+GEMINI_API_KEY
+
+Value:
+YOUR_GEMINI_API_KEY
+```
+
+The workflow reads the secret using:
+
+```yaml
+env:
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+```
 
 ---
 
-# ⏰ Automatic Schedule
+# ⏰ Automatic Updates
 
-The workflow is configured to run automatically every hour.
+The GitHub Actions workflow is scheduled to run every hour.
 
 ```yaml
 schedule:
@@ -636,16 +779,270 @@ at minute 00
 UTC
 ```
 
-The workflow can also be executed manually using:
+The workflow can also be started manually.
+
+Go to:
 
 ```text
-GitHub
-   ↓
 Actions
    ↓
 Automated AI Updates
    ↓
 Run workflow
+```
+
+---
+
+# 📄 Where to Find the Results
+
+After the automation completes, generated files are available in the repository:
+
+```text
+LATEST.md
+INDEX.md
+MEETING_BRIEF.md
+ACTION_BOARD.md
+TERMINOLOGY.md
+reports.json
+hourly/
+```
+
+### Latest AI Updates
+
+```text
+LATEST.md
+```
+
+### Executive Summary
+
+```text
+MEETING_BRIEF.md
+```
+
+### Actionable Insights
+
+```text
+ACTION_BOARD.md
+```
+
+### AI Terminology
+
+```text
+TERMINOLOGY.md
+```
+
+### Historical Reports
+
+```text
+hourly/
+```
+
+### Report Index
+
+```text
+INDEX.md
+```
+
+---
+
+# 🔄 Typical Usage
+
+A normal automated execution looks like this:
+
+```text
+        New AI News
+             ↓
+        RSS Feeds
+             ↓
+       fetch_news.py
+             ↓
+        Gemini API
+             ↓
+       AI Summaries
+             ↓
+     generate_report.py
+             ↓
+      ┌──────┼──────┐
+      ↓      ↓      ↓
+   Latest  Meeting  Action
+    News    Brief   Board
+      │       │       │
+      └───────┼───────┘
+              ↓
+        Terminology
+              ↓
+           INDEX
+              ↓
+       Hourly Archive
+              ↓
+        GitHub Commit
+```
+
+---
+
+# 🛠️ Manual Development Usage
+
+If you are modifying the project, you can run individual components for testing.
+
+### Test Gemini
+
+```bash
+python scripts/test_gemini.py
+```
+
+### Run the complete pipeline
+
+```bash
+python scripts/update.py
+```
+
+The recommended approach is:
+
+```bash
+python scripts/update.py
+```
+
+because it runs the complete pipeline.
+
+---
+
+# 🧭 Recommended Usage by User Type
+
+### 👔 Manager
+
+```text
+MEETING_BRIEF.md
+```
+
+Read this when you need a quick understanding of major AI developments and their potential business relevance.
+
+### 📊 Data Scientist
+
+```text
+LATEST.md
+INDEX.md
+```
+
+Use these to follow AI technologies, models, research, and industry trends.
+
+### 👨‍🎓 Student
+
+```text
+TERMINOLOGY.md
+LATEST.md
+```
+
+Use these to learn AI terminology while following current developments.
+
+### 💼 Business / Product
+
+```text
+ACTION_BOARD.md
+MEETING_BRIEF.md
+```
+
+Use these to identify opportunities and potential actions related to AI developments.
+
+### 🔬 Researcher
+
+```text
+INDEX.md
+hourly/
+```
+
+Use these to explore historical reports and track AI developments over time.
+
+### 👨‍💻 Developer
+
+```text
+scripts/
+scripts/update.py
+```
+
+Use these to understand and modify the automation pipeline.
+
+### ⚙️ DevOps Engineer
+
+```text
+.github/workflows/update.yml
+```
+
+Use this to understand and manage GitHub Actions automation.
+
+---
+
+# 🚦 Simplest Way to Use the Project
+
+If you are only interested in **AI news**:
+
+```text
+Open → LATEST.md
+```
+
+If you are a **manager**:
+
+```text
+Open → MEETING_BRIEF.md
+```
+
+If you are a **student**:
+
+```text
+Open → TERMINOLOGY.md
+```
+
+If you want **business actions**:
+
+```text
+Open → ACTION_BOARD.md
+```
+
+If you want **historical information**:
+
+```text
+Open → INDEX.md
+```
+
+If you want to **run the system yourself**:
+
+```bash
+python scripts/update.py
+```
+
+If you want **automatic hourly updates**:
+
+```text
+Configure GEMINI_API_KEY
+        ↓
+Enable GitHub Actions
+        ↓
+Workflow runs automatically
+```
+
+---
+
+# 🗺️ Complete Usage Flow
+
+```text
+Clone Repository
+       ↓
+Install Dependencies
+       ↓
+Configure Gemini API
+       ↓
+Run update.py
+       ↓
+Fetch AI News
+       ↓
+Generate AI Reports
+       ↓
+Read Generated Reports
+       ↓
+Configure GitHub Secret
+       ↓
+Enable GitHub Actions
+       ↓
+Automatic Hourly Updates
 ```
 
 ---
