@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-08-26 21:30:48
+Last Updated: 2026-08-27 02:27:35
 
-- **Quantization:** The process of reducing the precision of the numbers used in an AI model (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
-- **Multi-Vector Embedding:** A way for AI to "map" a piece of information using multiple coordinates, allowing for much more precise and relevant search results.
-- **Full Stack Intelligence:** The concept that AI performance depends on every layer of technology—from the physical chips (hardware) to the training data and the final user application.
-- **Codex:** A specialized AI model trained specifically to understand and write computer programming code.
-- **Inference Endpoints:** Dedicated "addresses" on the internet where an AI model lives, allowing other applications to send it data and get an answer back instantly.
-- **Sentence Transformers:** A framework used to turn sentences or paragraphs into mathematical vectors that an AI can compare and understand.
+*   **Multi-Vector Embedding:** A way of turning text into multiple numerical "addresses" rather than just one, allowing the AI to understand more complex relationships in data.
+*   **Codex:** An AI model specifically designed to understand and generate computer code.
+*   **Quantization:** The process of shrinking an AI model by reducing the precision of its numbers (e.g., from 16-bit to 4-bit) to make it run faster.
+*   **Full Stack AI:** The concept of controlling everything from the physical chips and servers to the final app the user sees.
+*   **Inference Endpoints:** A dedicated "plug-in" point in the cloud where an AI model sits, waiting to receive data and give an answer.
+*   **Granite Models:** IBM’s specific family of AI models designed for business use, emphasizing transparency and data safety.
+*   **Gradio:** A popular tool used by developers to quickly build a user interface (buttons, text boxes) for their AI models.
