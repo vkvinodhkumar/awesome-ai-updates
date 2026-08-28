@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-27 19:29:31
+Last Updated: 2026-08-28 04:01:53
 
-- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
-- **Multi-Vector Embedding:** A way of representing text as multiple mathematical points instead of just one, allowing the AI to understand complex, multi-part meanings.
-- **Sentence Transformers:** A type of AI model specifically designed to turn sentences into mathematical "vectors" for search and comparison.
-- **Full-Precision:** The original, uncompressed version of an AI model that uses the maximum amount of data/memory to store its knowledge.
-- **Inference Endpoints:** A dedicated cloud location where a model "lives" so that other apps can send it questions and get answers.
-- **Alignment:** The process of ensuring an AI's goals and behaviors match human values and safety standards.
+- Unable to generate terminology.
+
+
+Last Error:
+
+404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
