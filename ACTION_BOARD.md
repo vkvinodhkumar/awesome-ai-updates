@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-29 00:51:25
+Last Updated: 2026-08-29 07:38:21
 
-1. **Evaluate IBM Granite:** Consider testing Granite 4.2 for internal enterprise tasks where transparency and data privacy are paramount.
-2. **Review AI Literacy Programs:** If using AI internally, implement the "critical thinking" training model suggested by the OpenAI/University study to ensure quality output.
-3. **Explore Gradio for Prototyping:** Use the new Gradio workflow tools to quickly pilot internal AI applications before committing to full-scale development.
+1.  **Audit AI Toolchains:** Ensure that critical developer tools (like Cursor or similar) have "model-agnostic" backups to avoid disruption if access is revoked.
+2.  **Evaluate Quantization:** Task the engineering team to investigate "Quantization-Aware Healing" for internal model deployments to reduce cloud compute spend.
+3.  **Adopt Multi-Vector RAG:** Upgrade internal knowledge bases to use multi-vector embedding for more accurate information retrieval.
