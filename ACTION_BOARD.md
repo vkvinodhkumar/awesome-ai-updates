@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-28 16:31:51
+Last Updated: 2026-08-29 00:51:25
 
-1.  **Audit Inference Costs:** Investigate if current LLM deployments can be moved to 4-bit "healed" models to save on OpEx.
-2.  **Training Focus:** Implement "Critical Thinking + AI" training for staff rather than just providing access to tools.
-3.  **Infrastructure Update:** Evaluate "Inference Endpoints" for internal search projects to reduce DevOps overhead.
+1. **Evaluate IBM Granite:** Consider testing Granite 4.2 for internal enterprise tasks where transparency and data privacy are paramount.
+2. **Review AI Literacy Programs:** If using AI internally, implement the "critical thinking" training model suggested by the OpenAI/University study to ensure quality output.
+3. **Explore Gradio for Prototyping:** Use the new Gradio workflow tools to quickly pilot internal AI applications before committing to full-scale development.
