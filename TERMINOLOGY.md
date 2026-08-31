@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-31 03:19:54
+Last Updated: 2026-08-31 10:27:45
 
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Cursor:** A popular integrated development environment (IDE) that uses AI to help programmers write code.
+- **Cursor:** A popular code editor that integrates AI directly into the programming environment to help developers write code faster.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into written text.
+- **Multi-Vector Embedding:** A way of representing data where a single item is described by multiple mathematical "points," allowing for much more precise searching and matching.
 - **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
-- **Multi-Vector Embedding:** A way of representing data (like text) that uses multiple mathematical points rather than just one, allowing for much more accurate search and retrieval.
-- **Gradio:** An open-source Python library used to quickly build web interfaces for machine learning models.
-- **Global South:** A term used to describe regions in Latin America, Asia, Africa, and Oceania that are often underrepresented in global tech development.
+- **Gradio:** A popular open-source library used to quickly create user interfaces for machine learning models.
+- **Open-Weight Models:** AI models where the "brain" (the weights) is shared publicly, allowing others to run and modify them freely, unlike "closed" models accessible only via API.
