@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-30 23:07:03
+Last Updated: 2026-08-31 03:19:54
 
-- **Cursor:** An AI-integrated code editor (IDE) used by developers to write software with the help of LLMs.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text (voice-to-text).
-- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
-- **Multi-Vector Embedding:** A method of representing data that allows an AI to understand more complex relationships and nuances during a search.
-- **Global South:** A term generally referring to emerging economies in regions like Latin America, Asia, and Africa.
-- **Edge AI:** Running AI models locally on a device (like a phone or a piece of industrial equipment) rather than in a giant cloud data center.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Cursor:** A popular integrated development environment (IDE) that uses AI to help programmers write code.
+- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
+- **Multi-Vector Embedding:** A way of representing data (like text) that uses multiple mathematical points rather than just one, allowing for much more accurate search and retrieval.
+- **Gradio:** An open-source Python library used to quickly build web interfaces for machine learning models.
+- **Global South:** A term used to describe regions in Latin America, Asia, Africa, and Oceania that are often underrepresented in global tech development.
