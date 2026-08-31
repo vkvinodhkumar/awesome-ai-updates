@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-08-31 10:27:45
+Last Updated: 2026-08-31 17:50:37
 
-1.  **Infrastructure Audit:** Evaluate the potential of 4-bit quantization for internal AI tools to reduce cloud compute costs.
-2.  **Regional Strategy:** Monitor Brazil and SE Asia for emerging startups that could serve as partners or acquisition targets.
-3.  **Training Integration:** For corporate learning and development, pair AI tool rollouts with mandatory "Critical AI Literacy" training to maximize ROI on student/employee output.
+1. **Review Vendor Contracts:** Audit any tools that rely on a single AI provider to assess the risk of a "Cursor-style" service termination.
+2. **Explore Compression:** Task the engineering team to investigate "Quantization-Aware Healing" to reduce cloud GPU costs.
+3. **Education Policy:** Update internal AI usage policies to focus on "Critical Thinking + AI" rather than just "AI for Efficiency."

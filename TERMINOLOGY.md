@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-08-31 10:27:45
+Last Updated: 2026-08-31 17:50:37
 
-- **Cursor:** A popular code editor that integrates AI directly into the programming environment to help developers write code faster.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into written text.
-- **Multi-Vector Embedding:** A way of representing data where a single item is described by multiple mathematical "points," allowing for much more precise searching and matching.
-- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
-- **Gradio:** A popular open-source library used to quickly create user interfaces for machine learning models.
-- **Open-Weight Models:** AI models where the "brain" (the weights) is shared publicly, allowing others to run and modify them freely, unlike "closed" models accessible only via API.
+- **Annualized Revenue Run Rate (ARR):** A financial metric that predicts a company's yearly revenue based on a single month or quarter of performance.
+- **Quantization:** The process of reducing the precision of the numbers in an AI model (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
+- **Multi-Vector Embedding:** A way for AI to "remember" data by creating multiple mathematical snapshots of a document instead of just one, leading to more accurate searches.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Fine-tuning:** Taking a pre-trained AI and giving it extra training on a specific topic to make it an expert in that area.
+- **Gradio:** A popular tool used by developers to quickly build user interfaces for their AI models.
