@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-01 20:29:11
+Last Updated: 2026-09-01 22:58:50
 
-- **Astra:** OpenAI's specific model/framework used to test and demonstrate advanced cybersecurity capabilities.
-- **EHR (Electronic Health Record):** A digital version of a patient’s paper chart; a critical "source of truth" in healthcare.
-- **WebGPU:** A modern technology that allows web browsers to use a computer's graphics card to run complex math (like AI) very quickly.
-- **Quantization:** The process of shrinking an AI model (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
-- **Kernels (in AI):** Small, specialized programs that handle specific mathematical tasks on a GPU.
+- **AI Agent:** An AI system capable of taking autonomous actions (like navigating software or sending emails) to complete a task, rather than just providing text answers.
+- **WebGPU:** A web standard that allows websites to use the user's computer graphics card (GPU) to run heavy calculations, like AI models, directly in the browser.
+- **Multi-Vector Embedding:** A method of representing data as multiple "points" in a mathematical space, allowing AI to understand complex relationships between words or documents better than standard, single-vector methods.
+- **EHR (Electronic Health Record):** A digital version of a patient's medical history; connecting these to AI allows the model to "read" your charts to provide medical context.
 - **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Multi-Vector Embeddings:** A way of representing text in math that captures more detail than standard methods, leading to better search results.
+- **Frontier Safeguards:** Safety tests and protocols designed for the most powerful, cutting-edge AI models (the "frontier") to ensure they don't cause harm.
