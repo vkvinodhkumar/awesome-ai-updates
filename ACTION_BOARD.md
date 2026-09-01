@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-01 17:33:43
+Last Updated: 2026-09-01 20:29:11
 
-1. **Pilot Local Browser Execution:** Task the engineering team with assessing `@huggingface/kernels` to transition basic client-side text processing or vector tasks away from expensive cloud APIs to local WebGPU execution.
-2. **Explore Workflow Restructuring:** Transition internal AI efforts away from simple conversational chatbots toward agentic workflows that can autonomously execute multi-step operational tasks (such as onboarding and client management).
-3. **Assess 4-Bit Compression Models:** For mobile or edge deployments, run a trial of quantization-aware healing techniques on existing proprietary models to reduce latency and memory footprint without sacrificing model quality.
+1. **Audit Workflows:** Identify manual "copy-paste" or "data-entry" workflows that can be converted into agentic "operating capabilities."
+2. **Explore Local Deployment:** Have the technical team evaluate `@huggingface/kernels` to see if certain AI features can be moved from the cloud to the user’s browser to save costs.
+3. **Compliance Check:** For healthcare or youth-facing products, review the new California SB 1119 and OpenAI’s EHR integration standards for alignment.

@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-01 17:33:43
+Last Updated: 2026-09-01 20:29:11
 
-* **WebGPU:** A modern technology that allows web browsers to access a device's graphics processing unit (GPU) directly. This enables high-performance computations, like running AI models, right inside a webpage without needing to install extra software.
-* **Kernel (in GPU Computing):** A specialized, compact program designed to run highly parallel mathematical calculations directly on a graphics card.
-* **Electronic Health Record (EHR):** A secure, digital version of a patient's medical history, used by healthcare providers to track treatments, diagnoses, and lab results over time.
-* **Automatic Speech Recognition (ASR):** The technology that translates spoken spoken audio into written text (commonly known as speech-to-text).
-* **Quantization:** An optimization process that compresses an AI model by converting its complex mathematical values into simpler, smaller formats (e.g., converting 16-bit numbers to 4-bit numbers) to make the model run faster and use less memory.
-* **Quantization-Aware Healing:** A cutting-edge technique that corrects errors introduced during model compression (quantization), restoring or even improving the model's accuracy after it has been shrunk.
-* **Multi-Vector Embedding:** An advanced method of converting text into numbers (vectors) where a single document is represented by multiple mathematical vectors instead of just one. This captures different topics within the same document far more accurately.
+- **Astra:** OpenAI's specific model/framework used to test and demonstrate advanced cybersecurity capabilities.
+- **EHR (Electronic Health Record):** A digital version of a patient’s paper chart; a critical "source of truth" in healthcare.
+- **WebGPU:** A modern technology that allows web browsers to use a computer's graphics card to run complex math (like AI) very quickly.
+- **Quantization:** The process of shrinking an AI model (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
+- **Kernels (in AI):** Small, specialized programs that handle specific mathematical tasks on a GPU.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Multi-Vector Embeddings:** A way of representing text in math that captures more detail than standard methods, leading to better search results.
