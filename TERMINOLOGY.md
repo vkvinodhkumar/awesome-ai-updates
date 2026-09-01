@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-01 01:36:16
+Last Updated: 2026-09-01 07:11:15
 
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
-- **Multi-Vector Embedding:** A way of representing data that captures multiple "meanings" or features at once, making search results much more accurate.
-- **Codex:** A specific type of AI model trained to understand and generate computer code.
-- **Global South:** A term used to describe developing or emerging economies, primarily in Africa, Latin America, and Asia.
-- **RAG (Retrieval-Augmented Generation):** A method where an AI looks up specific facts from an external source before generating an answer.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text (e.g., transcription).
+- **Quantization:** The process of reducing the precision of a model's numbers (making it "smaller") so it runs faster and uses less memory.
+- **4-bit Model:** An extremely compressed version of an AI model that uses very little computer memory.
+- **Multi-Vector Embedding:** A way for AI to represent a piece of information using multiple "maps" instead of just one, making search and retrieval much more accurate.
+- **Open-Weight:** Models where the "brain" (the weights) is available for anyone to download and run on their own hardware, as opposed to "Closed" models accessed only via API.
+- **Gradio:** A popular tool used by developers to create simple web interfaces for their AI models.
+- **Global South:** A term used to describe developing or emerging economies in regions like Africa, Latin America, and parts of Asia.
