@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-01 07:11:15
+Last Updated: 2026-09-01 13:01:57
 
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text (e.g., transcription).
-- **Quantization:** The process of reducing the precision of a model's numbers (making it "smaller") so it runs faster and uses less memory.
-- **4-bit Model:** An extremely compressed version of an AI model that uses very little computer memory.
-- **Multi-Vector Embedding:** A way for AI to represent a piece of information using multiple "maps" instead of just one, making search and retrieval much more accurate.
-- **Open-Weight:** Models where the "brain" (the weights) is available for anyone to download and run on their own hardware, as opposed to "Closed" models accessed only via API.
-- **Gradio:** A popular tool used by developers to create simple web interfaces for their AI models.
-- **Global South:** A term used to describe developing or emerging economies in regions like Africa, Latin America, and parts of Asia.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make the model smaller and faster.
+- **4-bit Precision:** A very high level of model compression that allows it to run on minimal memory.
+- **Multi-Vector Embedding:** A method of representing data as multiple "maps" instead of one, allowing the AI to find more precise information.
+- **Open-Weight Models:** Models where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
+- **Gradio:** A popular tool used by developers to quickly create visual interfaces for their AI models.
+- **Codex:** A specific AI model designed by OpenAI that is specialized in understanding and writing computer code.
