@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-02 05:24:50
+Last Updated: 2026-09-02 10:32:18
 
-1. **Audit Workflow Maturity:** Identify manual processes (like account management) that can be converted into "agentic" capabilities.
-2. **Review Data Governance:** For firms in healthcare or law, examine the new connectivity options for EHR and private data silos.
-3. **Diversify Benchmarking:** Don’t rely solely on public leaderboards; develop internal, task-specific benchmarks for model selection.
+1.  **Audit Evaluation Metrics:** Don't rely solely on public benchmarks; implement internal, task-specific testing for LLMs.
+2.  **Explore Local Deployment:** Evaluate if @huggingface/kernels can move specific internal tools to local execution for better privacy/cost.
+3.  **Review Governance Models:** Use the Gilbert + Tobin case study to refine internal AI accountability policies.
