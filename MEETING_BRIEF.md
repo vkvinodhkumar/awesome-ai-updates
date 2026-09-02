@@ -1,35 +1,40 @@
 # Executive Meeting Brief
 
 ### Key Developments
-*   **Security Milestones:** OpenAI's Astra model reaching the "Critical" cybersecurity threshold sets a new bar for frontier model safety.
-*   **Vertical Expansion:** The direct integration of EHR data into ChatGPT marks a major milestone for AI in regulated industries (Healthcare).
-*   **Decentralized Compute:** The release of WebGPU kernels makes it easier to run AI locally, shifting the burden from cloud servers to the end-user's device.
+- **Vertical Integration:** AI is moving into "high-stakes" verticals like Healthcare (EHR integration) and Law (Gilbert + Tobin case study).
+- **Security Milestones:** OpenAI’s Astra meeting cybersecurity thresholds marks a new era of "safe" frontier models.
+- **Local Compute:** The rise of WebGPU kernels enables AI to run on-device, bypassing cloud latency and costs.
 
 ### Risks
-*   **Benchmark Integrity:** Growing evidence suggests that standard AI benchmarks may be misleading, requiring more rigorous internal testing by firms before deployment.
-*   **Regulatory Compliance:** New bills like California’s SB 1119 indicate that age-gating and safety features for younger demographics will soon be a legal requirement, not just a "nice to have."
+- **Benchmark Inflation:** Current evaluation metrics (BenchMIRT) may overstate model capabilities; real-world testing is required.
+- **Regulatory Pressure:** New bills like California’s SB 1119 indicate that safety and age-gating will soon be mandatory features, not options.
 
 ### Opportunities
-*   **Operational Efficiency:** Transitioning from "AI as a tool" to "AI as an agentic workflow" (as seen in Basis and Clay) offers significant ROI in administrative and customer-facing roles.
-*   **Inclusivity Markets:** The expansion into Global South languages opens new market opportunities for ASR and localized AI services.
+- **Agentic Efficiency:** Transitioning from "AI assistants" to "AI agents" that manage end-to-end workflows (e.g., onboarding/sales).
+- **Privacy-First Apps:** Using WebGPU to build browser-based AI tools that process sensitive data locally.
 
 ### Recommended Actions
-1.  **Audit AI Procurement:** Review how models are evaluated internally; do not rely solely on public benchmarks.
-2.  **Explore Local Compute:** Evaluate if browser-based (WebGPU) AI can reduce cloud costs for internal tools.
-3.  **Prepare for Healthcare AI:** If operating in the medical space, begin investigating EHR-to-LLM integration workflows under current HIPAA guidelines.
+1. **Audit Workflow Maturity:** Identify manual processes (like account management) that can be converted into "agentic" capabilities.
+2. **Review Data Governance:** For firms in healthcare or law, examine the new connectivity options for EHR and private data silos.
+3. **Diversify Benchmarking:** Don’t rely solely on public leaderboards; develop internal, task-specific benchmarks for model selection.
+
+---
 
 ## Technology Trends
 
-*   **Agentic Workflows:** Moving away from simple prompts toward "agents" that can execute multi-step business processes autonomously.
-*   **Local-First AI:** A growing movement to run models in-browser or on-device to save costs and protect user privacy.
-*   **Rigorous Safety Frameworks:** The emergence of tiered safety thresholds (like OpenAI’s Preparedness Framework) for high-capability models.
-*   **Multi-Vector Search:** Shift toward more complex data embedding techniques to solve the "hallucination" problem in enterprise search.
+1. **Agentic Workflows:** Moving away from simple prompting toward autonomous agents that perform multi-step tasks.
+2. **On-Device AI (Edge AI):** Utilizing WebGPU and local kernels to run models in-browser, reducing cloud dependency.
+3. **Transparent Training:** A push for "open weights" and documented training data (IBM Granite) to meet enterprise compliance needs.
+4. **Inclusive ASR:** Broadening speech recognition to include Global South languages for better global accessibility.
+
+---
 
 ## Terminology
 
-*   **EHR (Electronic Health Record):** A digital version of a patient’s paper chart, containing their medical history and treatment records.
-*   **WebGPU:** A technology that allows a web browser to use the computer’s graphics card (GPU) to perform complex calculations (like running an AI) very quickly.
-*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-*   **Multi-Vector Embedding:** A way of turning text into a complex mathematical map that allows computers to understand the nuance and context of words more accurately than standard methods.
-*   **Agentic Operating Capability:** The ability of an AI system to not just "talk" but to "do" tasks by interacting with other software and making decisions.
-*   **Data Contamination:** When the data used to *test* an AI model was accidentally included in the data used to *train* it, leading to "cheating" or inaccurate performance results.
+- **Agentic Workflow:** A system where an AI doesn't just answer questions but performs a sequence of actions (like sending emails or updating records) to complete a goal.
+- **WebGPU:** A technology that allows a web browser to use a computer’s graphics card to perform complex math, making AI run fast directly in a browser tab.
+- **EHR (Electronic Health Record):** A digital version of a patient’s paper chart. AI can now "read" these to help doctors find information faster.
+- **Kernels:** Small, specialized programs designed to run specific mathematical tasks very efficiently on a computer's processor.
+- **ASR (Automatic Speech Recognition):** The technology used to turn spoken language into written text (Voice-to-Text).
+- **Multi-Vector Embeddings:** A more advanced way of "tagging" information so that an AI can find exactly the right document or fact when a user asks a question.
+- **Benchmarks:** Standardized tests used to compare the performance of different AI models.
