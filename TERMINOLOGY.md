@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-02 21:33:53
+Last Updated: 2026-09-02 23:49:15
 
-*   **AI Agents:** AI systems capable of performing a series of tasks autonomously to achieve a goal.
-*   **Astra:** A specific OpenAI model development path focused on meeting high-security and capability standards.
-*   **EHR (Electronic Health Records):** Digital versions of patient paper charts, now being linked to AI for better medical context.
-*   **WebGPU Kernels:** Small pieces of code that allow a web browser to use a computer's graphics card to run AI very fast.
-*   **Multi-Vector Embedding:** A way of representing information where one piece of text is turned into multiple mathematical points, making it much easier for AI to find the right information later.
-*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-*   **Time Series Models:** AI specifically designed to look at data that changes over time, like stock prices or sensor readings.
+- **EHR (Electronic Health Record):** A digital version of a patient’s paper chart, containing medical history and treatment records.
+- **Astra:** A specific frontier model from OpenAI designed with high-level capabilities and evaluated under strict safety frameworks.
+- **WebGPU Kernels:** Small programs that run on a computer's graphics card via a web browser, allowing AI to run fast locally without a server.
+- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+- **Multi-Vector Embeddings:** A method of converting text into numbers that captures multiple layers of meaning, leading to much more accurate search results.
+- **Global South:** A term used to describe developing or emerging economies, particularly in Africa, Latin America, and parts of Asia.
+- **Preparedness Framework:** A set of safety rules and testing thresholds used to decide if an AI model is safe enough to be released to the public.
