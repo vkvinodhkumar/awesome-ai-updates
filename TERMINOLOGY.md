@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-01 22:58:50
+Last Updated: 2026-09-02 00:54:01
 
-- **AI Agent:** An AI system capable of taking autonomous actions (like navigating software or sending emails) to complete a task, rather than just providing text answers.
-- **WebGPU:** A web standard that allows websites to use the user's computer graphics card (GPU) to run heavy calculations, like AI models, directly in the browser.
-- **Multi-Vector Embedding:** A method of representing data as multiple "points" in a mathematical space, allowing AI to understand complex relationships between words or documents better than standard, single-vector methods.
-- **EHR (Electronic Health Record):** A digital version of a patient's medical history; connecting these to AI allows the model to "read" your charts to provide medical context.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Frontier Safeguards:** Safety tests and protocols designed for the most powerful, cutting-edge AI models (the "frontier") to ensure they don't cause harm.
+*   **EHR (Electronic Health Record):** A digital version of a patient’s paper chart, containing their medical history and treatment records.
+*   **WebGPU:** A technology that allows a web browser to use the computer’s graphics card (GPU) to perform complex calculations (like running an AI) very quickly.
+*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
+*   **Multi-Vector Embedding:** A way of turning text into a complex mathematical map that allows computers to understand the nuance and context of words more accurately than standard methods.
+*   **Agentic Operating Capability:** The ability of an AI system to not just "talk" but to "do" tasks by interacting with other software and making decisions.
+*   **Data Contamination:** When the data used to *test* an AI model was accidentally included in the data used to *train* it, leading to "cheating" or inaccurate performance results.
