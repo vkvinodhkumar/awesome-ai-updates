@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-02 14:56:55
+Last Updated: 2026-09-02 18:25:47
 
-1. **Pilot Local Inference**: Direct engineering teams to investigate `@huggingface/kernels` to evaluate if existing customer-facing AI features can be run on the client side to cut server bills.
-2. **Review RAG Pipeline Architectures**: Task data science teams with piloting multi-vector embedding models to improve the precision of enterprise search platforms.
-3. **Establish an AI Governance Board**: Emulate the Gilbert + Tobin case study by forming a cross-functional governance group to audit AI safety, control data flow, and mandate human-in-the-loop oversight.
+1.  **Audit RAG Pipelines:** Explore multi-vector embedding models to improve the accuracy of internal AI assistants.
+2.  **Review Governance:** Model AI adoption after the Gilbert + Tobin framework—ensure human-in-the-loop accountability is formalized.
+3.  **Explore Local Compute:** For privacy-sensitive applications, evaluate if WebGPU-based local execution is a viable alternative to cloud-based APIs.
