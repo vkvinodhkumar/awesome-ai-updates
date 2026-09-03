@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-02 23:49:15
+Last Updated: 2026-09-03 02:45:35
 
-- **EHR (Electronic Health Record):** A digital version of a patient’s paper chart, containing medical history and treatment records.
-- **Astra:** A specific frontier model from OpenAI designed with high-level capabilities and evaluated under strict safety frameworks.
-- **WebGPU Kernels:** Small programs that run on a computer's graphics card via a web browser, allowing AI to run fast locally without a server.
+- **Astra:** A specific high-security AI model from OpenAI designed to prevent cyber-misuse.
+- **Preparedness Framework:** A set of safety protocols OpenAI uses to decide if a model is safe to release.
+- **EHR (Electronic Health Record):** Digital versions of a patient’s paper chart; ChatGPT can now securely "read" these.
+- **WebGPU Kernels:** Small pieces of code that allow your computer's graphics card (GPU) to run AI directly inside a web browser.
 - **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Multi-Vector Embeddings:** A method of converting text into numbers that captures multiple layers of meaning, leading to much more accurate search results.
-- **Global South:** A term used to describe developing or emerging economies, particularly in Africa, Latin America, and parts of Asia.
-- **Preparedness Framework:** A set of safety rules and testing thresholds used to decide if an AI model is safe enough to be released to the public.
+- **Multi-Vector Embeddings:** A way of turning data into numbers that allows AI to understand complex, multi-layered meanings instead of just simple definitions.
+- **Global South:** A term for developing or emerging economies in Africa, Latin America, and parts of Asia.
+- **Time Series Models:** AI designed specifically to analyze data that changes over time (like stock prices or weather).

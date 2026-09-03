@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-02 23:49:15
+Last Updated: 2026-09-03 02:45:35
 
-1. **Audit Workflows:** Identify manual, multi-day tasks that can be automated via ChatGPT Work or similar agentic tools.
-2. **Review Data Privacy:** Evaluate the feasibility of using WebGPU for local processing of sensitive data to bypass cloud privacy risks.
-3. **Update Safety Protocols:** If developing in-house, adopt a "Preparedness Framework" similar to OpenAI’s to assess cybersecurity risks before deployment.
+1. **Audit Workflow Efficiency:** Identify departments (like Marketing or Merchandising) where "3 days to 3 hours" gains are possible using ChatGPT Work.
+2. **Review AI Safety Standards:** If using AI for software development, ensure the models meet the "Critical" cybersecurity thresholds established by frameworks like Astra's.
+3. **Explore RAG Enhancements:** Task technical teams to investigate multi-vector embeddings to improve internal knowledge retrieval systems.
