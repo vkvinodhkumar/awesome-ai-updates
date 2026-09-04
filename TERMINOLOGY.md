@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-04 05:25:53
+Last Updated: 2026-09-04 10:30:30
 
-*   **GPT-6 Astra:** The latest, most advanced AI model from OpenAI, noted for high reasoning capabilities.
-*   **Frontier Cyber AI:** Advanced AI tools specifically designed for high-level cybersecurity tasks like threat detection and mitigation.
-*   **Preparedness Framework:** A set of safety guidelines used to measure the risks (cyber, biological, etc.) posed by advanced AI models.
-*   **Multimodal-native:** An AI system built from the ground up to understand multiple types of data (text, images, audio) simultaneously.
-*   **GRPO (Group Relative Policy Optimization):** An efficient way to "teach" an AI model by comparing several of its answers at once and rewarding the best one.
-*   **Time Series Models:** AI models specifically designed to look at data over time to predict future trends (e.g., stock prices or weather).
-*   **TRL (Transformer Reinforcement Learning):** A method of training AI by giving it feedback on its actions to improve its performance over time.
+- **Frontier AI:** The most advanced, high-scale AI models that push the boundaries of current capabilities.
+- **GRPO (Group Relative Policy Optimization):** A newer, more efficient way to train AI by comparing a group of outputs and rewarding the best ones, rather than needing a separate "critic" model.
+- **Multimodal-native:** An AI designed from the ground up to understand text, images, and audio simultaneously, rather than using separate parts for each.
+- **Time Series Models:** AI specialized in looking at data points collected over time (like stock prices or sensor readings) to predict what happens next.
+- **Grey Box:** A simple, untextured 3D model used in game design to test layout before adding detail.
