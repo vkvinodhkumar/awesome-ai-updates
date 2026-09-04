@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-04 18:02:37
+Last Updated: 2026-09-04 21:12:23
 
-- **GPT-6 Astra:** The latest, most advanced AI model from OpenAI, characterized by high reasoning and multimodal capabilities.
-- **Frontier AI:** The most advanced, high-scale AI models that exist at the "edge" of what is currently possible.
-- **Preparedness Framework:** A set of safety rules and thresholds used to track the risks (cyber, biological, etc.) of new AI models.
-- **GRPO (Group Relative Policy Optimization):** A mathematical method used during AI training to help the model learn from its own mistakes more efficiently, especially for following specific rules.
-- **Multimodal-native:** An AI system built from day one to process multiple types of data (like images and text) simultaneously.
-- **Time Series Model:** An AI specifically designed to look at data points collected over time (like stock prices or weather) to predict future trends.
-- **Grey Box:** In game development, a simple 3D environment made of basic shapes used to test gameplay before adding art and detail.
+*   **GPT-6 Astra:** The latest flagship model from OpenAI, characterized by high reasoning capabilities and advanced safety protocols.
+*   **GRPO (Group Relative Policy Optimization):** A more efficient way to train AI models using reinforcement learning that compares a group of outputs to find the best path.
+*   **Time Series Models:** AI models specifically designed to look at data points collected over time (like stock prices or sensor readings) to predict future trends.
+*   **Multimodal-native:** An AI system built from the ground up to understand both text and images simultaneously, rather than "bolting" an image-reader onto a text-writer.
+*   **Critical Level (Preparedness Framework):** A designation used by OpenAI to signal that a model has reached a high level of potential risk in areas like cybersecurity or chemical/biological threats.
