@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-05 21:53:04
+Last Updated: 2026-09-05 23:31:34
 
-- **GPT-6 Astra:** The latest frontier AI model from OpenAI, characterized by high reasoning and the ability to interact with software interfaces.
-- **Computer Use:** A capability where an AI model can view a screen, move a cursor, and interact with software as a human would.
-- **GRPO (Group Relative Policy Optimization):** A newer, more efficient reinforcement learning method that helps models learn better reasoning without needing a separate "critic" model.
-- **Multimodal-native:** An AI architecture designed from the ground up to understand text, images, and audio simultaneously, rather than "patching" them together.
-- **Time Series Model:** An AI model specifically designed to predict future values based on past sequences of data (e.g., stock prices or sensor readings).
-- **TRL (Transformer Reinforcement Learning):** A library used to train language models using reinforcement learning, making them more aligned with specific goals.
+*   **GPT-6 Astra:** OpenAI’s latest flagship AI model, noted for its high reasoning and ability to interact directly with computer software.
+*   **Computer Use:** A capability where an AI can view a computer screen, move a cursor, click buttons, and type text to complete tasks across different applications.
+*   **GRPO (Group Relative Policy Optimization):** A training method that helps AI models learn better decision-making by comparing a group of possible answers and choosing the best one, rather than just being told "right" or "wrong."
+*   **Frontier Cyber AI:** Advanced AI tools specifically designed to detect, block, and respond to sophisticated digital attacks.
+*   **Multimodal-native:** An AI built from the ground up to understand text, images, and audio simultaneously, rather than "patching" them together.
+*   **Time Series Models:** AI models specifically designed to look at data over time (like heart rates, stock prices, or weather) to predict what will happen next.
