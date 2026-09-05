@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-05 02:44:53
+Last Updated: 2026-09-05 07:21:47
 
-*   **GPT-6 Astra:** OpenAI’s latest flagship model, optimized for high-reasoning tasks and multimodal inputs.
-*   **GRPO (Group Relative Policy Optimization):** A new, efficient way to train AI models by comparing a group of outputs against each other to find the best logic path.
-*   **Multimodal-native:** An AI designed to process text, images, and audio all at once in its core architecture, rather than using separate plug-ins.
-*   **Time Series Models:** AI specifically designed to analyze data points collected over time (like stock prices or weather) to predict future movements.
-*   **TRL (Transformer Reinforcement Learning):** A method of training AI by giving it "rewards" when it completes a task correctly, similar to training a pet.
-*   **Critical Level (Cybersecurity):** A designation in a safety framework indicating a model is powerful enough to significantly aid in creating or defending against high-level cyberattacks.
+*   **GPT-6 Astra:** The latest flagship AI model from OpenAI, focused on high-level reasoning and autonomous computer interaction.
+*   **Computer Use:** A capability where an AI can see a screen, move a cursor, and click buttons to perform tasks just like a human user.
+*   **Frontier Cyber AI:** Highly advanced AI models capable of identifying or fixing complex software security vulnerabilities.
+*   **GRPO (Group Relative Policy Optimization):** An efficient way to train AI models by comparing several different answers at once to find the best one.
+*   **Multimodal-native:** An AI built from the ground up to understand different types of data (like photos and text) at the same time, rather than bolting them together later.
+*   **Time Series Models:** AI specifically designed to look at data that changes over time, like stock prices or heart rates, to predict what happens next.
