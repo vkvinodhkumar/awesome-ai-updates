@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-05 17:06:13
+Last Updated: 2026-09-05 19:52:39
 
-1.  **Audit Workflows:** Identify high-volume document review or QA tasks that can be migrated to GPT-6 Astra to capture the 40-50% efficiency gains reported.
-2.  **Evaluate SLMs:** Investigate the use of Small Language Models (SLMs) using GRPO for structured data tasks to optimize spend.
-3.  **Review Security:** Assess internal cybersecurity defenses in light of "Critical" level AI capabilities being publicly available.
-4.  **Data Sovereignty:** Investigate tools like Funes to ensure that when deploying AI agents, the "memory" and context of your codebase remain under corporate control.
+1.  **Audit internal workflows** to identify areas where "Computer Use" capabilities (Astra) can automate repetitive software-based tasks.
+2.  **Evaluate cybersecurity protocols** in light of the Daybreak initiative; determine if your organization qualifies for OpenAI’s support or needs to bolster defenses against new AI-driven threats.
+3.  **Explore SLM (Small Language Model) implementation** for data extraction and formatting to reduce reliance on expensive flagship APIs.
