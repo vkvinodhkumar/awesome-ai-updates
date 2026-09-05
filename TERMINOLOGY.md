@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-05 11:35:22
+Last Updated: 2026-09-05 14:29:55
 
-*   **GPT-6 Astra:** The newest, most powerful AI model from OpenAI.
-*   **Computer Use:** A feature where an AI can see a screen, move a cursor, and click buttons like a human.
-*   **GRPO (Group Relative Policy Optimization):** A way to train AI by comparing a group of its answers and rewarding the best ones, making it more efficient.
-*   **Multimodal-native:** An AI built from the ground up to understand text, images, and sound simultaneously, rather than "tacking on" those features later.
-*   **Time Series Models:** AI specifically designed to look at data over time (like stock prices or weather) to predict what happens next.
-*   **Structured Outputs:** When an AI provides information in a very specific format (like a spreadsheet or code) that other computers can easily read.
+*   **GPT-6 Astra:** OpenAI’s latest flagship AI model, designed for high-level reasoning and autonomous software interaction.
+*   **Computer Use:** A capability where an AI model can view a screen, move a cursor, click buttons, and type text to operate software like a human.
+*   **Preparedness Framework:** OpenAI's internal set of rules and thresholds used to measure the safety risks (cyber, biological, etc.) of new models.
+*   **GRPO (Group Robust Policy Optimization):** A newer, more efficient way to fine-tune AI models using reinforcement learning that focuses on group performance rather than individual data points.
+*   **Time Series Models:** AI models specifically designed to look at data points indexed in time order (like stock prices or sensor readings) to predict future trends.
+*   **Multimodal-native:** An AI system built from the ground up to understand different types of information (text, images, audio) at the same time, rather than translating them into text first.
+*   **Structured Outputs:** When an AI provides information in a very specific format (like a table or code) that a computer can read directly, rather than just plain conversational text.
