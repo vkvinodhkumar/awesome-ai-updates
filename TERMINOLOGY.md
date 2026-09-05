@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-05 19:52:39
+Last Updated: 2026-09-05 21:53:04
 
-*   **GPT-6 Astra:** The latest flagship AI model from OpenAI, specializing in high-level reasoning and autonomous software interaction.
-*   **Computer Use:** A specific capability where an AI model can view a screen, move a cursor, and interact with software interfaces much like a human.
-*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique used to train models by comparing multiple outputs against each other to find the best version.
-*   **Frontier Model:** A term for the most advanced, high-scale AI models currently in existence (e.g., GPT-6, Claude 3, Gemini 1.5).
-*   **Structured Outputs:** AI responses that follow a strict format (like a table or code) so they can be read directly by other computer programs.
-*   **Grey Box:** In gaming/software, a simple preliminary version of a project without final graphics or textures, used to test functionality.
-*   **Multimodal-native:** An AI built from the ground up to understand both text and images simultaneously, rather than "patching" two different systems together.
+- **GPT-6 Astra:** The latest frontier AI model from OpenAI, characterized by high reasoning and the ability to interact with software interfaces.
+- **Computer Use:** A capability where an AI model can view a screen, move a cursor, and interact with software as a human would.
+- **GRPO (Group Relative Policy Optimization):** A newer, more efficient reinforcement learning method that helps models learn better reasoning without needing a separate "critic" model.
+- **Multimodal-native:** An AI architecture designed from the ground up to understand text, images, and audio simultaneously, rather than "patching" them together.
+- **Time Series Model:** An AI model specifically designed to predict future values based on past sequences of data (e.g., stock prices or sensor readings).
+- **TRL (Transformer Reinforcement Learning):** A library used to train language models using reinforcement learning, making them more aligned with specific goals.
