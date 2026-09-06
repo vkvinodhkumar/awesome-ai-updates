@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-05 23:31:34
+Last Updated: 2026-09-06 02:42:43
 
-*   **GPT-6 Astra:** OpenAI’s latest flagship AI model, noted for its high reasoning and ability to interact directly with computer software.
-*   **Computer Use:** A capability where an AI can view a computer screen, move a cursor, click buttons, and type text to complete tasks across different applications.
-*   **GRPO (Group Relative Policy Optimization):** A training method that helps AI models learn better decision-making by comparing a group of possible answers and choosing the best one, rather than just being told "right" or "wrong."
-*   **Frontier Cyber AI:** Advanced AI tools specifically designed to detect, block, and respond to sophisticated digital attacks.
-*   **Multimodal-native:** An AI built from the ground up to understand text, images, and audio simultaneously, rather than "patching" them together.
-*   **Time Series Models:** AI models specifically designed to look at data over time (like heart rates, stock prices, or weather) to predict what will happen next.
+*   **GPT-6 Astra:** The latest large language model from OpenAI, noted for high reasoning and "agentic" (task-performing) capabilities.
+*   **Daybreak:** A $1B initiative by OpenAI focused on cybersecurity for essential public services.
+*   **Frontier Model:** The most advanced, high-scale AI models currently in existence.
+*   **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of outputs to improve performance without needing a massive "gold standard" dataset.
+*   **Multimodal-native:** An AI designed from the ground up to understand text, images, and audio simultaneously, rather than bolting them together later.
+*   **Time Series Models:** AI specifically designed to analyze data points collected or recorded at specific time intervals (e.g., stock prices or heart rates).
+*   **Grey Box:** In gaming, a simple 3D wireframe or basic shape layout used to test gameplay before adding final graphics.
