@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-06 19:56:43
+Last Updated: 2026-09-06 21:57:58
 
-*   **GPT-6 Astra:** The latest iteration of OpenAI’s large language model, optimized for complex reasoning and "agentic" tasks.
-*   **Alien Mind:** A term used to describe AI reasoning that reaches the correct conclusion through paths that do not mirror human thought processes.
-*   **Coding Agents:** Autonomous AI programs designed to write, test, and execute software code to achieve a specific goal.
-*   **GRPO (Group Relative Policy Optimization):** An efficient reinforcement learning algorithm used to fine-tune models by comparing groups of outputs.
-*   **Multimodal-Native:** An AI model designed from the start to process different types of data (text, images, audio) simultaneously.
-*   **Time Series Models:** AI models specifically designed to analyze and predict data points collected or recorded at specific time intervals.
-*   **Grey Box:** In game design, a basic, untextured 3D model used to test layout and gameplay before adding artistic detail.
+- **GPT-6 Astra:** The latest high-performance model generation from OpenAI, noted for its reasoning and multimodal capabilities.
+- **AI Alignment:** The process of ensuring an AI's goals and behaviors are consistent with human values and safety standards.
+- **Coding Agents:** AI programs designed to autonomously write, test, and debug code to achieve a high-level goal.
+- **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique that helps models improve by comparing their outputs against a group of alternatives, particularly useful for structured data.
+- **Multimodal-native:** An AI architecture designed to process text, images, and other data types simultaneously rather than using separate models for each.
+- **Time Series Models:** AI models specifically designed to analyze data points collected or recorded at specific time intervals (e.g., stock prices, weather, sensor data).
+- **Sovereign Memory:** A system where the user, not the AI provider, owns and controls the historical data and "memory" the AI uses to learn.
