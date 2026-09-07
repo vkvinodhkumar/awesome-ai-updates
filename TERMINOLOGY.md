@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-07 21:53:47
+Last Updated: 2026-09-07 23:56:38
 
-*   **GPT-6 Astra:** The latest iteration of OpenAI's model series, optimized for high-speed, high-accuracy reasoning and multimodal tasks.
-*   **Alignment:** The process of ensuring an AI's goals and behaviors remain consistent with human values and safety standards.
-*   **Coding Agents:** AI systems specifically designed to write, test, and run software code to solve problems or conduct research.
-*   **GRPO (Group Relative Policy Optimization):** An efficient reinforcement learning method that helps models learn better behavior by comparing a group of possible answers against each other.
-*   **Multimodal-native:** An AI designed from the ground up to understand text, images, and audio simultaneously, rather than "patching" them together.
-*   **Time Series Models:** AI models specialized in analyzing data points collected over time (like heart rates, stock prices, or weather) to predict future trends.
-*   **Persistent Memory:** The ability for an AI to remember information across different sessions or conversations, much like a human colleague would.
+*   **GPT-6 Astra:** The latest high-reasoning model from OpenAI, optimized for complex document analysis and professional tasks.
+*   **Coding Agents:** Autonomous AI programs designed to write, test, and debug code with minimal human intervention.
+*   **GRPO (Group Relative Policy Optimization):** A more efficient reinforcement learning method used to train models to follow specific structures or rules.
+*   **Multimodal-native:** An AI designed from the ground up to understand different types of input (like text and video) at the same time, rather than using separate models for each.
+*   **Time Series Models:** AI models specifically designed to predict future values based on past data points collected over time (e.g., stock prices or weather).
+*   **Frontier AI:** The most advanced, high-scale AI models currently in existence.
