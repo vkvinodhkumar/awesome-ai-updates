@@ -1,12 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-07 02:40:23
+Last Updated: 2026-09-07 07:52:19
 
-*   **GPT-6 Astra:** OpenAI’s latest class of high-performance models, optimized for speed and complex professional tasks.
-*   **Alignment:** The process of ensuring an AI's goals and behaviors match human values and intentions.
-*   **Coding Agents:** AI systems designed specifically to write, test, and debug software code autonomously.
-*   **GRPO (Group Relative Policy Optimization):** A training method that helps models learn better by comparing a group of possible answers and picking the best one, often used to improve reasoning.
-*   **Multimodal:** An AI's ability to understand and process different types of information, such as text, images, and audio, simultaneously.
-*   **Time Series Models:** AI models designed to analyze data points collected or recorded at specific time intervals (e.g., stock prices or weather patterns).
-*   **TRL (Transformer Reinforcement Learning):** A library used to train models using feedback (rewards) to improve their performance on specific tasks.
-*   **Funes (Memory Layer):** A specialized system that lets an AI agent "remember" past interactions and data without that data being permanently absorbed into the main model.
+- **GPT-6 Astra:** A high-performance iteration of OpenAI’s frontier models, seemingly optimized for high-precision, high-speed enterprise tasks.
+- **GRPO (Group Relative Policy Optimization):** A more efficient way to train AI models by comparing a group of outputs against each other, rather than using a single, expensive "critic" model.
+- **Multimodal-native:** An AI model built from the ground up to understand text, images, and audio simultaneously, rather than "patching" different models together.
+- **Context Window:** The "memory" of an AI during a single conversation; new tools are seeking to make this permanent (long-term memory).
+- **Time Series Models:** AI specifically designed to predict future trends based on historical data (e.g., stock prices, inventory levels).
