@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-08 13:17:33
+Last Updated: 2026-09-08 17:43:31
 
-- **Coding Agents:** AI programs designed to autonomously write, test, and debug software code.
-- **Alignment:** The process of ensuring AI behavior matches human intentions and safety standards.
-- **GRPO (Group Relative Policy Optimization):** A mathematical method used in Reinforcement Learning to help models learn better behaviors by comparing a group of outputs.
-- **Multimodal-native:** An AI model built from the ground up to understand both text and images at the same time, rather than bolting two different models together.
-- **Time Series Model:** An AI designed specifically to analyze data points collected or recorded at specific time intervals (e.g., heart rates, stock prices).
-- **Context Window:** The amount of information (text/data) an AI can "remember" or consider at one single moment during a conversation.
+*   **GRPO (Group Relative Policy Optimization):** A mathematical way to train AI models that compares a group of answers to find the best one, rather than checking them one by one. It's faster and uses less memory.
+*   **Multimodal Encoder:** A component of AI that allows it to "understand" and translate different types of data (like pictures and text) into a format the computer can process.
+*   **Structured Outputs:** When an AI provides an answer in a specific format (like a spreadsheet or a code block) instead of just conversational sentences.
+*   **AI Alignment:** The process of ensuring an AI's goals and behaviors match human values and safety standards.
+*   **Coding Agents:** Specialized AI programs designed to write, test, and fix software code autonomously.
+*   **TRL (Transformer Reinforcement Learning):** A library used to train models by rewarding them for correct actions, similar to training a pet with treats.
