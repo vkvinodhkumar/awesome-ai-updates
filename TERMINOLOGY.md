@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-08 20:39:35
+Last Updated: 2026-09-08 23:09:43
 
-- **GPT-5.6 Sol:** An advanced, specialized version of the Generative Pre-trained Transformer optimized for high-level logic and scientific tasks.
-- **Qubits:** The basic unit of information in quantum computing (the quantum version of a classical "bit").
-- **Lean:** A functional programming language and proof assistant used to verify that mathematical theorems are correct.
-- **Navier–Stokes Equations:** A set of complex equations that describe the motion of fluid substances (liquid and gas).
-- **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique that helps models learn better decision-making by comparing groups of potential outputs.
-- **Multimodal:** The ability of an AI to understand and process multiple types of input, such as text, images, and audio, simultaneously.
-- **TRL (Transformer Reinforcement Learning):** A library used to train language models using reinforcement learning to align them with specific goals or styles.
+- **Navier–Stokes Problem:** A set of equations that describe the motion of fluid substances; solving it is considered one of the hardest challenges in physics.
+- **Lean:** A formal proof assistant and programming language used to verify that mathematical theorems are actually correct.
+- **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique that helps models learn better decision-making by comparing groups of possible answers.
+- **Qubit:** The basic unit of information in quantum computing (the quantum version of a classical "bit").
+- **Multimodal-native:** An AI system built from the start to understand different types of data (like text and images) at the same time, rather than bolting them together later.
+- **Structured Outputs:** AI responses that follow a strict format (like a spreadsheet or code) rather than just plain conversational text.
+- **Codex:** An AI model specifically designed to understand and generate computer code.
