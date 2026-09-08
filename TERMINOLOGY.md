@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-08 08:33:05
+Last Updated: 2026-09-08 13:17:33
 
-*   **GPT-6 Astra:** The latest, high-reasoning iteration of OpenAI’s language models.
-*   **Coding Agents:** AI programs that can write, test, and fix software code without constant human prompting.
-*   **GRPO (Group Relative Policy Optimization):** A training method that helps models learn better by comparing a group of potential answers and choosing the best one.
-*   **Multimodal:** The ability of an AI to understand and process different types of input, such as text, images, and audio, simultaneously.
-*   **Time Series Models:** AI specifically designed to analyze data points collected over time (e.g., stock prices or sensor readings).
-*   **TRL (Transformer Reinforcement Learning):** A method of training AI by rewarding it for correct "behaviors" rather than just predicting the next word.
+- **Coding Agents:** AI programs designed to autonomously write, test, and debug software code.
+- **Alignment:** The process of ensuring AI behavior matches human intentions and safety standards.
+- **GRPO (Group Relative Policy Optimization):** A mathematical method used in Reinforcement Learning to help models learn better behaviors by comparing a group of outputs.
+- **Multimodal-native:** An AI model built from the ground up to understand both text and images at the same time, rather than bolting two different models together.
+- **Time Series Model:** An AI designed specifically to analyze data points collected or recorded at specific time intervals (e.g., heart rates, stock prices).
+- **Context Window:** The amount of information (text/data) an AI can "remember" or consider at one single moment during a conversation.

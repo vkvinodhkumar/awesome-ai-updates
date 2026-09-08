@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-08 08:33:05
+Last Updated: 2026-09-08 13:17:33
 
-1.  **Pilot GPT-6 Astra:** Evaluate its integration for high-accuracy document review and internal auditing.
-2.  **Audit Cybersecurity Resilience:** Explore participation in or alignment with the "Daybreak" initiative to harden essential infrastructure.
-3.  **Invest in Agentic Workflows:** Begin transitioning internal dev teams from "AI-assisted" to "Agent-led" research to maintain competitive speed.
+1. **Pilot Coding Agents:** Evaluate the use of AI coding agents (with memory) to assist internal dev teams to increase software velocity.
+2. **Review Cybersecurity Posture:** Engage with the "Daybreak" initiative or similar AI-driven security frameworks to protect critical digital infrastructure.
+3. **Explore SLMs:** Investigate replacing expensive LLM API calls with fine-tuned 350M-7B parameter models for structured data and routine logic tasks.
