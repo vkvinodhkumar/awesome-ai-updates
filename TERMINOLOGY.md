@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-09 19:41:08
+Last Updated: 2026-09-09 22:13:49
 
-- **AI Alignment:** The field of ensuring an AI’s goals and behaviors match human values and intentions.
-- **Qubit:** The basic unit of information in quantum computing (analogous to a "bit" in traditional computing).
-- **Lean:** A mathematical "proof assistant" or language used to verify that a mathematical proof is logically correct.
-- **Time Series:** A sequence of data points recorded at specific time intervals (e.g., stock prices, weather data).
-- **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique that helps models learn better by comparing a group of outputs against each other.
-- **Multimodal:** The ability of an AI to understand and process different types of input, such as text, images, and audio, at the same time.
-- **Structured Outputs:** When an AI provides information in a specific format (like a table or code) rather than just conversational text.
+*   **Computer Use:** The ability of an AI model to see a screen, move a cursor, and click buttons just like a human user.
+*   **Qubits:** The basic unit of information in quantum computing (the quantum version of a traditional "bit").
+*   **Alignment:** The field of ensuring AI goals and behaviors match human values and intentions.
+*   **Time Series:** A sequence of data points collected or recorded at specific time intervals (used for forecasting).
+*   **GRPO (Group Relative Policy Optimization):** A mathematical method to train AI more efficiently by comparing a group of outputs rather than just one.
+*   **Multimodal-native:** An AI built from the ground up to understand both text and images simultaneously, rather than "patching" them together.
+*   **Structured Outputs:** Data that is formatted in a specific, predictable way (like a spreadsheet or code) so other machines can read it easily.
