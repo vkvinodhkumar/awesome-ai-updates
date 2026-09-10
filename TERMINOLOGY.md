@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-10 14:47:44
+Last Updated: 2026-09-10 18:03:24
 
-- **Agentic AI:** AI designed to autonomously make decisions, use external tools, and execute multi-step workflows to achieve a specific goal without constant human prompting.
-- **Computer Use:** A specific AI capability where a model can view a screen interface and simulate mouse clicks, keyboard inputs, and navigation to interact with software exactly like a human user.
-- **Group Relative Policy Optimization (GRPO):** An efficient mathematical method of reinforcement learning that optimizes a model’s outputs by comparing several generated answers against each other to award rewards, bypassing the need for a separate, resource-heavy critic model.
-- **Time-Series Data:** A sequence of data points recorded at consistent time intervals (e.g., daily sales, hourly temperatures). It is the backbone of predictive forecasting in business.
-- **Qubit:** The basic unit of information in quantum computing (analogous to the binary "bit" in classical computing), which is highly sensitive and requires precise calibration to maintain stability.
-- **Multimodal Encoder:** An AI tool that converts different types of input data (like text in Spanish, an image of a car, and a spoken word) into a single mathematical format so a computer can instantly compare and find relationships between them.
-- **AI Alignment:** The field of study and engineering dedicated to ensuring that AI systems act in accordance with human values, safety guidelines, and intended goals, rather than producing harmful or unpredictable side effects.
+- **Full-Duplex Voice**: A communication framework where voice data is transmitted in both directions simultaneously. This allows both the AI and the user to speak and listen at the same time, accommodating natural conversational interruptions.
+- **GRPO (Group Relative Policy Optimization)**: An efficient reinforcement learning algorithm (popularized by models like DeepSeek-R1) that aligns model outputs by comparing several generations against each other, eliminating the need for a separate, memory-intensive "critic" model.
+- **Time-Series Foundation Model**: An AI model pre-trained on vast arrays of chronological, sequential data (like stock trends or sensor logs) designed to identify complex, time-based patterns and forecast future events.
+- **Multimodal-Native Encoder**: An AI component built from the ground up to translate text, images, and audio directly into a single, unified mathematical space, ensuring the system can search and understand diverse file types together without converting them to text first.
+- **Codex**: A legacy OpenAI-built language model trained specifically on code repositories, which serves as the foundational precursor to modern AI coding assistants.

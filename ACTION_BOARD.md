@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-10 14:47:44
+Last Updated: 2026-09-10 18:03:24
 
-1. **Pilot GPT-6 Astra for Internal Operations:** Task the IT and Operations departments to design a sandboxed sandbox environment to test Astra's "computer use" capabilities on routine database entries and system monitoring.
-2. **Evaluate IBM Granite for Business Intelligence:** Integrate IBM’s open-source PatchTST-FM-r2 model into existing business forecasting pipelines to test its predictive performance against current baseline software.
-3. **Establish an Agentic Security Framework:** Before deploying agentic workflows, establish strict permissions, API limits, and human-in-the-loop validation gates for any AI systems interacting directly with corporate software systems.
-4. **Investigate GRPO for Edge Applications:** Task the data science team with researching GRPO to optimize small, internal open-source models for highly repetitive structured formatting tasks (e.g., parsing raw logs into JSON), reducing dependence on costly external APIs.
+1. **Pilot Small Model Alignment**: Task the engineering team with assessing GRPO-based fine-tuning on sub-billion parameter models to replace costly LLM API calls for structured backend tasks.
+2. **Review Data Agent Security**: Before enabling ChatGPT Work’s "Data Agent" across the enterprise, audit internal data architecture to ensure sensitive databases are isolated from public LLM environments.
+3. **Assess IBM Granite**: Initiate a proof-of-concept (PoC) using the newly released Granite Time Series model within logistics or financial analysis departments to test its forecasting accuracy against existing traditional models.
