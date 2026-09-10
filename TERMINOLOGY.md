@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-10 05:32:57
+Last Updated: 2026-09-10 10:31:12
 
-- **Computer Use:** The ability of an AI model to "see" a screen, move a cursor, and type into applications like a human.
-- **AI Alignment:** The process of ensuring an AI's goals and behaviors match human values and intentions.
-- **Time Series:** A sequence of data points indexed in time order (e.g., daily sales, hourly temperature).
-- **GRPO (Group Relative Policy Optimization):** A newer, more efficient way to train AI models to follow specific instructions or formats without needing as much computing power as previous methods.
-- **Multimodal-native:** An AI built from the ground up to understand multiple types of data (text, images, audio) at once, rather than bolting them together later.
-- **Qubits:** The basic unit of information in quantum computing (the quantum version of a traditional "bit").
+*   **Computer Use:** A feature where an AI model can see a screen, move a cursor, click buttons, and type text to operate software exactly like a human.
+*   **AI Alignment:** The field of ensuring an AI's goals and behaviors are "aligned" with human values and safety requirements.
+*   **GRPO (Group Relative Policy Optimization):** A newer, more efficient way to train AI models to follow specific instructions or formats without needing massive amounts of computing power.
+*   **Time-Series Forecasting:** Using historical data (like sales numbers over the last year) to predict future trends.
+*   **Multimodal-native:** An AI designed from the ground up to understand both images and text simultaneously, rather than "tacking on" image support later.
+*   **Structured Output:** AI responses that follow a strict format (like a table or a computer-readable code block) rather than free-form conversational text.

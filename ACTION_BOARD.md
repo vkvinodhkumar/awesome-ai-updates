@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-10 05:32:57
+Last Updated: 2026-09-10 10:31:12
 
-1. **Pilot GPT-6 Astra:** Identify one high-volume manual software process to test Astra’s "computer use" capabilities.
-2. **Review Data Privacy for Agents:** If deploying coding agents, explore self-hosted memory solutions like Funes to protect IP.
-3. **Explore Time-Series Models:** Technical teams should evaluate IBM’s Granite model for internal forecasting needs.
-4. **Monitor AI Policy:** Task the legal team with tracking the "safety standards" OpenAI is advocating for to ensure future compliance.
+1.  **Pilot Astra:** Identify one high-friction manual workflow (e.g., data entry between legacy systems) to test Astra’s "computer use" capability.
+2.  **Audit Data Privacy:** With the rise of local memory for coding agents (Funes), review whether your developers are using third-party tools that might be leaking proprietary IP.
+3.  **Explore GRPO:** Task the engineering team with evaluating if smaller, fine-tuned models can replace expensive API calls for structured data tasks.
