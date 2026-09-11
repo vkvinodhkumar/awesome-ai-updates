@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-11 12:33:27
+Last Updated: 2026-09-11 16:52:48
 
-*   **Full-duplex:** A communication system where both parties can transmit and receive data at the same time (like a natural phone call), rather than one at a time (like a walkie-talkie).
-*   **GPT-6 Astra:** The latest high-performance model variant from OpenAI, reportedly optimized for complex reasoning and professional-grade data.
-*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique that helps AI models learn faster by comparing a group of possible answers against each other rather than using a single "critic" model.
-*   **Multimodal-native:** An AI designed from the ground up to understand text, images, and video simultaneously, rather than sticking different models together.
-*   **Time Series:** A sequence of data points recorded at specific intervals (e.g., stock prices over a week or temperature over a month).
-*   **SOTA (State of the Art):** A term used to describe the best performing model currently available for a specific task.
+- **GPT-6 Astra:** A specialized, high-performance iteration of OpenAI’s model architecture optimized for professional financial services.
+- **Full-Duplex:** A communication system that allows both parties to transmit and receive data simultaneously (e.g., a natural phone call where you can interrupt the speaker).
+- **Time Series Forecasting:** The use of a model to predict future values (like stock prices or weather) based on previously observed values over time.
+- **GRPO (Grouped Relative Policy Optimization):** An efficient reinforcement learning method used to train models by comparing groups of outputs to improve reasoning and structure.
+- **Multimodal Encoder:** A component of an AI system that can translate different types of data (like images and text) into a shared mathematical language.
+- **Antimicrobial Resistance:** The ability of bacteria and viruses to evolve so that medicines no longer work against them; AI is being used to find new ways to kill these "superbugs."
