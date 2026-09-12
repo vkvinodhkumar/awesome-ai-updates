@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-12 13:31:40
+Last Updated: 2026-09-12 16:42:49
 
-*   **GPT-6 Astra:** The latest advanced model from OpenAI designed for high-reliability, autonomous tasks.
-*   **End-to-End Systems:** Processes where the AI handles every step from the initial request to the final implementation without human hand-offs.
-*   **Time Series Forecasting:** Predicting future values based on past data points (e.g., predicting next month’s sales).
-*   **SOTA (State-of-the-Art):** A term used to describe the best performing model currently available for a specific task.
-*   **Multimodal:** The ability of an AI to understand and process different types of input, such as text, images, and audio, at the same time.
-*   **GRPO (Group Relative Policy Optimization):** A math-heavy training method that helps AI models learn to follow specific rules (like formatting data) more efficiently.
-*   **Structured Outputs:** When an AI provides an answer in a specific format (like a spreadsheet or code) rather than just plain sentences.
-*   **Antimicrobial:** Substances (like antibiotics) that kill or stop the growth of microorganisms.
+*   **GPT-6 Astra:** The latest iteration of OpenAI's model family, noted for high reliability and autonomous capabilities.
+*   **Habitat:** OpenAI’s proprietary high-scale storage platform designed to handle massive request volumes.
+*   **Antimicrobials:** Substances (like antibiotics) that kill or stop the growth of microorganisms; AI is now being used to discover new versions of these.
+*   **Time Series:** A series of data points indexed in time order; critical for predicting future trends based on past data.
+*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning method that helps models learn better reasoning and structure without needing a separate "critic" model.
+*   **Multimodal:** The ability of an AI to process and understand different types of input (text, images, video) at the same time.
+*   **Structured Outputs:** When an AI provides information in a specific format (like a table or code) rather than just conversational text.
