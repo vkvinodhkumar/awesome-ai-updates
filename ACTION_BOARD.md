@@ -1,24 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-09-13 20:14:43
+Last Updated: 2026-09-13 22:50:10
 
-1.  **Pilot Data Agents:** Evaluate the ChatGPT Data Agent for a specific department (e.g., Marketing or HR) to test its ability to replace manual reporting.
-2.  **Review AI QA:** Investigate if internal engineering teams can use agentic testing (Devin/Astra style) to speed up code deployments.
-3.  **Explore Specialized Models:** For numerical forecasting tasks, pivot from general LLMs to specialized models like IBM’s Granite Time Series.
+1.  **Pilot Agentic DevOps:** Explore using Astra-class models for non-critical system monitoring or automated testing.
+2.  **Audit Data Readiness:** Prepare internal datasets for the ChatGPT Data Agent to ensure the company is ready for natural-language BI.
+3.  **Investigate Small Models:** Evaluate the use of small, GRPO-tuned models for specific tasks (like JSON formatting) to save on API costs.
 
 ## Technology Trends
-*   **Agentic Workflows:** Moving from "Chatting" to "Doing." AI is now performing software changes and system monitoring.
-*   **Biological AI Mining:** Using LLMs to search genomic data for drug discovery is a rapidly accelerating vertical.
-*   **Precision Safety:** A shift from "blocking topics" to "blocking specific harms," making models more useful for specialized professionals.
-*   **Democratic Data Science:** Natural language is becoming the primary interface for complex data visualization and analysis.
+*   **Agentic Reasoning:** Models are no longer just predicting the next word; they are "thinking" through steps to complete a multi-stage goal (e.g., testing code).
+*   **Structured Output Focus:** There is a surge in techniques (like GRPO) to make AI outputs more predictable and machine-readable (JSON/Code).
+*   **Vertical AI:** Development is branching out from general text into highly specialized areas like time-series forecasting and antimicrobial genomics.
 
 ## Terminology
-
-*   **GPT-6 Astra:** The latest high-autonomy model iteration from OpenAI, optimized for reasoning and system interaction.
-*   **Habitat:** OpenAI's proprietary, high-scale storage system designed to handle the massive data requirements of ChatGPT.
-*   **Antimicrobial Molecules:** Substances (like antibiotics) that kill or inhibit the growth of bacteria; currently a major focus for AI-led drug discovery.
-*   **Data Agent:** A specialized AI tool that can connect to databases, analyze information, and create charts using simple conversation.
-*   **Gradio Workflow:** A framework used to build user interfaces for machine learning models, allowing developers to create "flowcharts" of AI tasks.
-*   **Time Series:** A sequence of data points recorded at specific intervals (e.g., daily stock prices), used for forecasting the future.
-*   **GRPO (Group Relative Policy Optimization):** A training method that helps AI models learn better decision-making by comparing different possible answers against each other.
-*   **NeoMME:** A type of AI "brain" component (encoder) that is designed from the ground up to understand both text and images in many languages simultaneously.
+*   **GPT-6 Astra:** A high-tier reasoning model from OpenAI optimized for autonomous tasks and complex problem-solving.
+*   **Habitat:** OpenAI's custom-built distributed storage system designed to handle the scale of a billion users.
+*   **Time-Series Forecasting:** A technique that uses historical data points (like sales over time) to predict future trends.
+*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning method that helps models learn better reasoning by comparing a group of outputs against each other, rather than requiring a separate "critic" model.
+*   **Multimodal Encoder:** An AI component that translates different types of information (like a photo and a caption) into a single mathematical format the computer can understand.
+*   **Structured Output:** AI responses that follow a strict format (like a table or code) so they can be used directly by other computer programs.
