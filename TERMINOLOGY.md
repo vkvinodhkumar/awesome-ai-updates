@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-13 17:13:17
+Last Updated: 2026-09-13 20:14:43
 
-- **GPT-6 Astra:** A high-end model variant optimized for autonomous tasks and system-level integration.
-- **Habitat:** OpenAI's custom-built distributed storage system designed to handle massive scale.
-- **Agent:** An AI system capable of making decisions and taking actions across different software tools to achieve a goal.
-- **SOTA (State of the Art):** The highest level of development reached at a particular time in a specific field.
-- **Time Series:** A sequence of data points recorded at specific time intervals (e.g., hourly temperature or daily sales).
-- **Multimodal:** The ability of an AI to process different types of input, such as text, images, and audio, simultaneously.
-- **GRPO (Group Relative Policy Optimization):** A modern method for training AI models to follow instructions more accurately by comparing different possible responses.
-- **Structured Output:** AI responses that follow a strict format (like a spreadsheet or computer code) rather than plain conversational text.
+*   **GPT-6 Astra:** The latest high-autonomy model iteration from OpenAI, optimized for reasoning and system interaction.
+*   **Habitat:** OpenAI's proprietary, high-scale storage system designed to handle the massive data requirements of ChatGPT.
+*   **Antimicrobial Molecules:** Substances (like antibiotics) that kill or inhibit the growth of bacteria; currently a major focus for AI-led drug discovery.
+*   **Data Agent:** A specialized AI tool that can connect to databases, analyze information, and create charts using simple conversation.
+*   **Gradio Workflow:** A framework used to build user interfaces for machine learning models, allowing developers to create "flowcharts" of AI tasks.
+*   **Time Series:** A sequence of data points recorded at specific intervals (e.g., daily stock prices), used for forecasting the future.
+*   **GRPO (Group Relative Policy Optimization):** A training method that helps AI models learn better decision-making by comparing different possible answers against each other.
+*   **NeoMME:** A type of AI "brain" component (encoder) that is designed from the ground up to understand both text and images in many languages simultaneously.
