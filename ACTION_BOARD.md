@@ -1,20 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-09-13 22:50:10
+Last Updated: 2026-09-14 00:40:21
 
-1.  **Pilot Agentic DevOps:** Explore using Astra-class models for non-critical system monitoring or automated testing.
-2.  **Audit Data Readiness:** Prepare internal datasets for the ChatGPT Data Agent to ensure the company is ready for natural-language BI.
-3.  **Investigate Small Models:** Evaluate the use of small, GRPO-tuned models for specific tasks (like JSON formatting) to save on API costs.
+1.  **Pilot Astra:** Evaluate GPT-6 Astra for internal DevOps and monitoring tasks where high reasoning is required.
+2.  **Audit Data Governance:** Review how company data will be accessed by AI "Data agents" before wide-scale rollout.
+3.  **Explore IBM Granite:** Consider IBM’s new time-series model for financial or supply chain forecasting needs.
 
 ## Technology Trends
-*   **Agentic Reasoning:** Models are no longer just predicting the next word; they are "thinking" through steps to complete a multi-stage goal (e.g., testing code).
-*   **Structured Output Focus:** There is a surge in techniques (like GRPO) to make AI outputs more predictable and machine-readable (JSON/Code).
-*   **Vertical AI:** Development is branching out from general text into highly specialized areas like time-series forecasting and antimicrobial genomics.
+*   **Agentic QA:** The shift from AI writing code to AI *testing and verifying* its own code.
+*   **Hyper-scaling Infrastructure:** Moving away from general-purpose libraries to custom-built distributed storage for AI (e.g., Habitat).
+*   **Nuanced Refusal:** Moving toward more sophisticated "safety" filters that don't block helpful content.
+*   **Extreme Efficiency:** Using Reinforcement Learning (GRPO) to make very small models perform like much larger ones for specific tasks.
 
 ## Terminology
-*   **GPT-6 Astra:** A high-tier reasoning model from OpenAI optimized for autonomous tasks and complex problem-solving.
-*   **Habitat:** OpenAI's custom-built distributed storage system designed to handle the scale of a billion users.
-*   **Time-Series Forecasting:** A technique that uses historical data points (like sales over time) to predict future trends.
-*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning method that helps models learn better reasoning by comparing a group of outputs against each other, rather than requiring a separate "critic" model.
-*   **Multimodal Encoder:** An AI component that translates different types of information (like a photo and a caption) into a single mathematical format the computer can understand.
-*   **Structured Output:** AI responses that follow a strict format (like a table or code) so they can be used directly by other computer programs.
+*   **GPT-6 Astra:** A high-reasoning, agentic model iteration from OpenAI designed for complex tasks and autonomous action.
+*   **Habitat:** OpenAI's proprietary distributed storage system designed to handle massive amounts of concurrent AI interaction data.
+*   **Codex:** A specialized version of GPT trained specifically on computer code and biological sequences.
+*   **Time-Series Model:** An AI model specifically designed to predict future values based on past data (e.g., weather, sales, heartbeats).
+*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning method (popularized by DeepSeek) that helps models learn through comparison and reasoning without needing a massive "reward model."
+*   **Multimodal Encoder:** An AI component that "translates" different types of input (like an image and a French sentence) into a mathematical format the computer can understand.
+*   **Structured Output:** AI responses that follow a strict format (like a table or code) rather than conversational text.
