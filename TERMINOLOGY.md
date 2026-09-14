@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-14 05:44:10
+Last Updated: 2026-09-14 11:40:12
 
-- **Astra (GPT-6):** The latest iteration of OpenAI’s model family, optimized for high-reasoning and autonomous tasks.
-- **Habitat:** OpenAI’s proprietary distributed storage system designed to handle the massive data load of ChatGPT users.
-- **GRPO (Group Relative Policy Optimization):** A reinforcement learning method that helps models learn better decision-making without needing massive amounts of compute.
-- **Time-Series Forecasting:** Predicting future values (like stock prices or inventory) based on historical data points collected over time.
-- **Structured Output:** AI responses that follow a strict format (like code or a table) rather than free-form conversational text.
-- **Multimodal-native:** A model built from the ground up to understand both text and images simultaneously, rather than "patching" them together.
+- **GPT-6 Astra:** A new, high-reliability model from OpenAI designed for complex tasks and autonomous operations.
+- **Time Series Data:** A sequence of data points recorded at specific time intervals (e.g., daily sales or hourly temperature).
+- **GRPO (Group Relative Policy Optimization):** A mathematical method used to train AI to "reason" and make better decisions by comparing different possible answers.
+- **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large AI models quickly and with very little computer power.
+- **Multimodal Encoder:** An AI component that can "read" and understand different types of input (like text, images, and audio) at the same time.
+- **Habitat:** OpenAI's internal system for managing the massive amount of storage needed to remember user conversations at a global scale.
