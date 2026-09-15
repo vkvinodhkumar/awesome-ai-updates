@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-15 11:00:14
+Last Updated: 2026-09-15 15:30:08
 
-1.  **Pilot GPT-6 Astra:** Evaluate Astra for internal DevOps and QA workflows to reduce the burden on engineering teams.
-2.  **Audit Time-Series Data:** Assess whether IBM’s Granite model can improve supply chain or financial forecasting over traditional statistical methods.
-3.  **Review Safety Guardrails:** Ensure that internal AI deployments are using "nuanced refusal" to avoid hindering employee productivity.
+1.  **Pilot Autonomous Agents:** Evaluate GPT-6 Astra or similar models for internal DevOps or software testing workflows.
+2.  **Infrastructure Audit:** Assess if current data storage can handle the high concurrency required for modern AI applications.
+3.  **Explore Specialized Models:** Move beyond general-purpose models (like GPT-4) and look into IBM Granite for specific data-forecasting needs.

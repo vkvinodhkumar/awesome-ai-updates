@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-15 11:00:14
+Last Updated: 2026-09-15 15:30:08
 
-*   **GPT-6 Astra:** OpenAI's latest model iteration designed for high-reliability, agentic tasks.
-*   **GRPO (Group Relative Policy Optimization):** A method for training AI to "reason" by comparing several generated answers against each other.
-*   **LoRA (Low-Rank Adaptation):** A technique to fine-tune large models using a fraction of the computing power normally required.
-*   **Time Series:** A sequence of data points recorded at specific intervals (e.g., daily sales figures).
-*   **Multimodal:** The ability of an AI to process different types of input (text, image, audio) simultaneously.
-*   **NCCL (NVIDIA Collective Communications Library):** A standard tool for making multiple GPUs talk to each other; new "No-NCCL" methods allow for cheaper, slower networking.
-*   **Habitat:** OpenAI's custom-built storage system designed to handle the massive data loads of ChatGPT.
+*   **GPT-6 Astra:** The latest iteration of OpenAI's model family, optimized for high-reliability autonomous tasks.
+*   **Agentic AI:** AI that can independently perform multi-step tasks and interact with external software tools.
+*   **Time Series:** A series of data points indexed in time order (e.g., daily stock prices or hourly temperatures).
+*   **GRPO (Group Relative Policy Optimization):** A method for training AI to follow instructions better by comparing different responses.
+*   **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large models using very little computer memory/power.
+*   **Multimodal:** The ability of an AI to "see" (images), "hear" (audio), and "read" (text) all at once.
+*   **Antimicrobial Candidates:** Potential new drugs being researched to kill bacteria or viruses.
