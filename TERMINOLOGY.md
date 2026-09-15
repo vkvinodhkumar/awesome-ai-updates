@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-14 21:23:52
+Last Updated: 2026-09-15 00:14:12
 
-- **GPT-6 Astra:** A high-level reasoning model from OpenAI designed for complex, multi-step tasks and autonomous actions.
-- **Time-Series Forecasting:** Predicting future values (like next month's sales) based on historical data points collected over time.
-- **Fine-Tuning:** The process of taking a pre-trained AI and giving it extra training on a specific dataset to make it better at a particular task.
-- **LoRA (Low-Rank Adaptation):** A technique that makes fine-tuning an AI much faster and requires much less computer memory.
-- **Multimodal:** An AI's ability to understand and process different types of information, such as text, images, and audio, at the same time.
-- **GRPO (Group Relative Policy Optimization):** A mathematical method used to train AI models to follow human preferences more accurately and efficiently.
-- **NCCL:** A technical standard for how computer chips "talk" to each other very fast during AI training; finding ways to work without it makes training cheaper.
+- **GPT-6 Astra:** A high-performance, autonomous version of OpenAI's models designed for agentic tasks.
+- **Agentic AI:** AI that can take actions, use tools, and make decisions to complete a goal without step-by-step human instructions.
+- **Habitat:** OpenAI’s custom-built distributed storage platform for managing massive amounts of user data.
+- **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of outputs to find the best one, often used to improve reasoning.
+- **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large models using very little memory and computing power.
+- **Time Series Model:** A model specifically designed to predict future values based on past data (e.g., weather, sales, stock prices).
+- **Multimodal:** The ability of an AI to understand and process different types of information (text, images, audio) at the same time.
