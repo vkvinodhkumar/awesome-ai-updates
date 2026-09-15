@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-15 15:30:08
+Last Updated: 2026-09-15 19:30:20
 
-1.  **Pilot Autonomous Agents:** Evaluate GPT-6 Astra or similar models for internal DevOps or software testing workflows.
-2.  **Infrastructure Audit:** Assess if current data storage can handle the high concurrency required for modern AI applications.
-3.  **Explore Specialized Models:** Move beyond general-purpose models (like GPT-4) and look into IBM Granite for specific data-forecasting needs.
+1. **Audit QA Processes:** Explore integrating autonomous testing agents (like Devin with Astra) to accelerate internal software development.
+2. **Explore Distributed Training:** Evaluate Async GRPO methods to reduce costs for proprietary model fine-tuning.
+3. **Review Refusal Logic:** Ensure internal AI implementations are using granular safety protocols to avoid "refusal frustration" among employees.
