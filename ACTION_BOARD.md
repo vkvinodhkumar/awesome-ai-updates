@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-15 05:45:39
+Last Updated: 2026-09-15 11:00:14
 
-1. **Initiate Agentic Pilot Programs:** Evaluate the integration of autonomous coding and testing agents (e.g., Devin/Astra architectures) within software development teams to accelerate dev cycles.
-2. **Review DB and Scaling Architecture:** Assess internal database capabilities to ensure readiness for data-heavy agentic state-management, referencing OpenAI's "Habitat" architecture scaling principles.
-3. **Audit Model Safety Protocols:** Transition corporate safety alignments away from broad-topic bans toward fine-grained, intent-based filtering to maximize internal tool utility.
+1.  **Pilot GPT-6 Astra:** Evaluate Astra for internal DevOps and QA workflows to reduce the burden on engineering teams.
+2.  **Audit Time-Series Data:** Assess whether IBM’s Granite model can improve supply chain or financial forecasting over traditional statistical methods.
+3.  **Review Safety Guardrails:** Ensure that internal AI deployments are using "nuanced refusal" to avoid hindering employee productivity.
