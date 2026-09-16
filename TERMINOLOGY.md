@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-16 20:51:09
+Last Updated: 2026-09-16 23:30:48
 
-*   **GRPO (Group Relative Policy Optimization):** A method for training models to follow instructions more effectively by comparing groups of outputs.
-*   **LoRA (Low-Rank Adaptation):** A technique that makes fine-tuning large models much faster and less memory-intensive by only updating a small subset of parameters.
-*   **Sponsored Agent:** An AI persona designed to represent a brand and interact with customers to provide information or drive sales.
-*   **Multimodal:** The ability of an AI system to process and understand different types of input (text, images, video) at the same time.
-*   **NCCL (NVIDIA Collective Communications Library):** A standard used for high-speed communication between GPUs; "No NCCL" means the training can work on slower, standard internet connections.
-*   **Surgical Refusal:** An AI safety approach where the model only blocks the harmful part of a request rather than the entire subject matter.
+- **Model Misalignment:** When an AI’s goals or behaviors don't match the intentions of the people who created or are using it.
+- **Sponsored Agents:** AI chatbots that can recommend specific products or services as part of a paid partnership.
+- **GRPO (Group Relative Policy Optimization):** A mathematical method used to train AI models to "reason" and improve their decision-making.
+- **LoRA (Low-Rank Adaptation):** A technique to fine-tune large AI models very quickly and with much less computer power.
+- **Multimodal:** An AI's ability to understand and process different types of information, like text, images, and video, all at once.
+- **Over-refusal:** When an AI is "too safe" and refuses to answer a perfectly harmless question because it is vaguely related to a sensitive topic.
