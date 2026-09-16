@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-16 01:02:08
+Last Updated: 2026-09-16 07:09:15
 
-- **GPT-6 Astra:** A high-tier AI model designed for high reliability and autonomous system management.
-- **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of outputs to improve the model's decision-making.
-- **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large models quickly and with much less computing power.
-- **Habitat:** OpenAI's specialized storage system designed to handle the massive data needs of billions of users.
-- **Multimodal Encoder:** An AI component that "translates" different types of data (like images and text) into a language the computer can understand simultaneously.
-- **Antimicrobial Molecules:** Natural or synthetic substances used to kill bacteria/viruses; currently being discovered using AI genomic searches.
-- **Async (Asynchronous):** A way for computers to process tasks independently without waiting for each other, making systems faster and more flexible.
+*   **GPT-6 Astra:** The latest high-reasoning model from OpenAI, designed for complex, autonomous tasks.
+*   **Agent:** An AI that can use tools and make decisions to complete a goal without step-by-step human prompts.
+*   **Multimodal:** The ability of an AI to understand more than one type of data (e.g., text, images, and audio) at the same time.
+*   **GRPO (Group Relative Policy Optimization):** A method for training AI models to be more efficient and accurate in their decision-making.
+*   **LoRA (Low-Rank Adaptation):** A technique to "fine-tune" a giant AI model quickly and cheaply by only changing a small part of its math.
+*   **Habitat:** OpenAI's internal system for storing and managing the massive amount of data needed to run ChatGPT.
+*   **Devin:** Widely considered the first "AI Software Engineer" capable of building and fixing entire apps autonomously.
+*   **Automatic1111:** The most popular "dashboard" or interface used by people to generate AI images.
