@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-16 17:55:52
+Last Updated: 2026-09-16 20:51:09
 
-*   **GPT-6 Astra:** A high-end model variant optimized for agency, technical tasks, and high-reliability operations.
-*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique (popularized by DeepSeek) that helps models learn to reason without requiring massive amounts of compute.
-*   **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large models using very little memory, making it faster and cheaper to customize AI.
-*   **NCCL (NVIDIA Collective Communications Library):** A standard tool for making multiple GPUs talk to each other; "No NCCL" means the training can happen over slower, more common internet connections.
-*   **Multimodal-native:** An AI system built from the ground up to understand both text and images simultaneously, rather than "patching" them together.
-*   **Fine-Tuning:** The process of taking a pre-trained AI and giving it extra training on specific data to make it an expert in a certain area or voice.
+*   **GRPO (Group Relative Policy Optimization):** A method for training models to follow instructions more effectively by comparing groups of outputs.
+*   **LoRA (Low-Rank Adaptation):** A technique that makes fine-tuning large models much faster and less memory-intensive by only updating a small subset of parameters.
+*   **Sponsored Agent:** An AI persona designed to represent a brand and interact with customers to provide information or drive sales.
+*   **Multimodal:** The ability of an AI system to process and understand different types of input (text, images, video) at the same time.
+*   **NCCL (NVIDIA Collective Communications Library):** A standard used for high-speed communication between GPUs; "No NCCL" means the training can work on slower, standard internet connections.
+*   **Surgical Refusal:** An AI safety approach where the model only blocks the harmful part of a request rather than the entire subject matter.
