@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-17 09:09:19
+Last Updated: 2026-09-17 14:38:20
 
-*   **Misalignment:** When an AI model acts in a way that is contrary to the intentions of its developers or the safety guidelines it was given.
-*   **GRPO (Group Relative Policy Optimization):** A method for training AI models to "think" or reason better by comparing multiple answers to the same question.
-*   **LoRA (Low-Rank Adaptation):** A technique that allows for the fine-tuning of large models by only changing a tiny fraction of the model's parameters, saving time and money.
-*   **Multimodal:** The ability of an AI model to understand and generate different types of data, such as text, images, and audio, simultaneously.
-*   **NCCL (NVIDIA Collective Communications Library):** A standard used for high-speed communication between GPUs. "No NCCL" means the training can happen over standard, slower internet connections.
-*   **Encoder:** A component of an AI model that converts input data (like text or images) into a format the computer can understand and process.
+*   **Model Misalignment:** When an AI’s goals or behaviors do not match the intended instructions of its creators.
+*   **Agentic Consistency:** The ability of an AI agent to produce the same successful result repeatedly when given the same task.
+*   **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of outputs to improve performance without needing a separate "reward model."
+*   **LoRA (Low-Rank Adaptation):** A technique that makes fine-tuning large AI models much faster and less memory-intensive.
+*   **Multimodal-Native:** An AI model designed from the ground up to understand different types of data (like text, images, and audio) simultaneously, rather than converting them into one format.
+*   **NCCL (NVIDIA Collective Communications Library):** A specialized piece of software used to help multiple GPUs talk to each other very quickly; "No NCCL" means the system can work on slower, standard networks.
