@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-17 21:53:54
+Last Updated: 2026-09-17 23:53:33
 
-- **Astra for Law:** A specialized version of OpenAI's technology designed with the security and data needs of legal professionals in mind.
-- **Model Misalignment:** When an AI's behavior or output does not match the intentions or safety guidelines of its creators.
-- **Sponsored Agents:** AI chatbots that represent a brand and can provide information or complete transactions as a new form of advertising.
-- **GRPO (Group Relative Policy Optimization):** A method used to train models to make better decisions by comparing a group of possible answers against each other.
-- **LoRA (Low-Rank Adaptation):** A technique that allows you to "fine-tune" or customize a massive AI model using very little computing power.
-- **Multimodal Encoder:** An AI component that can "read" and understand different types of input (like text and pictures) at the same time.
-- **Over-Refusal:** When an AI is so strictly programmed for safety that it refuses to answer perfectly harmless questions.
+- **Astra:** OpenAI’s brand for industry-specific, high-security AI deployments.
+- **Model Misalignment:** When an AI model’s goals or behaviors do not match the intentions of the humans who designed it.
+- **Sponsored Agents:** AI agents that may suggest specific products or services because of an advertising relationship.
+- **GRPO (Group Relative Policy Optimization):** A method for training AI to make better decisions by comparing a group of possible answers.
+- **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large AI models quickly and using less computer memory.
+- **Multimodal:** The ability of an AI to process different types of information, such as text, images, and audio, at the same time.
+- **Encoder:** A part of an AI model that converts input data (like a sentence or a picture) into a format the computer can understand and process.
+- **NCCL:** A specialized piece of software used to help multiple computers talk to each other very fast during AI training; "No NCCL" means the training can happen on simpler networks.
