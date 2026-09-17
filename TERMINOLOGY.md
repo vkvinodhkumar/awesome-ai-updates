@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-17 03:12:32
+Last Updated: 2026-09-17 09:09:19
 
-*   **Misalignment:** When an AI model’s actions do not match the user's intended goals or safety constraints.
-*   **Agentic Workflow:** A sequence of tasks where an AI "agent" takes autonomous steps to complete a complex objective.
-*   **GRPO (Group Relative Policy Optimization):** A mathematical method used to train AI models to make better decisions by comparing groups of possible answers.
-*   **LoRA (Low-Rank Adaptation):** A technique that allows for the quick and "cheap" training of an AI model by only changing a tiny fraction of its internal settings.
-*   **Multimodal:** The ability of an AI to understand and process different types of information (e.g., text, images, and audio) simultaneously.
-*   **Sponsored Agents:** AI personalities or assistants that can recommend specific products or services within a conversation, similar to a paid advertisement.
+*   **Misalignment:** When an AI model acts in a way that is contrary to the intentions of its developers or the safety guidelines it was given.
+*   **GRPO (Group Relative Policy Optimization):** A method for training AI models to "think" or reason better by comparing multiple answers to the same question.
+*   **LoRA (Low-Rank Adaptation):** A technique that allows for the fine-tuning of large models by only changing a tiny fraction of the model's parameters, saving time and money.
+*   **Multimodal:** The ability of an AI model to understand and generate different types of data, such as text, images, and audio, simultaneously.
+*   **NCCL (NVIDIA Collective Communications Library):** A standard used for high-speed communication between GPUs. "No NCCL" means the training can happen over standard, slower internet connections.
+*   **Encoder:** A component of an AI model that converts input data (like text or images) into a format the computer can understand and process.
