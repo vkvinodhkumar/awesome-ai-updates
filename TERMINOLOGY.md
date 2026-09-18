@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-18 02:59:20
+Last Updated: 2026-09-18 08:07:58
 
-- **Astra for Law:** OpenAI’s specialized platform tailored for the legal industry's security and data needs.
-- **Agentic Consistency:** The measure of how often an AI agent can successfully repeat the same task under similar conditions.
-- **GRPO (Group Relative Policy Optimization):** A mathematical method used to train models more efficiently by comparing a group of outputs rather than using a single "critic."
-- **LoRA (Low-Rank Adaptation):** A technique that allows for the fine-tuning of large models by only updating a small subset of parameters, saving time and money.
-- **Multimodal Encoder:** An AI component that can "understand" and translate different types of data (like text and images) into a format the computer can process.
-- **NCCL (NVIDIA Collective Communications Library):** A standard used for high-speed communication between GPUs; new "Async" methods are trying to bypass the need for this expensive infrastructure.
+*   **Astra (for Law):** A specialized version of OpenAI's technology designed with the security and tools required for legal work.
+*   **IPO (Initial Public Offering):** The process of a private company going public; AI is now being used to manage the massive amount of paperwork involved.
+*   **GRPO (Group Relative Policy Optimization):** A mathematical method used to train AI models to be more accurate by comparing different potential answers.
+*   **LoRA (Low-Rank Adaptation):** A technique that allows you to "fine-tune" a large AI model very quickly and cheaply by only changing a tiny fraction of its parameters.
+*   **Multimodal Encoder:** An AI component that allows a computer to "understand" different types of data (like images and text) at the same time.
+*   **Stochasticity:** The inherent randomness in AI; the reason why an AI might give two different answers to the same question.
+*   **AUTOMATIC1111:** The most popular open-source software interface for generating AI images.
