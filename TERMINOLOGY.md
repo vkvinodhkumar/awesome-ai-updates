@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-18 20:20:20
+Last Updated: 2026-09-18 22:59:36
 
-- **GRPO (Group Relative Policy Optimization):** A method used to train AI models to follow instructions more effectively by comparing groups of possible answers.
-- **LoRA (Low-Rank Adaptation):** A technique that makes fine-tuning large AI models much faster and cheaper by only changing a tiny fraction of the model's parameters.
-- **Multimodal Encoder:** A system that allows an AI to "understand" and link different types of information, such as images and text, at the same time.
-- **Astra for Law:** OpenAI’s new specialized platform designed with tools and security protocols specifically for legal professionals.
-- **Sponsored Agents:** A new form of advertising where an AI agent might suggest a specific product or service during a conversation.
-- **NCCL:** A library used to help multiple GPUs (graphics chips) talk to each other very fast during AI training; finding ways to work without it (as in Article 7) makes training easier on simpler hardware.
-- **Over-refusal:** When an AI is so "safe" that it refuses to answer harmless questions because they are tangentially related to a sensitive topic.
+- **Astra:** OpenAI’s brand for its specialized, high-performance agentic models (often associated with GPT-6/multimodal capabilities).
+- **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique used to improve model reasoning without needing a separate "reward model."
+- **LoRA (Low-Rank Adaptation):** A method to fine-tune large models by only changing a tiny fraction of the parameters, making it much faster and cheaper.
+- **Multimodal-Native:** An AI model built to process text, images, and video in one single architecture, rather than using separate tools for each.
+- **NCCL (Nvidia Collective Communications Library):** A standard for fast communication between GPUs. "No NCCL" means the training can happen over slower, standard internet connections.
+- **Sponsored Agents:** AI-driven brand representatives that can answer questions about products or services within a chat interface.
