@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-18 08:07:58
+Last Updated: 2026-09-18 13:21:05
 
-*   **Astra (for Law):** A specialized version of OpenAI's technology designed with the security and tools required for legal work.
-*   **IPO (Initial Public Offering):** The process of a private company going public; AI is now being used to manage the massive amount of paperwork involved.
-*   **GRPO (Group Relative Policy Optimization):** A mathematical method used to train AI models to be more accurate by comparing different potential answers.
-*   **LoRA (Low-Rank Adaptation):** A technique that allows you to "fine-tune" a large AI model very quickly and cheaply by only changing a tiny fraction of its parameters.
-*   **Multimodal Encoder:** An AI component that allows a computer to "understand" different types of data (like images and text) at the same time.
-*   **Stochasticity:** The inherent randomness in AI; the reason why an AI might give two different answers to the same question.
-*   **AUTOMATIC1111:** The most popular open-source software interface for generating AI images.
+*   **Astra for Law:** OpenAI’s new specialized platform for the legal industry.
+*   **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique (popularized by DeepSeek) that helps models learn to reason without needing a massive critic model.
+*   **LoRA (Low-Rank Adaptation):** A method to fine-tune large models using very little memory and computing power.
+*   **Multimodal:** The ability of an AI to understand and process different types of input, such as text, images, and audio, simultaneously.
+*   **Sponsored Agents:** AI bots that are "hired" or "sponsored" by brands to provide specific product information or services to users during a conversation.
+*   **Encoder:** A component of an AI model that converts input data (like text or images) into a mathematical format the computer can understand.
