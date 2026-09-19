@@ -1,21 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-09-19 21:15:39
+Last Updated: 2026-09-19 23:51:56
 
-1. **Legal Tech Audit:** Review internal legal workflows to see if Astra for Law or similar LLM-legal integrations can reduce external counsel spend.
-2. **Agent Pilot Programs:** Begin testing "agentic" workflows for internal tasks, but prioritize consistency and "human-in-the-loop" verification.
-3. **Marketing Strategy Pivot:** Marketing teams should investigate "Sponsored Agents" to ensure brand presence as users shift from Google Search to AI Chat/Agents.
+1. **Pilot Astra for Law:** Legal departments should evaluate OpenAI’s new legal-grade tools for internal compliance and document review.
+2. **Audit Agent Consistency:** Any team deploying autonomous agents should implement IBM’s reliability testing frameworks.
+3. **Explore AI Ad-Tech:** Marketing teams should investigate HubSpot/Shopify integrations to prepare for the shift toward conversational advertising.
 
 ## Technology Trends
-
-- **Transition to Agents:** The focus is shifting from "chat" (answering questions) to "agents" (performing tasks).
-- **Context-Aware Safety:** Safety mechanisms are becoming more surgical—blocking harmful content without blocking useful information on the same topic.
-- **Distributed Training:** Technical shifts toward "Async" training methods mean that powerful AI can be built without needing a centralized supercomputer.
+- **Granular Moderation:** Moving away from "hard blocks" to nuanced refusals based on context.
+- **Agentic Workflows:** A shift from LLMs as "chatbots" to LLMs as "agents" that perform multi-step tasks.
+- **Demographic Digital Literacy:** Large-scale efforts to educate non-technical populations (seniors and youth) to ensure broad-based AI adoption.
 
 ## Terminology
 
-- **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of possible answers against each other to pick the best one, rather than relying on a single fixed score.
-- **LoRA (Low-Rank Adaptation):** A technique that allows you to "fine-tune" a massive AI model by only changing a tiny fraction of its parameters, making it much faster and cheaper to customize.
-- **Multimodal-native:** An AI designed from day one to "see" images and "read" text at the same time, rather than having two separate systems glued together.
-- **Sponsored Agents:** An AI personality or service that is paid for by a brand to help a user complete a specific task (e.g., a travel agent powered by a specific airline).
-- **NCCL (NVIDIA Collective Communications Library):** A standard tool used to help multiple GPUs talk to each other very fast; new research is finding ways to work *without* it to make training easier.
+- **GRPO (Group Relative Policy Optimization):** A method used to train AI models to be more accurate by comparing a group of possible answers and picking the best one.
+- **LoRA (Low-Rank Adaptation):** A technique for fine-tuning large AI models quickly and with much less computer power than traditional methods.
+- **Multimodal-native:** An AI designed from the ground up to understand different types of input (like text, images, and sound) at the same time.
+- **Agent:** An AI system that doesn't just talk, but can perform actions, use tools, and complete multi-step goals.
+- **NCCL (NVIDIA Collective Communications Library):** A specialized way for multiple powerful computers to talk to each other very fast during AI training; usually expensive and hard to set up.
