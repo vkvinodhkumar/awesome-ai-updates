@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-19 18:23:25
+Last Updated: 2026-09-19 21:15:39
 
-- **Astra for Law:** A specialized, high-security version of OpenAI’s models designed specifically for legal workflows.
-- **GRPO (Group Relative Policy Optimization):** A method for training AI to follow instructions more effectively by comparing groups of outputs against each other.
-- **LoRA (Low-Rank Adaptation):** A technique for "fine-tuning" large models very cheaply by only updating a small fraction of the model's parameters.
-- **Multimodal:** An AI's ability to understand and process more than one type of data (e.g., seeing an image and reading text at the same time).
-- **Sponsored Agents:** AI chatbots that are customized or influenced by brands to provide specific product information or services during a conversation.
-- **NCCL (Nvidia Collective Communications Library):** A specialized software layer used to make GPUs talk to each other very fast; avoiding the need for it makes training AI much cheaper.
+- **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of possible answers against each other to pick the best one, rather than relying on a single fixed score.
+- **LoRA (Low-Rank Adaptation):** A technique that allows you to "fine-tune" a massive AI model by only changing a tiny fraction of its parameters, making it much faster and cheaper to customize.
+- **Multimodal-native:** An AI designed from day one to "see" images and "read" text at the same time, rather than having two separate systems glued together.
+- **Sponsored Agents:** An AI personality or service that is paid for by a brand to help a user complete a specific task (e.g., a travel agent powered by a specific airline).
+- **NCCL (NVIDIA Collective Communications Library):** A standard tool used to help multiple GPUs talk to each other very fast; new research is finding ways to work *without* it to make training easier.
