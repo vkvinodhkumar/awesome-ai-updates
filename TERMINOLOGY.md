@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-20 09:01:27
+Last Updated: 2026-09-20 13:54:43
 
-- **GRPO (Group Relative Policy Optimization):** A reinforcement learning technique used to align AI models with human preferences without needing a separate "critic" model, making it more efficient.
-- **LoRA (Low-Rank Adaptation):** A technique that allows for the fine-tuning of large AI models by only updating a small number of parameters, saving time and computing power.
-- **Agentic Consistency:** The metric of how often an AI agent can successfully repeat a complex, multi-step task under similar conditions.
-- **Multimodal:** The ability of an AI model to process and understand different types of input, such as text, images, and audio, simultaneously.
-- **Encoder:** A component of an AI model that converts input data (like a sentence or an image) into a numerical format the computer can understand and process.
-- **NCCL (NVIDIA Collective Communications Library):** A specialized protocol that allows multiple GPUs to communicate very quickly; bypassing the need for this (as in Async GRPO) makes training cheaper.
+*   **GRPO (Group Relative Policy Optimization):** A method used to train AI models by comparing a group of possible answers and rewarding the best one, rather than just grading one answer at a time.
+*   **LoRA (Low-Rank Adaptation):** A technique that allows people to retrain or "fine-tune" large AI models very quickly and with very little computer power.
+*   **Multimodal:** The ability of an AI to understand more than just text—for example, seeing images and hearing audio at the same time.
+*   **AI Agent:** An AI system that doesn't just talk to you, but can actually go and perform tasks (like filing a document or booking a meeting) on its own.
+*   **Encoder:** A component of an AI that takes "real world" information (like a sentence or a picture) and turns it into a mathematical code the computer can understand.
