@@ -1,9 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-20 13:54:43
+Last Updated: 2026-09-20 17:15:58
 
-*   **GRPO (Group Relative Policy Optimization):** A method used to train AI models by comparing a group of possible answers and rewarding the best one, rather than just grading one answer at a time.
-*   **LoRA (Low-Rank Adaptation):** A technique that allows people to retrain or "fine-tune" large AI models very quickly and with very little computer power.
-*   **Multimodal:** The ability of an AI to understand more than just text—for example, seeing images and hearing audio at the same time.
-*   **AI Agent:** An AI system that doesn't just talk to you, but can actually go and perform tasks (like filing a document or booking a meeting) on its own.
-*   **Encoder:** A component of an AI that takes "real world" information (like a sentence or a picture) and turns it into a mathematical code the computer can understand.
+*   **IPO (Initial Public Offering):** The process of a private company offering shares to the public for the first time.
+*   **AI Agent:** An AI system that can perform a series of steps to achieve a goal autonomously, rather than just answering a single prompt.
+*   **GRPO (Group Relative Policy Optimization):** A method for training AI models to be more accurate by comparing different potential answers and picking the best one.
+*   **LoRA (Low-Rank Adaptation):** A technique to fine-tune large AI models very quickly and with very little computer memory.
+*   **Multimodal:** The ability of an AI to understand more than one type of data, such as text, images, and audio, at the same time.
+*   **Encoder:** A component of an AI that turns data (like a word or a picture) into a mathematical format the computer can understand.
+*   **Gradio:** A popular software tool used to build simple web interfaces for AI models.
