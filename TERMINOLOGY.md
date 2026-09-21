@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-21 00:50:07
+Last Updated: 2026-09-21 05:51:12
 
-*   **GRPO (Group Relative Policy Optimization):** A method for training AI to make better decisions by comparing a group of possible answers and picking the best one, rather than just being told "yes" or "no."
-*   **LoRA (Low-Rank Adaptation):** A technique that allows people to fine-tune a massive AI model by only changing a tiny fraction of its settings, making it much faster and cheaper.
-*   **Multimodal:** The ability of an AI to understand and generate more than just text (e.g., images, video, and audio).
-*   **Agent:** An AI system that doesn't just talk, but can actually *do* things, like booking a flight or filing a legal document.
-*   **Encoder:** The part of an AI that "reads" and translates input (like a picture or a sentence) into a mathematical language the computer can understand.
-*   **NCCL (NVIDIA Collective Communications Library):** A technical tool used to help multiple computer chips talk to each other very fast during AI training.
+- **Astra for Law:** OpenAI’s vertical-specific platform tailored for legal professionals.
+- **Sponsored Agents:** AI agents that provide helpful information while incorporating paid content or brand-specific recommendations.
+- **GRPO (Group Relative Policy Optimization):** A mathematical method used in Reinforcement Learning to help AI models "reason" and improve through trial and error.
+- **LoRA (Low-Rank Adaptation):** A technique that allows developers to fine-tune massive AI models by only changing a tiny fraction of the model's weights, making it much faster and cheaper.
+- **Multimodal Encoder:** A type of AI that can "understand" and translate different types of data (like images and text) into a single format the computer can process.
+- **Over-refusal:** A phenomenon where an AI is so focused on safety that it refuses to answer safe questions (e.g., refusing to explain the history of a war because it is "violent").
