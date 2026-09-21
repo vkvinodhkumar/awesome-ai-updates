@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-21 05:51:12
+Last Updated: 2026-09-21 11:53:16
 
-- **Astra for Law:** OpenAI’s vertical-specific platform tailored for legal professionals.
-- **Sponsored Agents:** AI agents that provide helpful information while incorporating paid content or brand-specific recommendations.
-- **GRPO (Group Relative Policy Optimization):** A mathematical method used in Reinforcement Learning to help AI models "reason" and improve through trial and error.
-- **LoRA (Low-Rank Adaptation):** A technique that allows developers to fine-tune massive AI models by only changing a tiny fraction of the model's weights, making it much faster and cheaper.
-- **Multimodal Encoder:** A type of AI that can "understand" and translate different types of data (like images and text) into a single format the computer can process.
-- **Over-refusal:** A phenomenon where an AI is so focused on safety that it refuses to answer safe questions (e.g., refusing to explain the history of a war because it is "violent").
+- **GRPO (Group Relative Policy Optimization):** A way to train AI by comparing a group of its answers and rewarding the better ones, making it more efficient than older methods.
+- **LoRA (Low-Rank Adaptation):** A "shortcut" for training AI that only updates a small part of the model, saving time and computing power.
+- **Multimodal Encoder:** A part of the AI that translates different types of input (like a photo and a French sentence) into a language the computer can understand at the same time.
+- **AI Agent:** An AI designed not just to talk, but to perform tasks (like filing a document or booking a flight) autonomously.
+- **NCCL (Nvidia Collective Communications Library):** A technical tool usually needed to link many powerful computers together; new methods are finding ways to work without it to simplify setup.
