@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-22 19:32:32
+Last Updated: 2026-09-22 22:41:59
 
-*   **GPT-6 Sol/Luna/Astra:** The latest generation of OpenAI models, with Sol being the high-end, Luna being efficient/cheap, and Astra optimized for creative/fast deployment.
-*   **Quantization:** The process of reducing the precision of a model's numbers (e.g., from 16-bit to 4-bit) to make it run faster and use less memory.
-*   **Pruning:** Removing unnecessary parts of a neural network to make it smaller and more efficient without losing its "smartness."
-*   **Tokenization:** The process of breaking down text into smaller chunks (tokens) that an AI can understand.
-*   **MLX:** A machine learning framework specifically designed by Apple for high performance on Apple Silicon (M1/M2/M3 chips).
-*   **Ising Optimization:** A mathematical method derived from physics used to find the best configuration among many variables; here, used to decide which parts of an AI model to remove.
+*   **Prompt Caching:** Storing the "context" of a conversation so the AI doesn't have to re-read everything from scratch every time you send a new message, making it faster and cheaper.
+*   **Quantization (Quants):** A technique to shrink an AI model by reducing the precision of its internal numbers, allowing it to run on smaller devices (like a laptop) without a massive loss in quality.
+*   **Pruning:** The process of removing unnecessary neurons or layers from an AI model to make it run faster.
+*   **Ising Optimization:** A concept borrowed from physics used to find the most efficient "state" of a system; in AI, it is used to find which parts of a model can be safely removed.
+*   **Tokenizer:** A tool that breaks down human language into small chunks (tokens) that a computer can understand.
+*   **Frontier Model:** A term for the most advanced, highest-performing AI models currently in existence (e.g., GPT-6 Sol).
