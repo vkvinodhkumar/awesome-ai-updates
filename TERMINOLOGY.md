@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-22 10:54:00
+Last Updated: 2026-09-22 15:24:03
 
-*   **GPT-6 Astra:** A purported next-generation model variant optimized for speed and creative production.
-*   **GPT-5.6:** An iterative advancement of the GPT-5 series, focused on institutional memory and factual grounding.
-*   **Quantization:** The process of reducing the precision of a model's numbers to make the file smaller and faster.
-*   **Pruning:** Removing unnecessary parts (neurons or layers) of an AI model to improve efficiency.
-*   **Ising Optimization Problem:** A mathematical framework from physics used to find the best configuration of a system; here used to find the best parts of a model to keep.
-*   **MLX:** An open-source framework from Apple for high-performance machine learning on Apple Silicon.
-*   **Tokenizers:** The software that converts human text into numerical "tokens" that an AI can understand.
-*   **Institutional Memory:** The ability of an AI to access, remember, and utilize a specific organization's private documents and history.
+*   **Quantization:** A technique to reduce the size of an AI model by using less precise numbers for its internal calculations, making it run faster on smaller devices.
+*   **MLX:** A specialized machine learning framework designed specifically for Apple Silicon (M1/M2/M3 chips) to make AI run efficiently on Macs.
+*   **Pruning:** The process of removing unnecessary parts of an AI model to make it leaner, similar to pruning a tree to make it healthier.
+*   **Tokenization:** The process of breaking down text into smaller units (tokens) that an AI can understand and process.
+*   **Institutional Memory:** In an AI context, this refers to an agent's ability to access and utilize a specific company’s history, documents, and unique knowledge.
+*   **Ising Optimization:** A concept borrowed from physics used to find the best way to organize complex systems; here used to decide which parts of an AI model to remove.
+*   **Agent Consistency:** A measure of how reliably an AI agent can perform the same task successfully multiple times without making errors.

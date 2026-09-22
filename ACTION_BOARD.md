@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-22 10:54:00
+Last Updated: 2026-09-22 15:24:03
 
-1.  **Talent Development:** Enroll key department heads in the new OpenAI Academy paths to identify internal use cases.
-2.  **Infrastructure Update:** Task the engineering team with evaluating `llama.cpp` quants for local, privacy-sensitive AI tasks to reduce cloud costs.
-3.  **Reliability Audit:** Implement the IBM/Hugging Face consistency framework for any internal AI agents currently in pilot phases.
+1.  **Audit Agent Reliability:** Implement consistency benchmarks (like ALTK) before deploying autonomous agents in customer-facing roles.
+2.  **Evaluate Local Deployment:** Explore llama.cpp and MLX integrations to reduce cloud compute costs for internal tools.
+3.  **Standardize Training:** Utilize the OpenAI Academy's new paths to create a standardized AI literacy program for staff.
