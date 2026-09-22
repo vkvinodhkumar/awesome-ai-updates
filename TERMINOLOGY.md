@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-21 21:39:35
+Last Updated: 2026-09-22 00:33:20
 
-- **GPT-6 Astra / GPT-5.6:** Newly reported versions or iterations of OpenAI’s Large Language Models (LLMs).
-- **Institutional Memory:** The ability of an AI agent to access and use a specific organization's internal files and historical data to provide context-aware answers.
-- **Pruning:** The process of removing unnecessary data or "neurons" from an AI model to make it smaller and faster.
-- **Ising Optimization:** A method borrowed from physics used to find the most efficient way to organize a complex system (in this case, an AI model).
-- **Tokenization:** The process of breaking down sentences into smaller pieces (tokens) so a computer can process human language.
-- **GRPO (Group Relative Policy Optimization):** A mathematical way to train AI to follow specific instructions more accurately.
-- **LoRA (Low-Rank Adaptation):** A "shortcut" method for training AI that only changes a small part of the model, making it much faster and cheaper to customize.
-- **Agent Consistency:** A measurement of how often an AI agent performs the same task correctly when given the same instructions multiple times.
+- **GPT-6 Astra / GPT-5.6:** Successor iterations of OpenAI’s Large Language Models, featuring improved reasoning and multimodal capabilities.
+- **Ising Optimization:** A mathematical method from physics used to find the best configuration of a system; used here to decide which parts of an AI to remove to make it smaller.
+- **Pruning:** The process of removing unnecessary parameters or "blocks" from an AI model to make it faster and lighter.
+- **Tokenizers:** Tools that break down human language into numerical chunks (tokens) that an AI can process.
+- **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of outputs to improve performance, often used in reasoning models.
+- **LoRA (Low-Rank Adaptation):** A technique that allows for the fine-tuning of large models by only changing a tiny fraction of the data, saving time and money.
+- **NCCL:** A library used for high-speed communication between GPUs; "No NCCL" means the AI can be trained on simpler, less expensive network setups.
+- **Institutional Memory:** The ability of an AI to access and understand a specific organization's private data, files, and history.
