@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-22 00:33:20
+Last Updated: 2026-09-22 05:49:19
 
-- **GPT-6 Astra / GPT-5.6:** Successor iterations of OpenAI’s Large Language Models, featuring improved reasoning and multimodal capabilities.
-- **Ising Optimization:** A mathematical method from physics used to find the best configuration of a system; used here to decide which parts of an AI to remove to make it smaller.
-- **Pruning:** The process of removing unnecessary parameters or "blocks" from an AI model to make it faster and lighter.
-- **Tokenizers:** Tools that break down human language into numerical chunks (tokens) that an AI can process.
-- **GRPO (Group Relative Policy Optimization):** A method for training AI that compares a group of outputs to improve performance, often used in reasoning models.
-- **LoRA (Low-Rank Adaptation):** A technique that allows for the fine-tuning of large models by only changing a tiny fraction of the data, saving time and money.
-- **NCCL:** A library used for high-speed communication between GPUs; "No NCCL" means the AI can be trained on simpler, less expensive network setups.
-- **Institutional Memory:** The ability of an AI to access and understand a specific organization's private data, files, and history.
+*   **Pruning:** The process of removing unnecessary parameters or "blocks" from an AI model to make it smaller and faster without losing intelligence.
+*   **Ising Optimization:** A method derived from statistical mechanics (physics) used to find the best configuration of a system, applied here to decide which parts of an AI to remove.
+*   **Institutional Memory:** The ability of an AI agent to access and understand a company's unique history, documents, and data.
+*   **Tokenizer:** A tool that breaks down human language into "tokens" (chunks of characters) that an AI can understand.
+*   **GRPO (Group Relative Policy Optimization):** A technique used to refine AI behavior by comparing several different responses to find the best one.
+*   **LoRA (Low-Rank Adaptation):** A method to fine-tune large models using very little computing power by only changing a tiny fraction of the model’s weights.
+*   **Agentic Consistency:** A measure of how often an AI agent performs the same task correctly under the same conditions.
