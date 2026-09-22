@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-22 05:49:19
+Last Updated: 2026-09-22 10:54:00
 
-*   **Pruning:** The process of removing unnecessary parameters or "blocks" from an AI model to make it smaller and faster without losing intelligence.
-*   **Ising Optimization:** A method derived from statistical mechanics (physics) used to find the best configuration of a system, applied here to decide which parts of an AI to remove.
-*   **Institutional Memory:** The ability of an AI agent to access and understand a company's unique history, documents, and data.
-*   **Tokenizer:** A tool that breaks down human language into "tokens" (chunks of characters) that an AI can understand.
-*   **GRPO (Group Relative Policy Optimization):** A technique used to refine AI behavior by comparing several different responses to find the best one.
-*   **LoRA (Low-Rank Adaptation):** A method to fine-tune large models using very little computing power by only changing a tiny fraction of the model’s weights.
-*   **Agentic Consistency:** A measure of how often an AI agent performs the same task correctly under the same conditions.
+*   **GPT-6 Astra:** A purported next-generation model variant optimized for speed and creative production.
+*   **GPT-5.6:** An iterative advancement of the GPT-5 series, focused on institutional memory and factual grounding.
+*   **Quantization:** The process of reducing the precision of a model's numbers to make the file smaller and faster.
+*   **Pruning:** Removing unnecessary parts (neurons or layers) of an AI model to improve efficiency.
+*   **Ising Optimization Problem:** A mathematical framework from physics used to find the best configuration of a system; here used to find the best parts of a model to keep.
+*   **MLX:** An open-source framework from Apple for high-performance machine learning on Apple Silicon.
+*   **Tokenizers:** The software that converts human text into numerical "tokens" that an AI can understand.
+*   **Institutional Memory:** The ability of an AI to access, remember, and utilize a specific organization's private documents and history.

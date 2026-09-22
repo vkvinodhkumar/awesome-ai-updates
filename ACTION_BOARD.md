@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-22 05:49:19
+Last Updated: 2026-09-22 10:54:00
 
-1.  **Audit Agent Workflows:** Evaluate current AI agent prototypes using consistency frameworks like ALTK before moving to production.
-2.  **Invest in Education:** Leverage the new OpenAI Academy paths to upskill leadership and technical teams.
-3.  **Explore Efficiency:** Investigate block-removal pruning for internal models to optimize compute budgets.
+1.  **Talent Development:** Enroll key department heads in the new OpenAI Academy paths to identify internal use cases.
+2.  **Infrastructure Update:** Task the engineering team with evaluating `llama.cpp` quants for local, privacy-sensitive AI tasks to reduce cloud costs.
+3.  **Reliability Audit:** Implement the IBM/Hugging Face consistency framework for any internal AI agents currently in pilot phases.
