@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-23 01:12:49
+Last Updated: 2026-09-23 05:03:45
 
-*   **Prompt Caching:** Storing previously processed text so the AI doesn't have to "re-read" it, saving time and money.
-*   **Quantization (Quants):** A technique to shrink AI models by reducing the precision of their numbers, allowing them to run on smaller devices.
-*   **Pruning:** The process of removing unnecessary parts of a neural network to make it faster and smaller.
-*   **Ising Optimization:** A mathematical method borrowed from physics used to find the best configuration of a system (in this case, which parts of a model to cut).
-*   **Tokenization:** The process of breaking down text into smaller units (tokens) that an AI can understand.
-*   **MLX:** A machine learning framework designed specifically by Apple for high performance on Apple Silicon chips.
+- **Prompt Caching:** A feature that stores parts of a user's instructions so they don't have to be re-processed every time, saving time and money.
+- **Sol/Luna/Astra:** The names of OpenAI's GPT-6 model variants. Sol is the most powerful, Luna is the most efficient, and Astra is built for high-speed agentic tasks.
+- **Quantization (Quants):** A technique to shrink an AI model by reducing the precision of its numbers, allowing it to run on smaller computers.
+- **Pruning:** Removing unnecessary parts of an AI model to make it smaller and faster without significantly hurting its "smartness."
+- **Ising Optimization:** A concept borrowed from physics (studying magnetism) used here to mathematically decide which parts of an AI model are safe to remove.
+- **Tokenization:** The process of breaking down a sentence into smaller chunks (tokens) so the computer can process the language.
+- **MLX:** Apple’s specific framework designed to make machine learning run fast on Apple chips (M1/M2/M3).
