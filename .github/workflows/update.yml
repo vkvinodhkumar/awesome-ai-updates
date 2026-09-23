@@ -4,10 +4,14 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 * * * *"
+    - cron: "17 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: automated-ai-updates
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -32,7 +36,7 @@ jobs:
       - name: Run Update Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3-flash-preview,gemini-3.5-flash,gemini-3.1-flash-lite,gemini-2.5-flash
+          GEMINI_MODELS: gemini-3-flash-preview,gemini-3.5-flash,gemini-3.1-flash-lite,gemini-2.5-flash
         run: |
           python scripts/update.py
 
@@ -43,12 +47,8 @@ jobs:
           pwd
 
           echo ""
-          echo "Repository tree:"
-          find .
-
-          echo ""
           echo "Git status:"
-          git status
+          git status --short
 
       - name: Commit and Push
         run: |
@@ -57,7 +57,10 @@ jobs:
 
           git add .
 
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
           git commit -m "Automatic AI Update - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
