@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-23 10:05:11
+Last Updated: 2026-09-23 15:05:26
 
-- **Prompt Caching:** Storing previously processed text so the AI doesn't have to "re-read" it, saving time and money.
-- **Quantization:** Shrinking an AI model by reducing the precision of its numbers, allowing it to run on smaller devices.
-- **Pruning:** Removing the "weakest" parts of an AI model to make it smaller and faster without breaking it.
-- **Ising Optimization:** A mathematical method from physics used to find the best configuration of a system, now used to decide which parts of an AI to remove.
-- **Tokenizer:** A tool that breaks down human language into small chunks (tokens) that the computer can understand.
-- **GGUF:** A file format used to run compressed AI models efficiently on standard computers.
+*   **Prompt Caching:** Storing previously processed text so the AI doesn't have to "re-read" it, saving time and money.
+*   **Speaker Diarization:** The process of partitioning an audio stream into segments according to who is speaking ("Who spoke when").
+*   **Quantization (Quants):** A technique to shrink AI models by reducing the precision of their internal numbers, allowing them to run on weaker hardware.
+*   **Model Pruning:** Removing unnecessary parts of a neural network to make it smaller and faster without losing accuracy.
+*   **Ising Optimization:** A mathematical method borrowed from physics used to find the best configuration of a system (in this case, which blocks of an AI to remove).
+*   **MLX:** A specialized machine learning framework designed specifically for Apple Silicon (M1/M2/M3 chips).
