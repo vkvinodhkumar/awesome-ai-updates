@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-24 01:29:18
+Last Updated: 2026-09-24 07:40:05
 
-- **GPT-6 Astra:** OpenAI's newly deployed frontier model variant designed with enhanced contextual memory, advanced reasoning, and multimodal planning.
-- **Daybreak Program:** An OpenAI-led cyber initiative designed to provide specialized defense models and analytical assistance to secure civilian infrastructure against state-sponsored digital attacks.
-- **llama.cpp Quants:** Extremely lightweight versions of large language models compressed (quantized) via the C/C++ based library `llama.cpp` to run locally on consumer-grade hardware.
-- **Ising Optimization Problem:** A mathematical model originally used in statistical physics to describe magnetic states, now applied to machine learning to find the most efficient way to prune useless nodes from an LLM.
-- **MLX / oMLX:** An open-source machine learning framework developed by Apple Silicon teams, designed to optimize model training and execution natively on Apple's M-series chips.
-- **MuJoCo / MjWarp:** MuJoCo is a specialized physics engine designed for robotics; MjWarp is an integration tool that allows those physical simulations to run seamlessly on GPUs via NVIDIA Warp.
+*   **Quantization:** A technique to reduce the size of an AI model by lowering the precision of its numbers, allowing it to run on smaller computers with less memory.
+*   **Pruning:** Removing unnecessary "neurons" or connections in a model that don't contribute significantly to its output, making it lighter and faster.
+*   **Benchmarking:** Standardized tests used to measure and compare how well different AI models perform on specific tasks.
+*   **Ising Optimization:** A concept from physics used here to determine the best way to cut parts of an AI model without losing its core intelligence.
+*   **MLX:** A framework developed by Apple designed specifically for efficient machine learning on Apple Silicon chips.
