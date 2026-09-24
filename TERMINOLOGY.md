@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-24 07:40:05
+Last Updated: 2026-09-24 13:36:34
 
-*   **Quantization:** A technique to reduce the size of an AI model by lowering the precision of its numbers, allowing it to run on smaller computers with less memory.
-*   **Pruning:** Removing unnecessary "neurons" or connections in a model that don't contribute significantly to its output, making it lighter and faster.
-*   **Benchmarking:** Standardized tests used to measure and compare how well different AI models perform on specific tasks.
-*   **Ising Optimization:** A concept from physics used here to determine the best way to cut parts of an AI model without losing its core intelligence.
-*   **MLX:** A framework developed by Apple designed specifically for efficient machine learning on Apple Silicon chips.
+- Unable to generate terminology.
+
+
+Last Error:
+
+404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
