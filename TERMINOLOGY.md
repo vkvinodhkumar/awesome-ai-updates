@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-25 18:44:37
+Last Updated: 2026-09-25 22:28:35
 
-*   **GPT-6 Astra:** A high-level, context-aware AI model capable of understanding complex structures, typically used for professional tasks like legal drafting.
-*   **Quantization:** A method of reducing the size of an AI model by simplifying its numbers, making it run faster and on cheaper hardware without significant loss in quality.
-*   **Vision-Language Models (VLM):** AI systems that can "see" images and "understand" text simultaneously, allowing them to interpret physical environments.
-*   **Inference:** The process of running a pre-trained AI model to make predictions or complete tasks.
-*   **MLX:** An open-source framework designed to make machine learning highly efficient on Apple hardware (M-series chips).
-*   **Benchmark:** A standard test used to measure how well an AI model performs specific tasks compared to other models.
+*   **GPT-6 Astra:** The latest high-reasoning model from OpenAI designed for complex, context-heavy tasks.
+*   **Quantization:** A technique to "shrink" AI models so they use less memory and run faster on smaller computers without losing much intelligence.
+*   **Vision-Language Model (VLM):** An AI that can understand and describe what it "sees" in an image or video.
+*   **MLX:** An Apple-designed library for high-performance machine learning on Apple Silicon (M1/M2/M3 chips).
+*   **Benchmark Reproducibility:** The ability for a third party to run the same test on an AI and get the same results, ensuring the developer isn't exaggerating performance.
+*   **Codex:** A specialized AI model designed to understand and write computer code.
+*   **Daybreak Program:** An OpenAI initiative focused on providing AI resources for high-impact cybersecurity defense.
