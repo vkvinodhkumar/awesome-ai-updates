@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-25 07:57:07
+Last Updated: 2026-09-25 13:55:17
 
-*   **GPT-6 Astra:** OpenAI’s latest model iteration, designed for enhanced reasoning, structure, and multimodal (vision/text) integration.
-*   **Quantization:** A process of compressing an AI model by reducing the precision of its numbers, allowing it to run on smaller, less powerful hardware.
-*   **Vision-Language Model (VLM):** An AI model that can understand and process both images and text simultaneously.
-*   **MLX:** An open-source framework developed by Apple for efficient machine learning on Apple Silicon chips.
-*   **Llama.cpp:** A popular tool that allows users to run large language models on standard consumer hardware (like a laptop) rather than expensive enterprise servers.
-*   **Benchmarks:** Standardized tests used to measure and compare the performance, speed, and safety of different AI models.
+* **GPT-6 Astra:** A highly advanced multimodal AI model capable of understanding deep context and complex instructions for specialized professional output.
+* **Vision-Language Model (VLM):** An AI system that can "see" images and "read" text simultaneously to understand the world.
+* **Quantization:** A method of shrinking an AI model by reducing the precision of its numbers, allowing it to run faster and use less memory on smaller computers.
+* **Inference:** The process of using a trained AI model to make predictions or generate content.
+* **Color Grading:** The technical process of adjusting the color and tone of a video to achieve a specific mood or professional look.
+* **MLX:** An Apple-specific framework designed to run AI models efficiently on Apple Silicon chips (Macs, iPads).
