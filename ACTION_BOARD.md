@@ -1,23 +1,20 @@
 # AI Action Board
 
-Last Updated: 2026-09-26 01:39:48
+Last Updated: 2026-09-26 07:50:06
 
-1. **Pilot GPT-6 Astra:** Begin a 30-day trial in legal or operations departments to test the increased context-awareness claims.
-2. **Review Cybersecurity:** Evaluate the "Daybreak" program principles for internal infrastructure defense.
-3. **Hardware Assessment:** Assess the feasibility of moving internal LLM tasks to local Apple/NVIDIA-optimized workflows to save on API costs.
+1.  **Evaluate GPT-6 Astra:** Pilot the new Astra model for workflows requiring high context and complex document structure.
+2.  **Audit Benchmarking:** Ensure internal AI projects are using reproducible benchmarks (like EvalEval) rather than static, non-verifiable scores.
+3.  **Local AI Infrastructure:** Investigate the use of MLX and quantized models for on-device AI to reduce data latency and cloud spend.
 
 ## Technology Trends
-- **Multimodal Efficiency:** New models (Liquid AI) are focusing on being faster and smaller rather than just "larger."
-- **Standardization of Safety:** Move toward independent, reproducible benchmarking led by government institutes.
-- **On-Device AI:** The integration of MLX and GGUF quants into mainstream libraries confirms the shift toward "Edge AI."
+*   **Agentic Logistics:** Shift from "chatbots" to "operators" that manage physical fleets and legal pipelines.
+*   **Quantization Dominance:** Making models smaller and faster is becoming as important as making them smarter.
+*   **Governmental AI Safety:** National AI Safety Institutes are becoming the "gold standard" for model verification.
 
 ## Terminology
-
-- **GPT-6 Astra:** The latest advanced model from OpenAI, focused on higher reasoning and better contextual understanding.
-- **Codex:** An AI model designed specifically to help with computer programming and code generation.
-- **Quantization:** A technique to reduce the size of an AI model so it runs faster and uses less memory, usually by reducing the precision of its numbers.
-- **Daybreak:** A specific OpenAI program designed to provide AI tools for cybersecurity and defense.
-- **LFM (Liquid Foundation Model):** A type of AI model that is more computationally efficient and adaptable than the standard "Transformer" architecture.
-- **MLX:** A machine learning framework designed by Apple specifically for high performance on Apple Silicon (M1/M2/M3 chips).
-- **GGUF:** A file format used to store models for inference, optimized for running on CPUs and local hardware.
-- **AISI (AI Safety Institute):** A government-led organization (primarily in the UK) focused on testing and ensuring the safety of advanced AI models.
+*   **GPT-6 Astra:** OpenAI’s latest model iteration, optimized for high reasoning and structured output.
+*   **Quantization:** The process of reducing the precision of a model’s numbers to make it run faster and use less memory.
+*   **MLX:** An open-source framework from Apple designed specifically for efficient machine learning on Apple Silicon.
+*   **llama.cpp:** A popular tool that allows large language models to run on standard CPUs and consumer GPUs using quantization.
+*   **Vision-Language Model (VLM):** An AI model that can understand and process both images and text simultaneously.
+*   **Daybreak:** OpenAI’s specific program dedicated to cybersecurity and civilian infrastructure protection.
