@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-26 13:12:30
+Last Updated: 2026-09-26 17:16:07
 
-- **GPT-6 Astra:** The latest iteration of OpenAI’s model series, designed for higher context-awareness and structural accuracy.
-- **Codex:** An AI model specifically trained to understand and generate computer code.
-- **Quantization:** A technique to reduce the size of an AI model by using less memory to store its parameters, allowing it to run on smaller devices.
-- **llama.cpp:** An open-source project that allows models to run efficiently on standard CPUs and various hardware using quantized formats.
-- **MLX:** Apple’s open-source machine learning framework specifically designed for Apple Silicon (M-series chips).
-- **Vision-Language Model (VLM):** An AI model that can process and understand both images and text simultaneously.
-- **Daybreak:** An OpenAI program specifically aimed at supporting cyber-defense and security initiatives.
-- **Benchmark Reproducibility:** The ability for an independent third party to run the same test on an AI and get the same results.
+*   **GPT-6 Astra:** The latest iteration of OpenAI’s large language model architecture, optimized for better reasoning and context handling.
+*   **Quantization:** A technique that shrinks an AI model by reducing the precision of its internal numbers, allowing it to run on smaller, cheaper computers.
+*   **Vision-Language Model (VLM):** An AI that can process and understand both images and text at the same time.
+*   **MLX:** A machine learning framework designed by Apple for high performance on Apple Silicon (M1/M2/M3 chips).
+*   **Sim-to-Real:** The process of training an AI in a virtual simulation and then transferring that knowledge to a physical robot in the real world.
+*   **Daybreak:** OpenAI’s specific program focused on providing AI resources for cybersecurity and infrastructure protection.
