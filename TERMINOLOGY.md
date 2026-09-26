@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-25 22:28:35
+Last Updated: 2026-09-26 01:39:48
 
-*   **GPT-6 Astra:** The latest high-reasoning model from OpenAI designed for complex, context-heavy tasks.
-*   **Quantization:** A technique to "shrink" AI models so they use less memory and run faster on smaller computers without losing much intelligence.
-*   **Vision-Language Model (VLM):** An AI that can understand and describe what it "sees" in an image or video.
-*   **MLX:** An Apple-designed library for high-performance machine learning on Apple Silicon (M1/M2/M3 chips).
-*   **Benchmark Reproducibility:** The ability for a third party to run the same test on an AI and get the same results, ensuring the developer isn't exaggerating performance.
-*   **Codex:** A specialized AI model designed to understand and write computer code.
-*   **Daybreak Program:** An OpenAI initiative focused on providing AI resources for high-impact cybersecurity defense.
+- **GPT-6 Astra:** The latest advanced model from OpenAI, focused on higher reasoning and better contextual understanding.
+- **Codex:** An AI model designed specifically to help with computer programming and code generation.
+- **Quantization:** A technique to reduce the size of an AI model so it runs faster and uses less memory, usually by reducing the precision of its numbers.
+- **Daybreak:** A specific OpenAI program designed to provide AI tools for cybersecurity and defense.
+- **LFM (Liquid Foundation Model):** A type of AI model that is more computationally efficient and adaptable than the standard "Transformer" architecture.
+- **MLX:** A machine learning framework designed by Apple specifically for high performance on Apple Silicon (M1/M2/M3 chips).
+- **GGUF:** A file format used to store models for inference, optimized for running on CPUs and local hardware.
+- **AISI (AI Safety Institute):** A government-led organization (primarily in the UK) focused on testing and ensuring the safety of advanced AI models.
