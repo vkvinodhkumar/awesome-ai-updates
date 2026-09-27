@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-27 01:33:23
+Last Updated: 2026-09-27 08:21:03
 
-- **GPT-6 Astra:** The latest high-reasoning model iteration from OpenAI, designed for complex context and structured output.
-- **Codex:** An AI model specifically fine-tuned for understanding and generating computer code.
-- **Quantization (Quants):** A technique to shrink AI models so they run on smaller devices (like laptops) without losing significant intelligence.
-- **MLX / oMLX:** An open-source framework by Apple for high-performance machine learning on Apple Silicon chips.
-- **Vision-Language Model (VLM):** An AI that can process and understand both images/video and text at the same time.
-- **Daybreak Program:** OpenAI’s initiative focused on providing cyber-defense capabilities to organizations and governments.
-- **Digital Twin/Simulation:** A virtual environment where AI models (especially for robots) can practice tasks safely and quickly before being deployed in the real world.
+*   **Quantization:** A method of shrinking an AI model by reducing the precision of its internal numbers. It makes the model lighter and faster to run on standard computers.
+*   **Vision-Language Model (VLM):** An AI that can "see" (process images/video) and "speak" (process text) simultaneously, allowing it to describe scenes or follow visual instructions.
+*   **Context-Awareness:** The ability of an AI to understand the specific details and nuance of the task at hand (like specific laws in a legal document) rather than just generating generic text.
+*   **MLX:** An Apple-specific software framework that helps AI models run much faster on Mac computers.
+*   **Simulation (Sim-to-Real):** Training an AI inside a virtual physics environment so that it learns how to act in the real world without breaking real-world equipment.
+*   **Reproducible Benchmarks:** Testing an AI in a way that anyone, anywhere, can follow the same steps and get the exact same results, ensuring the AI isn't "faking" its intelligence.
