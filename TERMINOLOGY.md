@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-27 19:02:34
+Last Updated: 2026-09-27 22:18:57
 
-*   **GPT-6 Astra:** The latest iteration of OpenAI’s model family, designed for higher reasoning and better context awareness.
-*   **Codex:** An AI model specifically trained to write and debug computer code.
-*   **Quantization (Quants):** A process that shrinks an AI model so it takes up less memory and runs faster on standard computers.
-*   **Vision-Language Model (VLM):** An AI that can "see" images/video and "talk" about them in the same system.
-*   **MLX:** An Apple-specific software framework that makes AI run extremely fast on Mac chips (M1/M2/M3).
-*   **Benchmarks:** Standardized tests used to measure how smart or safe an AI model is.
-*   **Robotics Simulation:** A virtual 3D world where robots practice movements thousands of times per second before trying them in the real world.
+*   **GPT-6 Astra / GPT-Live-1:** The newest iterations of OpenAI's models, optimized for higher reasoning and real-time interaction.
+*   **Quantization:** A technique to compress AI models so they take up less memory and run faster on smaller devices.
+*   **MLX:** An array framework designed specifically for machine learning on Apple Silicon (M1/M2/M3 chips).
+*   **Vision-Language Model (VLM):** An AI that can process and understand both images and text simultaneously.
+*   **Daybreak Program:** An OpenAI initiative focused on providing AI resources for humanitarian and defensive cybersecurity efforts.
+*   **GGUF:** A file format used for storing models for local inference, particularly popular in the llama.cpp community.
