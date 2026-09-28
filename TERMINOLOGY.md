@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-09-28 08:47:19
+Last Updated: 2026-09-28 17:42:56
 
-- **GPT-6 Astra:** OpenAI’s latest high-reasoning model focused on structure and context.
-- **Quantization:** A technique to compress AI models so they run on smaller, cheaper hardware.
-- **Vision-Language Model (VLM):** An AI that can see images and speak/write about them simultaneously.
-- **MLX:** A machine learning framework designed specifically for high performance on Apple Silicon.
-- **Benchmarking:** Standardized tests used to compare the "intelligence" or safety of different AI models.
-- **Llama.cpp:** A popular tool that allows large models to run efficiently on standard computer processors (CPUs).
+- Unable to generate terminology.
+
+
+Last Error:
+
+404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
