@@ -1,20 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-09-27 22:18:57
+Last Updated: 2026-09-28 01:45:16
 
-1.  **Audit Drafting Workflows:** Review legal and operational document workflows for potential automation via GPT-6 Astra.
-2.  **Evaluate Local Hardware:** Assess if internal developers can move to MLX-optimized environments to save on cloud compute costs.
-3.  **Monitor AI Safety Standards:** Assign a team to track the UK AISI and UN Security Council outputs to stay ahead of upcoming compliance requirements.
+1. **Pilot GPT-6 Astra:** Investigate use cases in high-context departments (Legal, Ops) where "Astra" level reasoning can reduce manual drafting.
+2. **Standardize Evaluation:** Adopt the UK AISI/EvalEval standards for internal AI testing to ensure model performance is genuine.
+3. **Hardware Assessment:** Evaluate whether Apple Silicon or local GPU clusters can now handle workloads previously outsourced to the cloud, utilizing new quantization support.
 
 ## Technology Trends
-*   **Multimodal Velocity:** There is a concentrated effort to make Vision-Language Models (VLMs) faster and more efficient for real-world sensing.
-*   **Quantization as Standard:** Reducing model size (quantization) is no longer a niche hobbyist activity but a standard part of the enterprise deployment pipeline.
-*   **Simulation-First Robotics:** The gap between digital simulation and physical robotics is closing due to tools like NVIDIA Warp.
+- **Context-Aware Drafting:** Moving from simple "chat" to generating complex, structured documents that understand industry-specific nuances (Legal/Logistics).
+- **Quantization & Accessibility:** A massive trend toward making models smaller and faster (llama.cpp) without losing intelligence.
+- **Robotics Simulation:** Using high-performance GPU kernels (NVIDIA Warp) to train AI in digital twins before deploying to the physical world.
 
 ## Terminology
-*   **GPT-6 Astra / GPT-Live-1:** The newest iterations of OpenAI's models, optimized for higher reasoning and real-time interaction.
-*   **Quantization:** A technique to compress AI models so they take up less memory and run faster on smaller devices.
-*   **MLX:** An array framework designed specifically for machine learning on Apple Silicon (M1/M2/M3 chips).
-*   **Vision-Language Model (VLM):** An AI that can process and understand both images and text simultaneously.
-*   **Daybreak Program:** An OpenAI initiative focused on providing AI resources for humanitarian and defensive cybersecurity efforts.
-*   **GGUF:** A file format used for storing models for local inference, particularly popular in the llama.cpp community.
+
+- **GPT-6 Astra:** The latest iteration of OpenAI’s model family, noted for higher reasoning capabilities and structured output.
+- **Quantization:** A technique to compress AI models by reducing the precision of their numbers, allowing them to run on less powerful hardware.
+- **llama.cpp:** A popular open-source project that allows LLMs to run efficiently on standard CPUs and consumer GPUs.
+- **MLX:** An open-source framework from Apple for machine learning on Apple Silicon (M1/M2/M3 chips).
+- **VLM (Vision-Language Model):** An AI model that can understand and process both text and images simultaneously.
+- **Daybreak Program:** An OpenAI initiative focused on providing AI resources for cybersecurity and public safety.
+- **Sim-to-Real:** The process of training an AI in a digital simulation and then transferring that "brain" into a physical robot.

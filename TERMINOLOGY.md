@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-27 22:18:57
+Last Updated: 2026-09-28 01:45:16
 
-*   **GPT-6 Astra / GPT-Live-1:** The newest iterations of OpenAI's models, optimized for higher reasoning and real-time interaction.
-*   **Quantization:** A technique to compress AI models so they take up less memory and run faster on smaller devices.
-*   **MLX:** An array framework designed specifically for machine learning on Apple Silicon (M1/M2/M3 chips).
-*   **Vision-Language Model (VLM):** An AI that can process and understand both images and text simultaneously.
-*   **Daybreak Program:** An OpenAI initiative focused on providing AI resources for humanitarian and defensive cybersecurity efforts.
-*   **GGUF:** A file format used for storing models for local inference, particularly popular in the llama.cpp community.
+- **GPT-6 Astra:** The latest iteration of OpenAI’s model family, noted for higher reasoning capabilities and structured output.
+- **Quantization:** A technique to compress AI models by reducing the precision of their numbers, allowing them to run on less powerful hardware.
+- **llama.cpp:** A popular open-source project that allows LLMs to run efficiently on standard CPUs and consumer GPUs.
+- **MLX:** An open-source framework from Apple for machine learning on Apple Silicon (M1/M2/M3 chips).
+- **VLM (Vision-Language Model):** An AI model that can understand and process both text and images simultaneously.
+- **Daybreak Program:** An OpenAI initiative focused on providing AI resources for cybersecurity and public safety.
+- **Sim-to-Real:** The process of training an AI in a digital simulation and then transferring that "brain" into a physical robot.
