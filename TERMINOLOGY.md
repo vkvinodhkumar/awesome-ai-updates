@@ -1,9 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-09-29 05:51:50
+Last Updated: 2026-09-29 13:03:59
 
-*   **Computer-use agents:** AI systems that can move a mouse, click buttons, and type into applications like a human would.
-*   **Quants (Quantization):** A process of shrinking an AI model by reducing the precision of its internal numbers, allowing it to run on hardware with less memory.
-*   **Vision-Language Model (VLMs):** An AI capable of "seeing" (analyzing images) and "reading" (processing text) simultaneously.
-*   **Benchmark:** A standardized test used to compare the intelligence or speed of different AI models.
-*   **Reproducible:** In AI research, this means another person can follow the exact same steps and get the same results, proving the original claim was true.
+*   **GPT-6 Astra:** A hypothetical/next-generation large language model exhibiting advanced reasoning and speed.
+*   **Safety Case:** A structured argument, supported by evidence, that a system is safe for a specific application.
+*   **Computer-Use Agent:** An AI that can view a screen and interact with a computer (clicking, typing) like a human.
+*   **Quantization:** A technique to compress an AI model so it takes up less memory and runs faster on smaller devices.
+*   **Vision-Language Model (VLM):** An AI capable of understanding and describing images as well as text.
+*   **Sim-to-Real:** The process of training an AI in a virtual simulation before moving it into a physical robot.
+*   **GGUF:** A file format used to store models for inference, optimized for running on CPUs and consumer GPUs.
