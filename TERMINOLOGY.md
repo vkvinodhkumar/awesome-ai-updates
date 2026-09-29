@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-09-28 23:22:50
+Last Updated: 2026-09-29 05:51:50
 
-- Unable to generate terminology.
-
-
-Last Error:
-
-404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+*   **Computer-use agents:** AI systems that can move a mouse, click buttons, and type into applications like a human would.
+*   **Quants (Quantization):** A process of shrinking an AI model by reducing the precision of its internal numbers, allowing it to run on hardware with less memory.
+*   **Vision-Language Model (VLMs):** An AI capable of "seeing" (analyzing images) and "reading" (processing text) simultaneously.
+*   **Benchmark:** A standardized test used to compare the intelligence or speed of different AI models.
+*   **Reproducible:** In AI research, this means another person can follow the exact same steps and get the same results, proving the original claim was true.
