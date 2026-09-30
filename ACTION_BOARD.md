@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-29 23:01:13
+Last Updated: 2026-09-30 02:11:07
 
-1. **Audit AI Costs:** Review current API expenditures; transition non-critical professional workflows to GPT-6.1 Sol to capture 80% cost savings.
-2. **Implement Source Verification:** Incorporate source-aware verification tools for any AI application used in decision-critical or compliance-heavy roles.
-3. **Formalize Safety:** Begin drafting internal "safety cases" for high-autonomy projects to align with emerging industry standards.
+1.  **Cost Audit:** Evaluate current GPT-4/5 usage and identify tasks (especially coding) that can be migrated to **GPT-6.1 Sol** to save costs.
+2.  **Agent Pilot:** Launch a small-scale pilot using **"dots"** for non-critical project management to test proactive AI workflows.
+3.  **Compliance Alignment:** Review internal AI training and deployment against the new **"Safety Case"** framework to prepare for future regulation.

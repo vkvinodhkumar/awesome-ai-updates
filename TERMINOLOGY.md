@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-29 23:01:13
+Last Updated: 2026-09-30 02:11:07
 
-* **Astra:** OpenAI’s flagship, most powerful intelligence model (the "brain" of the ecosystem).
-* **Agentic:** Describes AI that doesn't just talk, but takes action and manages projects independently.
-* **Safety Case:** A structured, documented argument that a system is safe to operate under specific conditions.
-* **Tabular Prediction:** AI technology specialized in predicting outcomes based on structured, row-and-column data (like Excel files).
-* **MCP (Model Context Protocol):** A standard allowing AI models to communicate effectively with external data sources and tools.
-* **Vision-Language Model (VLM):** An AI model capable of "seeing" and understanding images/video as well as reading text.
-* **Benchmark:** A standard test used to compare the performance and capabilities of different AI models.
+*   **GPT-6 Astra:** OpenAI’s newest, most powerful flagship AI model.
+*   **GPT-6.1 Sol:** A "mini" version of GPT-6 optimized for speed, cost, and specific tasks like coding.
+*   **Dots:** Proactive AI agents that can work on projects independently over long periods.
+*   **Computer-Use Agent:** AI that can control a computer (moving the mouse, clicking, typing) just like a human.
+*   **Safety Case:** A structured argument, supported by evidence, that a system is safe to operate in its intended environment.
+*   **Tabular Prediction:** AI models used to predict outcomes based on data organized in tables (like Excel files).
+*   **MCP (Model Context Protocol):** A standard that helps AI models connect to and understand the context of various data sources.
+*   **Reproducibility:** The ability for an independent team to run the same test on an AI and get the same results, ensuring the AI’s performance isn't being exaggerated.
