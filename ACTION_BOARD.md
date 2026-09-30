@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-09-30 02:11:07
+Last Updated: 2026-09-30 08:41:24
 
-1.  **Cost Audit:** Evaluate current GPT-4/5 usage and identify tasks (especially coding) that can be migrated to **GPT-6.1 Sol** to save costs.
-2.  **Agent Pilot:** Launch a small-scale pilot using **"dots"** for non-critical project management to test proactive AI workflows.
-3.  **Compliance Alignment:** Review internal AI training and deployment against the new **"Safety Case"** framework to prepare for future regulation.
+1.  **Audit API Usage:** Evaluate if current GPT-4o or GPT-5 workloads can be migrated to GPT-6.1 Sol to save costs.
+2.  **Pilot "Dots":** Identify one complex, multi-week project to test OpenAI’s proactive assistants for administrative overhead reduction.
+3.  **Safety Benchmarking:** Adopt the EvalEval/UK AISI standards for internal model testing to ensure performance metrics are accurate.

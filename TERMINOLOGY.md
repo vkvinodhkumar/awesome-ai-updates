@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-30 02:11:07
+Last Updated: 2026-09-30 08:41:24
 
-*   **GPT-6 Astra:** OpenAI’s newest, most powerful flagship AI model.
-*   **GPT-6.1 Sol:** A "mini" version of GPT-6 optimized for speed, cost, and specific tasks like coding.
-*   **Dots:** Proactive AI agents that can work on projects independently over long periods.
-*   **Computer-Use Agent:** AI that can control a computer (moving the mouse, clicking, typing) just like a human.
-*   **Safety Case:** A structured argument, supported by evidence, that a system is safe to operate in its intended environment.
-*   **Tabular Prediction:** AI models used to predict outcomes based on data organized in tables (like Excel files).
-*   **MCP (Model Context Protocol):** A standard that helps AI models connect to and understand the context of various data sources.
-*   **Reproducibility:** The ability for an independent team to run the same test on an AI and get the same results, ensuring the AI’s performance isn't being exaggerated.
+*   **GPT-6 Astra:** OpenAI’s flagship, highest-performing model of the GPT-6 generation.
+*   **GPT-6.1 Sol:** A high-efficiency version of GPT-6 optimized for cost and computer-interface tasks.
+*   **Dots:** Proactive AI agents that can manage and execute long-term tasks without constant prompting.
+*   **Computer-Use (CU) Agents:** AI models capable of looking at a computer screen and interacting with it like a human.
+*   **MCP (Model Context Protocol):** A standard for how AI models connect to and retrieve data from various external tools and databases.
+*   **Tabular Prediction:** Using AI to predict values within structured data, such as Excel sheets or SQL databases.
+*   **Vision-Language Model (VLM):** An AI that can process and understand both images/video and text simultaneously.
+*   **Safety Case:** A structured argument, backed by evidence, that a system is safe to operate in a specific context.
