@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-01 14:35:20
+Last Updated: 2026-10-01 20:23:19
 
-- **Model Distillation:** A process where a smaller or competing model "learns" from a larger, more advanced model by analyzing its outputs.
-- **Agentic AI:** AI that can take proactive actions to achieve a goal, rather than just responding to prompts.
-- **Tokens (Input/Output):** The basic units of text or code that an AI processes; the "currency" of AI usage.
-- **MCP (Model Context Protocol):** A standard that allows AI models to connect more easily to different data sources and tools.
-- **Tabular Prediction:** Using AI to analyze structured data (like Excel files) to predict future trends.
-- **TTS (Text-to-Speech):** Technology that converts written text into spoken audio.
-- **VLM (Vision-Language Model):** An AI model that can understand both text and visual information (images/video) simultaneously.
+*   **Model Distillation:** The process of training a smaller, cheaper AI model using the outputs of a larger, more expensive "teacher" model.
+*   **Mixture-of-Experts (MoE):** An AI architecture where only a fraction of the model's parameters are used for any given input, making it faster and more efficient.
+*   **MCP (Model Context Protocol):** A standard that helps AI models connect to external data sources and tools consistently.
+*   **Computer-Use Agents:** AI systems capable of interacting with a computer's user interface (clicking buttons, typing, moving files) just as a human would.
+*   **TTS (Text-to-Speech):** Technology that converts written text into human-like spoken voice.
+*   **Tabular Prediction:** AI specifically designed to analyze data organized in tables (like Excel sheets or SQL databases).
