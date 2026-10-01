@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-09-30 20:55:35
+Last Updated: 2026-10-01 00:37:01
 
-- **Model-Distillation:** The act of using a powerful AI model to teach a smaller, cheaper one, essentially "cloning" its knowledge.
-- **Astra:** OpenAI’s flagship, high-capability model family.
-- **Agentic:** AI that can take independent action to complete a goal rather than just providing a text answer.
-- **Tabular Prediction:** Using AI to analyze structured data (like Excel files or SQL databases) to predict future trends.
-- **MCP (Model Context Protocol):** A standard for connecting AI agents to external data sources and tools.
-- **Vision-Language Model (VLM):** An AI capable of both "seeing" and understanding images and "reading" and generating text.
+*   **Model Distillation:** A process where a smaller, "student" model is trained to mimic the behavior and reasoning of a larger, "teacher" model.
+*   **GPT-6 Astra:** OpenAI’s most powerful flagship model, capable of high-level multimodal reasoning.
+*   **GPT-6.1 Sol:** A specialized version of GPT-6 optimized for speed and cost-efficiency in professional and technical tasks.
+*   **Dots:** Proactive AI agents that work autonomously across various tasks and apps without needing constant prompts.
+*   **MCP (Model Context Protocol):** A standard that allows AI agents to interact with various data sources and tools consistently.
+*   **Computer-Use Agents:** AI systems designed to interact directly with a computer's user interface (UI) to perform tasks like a human.
+*   **Vision-Language Model (VLM):** An AI model that can understand and reason about both visual information (images/video) and text.
+*   **Tabular Prediction:** AI-driven analysis performed on data organized in tables (like Excel or SQL databases).
