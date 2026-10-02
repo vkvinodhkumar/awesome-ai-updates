@@ -1,7 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-10-02 19:24:10
+Last Updated: 2026-10-02 23:51:19
 
-1.  **Audit Workflows:** Map out internal processes (like trade validation or report generation) to identify tasks where AI can reduce "completion time" from days to hours.
-2.  **Explore MCP:** Investigate the Model Context Protocol for any customer-facing agents to ensure high-accuracy, source-verified responses.
-3.  **Evaluate Tabular AI:** Use NVIDIA’s new tabular benchmarks to improve existing forecasting and database-driven analytics.
+1.  **Audit Workflows:** Identify "routine-heavy" tasks (like Chatham’s trade validation) for immediate AI pilot programs.
+2.  **Evaluate GPT-6 Integration:** Begin exploring "reasoning effort" settings to optimize cost vs. performance for internal apps.
+3.  **Invest in Verification:** If deploying agents, ensure they utilize Source-Aware Verification to maintain institutional trust.
+4.  **Explore Synthetic Data:** Review ServiceNow’s AutoSynthData for training internal models where real-world data is scarce or sensitive.
