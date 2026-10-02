@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-01 20:23:19
+Last Updated: 2026-10-02 00:53:02
 
-*   **Model Distillation:** The process of training a smaller, cheaper AI model using the outputs of a larger, more expensive "teacher" model.
-*   **Mixture-of-Experts (MoE):** An AI architecture where only a fraction of the model's parameters are used for any given input, making it faster and more efficient.
-*   **MCP (Model Context Protocol):** A standard that helps AI models connect to external data sources and tools consistently.
-*   **Computer-Use Agents:** AI systems capable of interacting with a computer's user interface (clicking buttons, typing, moving files) just as a human would.
-*   **TTS (Text-to-Speech):** Technology that converts written text into human-like spoken voice.
-*   **Tabular Prediction:** AI specifically designed to analyze data organized in tables (like Excel sheets or SQL databases).
+- **Model Distillation:** A process where a smaller or different model is trained to mimic the behavior and "knowledge" of a larger, more complex model.
+- **Mixture-of-Experts (MoE):** An AI architecture where only a specific part of the model (an "expert") is activated for a given task, making it more efficient and faster.
+- **Text-to-Speech (TTS):** Technology that converts written text into spoken audio.
+- **Tabular Prediction:** Using AI to predict outcomes based on data organized in tables (like spreadsheets), such as predicting sales or customer churn.
+- **MCP (Model Context Protocol):** A standard that helps AI agents connect to different data sources and tools consistently.
+- **Computer-Use Agents:** AI systems designed to interact with a computer’s operating system and software (clicking, typing, scrolling) to complete tasks.
