@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-03 19:59:47
+Last Updated: 2026-10-03 23:09:44
 
-1.  **Audit Workflows:** Identify "high-friction" administrative tasks (like trade validation or licensing) for automation using reasoning-focused models.
-2.  **Evaluate Tabular Tools:** Review NVIDIA’s Kumo Tabular for internal data science teams to improve forecasting accuracy.
-3.  **Implement Source Verification:** Ensure any AI agents deployed for internal use utilize "source-aware" protocols to maintain data integrity.
+1. **Audit Workflows:** Identify "routine but complex" tasks (like trade validation or report generation) for immediate AI pilot programs.
+2. **Implement "Reasoning Gates":** Use lower-tier models for simple tasks and reserve "high-reasoning" GPT-6 settings for complex strategy or coding.
+3. **Validate Agent Actions:** If deploying AI agents, ensure they have "ground truth" validation steps to check databases after an action is "claimed."
