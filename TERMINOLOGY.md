@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-03 05:27:00
+Last Updated: 2026-10-03 11:48:41
 
-- **GPT-6/5.6:** The latest iterations of Large Language Models (LLMs) featuring advanced reasoning and longer logical chains.
-- **MCP (Model Context Protocol):** A standardized way for AI models to connect securely to data sources like Google Drive, Slack, or company databases.
-- **Synthetic Data:** Data created by an AI, rather than collected from real-world events, used to train other AI models safely.
-- **Tabular Data:** Information organized in rows and columns (like a spreadsheet); historically difficult for AI to process compared to text.
-- **Reasoning Effort:** A setting in advanced AI models that allows the user to determine how much computing power/logic the model should use for a specific task.
-- **Voice Cloning:** Using AI to create a digital version of a specific human voice based on a short audio sample.
+- **Reasoning Effort:** A setting that allows a user to dictate how much time or computational power a model should spend "thinking" before providing an answer.
+- **GPT-5.6 / GPT-6:** Refers to the next generation of Large Language Models following GPT-4, offering higher reasoning and efficiency.
+- **Codex:** An AI model designed specifically to help with programming and code generation.
+- **Synthetic Data:** Information that is computer-generated rather than collected from real-world events, used to train AI models safely.
+- **Tabular Data:** Data organized in rows and columns, such as spreadsheets or database tables.
+- **MCP (Model Context Protocol):** A standard that allows AI models to connect securely and consistently to external data sources and tools.
+- **Voice Cloning:** The process of using AI to create a synthetic version of a specific human voice.
+- **Source-Aware Verification:** The ability of an AI to track and confirm the exact origin of a piece of information to ensure accuracy.
