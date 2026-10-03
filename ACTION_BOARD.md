@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-03 16:29:38
+Last Updated: 2026-10-03 19:59:47
 
-1.  **Audit Workflows:** Identify "routine" administrative tasks that currently bottleneck high-value projects.
-2.  **Evaluate Reasoning Needs:** Determine which internal processes require "high reasoning" (GPT-6 style) versus simple text generation.
-3.  **Implement Source Verification:** Ensure any agent-based deployments include protocols for fact-checking and source-sourcing to maintain brand trust.
+1.  **Audit Workflows:** Identify "high-friction" administrative tasks (like trade validation or licensing) for automation using reasoning-focused models.
+2.  **Evaluate Tabular Tools:** Review NVIDIA’s Kumo Tabular for internal data science teams to improve forecasting accuracy.
+3.  **Implement Source Verification:** Ensure any AI agents deployed for internal use utilize "source-aware" protocols to maintain data integrity.
