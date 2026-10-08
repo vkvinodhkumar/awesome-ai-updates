@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-08 16:36:33
+Last Updated: 2026-10-08 22:11:04
 
-- **Intelligent UI:** A user interface that uses AI to generate interactive elements (charts, buttons, widgets) dynamically rather than just text.
-- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-- **Edge Computing:** Processing data on local devices (like a phone or robot) instead of sending it to a central cloud server.
-- **Multimodal:** The ability of an AI model to process multiple types of data, such as text, images, and audio, simultaneously.
-- **Agentic Workflow:** A process where an AI "agent" takes autonomous steps to complete a complex goal (e.g., "Plan and book a trip").
-- **Quant Research (Quantitative Research):** Using mathematical and statistical modeling to analyze large datasets, common in high-frequency trading.
+*   **Codex:** A model specifically designed to translate natural language into computer code.
+*   **Multimodal:** The ability of an AI to process and generate different types of data (e.g., text, images, and video) simultaneously.
+*   **Edge Computing:** Processing data locally on a device (like a phone or a robot) rather than sending it to a centralized cloud server.
+*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+*   **Fine-Tuning:** The process of taking a pre-trained AI and giving it extra training on a specific topic to make it an expert in that area.
+*   **Influence Operations:** Coordinated efforts by actors (often state-sponsored) to manipulate public opinion using deceptive tactics.
+*   **Agentic AI:** AI that can not only talk but also execute multi-step tasks (like booking a flight or updating a database).
