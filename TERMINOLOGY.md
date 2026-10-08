@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-07 21:22:29
+Last Updated: 2026-10-08 02:02:53
 
-- **Intelligent UI:** A user interface that changes dynamically based on what the AI is doing, using charts, buttons, or interactive maps instead of just text.
-- **Multimodal:** The ability of an AI to understand and process different types of input at once, such as text, images, and video.
-- **Edge Models:** AI models that run directly on a user's device (like a laptop or phone) instead of on a massive server in the cloud.
-- **Synthetic Data:** Information that is created by an AI to train another AI, rather than using data created by humans.
-- **Formalization (Lean):** Converting human mathematical ideas into a computer-readable code (Lean) that can be perfectly verified for accuracy.
-- **Agentic AI:** AI that can take actions (like booking a room or updating a database) rather than just providing information.
+*   **GPT-6:** The latest generation of OpenAI’s Large Language Model, emphasizing speed and interactive UI.
+*   **Intelligent UI:** A user interface that adapts dynamically, providing interactive elements like buttons or graphs instead of just plain text.
+*   **Multimodal:** The ability of an AI to process multiple types of input (text, images, video) simultaneously.
+*   **Edge AI:** Running AI models locally on a device (like a phone or robot) rather than on a remote cloud server.
+*   **Synthetic Data:** Information that is computer-generated (by an AI) rather than created by real-world events, used to train other AI models.
+*   **Lean:** A mathematical programming language used to verify that a mathematical proof is 100% correct.
+*   **AI Agent:** An AI system designed to autonomously perform a sequence of tasks to reach a specific goal (e.g., booking a hotel).
+*   **IOI/IMO:** International Olympiad in Informatics / International Mathematical Olympiad; the highest level of competition for students used as benchmarks for AI "intelligence."
