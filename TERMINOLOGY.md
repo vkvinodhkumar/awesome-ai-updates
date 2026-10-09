@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-09 02:16:35
+Last Updated: 2026-10-09 09:19:10
 
-- **Codex:** An AI model specifically designed to understand and generate computer code.
-- **Model Routing:** The process of automatically sending a user's request to the cheapest or fastest AI model capable of handling that specific request.
-- **Multimodal:** An AI’s ability to process and understand different types of input simultaneously, such as text, images, and video.
-- **Edge AI:** Running AI algorithms locally on a device (like a phone or a robot) rather than on a remote server.
-- **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Agentic AI:** AI systems that don't just talk, but can take actions (like updating a database or booking a flight) to complete a goal.
-- **False Front Operations:** Deceptive campaigns that use AI to create fake but realistic organizations or individuals to influence public opinion.
+*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
+*   **Edge Computing:** Processing data near the source of the data (on the device) rather than in a centralized cloud-based data center.
+*   **ASR (Automatic Speech Recognition):** The technology that allows a computer to identify and translate spoken language into text.
+*   **Multimodal:** AI models that can process and understand multiple types of input (e.g., text, images, and audio) simultaneously.
+*   **IOI / IMO:** International Olympiad in Informatics and International Mathematical Olympiad; the highest-level world competitions for students.
+*   **Model Tiering:** The practice of using different sizes/costs of AI models based on the complexity of the task to save money.
+*   **False Front Operations:** Deceptive campaigns using fake personas (journalists, experts) to influence public opinion.
+*   **Agentic AI:** AI systems designed to take actions and complete multi-step goals autonomously.
