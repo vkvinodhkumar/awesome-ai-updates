@@ -1,12 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-10-09 09:19:10
+Last Updated: 2026-10-09 17:02:52
 
-*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
-*   **Edge Computing:** Processing data near the source of the data (on the device) rather than in a centralized cloud-based data center.
-*   **ASR (Automatic Speech Recognition):** The technology that allows a computer to identify and translate spoken language into text.
-*   **Multimodal:** AI models that can process and understand multiple types of input (e.g., text, images, and audio) simultaneously.
-*   **IOI / IMO:** International Olympiad in Informatics and International Mathematical Olympiad; the highest-level world competitions for students.
-*   **Model Tiering:** The practice of using different sizes/costs of AI models based on the complexity of the task to save money.
-*   **False Front Operations:** Deceptive campaigns using fake personas (journalists, experts) to influence public opinion.
-*   **Agentic AI:** AI systems designed to take actions and complete multi-step goals autonomously.
+- **Daybreak:** A specialized OpenAI framework or toolset utilized for high-speed threat investigation and automation.
+- **MDR (Managed Detection and Response):** A cybersecurity service that combines technology and human expertise to hunt for and respond to threats.
+- **Astra / Sol / Luna:** Reference names for different tiers of AI models, usually varying in size, capability, and cost.
+- **Codex:** An OpenAI model specifically designed to understand and generate computer code.
+- **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a remote cloud server.
+- **Multimodal:** The ability of an AI to process and understand different types of input simultaneously, such as text, images, and audio.
+- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+- **GPU Cluster:** A group of many Graphics Processing Units working together to provide the massive computing power needed for AI tasks.
+- **Fine-Tuning:** The process of taking a pre-trained AI model and training it further on a specific dataset to make it an expert in a certain task.
