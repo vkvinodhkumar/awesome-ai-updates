@@ -1,24 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-10-09 21:46:18
+Last Updated: 2026-10-10 01:48:44
 
-1.  **Conduct an AI Audit:** Evaluate current LLM usage to see if high-cost models are being used for "low-logic" tasks that could be handled by cheaper tiers.
-2.  **Explore Agentic Workflows:** Following Asana’s lead, pilot "browser agents" for repetitive administrative tasks.
-3.  **Invest in Fine-Tuning:** Assess whether a "custom-built" model (via Hugging Face) would provide a better ROI than a general-purpose subscription for core business functions.
+1.  **Audit Model Usage:** Review current AI workflows to see if tasks currently handled by expensive models can be routed to "Sol" or "Luna" class models.
+2.  **Invest in AIOps:** Explore automating routine investigations in security and IT using the "Daybreak" or "Codex" frameworks.
+3.  **Evaluate Custom Fine-Tuning:** Assess whether building a bespoke model for core business logic (similar to NVIDIA or LegalOn) provides a better ROI than general-purpose APIs.
 
 ## Technology Trends
-
-*   **Model Orchestration:** The shift from using one "large" model to a "router" that picks the cheapest/fastest model for a specific task.
-*   **Agentic AI:** AI that doesn't just "chat" but actually performs actions in a browser or software environment (e.g., Asana).
-*   **Domain-Specific Fine-Tuning:** Moving away from "all-in-one" models toward models tuned for high-level math (Nemotron) or legal work (LegalOn).
-*   **ASR Democratization:** Rapid improvement in open-source speech recognition, making voice-to-text cheaper and more local.
+1.  **Model Tiering:** Moving away from a "one-model-fits-all" approach to a tiered system (Astra/Sol/Luna) based on task complexity.
+2.  **Hyper-Automation of Specialists:** AI is no longer just for general chat; it is being used to automate deep specialist work (Legal, Cyber-Security, Math).
+3.  **Edge-First AI:** A move toward running multimodal models locally on devices to ensure speed and privacy.
 
 ## Terminology
 
-*   **Codex:** An OpenAI platform/environment used for building and managing AI-powered applications.
-*   **Astra / Sol / Luna:** Tiers of the GPT-6 model family, varying in size, speed, and cost (Luna being the smallest/cheapest, Astra being the most powerful).
-*   **MDR (Managed Detection and Response):** A cybersecurity service that hunts for and mitigates threats.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a centralized cloud server.
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **Multimodal:** An AI's ability to process and understand different types of input simultaneously (e.g., text, images, and audio).
-*   **Fine-Tuning:** The process of taking a pre-trained AI model and training it further on a specific dataset to make it an expert in a certain field.
+- **OpenAI Daybreak:** A specialized suite of tools from OpenAI focused on high-speed cybersecurity and threat analysis.
+- **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
+- **Model Orchestration:** The process of automatically routing a task to the most cost-effective and capable AI model available.
+- **Edge Models:** AI models designed to run on local devices (like a phone or a drone) rather than in a massive data center.
+- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+- **Fine-Tuning:** The process of taking a pre-trained AI model and "training" it further on a specific dataset to make it an expert in one area.
+- **GPU Cluster:** A group of high-powered computers (using Graphics Processing Units) working together to process AI tasks.

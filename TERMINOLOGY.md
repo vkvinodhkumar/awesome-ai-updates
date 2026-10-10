@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-09 21:46:18
+Last Updated: 2026-10-10 01:48:44
 
-*   **Codex:** An OpenAI platform/environment used for building and managing AI-powered applications.
-*   **Astra / Sol / Luna:** Tiers of the GPT-6 model family, varying in size, speed, and cost (Luna being the smallest/cheapest, Astra being the most powerful).
-*   **MDR (Managed Detection and Response):** A cybersecurity service that hunts for and mitigates threats.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a centralized cloud server.
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **Multimodal:** An AI's ability to process and understand different types of input simultaneously (e.g., text, images, and audio).
-*   **Fine-Tuning:** The process of taking a pre-trained AI model and training it further on a specific dataset to make it an expert in a certain field.
+- **OpenAI Daybreak:** A specialized suite of tools from OpenAI focused on high-speed cybersecurity and threat analysis.
+- **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
+- **Model Orchestration:** The process of automatically routing a task to the most cost-effective and capable AI model available.
+- **Edge Models:** AI models designed to run on local devices (like a phone or a drone) rather than in a massive data center.
+- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+- **Fine-Tuning:** The process of taking a pre-trained AI model and "training" it further on a specific dataset to make it an expert in one area.
+- **GPU Cluster:** A group of high-powered computers (using Graphics Processing Units) working together to process AI tasks.
