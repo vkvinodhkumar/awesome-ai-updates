@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-10 08:37:59
+Last Updated: 2026-10-10 15:27:32
 
-1.  **Audit API Usage:** Identify tasks currently running on high-cost models that could be migrated to GPT-6 "Sol" or "Luna" for immediate savings.
-2.  **Explore SecOps Automation:** Review the Sophos "Daybreak" case study to determine if internal cybersecurity incident response can be accelerated through similar OpenAI integrations.
-3.  **Evaluate Edge Solutions:** For hardware or mobile-based products, assess Liquid AI’s Open d1 for local, multimodal processing.
+1.  **Conduct a Model Audit:** Evaluate current AI implementations to see if "High-Reasoning" models are being used for "Low-Logic" tasks. Transition simpler tasks to lower-cost tiers (like Sol or Luna).
+2.  **Invest in Edge Capability:** For products requiring low latency or high privacy, explore the integration of models like "open d1."
+3.  **Standardize Workflows:** Follow Oracle’s lead in documenting specialist knowledge into AI-driven repeatable workflows to mitigate the impact of staff turnover.
