@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-10 15:27:32
+Last Updated: 2026-10-10 20:09:34
 
-*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
-*   **Codex:** In this context, a platform or framework used to manage and deploy multiple AI model variants.
-*   **Astra / Sol / Luna:** Specific naming conventions for different "tiers" of an AI model family, usually ranging from most powerful (Astra) to most efficient (Luna).
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a centralized cloud server.
-*   **Multimodal:** An AI's ability to process and understand different types of data simultaneously (e.g., text, images, and audio).
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **GPU Cluster Scheduling:** The process of efficiently managing how a group of powerful computer chips (GPUs) share the workload of training or running AI.
-*   **Fine-Tuning:** The process of taking a pre-trained AI model and giving it extra training on a specific dataset to make it an expert in a certain field.
+- **Daybreak:** A specialized OpenAI framework/tool optimized for high-speed analysis and cybersecurity threat detection.
+- **Codex:** An AI framework used to build and manage automated workflows and programming tasks.
+- **Astra / Sol / Luna:** Specific tiers or versions of OpenAI models, likely categorized by their size, speed, and cost (e.g., Astra for high performance, Luna for lightweight tasks).
+- **MDR (Managed Detection and Response):** A cybersecurity service that combines technology and human expertise to hunt for and respond to threats.
+- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+- **Edge AI:** Running AI algorithms locally on a device (like a phone or a sensor) rather than on a remote cloud server.
+- **Multimodal:** The ability of an AI to process and generate different types of data, such as text, images, and video, simultaneously.
+- **GPU Scheduling:** The process of efficiently allocating graphics processing unit (computer chip) resources to various AI tasks.
