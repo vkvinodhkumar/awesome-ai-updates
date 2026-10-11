@@ -1,26 +1,39 @@
 # Executive Meeting Brief
 
-- **Key Developments:** Enterprise AI has moved from "experimentation" to "extreme optimization." Model families (Astra, Sol, Luna) now allow for task-specific routing, significantly lowering the "AI tax" on operations.
-- **Risks:** Over-reliance on proprietary "Work" ecosystems (Oracle/OpenAI) may lead to vendor lock-in. Additionally, the speed of investigation (Sophos) requires robust guardrails to prevent automated errors from scaling.
-- **Opportunities:** There is a massive opportunity to deploy "Edge AI" (LiquidAI) for real-time applications where cloud latency is unacceptable.
-- **Recommended Actions:**
-    1.  Conduct a "Model Audit" to see if current tasks can be shifted from high-cost models to lower-cost tiers (Sol/Luna).
-    2.  Explore fine-tuning (Nemotron approach) for core business logic to gain a competitive edge in accuracy.
-    3.  Assess GPU scheduling efficiency to ensure internal compute resources are not being wasted.
+### Key Developments
+- **Radical Efficiency:** Enterprise leaders are seeing 90%+ time savings in specialized fields (Cybersecurity, Engineering).
+- **Cost Collapse:** New model architectures (Sol, Astra) and "model tiering" are making AI 65% to 76% cheaper to run.
+- **Reasoning Breakthroughs:** Models are now competing at the highest levels of human mathematical and informatics logic.
+
+### Risks
+- **Model Fragmentation:** Managing multiple models (Sol, Astra, Luna, etc.) adds architectural complexity.
+- **Human Displacement vs. Oversight:** While Sophos maintains oversight, the 96% reduction in manual labor requires careful workforce restructuring.
+
+### Opportunities
+- **Agentic Workflows:** The cost reduction in browser agents (Asana) opens the door for wide-scale deployment of autonomous AI assistants.
+- **Customization:** Tools like Liquid AI’s edge models allow for the deployment of AI in environments with no internet access or high privacy requirements.
+
+### Recommended Actions
+1. **Audit API Spend:** Evaluate if current tasks can be routed to "lighter" models (like Sol or Luna) to replicate LegalOn's 65% cost savings.
+2. **Explore Edge Deployment:** Investigate Liquid AI’s d1 models for any use cases requiring low latency or offline functionality.
+3. **Automate Specialist Knowledge:** Follow Oracle's lead in codifying internal "specialist knowledge" into repeatable Codex workflows.
+
+---
 
 ## Technology Trends
+- **Model Tiering:** Strategically choosing models based on the complexity/cost of the task.
+- **Edge Multimodality:** Moving AI away from the cloud and onto local devices.
+- **Autonomous Agents:** Shifting from "chatbots" to "browser agents" that can perform actions within software.
+- **Hyper-Specialization:** Moving away from general-purpose models toward fine-tuned models for logic, math, and coding.
 
-1.  **Model Cascading:** The practice of using smaller, cheaper models for simple tasks and "escalating" to larger models (like GPT-6) only when necessary.
-2.  **Autonomous Browser Agents:** AI that can navigate the web and software interfaces like a human, now becoming 76x cheaper to run.
-3.  **Edge Multimodality:** The shift of vision and voice processing from massive data centers to local, "on-device" hardware.
-4.  **Specialist Fine-Tuning:** Moving away from broad general knowledge toward models that win "Gold Medals" in specific domains like math or coding.
+---
 
 ## Terminology
-
-- **Codex:** A platform or framework used to manage and deploy multiple AI models within a single workflow.
-- **Astra / Sol / Luna:** Specific tiers of the GPT-6 model family, optimized for different balances of speed, cost, and intelligence.
-- **MDR (Managed Detection and Response):** A cybersecurity service that hunts for threats and responds to them once identified.
+- **Daybreak:** An OpenAI-powered cybersecurity tool used for rapid threat investigation.
+- **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides threat hunting and response.
+- **Codex:** OpenAI’s platform/models designed specifically for programming and building applications.
+- **Astra / Sol / Luna:** Specific model tiers within the OpenAI/Codex ecosystem, optimized for different balances of speed, cost, and intelligence.
+- **Edge AI:** AI that processes data locally on a device (like a phone or robot) rather than on a remote server.
 - **ASR (Automatic Speech Recognition):** Technology that converts spoken language into text.
-- **Edge AI:** Running AI algorithms locally on a device (like a phone or a sensor) rather than on a central cloud server.
-- **Multimodal:** The ability of an AI to understand and process different types of input, such as text, images, and video, simultaneously.
-- **GPU Cluster:** A group of many computers with powerful graphics cards working together to perform massive AI calculations.
+- **Multimodal:** An AI's ability to process different types of data (text, images, video) simultaneously.
+- **IOI / IMO:** International Olympiads for Informatics and Mathematics; the "Gold Standard" for testing logical reasoning.
