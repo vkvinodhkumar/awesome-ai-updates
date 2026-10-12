@@ -1,22 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-10-11 22:07:02
+Last Updated: 2026-10-12 01:25:26
 
-1.  **Audit AI Spend:** Implement a tiered model approach (similar to LegalOn) to move less-complex tasks to cheaper models like "Sol" or "Luna."
-2.  **Evaluate MDR:** Security teams should investigate "OpenAI Daybreak" or similar automation tools to reduce mean-time-to-remediate (MTTR).
-3.  **Explore Edge AI:** For latency-sensitive applications, pilot the Liquid AI "d1" models to process data locally.
+1.  **Audit Model Usage:** Implement "Model Routing" (like LegalOn) to use cheaper models for simple tasks and reserve premium models for complex reasoning.
+2.  **Evaluate Browser Agents:** Pilot autonomous agents for high-volume, low-complexity web workflows.
+3.  **Institutionalize Knowledge:** Follow Oracle’s lead by using AI to document and automate the workflows of top-tier specialists.
 
 ## Technology Trends
-
-1.  **Tiered Model Intelligence:** Instead of one-size-fits-all, enterprises are using "Model Families" (Astra/Sol/Luna) to balance cost and capability.
-2.  **From Chat to Agents:** The focus is shifting from AI that talks (Chat) to AI that does (Agents), specifically in browsers and developer workflows.
-3.  **Logical Reasoning Focus:** Fine-tuning for math and coding (IMO/IOI) is the new benchmark for model "intelligence" over mere text generation.
+*   **Model Tiering:** Moving from one giant model to a family of models (Small/Medium/Large) optimized for cost.
+*   **Agentic AI:** AI that doesn't just "chat" but moves the mouse and clicks buttons to complete tasks.
+*   **Logical Reasoning:** A shift in focus from "creative writing" to "mathematical and algorithmic correctness."
+*   **Local Inference:** Bringing powerful decision-making models to edge devices (phones, sensors, cars).
 
 ## Terminology
-
-- **MDR (Managed Detection and Response):** A service that provides organizations with threat hunting and response once a threat is discovered.
-- **Codex:** An OpenAI platform/model designed to help developers turn natural language into code.
-- **ASR (Automatic Speech Recognition):** The technology that allows a computer to identify and translate spoken language into text.
-- **Edge AI:** Running AI algorithms directly on a local device (like a phone or a camera) rather than on a remote cloud server.
-- **Multimodal:** An AI's ability to process and understand different types of input simultaneously, such as text, images, and video.
-- **Astra / Sol / Luna:** Specific tiers or versions of the GPT-6 model family, likely optimized for different levels of speed, cost, and complexity.
+*   **Codex:** OpenAI’s platform for developers to build and manage AI applications.
+*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that monitors and responds to threats.
+*   **Edge AI:** Running AI models locally on a device (like a smartphone or robot) rather than on a distant cloud server.
+*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+*   **Multimodal:** An AI's ability to understand and process multiple types of input at once (e.g., seeing a video and hearing audio simultaneously).
+*   **Astra/Sol/Luna:** Names for specific tiers or versions of OpenAI’s latest model releases, varying in size, speed, and cost.
+*   **GPU Cluster:** A group of high-powered computers (using Graphics Processing Units) linked together to train or run AI models.
