@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-12 09:23:13
+Last Updated: 2026-10-12 19:52:33
 
-- **Codex:** A platform/environment used by developers to manage, test, and deploy various AI models and workflows.
-- **Astra, Sol, and Luna:** The rumored/newly appearing tiers of OpenAI’s GPT-6 family, representing high-performance, mid-tier (cost-effective), and lightweight (fast) models respectively.
-- **Daybreak:** A specialized OpenAI-powered tool used for high-speed data analysis and cybersecurity threat hunting.
-- **Edge AI:** AI that runs locally on a device (like a laptop or smartphone) rather than on a distant server in the cloud.
-- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-- **GPU Cluster:** A group of many Graphics Processing Units working together to provide the massive computing power needed to train or run AI.
-- **Fine-Tuning:** The process of taking a pre-trained AI and giving it extra training on a specific topic (like Math) to make it an expert in that area.
+*   **Daybreak:** A specialized AI framework/platform used for high-speed cyber-threat analysis.
+*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides threat hunting and response.
+*   **Codex:** A specialized environment or model family focused on turning natural language into executable code or workflows.
+*   **Astra / Sol / Luna:** Reference names for different tiers of AI models, usually representing "High Performance," "Balanced," and "Lightweight/Fast" respectively.
+*   **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a centralized cloud server.
+*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+*   **IOI/IMO:** International Olympiads in Informatics and Mathematics; used as "gold standard" benchmarks for testing an AI's logic and reasoning.
+*   **Multimodal:** The ability of an AI to process and understand multiple types of input simultaneously (e.g., text, images, and video).
