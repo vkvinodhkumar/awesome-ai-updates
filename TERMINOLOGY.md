@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-12 19:52:33
+Last Updated: 2026-10-13 02:06:43
 
-*   **Daybreak:** A specialized AI framework/platform used for high-speed cyber-threat analysis.
-*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides threat hunting and response.
-*   **Codex:** A specialized environment or model family focused on turning natural language into executable code or workflows.
-*   **Astra / Sol / Luna:** Reference names for different tiers of AI models, usually representing "High Performance," "Balanced," and "Lightweight/Fast" respectively.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a centralized cloud server.
+*   **Daybreak:** A specialized AI framework used by Sophos for cybersecurity threat detection and automated response.
+*   **Astra / Sol / Luna:** OpenAI’s newer generation of models/variants designed for specific optimizations (e.g., Sol for cost-efficiency, Astra for speed).
+*   **Codex:** OpenAI’s platform/environment designed for building and deploying AI-powered developer tools and agents.
+*   **Edge AI:** AI models that run locally on a device (like a phone or robot) rather than on a central cloud server.
 *   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **IOI/IMO:** International Olympiads in Informatics and Mathematics; used as "gold standard" benchmarks for testing an AI's logic and reasoning.
-*   **Multimodal:** The ability of an AI to process and understand multiple types of input simultaneously (e.g., text, images, and video).
+*   **Multimodal:** The ability of an AI model to process multiple types of data simultaneously (e.g., text, images, and audio).
+*   **MDR (Managed Detection and Response):** A cybersecurity service that provides organizations with threat hunting and response services.
+*   **Model Routing:** The practice of using a "router" to send simple AI tasks to cheap models and complex tasks to expensive ones to save money.

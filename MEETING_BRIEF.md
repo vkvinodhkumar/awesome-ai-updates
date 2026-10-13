@@ -1,40 +1,44 @@
 # Executive Meeting Brief
 
 ### Key Developments
-*   **Extreme Efficiency Gains:** Organizations are seeing 90%+ reductions in task duration for complex workflows like cybersecurity and legal review.
-*   **Tiered Model Architectures:** The standard is shifting from using one large model to a hierarchy of models (e.g., Astra, Sol, Luna) optimized for specific price-performance targets.
-*   **Edge Multimodality:** Decision-making models are becoming small enough to run locally while still processing both text and visual data.
+*   **Tiered Model Architectures:** The emergence of specialized models (Astra, Sol, Luna) is allowing companies to optimize for speed and cost simultaneously.
+*   **Massive Efficiency Gains:** Investigation and workflow times are being reduced by over 90% in sectors like Cybersecurity and Engineering.
+*   **Edge Autonomy:** Multimodal models are moving to the "edge," enabling smarter on-device decision-making.
 
 ### Risks
-*   **Orchestration Complexity:** Managing multiple models (Astra vs. Sol) increases the complexity of the software architecture.
-*   **Dependency on Compute:** As evidenced by the focus on GPU scheduling, bottlenecks in hardware availability remain a primary threat to scaling.
-*   **Over-Automation:** With 52% of cases automated at Sophos, the risk of "blind spots" in automated systems requires rigorous human-in-the-loop protocols.
+*   **Automation Complacency:** With 52%+ of cases being automated (e.g., Sophos), there is a risk of human oversight becoming perfunctory.
+*   **Infrastructure Costs:** Despite model-level savings, the demand for GPU clusters remains a significant capital expenditure.
+*   **Integration Complexity:** Managing a "family" of models (Astra, Sol, Luna) requires more complex backend engineering than using a single API.
 
 ### Opportunities
-*   **Drastic Cost Reduction:** Companies can potentially cut their AI API spend by over 70% by adopting task-specific model routing.
-*   **Knowledge Codification:** Transforming specialist "know-how" into automated workflows (Oracle style) can protect against talent turnover and increase operational speed.
-*   **Marketing Agility:** Creative teams can pilot and pivot campaigns in real-time using multimodal generation tools.
+*   **Cost Optimization:** Opportunity to reduce AI operational costs by 60-70% through strategic model routing.
+*   **New Product Categories:** Creative AI (Pollo AI) and Edge AI (LiquidAI) open doors for cinematic marketing tools and autonomous hardware.
+*   **Knowledge Capture:** Turning "specialist knowledge" into automated workflows (Oracle) ensures business continuity.
 
 ### Recommended Actions
-1.  **Conduct an AI Audit:** Identify which tasks currently using high-cost models can be offloaded to "Sol" or "Luna" tier models.
-2.  **Invest in "Edge" Readiness:** Evaluate whether company data privacy requirements necessitate a move toward edge-based models like "open d1."
-3.  **Implement GPU Governance:** If running internal clusters, adopt impactful scheduling protocols to ensure maximum ROI on hardware.
+1.  **Conduct a Model Audit:** Evaluate current AI implementations to see if high-cost models are being used for low-complexity tasks.
+2.  **Explore Model Routing:** Implement a tiered strategy (similar to LegalOn) using Astra, Sol, and Luna to balance performance and budget.
+3.  **Invest in Edge Readiness:** Evaluate how "open d1" or similar edge models could improve privacy or reduce latency in customer-facing hardware.
+4.  **Enhance Human-in-the-Loop (HITL) Protocols:** Ensure that as automation rates climb, human verification steps are robustly defined.
 
 ---
 
 ## Technology Trends
-1.  **Task-Model Matching:** The end of the "one model for everything" era; developers are now matching the "weight" of the model to the difficulty of the task.
-2.  **The Rise of Reasoners:** AI is moving from "guessing the next word" to "solving the math problem," as seen in the Nemotron benchmarks.
-3.  **Agentic Automation:** AI is being given more agency to interact with browsers and software environments directly (Asana's browser agents).
+
+1.  **Model Tiering:** Shifting away from a single "flagship" model to a fleet of models optimized for different price/performance points.
+2.  **Agentic Workflows:** Moving from chatbots to "agents" that perform multi-step actions (e.g., Asana’s browser agent).
+3.  **Reasoning over Retrieval:** Models are being fine-tuned for complex logic and math (Nemotron), moving beyond simple information lookup.
+4.  **Sovereign Open Source:** The rise of powerful open-source alternatives like Falcon ASR and Nemotron reduces dependency on single vendors.
 
 ---
 
 ## Terminology
-*   **Daybreak:** A specialized AI framework/platform used for high-speed cyber-threat analysis.
-*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides threat hunting and response.
-*   **Codex:** A specialized environment or model family focused on turning natural language into executable code or workflows.
-*   **Astra / Sol / Luna:** Reference names for different tiers of AI models, usually representing "High Performance," "Balanced," and "Lightweight/Fast" respectively.
-*   **Edge AI:** Running AI algorithms locally on a device (like a phone or sensor) rather than on a centralized cloud server.
+
+*   **Daybreak:** A specialized AI framework used by Sophos for cybersecurity threat detection and automated response.
+*   **Astra / Sol / Luna:** OpenAI’s newer generation of models/variants designed for specific optimizations (e.g., Sol for cost-efficiency, Astra for speed).
+*   **Codex:** OpenAI’s platform/environment designed for building and deploying AI-powered developer tools and agents.
+*   **Edge AI:** AI models that run locally on a device (like a phone or robot) rather than on a central cloud server.
 *   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **IOI/IMO:** International Olympiads in Informatics and Mathematics; used as "gold standard" benchmarks for testing an AI's logic and reasoning.
-*   **Multimodal:** The ability of an AI to process and understand multiple types of input simultaneously (e.g., text, images, and video).
+*   **Multimodal:** The ability of an AI model to process multiple types of data simultaneously (e.g., text, images, and audio).
+*   **MDR (Managed Detection and Response):** A cybersecurity service that provides organizations with threat hunting and response services.
+*   **Model Routing:** The practice of using a "router" to send simple AI tasks to cheap models and complex tasks to expensive ones to save money.
