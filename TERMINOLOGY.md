@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-13 17:39:37
+Last Updated: 2026-10-13 22:54:19
 
-- **OpenAI Daybreak:** A specialized toolset/platform from OpenAI designed for high-speed automated analysis and cybersecurity.
-- **GPT-6 Astra / Sol / Luna:** Specific variants of the GPT-6 model family optimized for different balances of speed, cost, and reasoning power.
-- **Codex:** An OpenAI platform/model optimized for translating natural language into code or structured workflows.
-- **LFM (Liquid Foundation Model):** A type of AI architecture (by LiquidAI) designed for efficiency and speed, often used for on-device applications.
-- **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-- **Nemotron:** A family of models developed by NVIDIA, often fine-tuned for high-performance computing and reasoning tasks.
-- **IOI/IMO:** International Olympiad in Informatics and International Mathematical Olympiad; these are world-class competitions used as benchmarks for high-level AI reasoning.
-- **On-Device AI:** AI that runs on the local hardware (phone, laptop) rather than on a remote server in the cloud.
+*   **GPT-6 Astra:** A high-performance variant of the GPT-6 family optimized for video and visual precision.
+*   **GPT-6.1 Sol:** A cost-optimized version of the GPT-6 model designed for high-frequency tasks like browser agents.
+*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
+*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
+*   **LFM (Liquid Foundation Model):** A type of AI model designed for continuous data processing, often more efficient for on-device use.
+*   **Codex:** An OpenAI system that translates natural language into code.
+*   **Agentic/Agents:** AI systems capable of using tools and navigating interfaces (like a web browser) to complete multi-step tasks autonomously.
