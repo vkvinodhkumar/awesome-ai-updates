@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-14 01:59:05
+Last Updated: 2026-10-14 07:46:17
 
-*   **GPT-6 Astra:** A purported next-generation model from OpenAI optimized for multi-modal tasks and speed.
-*   **MDR (Managed Detection and Response):** An outsourced cybersecurity service that provides organizations with threat hunting and response.
-*   **Browser Agent:** An AI that can "see" a web browser and interact with buttons, forms, and links like a human.
-*   **ASR (Automatic Speech Recognition):** The technology that converts spoken language into text.
-*   **GPU Cluster:** A group of high-performance computers (using Graphics Processing Units) linked together to train AI.
-*   **LFM (Liquid Foundation Model):** A type of AI model designed to be more adaptable and efficient than traditional models, often capable of running on smaller hardware.
-*   **IOI/IMO:** The International Olympiad in Informatics and International Mathematical Olympiad; used as benchmarks for high-level reasoning.
+- **GPT-6 Astra/Sol:** Specialized versions of the latest Generative Pre-trained Transformer models, with Astra likely focused on multimodal performance and Sol on cost/speed efficiency.
+- **MDR (Managed Detection and Response):** A cybersecurity service that combines technology and human expertise to hunt, monitor, and respond to threats.
+- **LFM (Liquid Foundation Model):** A type of AI model architecture (often associated with Liquid AI) designed for continuous-time data processing and high efficiency on local hardware.
+- **ASR (Automatic Speech Recognition):** The technology that allows a computer to identify and translate spoken language into text.
+- **IOI/IMO:** The International Olympiad in Informatics and International Mathematical Olympiad; these are world-class competitions used to benchmark high-level AI reasoning.
+- **Codex:** An AI system/environment often used for translating natural language into code or managing complex API workflows.
