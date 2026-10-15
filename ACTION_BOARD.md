@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-15 01:34:24
+Last Updated: 2026-10-15 07:33:31
 
-1.  **Pilot Agentic Security:** Evaluate SentinelOne or Block-style AI integration to reduce MTTR (Mean Time to Remediation).
-2.  **Edge AI Strategy:** Explore LFM2.5 models for use cases involving highly sensitive data that cannot leave the local network.
-3.  **Upgrade Reasoning:** Monitor Nemotron’s reasoning capabilities for potential use in internal data science and complex logic departments.
+1.  **Audit Security Workflows:** Evaluate if current malware analysis and patching can be augmented by "Daybreak" style models.
+2.  **Pilot On-Device Agents:** For departments handling PII (Personally Identifiable Information), test LFM2.5 models to ensure data sovereignty.
+3.  **Transition to Agents:** Move beyond simple RAG (Retrieval-Augmented Generation) and begin piloting agents that can execute multi-step tasks across company software.
