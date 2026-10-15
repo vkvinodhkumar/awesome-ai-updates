@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-10-15 13:31:31
+Last Updated: 2026-10-15 18:22:59
 
-*   **Agentic AI:** AI systems that can independently pursue goals, break tasks into steps, and use tools to achieve outcomes without constant human oversight.
-*   **Reverse-Engineering:** Analyzing a piece of software (like malware) to understand how it functions and how it can be countered.
-*   **On-Device AI:** Running AI models locally on a user's computer or phone rather than sending data to a remote cloud server.
-*   **ASR (Automatic Speech Recognition):** Technology that converts spoken language into written text.
-*   **Parameters:** The "internal settings" or "knowledge weights" of an AI model. A higher number (e.g., 24B) generally suggests higher complexity and capability.
+*   **AI Agent:** A computer program that can perform tasks, make decisions, and take actions on behalf of a user to achieve a specific goal.
+*   **Multimodal:** An AI system that can understand and process different types of information, such as text, images, and audio simultaneously.
+*   **Mixture-of-Experts (MoE):** A design where a model is broken into smaller "specialist" parts; only the parts needed for a specific request are activated, making the model faster and cheaper to run.
+*   **Open-Weights:** Models where the internal parameters are made public, allowing anyone to host, study, or customize the AI on their own hardware.
+*   **On-device AI:** AI that runs directly on your computer or phone, rather than sending your data to a remote server.
