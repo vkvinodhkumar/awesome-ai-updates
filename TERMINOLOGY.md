@@ -1,9 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-16 07:18:51
+Last Updated: 2026-10-16 13:20:01
 
-- **Agent:** An AI that doesn't just talk, but can perform multi-step tasks like browsing, file handling, and decision-making on its own.
-- **Mixture-of-Experts (MoE):** A technique where a model is split into "expert" sub-networks, ensuring the AI is efficient by only activating the parts needed for a specific request.
-- **Open-Weight:** The AI provider releases the final "brain" (weights) of the model, allowing developers to host and customize it on their own servers.
-- **Tokens:** The basic units of text that an AI processes (roughly 0.75 words per token).
-- **Diffusers:** A popular technical toolkit that makes it easy for developers to create images using AI models.
+- Unable to generate terminology.
+
+
+Last Error:
+
+404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
