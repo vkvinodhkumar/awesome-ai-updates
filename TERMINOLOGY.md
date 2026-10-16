@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-16 18:09:07
+Last Updated: 2026-10-16 21:20:43
 
-- **GPT-Rosalind:** A specialized version of GPT optimized for life sciences and biological research.
-- **GPT-6 Astra:** A next-generation model variant likely focused on autonomous agent capabilities.
-- **Indic Pretraining:** Training AI models specifically on languages from the Indian subcontinent.
-- **501B Model:** A model with 501 billion "parameters" (the internal variables the AI learns), indicating a very high level of complexity and knowledge.
-- **Mixture-of-Experts (MoE):** An AI architecture where only a small, relevant part of the model is used for each task, making large models faster and cheaper to run.
-- **Diffusers:** A popular software library used to run and customize image-generation AI.
-- **Open-Weight Model:** An AI model where the "brain" (the weights) is shared publicly, allowing anyone to run it on their own hardware.
+*   **Codex:** An AI model specifically designed to understand and generate computer code.
+*   **Indic Pretraining:** Training an AI model on a massive dataset of Indian languages (like Hindi, Tamil, etc.) to improve its performance in those specific contexts.
+*   **501B (Parameters):** The "variables" an AI learns from; generally, more parameters allow for more complex reasoning. 501B is exceptionally large for an open model.
+*   **Mixture-of-Experts (MoE):** An AI architecture where only "specialist" parts of the model are used for a given task, making it faster and more efficient.
+*   **Diffusers:** A popular software library used to run and develop image-generation models.
+*   **Endpoint:** A specific URL or "connection point" where a developer sends data to an AI model to get a response.
