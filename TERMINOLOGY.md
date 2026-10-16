@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-15 22:27:11
+Last Updated: 2026-10-16 01:28:42
 
-*   **GPT-Rosalind:** A version of GPT specifically trained and safety-aligned for life sciences and biological research.
-*   **Mixture-of-Experts (MoE):** A model architecture that only activates a small portion of its "brain" for any given task, making it faster and more efficient.
-*   **Open-weight:** A model where the underlying "knowledge" (weights) is shared publicly, allowing others to run it on their own hardware.
-*   **Long-horizon tasks:** Complex problems that require an AI to plan and execute many steps over an extended period (hours or days) without human intervention.
-*   **Diffusers:** A specific type of AI model (and a popular software library) used primarily for generating high-quality images from text.
-*   **GPT-6 Astra/Sol/Daybreak:** New iterations of OpenAI models where each name likely represents a different specialization (Astra for agents, Sol for reasoning, Daybreak for analysis).
-*   **3 km Resolution:** In weather modeling, this refers to the level of detail; a 3 km resolution can "see" much smaller weather patterns than traditional models.
+- **GPT-Rosalind:** A specialized version of OpenAI's GPT models optimized for life sciences and biological research.
+- **Mixture-of-Experts (MoE):** A machine learning technique where the model is divided into specialized "sub-networks." Only the relevant parts of the model are "activated" for a given task, making it more efficient.
+- **Open-weight Model:** A model where the internal "knowledge" (weights) is shared publicly, allowing others to run it on their own hardware, unlike "Closed" models (like ChatGPT) which are accessed via the web.
+- **Multimodal:** The ability of an AI to understand and generate multiple types of data, such as text, images, and speech, simultaneously.
+- **On-device AI:** AI that runs directly on your phone or computer rather than on a remote server, ensuring better privacy and speed.
+- **Liquid Foundation Models (LFM):** A new type of AI architecture (pioneered by Liquid AI) designed to be more fluid and adaptable to data over time compared to traditional "static" models.
+- **Diffusers:** A popular software library used to run and develop image-generation AI models.
