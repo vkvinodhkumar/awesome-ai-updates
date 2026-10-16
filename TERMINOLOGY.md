@@ -1,11 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-10-16 01:28:42
+Last Updated: 2026-10-16 07:18:51
 
-- **GPT-Rosalind:** A specialized version of OpenAI's GPT models optimized for life sciences and biological research.
-- **Mixture-of-Experts (MoE):** A machine learning technique where the model is divided into specialized "sub-networks." Only the relevant parts of the model are "activated" for a given task, making it more efficient.
-- **Open-weight Model:** A model where the internal "knowledge" (weights) is shared publicly, allowing others to run it on their own hardware, unlike "Closed" models (like ChatGPT) which are accessed via the web.
-- **Multimodal:** The ability of an AI to understand and generate multiple types of data, such as text, images, and speech, simultaneously.
-- **On-device AI:** AI that runs directly on your phone or computer rather than on a remote server, ensuring better privacy and speed.
-- **Liquid Foundation Models (LFM):** A new type of AI architecture (pioneered by Liquid AI) designed to be more fluid and adaptable to data over time compared to traditional "static" models.
-- **Diffusers:** A popular software library used to run and develop image-generation AI models.
+- **Agent:** An AI that doesn't just talk, but can perform multi-step tasks like browsing, file handling, and decision-making on its own.
+- **Mixture-of-Experts (MoE):** A technique where a model is split into "expert" sub-networks, ensuring the AI is efficient by only activating the parts needed for a specific request.
+- **Open-Weight:** The AI provider releases the final "brain" (weights) of the model, allowing developers to host and customize it on their own servers.
+- **Tokens:** The basic units of text that an AI processes (roughly 0.75 words per token).
+- **Diffusers:** A popular technical toolkit that makes it easy for developers to create images using AI models.
