@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-17 10:55:16
+Last Updated: 2026-10-17 14:16:06
 
-- **Open-weight Model:** A model where the internal "knowledge" (weights) is shared publicly, allowing users to run it on their own hardware, unlike "closed" models accessed only via API.
-- **Mixture-of-Experts (MoE):** An AI architecture that only activates specific parts of the model for a given task, making it faster and cheaper to run without losing accuracy.
-- **Indic Languages:** Refers to the languages spoken in the Indian subcontinent (e.g., Hindi, Bengali, Marathi).
-- **Codex:** An AI model specifically fine-tuned for understanding and generating computer code.
-- **Multimodal:** The ability of an AI model to process different types of input/output simultaneously, such as text, images, and speech.
-- **Diffusers:** A popular software library used to facilitate the generation of images from text descriptions.
-- **Governance Platform:** A software framework used by companies to ensure their AI tools follow laws, ethical guidelines, and security protocols.
+- **Governance Platform:** A software framework used to ensure AI follows company rules, legal regulations, and ethical guidelines.
+- **Codex:** An AI model designed specifically to understand and generate computer programming code.
+- **Open-weight Model:** An AI model where the "internal settings" are made public, allowing anyone to download, run, and modify it on their own hardware.
+- **Mixture-of-Experts (MoE):** A design where the AI is split into many small "specialist" parts; only the relevant parts activate for a specific task, saving power and time.
+- **Tokens:** The basic units of text (like words or parts of words) that an AI reads and processes.
+- **Indic Pretraining:** Training an AI model specifically on languages used in India (like Hindi, Bengali, etc.) to improve its accuracy in those cultures.
+- **Diffusers:** A popular technical library used by developers to easily run and customize image-generation AI.
