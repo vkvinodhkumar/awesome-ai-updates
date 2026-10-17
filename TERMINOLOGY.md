@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-17 00:35:04
+Last Updated: 2026-10-17 05:40:36
 
-* **Generative AI (GenAI)**: Artificial intelligence systems designed to create new content—such as text, images, audio, or code—based on learned patterns from training data.
-* **Open-Weight Model**: An AI model whose trained weights (parameters) are made publicly available, allowing developers to run, fine-tune, and host the model on private infrastructure without relying on vendor APIs.
-* **Mixture-of-Experts (MoE)**: A machine learning technique that divides a model into multiple specialized sub-networks ("experts"). Only a subset of these experts is activated for any given task, drastically reducing inference cost and increasing processing efficiency.
-* **Tokens**: The basic units of text or data processed by a language model, typically representing individual words, sub-words, or characters.
-* **Pretraining**: The initial phase of model creation where an AI analyzes massive datasets to learn language structures, context, and domain knowledge before being fine-tuned for specific tasks.
-* **Diffusers**: An open-source library (maintained by Hugging Face) that provides standardized tools for building, running, and deploying image and audio generation models.
-* **Codex**: A specialized AI model optimized for reading, writing, and debugging computer programming code from natural language instructions.
+- **Codex:** An AI model specifically trained to understand and generate computer code.
+- **Agent:** An AI system capable of using tools and taking independent actions to achieve a goal.
+- **Multimodal:** The ability of an AI to process different types of data (e.g., text, images, and audio) simultaneously.
+- **Mixture-of-Experts (MoE):** A machine learning technique where only "expert" parts of a model are activated for a specific task, making the model faster and more efficient.
+- **Open-weight:** A model where the "brain" (the weights) is publicly available for anyone to download and run, though the training data might remain private.
+- **Tokens:** The basic units of text (words or parts of words) that AI models process.
+- **Endpoint:** A specific web address where a developer sends data to an AI model to get a response.
+- **Diffusers:** A popular software library used to run image-generation AI models.
