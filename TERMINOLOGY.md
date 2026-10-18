@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-18 01:10:52
+Last Updated: 2026-10-18 06:01:51
 
-- **Governance Platform (e.g., IARA):** A central system that monitors, controls, and ensures the safety and legality of AI models within a company.
-- **Codex:** A specialized AI model designed to understand and generate computer code.
-- **Mixture-of-Experts (MoE):** An AI architecture where only specific parts of the model (the "experts") are activated for a given task, making it faster and more efficient.
-- **Open-Weight Model:** A model where the "brain" (weights) is shared publicly, allowing anyone to run it on their own hardware, unlike "closed" models (like ChatGPT).
-- **Indic Pretraining:** Training an AI model specifically on languages from the Indian subcontinent (Hindi, Bengali, etc.).
-- **Multimodal:** The ability of an AI to process more than one type of data at once (e.g., understanding both a spoken voice and a written text simultaneously).
-- **Diffusers:** A popular library used by developers to run and customize image-generation AI models.
-- **501B Parameters:** A measure of the model's complexity; "501B" means 501 billion individual connections, indicating a very powerful and "smart" model.
+- **Governance Platform (IARA):** A software framework used to monitor, control, and ensure the safety/compliance of AI models within a company.
+- **Codex:** An AI model specifically fine-tuned for understanding and generating computer code.
+- **Indic Pretraining:** The process of training an AI model on languages specifically from the Indian subcontinent (e.g., Hindi, Bengali, Tamil).
+- **Open-Weight Model:** A model where the "internal logic" (weights) is shared publicly, allowing others to run it on their own hardware.
+- **Mixture-of-Experts (MoE):** An AI architecture that only uses a small "expert" portion of its brain for any given task, making it faster and more efficient.
+- **Multimodal:** The ability of an AI to process and understand different types of data at once, such as text, images, and audio.
+- **Tokens:** The basic units of text (words or parts of words) that an AI reads; trillions of tokens are needed to teach an AI a language.
+- **Diffusers:** A popular software library used by developers to run and customize image-generation AI models.
