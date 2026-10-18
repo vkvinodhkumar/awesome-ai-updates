@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-18 15:57:58
+Last Updated: 2026-10-18 18:41:49
 
-1. **Audit AI Governance:** Review current AI oversight (like Itaú’s IARA) to ensure compliance in regulated workflows.
-2. **Evaluate Open-Source Sovereignty:** Assess if shifting from proprietary APIs to open-weight models like Beam or Muse Spark could reduce long-term vendor lock-in.
-3. **Pilot "Study Mode" Frameworks:** For internal training, adopt "active learning" AI configurations to ensure employees are learning, not just "copy-pasting."
+1.  **Audit Governance:** Evaluate current AI governance frameworks against the IARA model used by Itaú to ensure readiness for regulated scaling.
+2.  **Explore "Open-Weight" Hosting:** Assess the feasibility of hosting 500B+ parameter models for sensitive internal data that cannot leave company servers.
+3.  **Pilot Multimodal Endpoints:** Move beyond text-only chatbots by experimenting with IBM’s Granite Switch for integrated speech and decision-making.
