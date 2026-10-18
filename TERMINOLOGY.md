@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-18 06:01:51
+Last Updated: 2026-10-18 11:21:01
 
-- **Governance Platform (IARA):** A software framework used to monitor, control, and ensure the safety/compliance of AI models within a company.
-- **Codex:** An AI model specifically fine-tuned for understanding and generating computer code.
-- **Indic Pretraining:** The process of training an AI model on languages specifically from the Indian subcontinent (e.g., Hindi, Bengali, Tamil).
-- **Open-Weight Model:** A model where the "internal logic" (weights) is shared publicly, allowing others to run it on their own hardware.
-- **Mixture-of-Experts (MoE):** An AI architecture that only uses a small "expert" portion of its brain for any given task, making it faster and more efficient.
-- **Multimodal:** The ability of an AI to process and understand different types of data at once, such as text, images, and audio.
-- **Tokens:** The basic units of text (words or parts of words) that an AI reads; trillions of tokens are needed to teach an AI a language.
-- **Diffusers:** A popular software library used by developers to run and customize image-generation AI models.
+- **Codex:** An AI model designed specifically to understand and generate computer code.
+- **Mixture-of-Experts (MoE):** A machine learning technique where the model is divided into specialized sub-networks; only the relevant "experts" are used for a specific query, saving energy and time.
+- **Open-Weight Model:** A model where the internal "knowledge" (weights) is publicly available, allowing anyone to run it on their own hardware.
+- **Indic Languages:** The diverse group of languages spoken primarily in the Indian subcontinent (e.g., Hindi, Bengali, Marathi).
+- **Diffusers:** A popular software library used to run and customize image-generation AI models.
+- **501B Parameters:** A measure of a model's complexity; 501 billion "connections" that allow it to process and generate sophisticated information.
+- **GPT-Rosalind:** A specialized version of GPT optimized for biological and life science data.
