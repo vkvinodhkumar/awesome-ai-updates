@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-19 00:15:04
+Last Updated: 2026-10-19 04:55:05
 
-- **Codex:** An AI model specifically fine-tuned to understand and generate computer code.
-- **Open-Weight Model:** An AI model where the "brain" (weights) is publicly available for anyone to download and run on their own hardware.
-- **Mixture-of-Experts (MoE):** A model architecture that uses only a fraction of its total parameters for any given task, making it faster and more efficient.
-- **Indic:** Refers to the languages spoken in the Indian subcontinent (e.g., Hindi, Bengali, Marathi).
-- **Diffusers:** A popular software library used to run image-generation models like FLUX or Stable Diffusion.
-- **Agent:** An AI program capable of using tools, browsing the web, or performing multi-step tasks autonomously to reach a goal.
+*   **Governance Platform:** A framework or software used to ensure AI systems are used safely, legally, and ethically (e.g., Itaú’s IARA).
+*   **Codex:** An AI model specifically trained to understand and generate computer code.
+*   **Indic Languages:** The various languages spoken in the Indian subcontinent (e.g., Hindi, Bengali, Tamil).
+*   **Open-Weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing anyone to run it on their own hardware.
+*   **Mixture-of-Experts (MoE):** A design where only specific parts of the AI model are used for a given task, making it faster and more efficient.
+*   **Multimodal:** The ability of an AI to process different types of input, such as text, images, and audio, simultaneously.
+*   **Diffusers:** A popular library used by developers to run and customize image-generation AI models.
