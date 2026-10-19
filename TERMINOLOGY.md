@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-19 04:55:05
+Last Updated: 2026-10-19 10:53:53
 
-*   **Governance Platform:** A framework or software used to ensure AI systems are used safely, legally, and ethically (e.g., Itaú’s IARA).
-*   **Codex:** An AI model specifically trained to understand and generate computer code.
-*   **Indic Languages:** The various languages spoken in the Indian subcontinent (e.g., Hindi, Bengali, Tamil).
-*   **Open-Weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing anyone to run it on their own hardware.
-*   **Mixture-of-Experts (MoE):** A design where only specific parts of the AI model are used for a given task, making it faster and more efficient.
-*   **Multimodal:** The ability of an AI to process different types of input, such as text, images, and audio, simultaneously.
-*   **Diffusers:** A popular library used by developers to run and customize image-generation AI models.
+- **Mixture-of-Experts (MoE):** An AI architecture where only a small part of the model (the "experts") is activated for any given task, making it more efficient to run.
+- **Open-Weight Model:** An AI model where the underlying "brain" (weights) is shared publicly, allowing others to run and customize it, unlike "closed" models (like GPT-4).
+- **Indic Pretraining:** Training an AI specifically on languages spoken in India (e.g., Hindi, Bengali, Tamil) to improve its cultural and linguistic accuracy.
+- **Multimodal:** The ability of an AI to understand and generate multiple types of information, such as text, images, and audio, at the same time.
+- **Token:** The basic unit of text (like a word or part of a word) that an AI processes. 2.8 trillion tokens is a massive amount of "reading material" for an AI.
+- **Governance Platform:** A software framework (like Itaú’s IARA) used to ensure AI follows rules, remains ethical, and stays within regulatory boundaries.
