@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-21 01:41:34
+Last Updated: 2026-10-21 07:47:57
 
-- **Eval Agent:** A specialized AI program designed to grade the work of other AI models against a set of rules or rubrics to ensure accuracy and compliance.
-- **Low-Resource Programming Languages:** Coding languages that are older, less popular, or rarely used, making them difficult for standard AI models to understand.
-- **Frontier Model:** The most powerful, large-scale AI models currently available (e.g., GPT-4 or similar).
-- **Learned Memory:** An architectural design that allows a model to store and recall specific context or past interactions to improve future performance without needing a massive data update.
-- **Edge AI:** Processing AI workloads locally on a device (like a phone or laptop) rather than sending data to a remote cloud server.
-- **TPU (Tensor Processing Unit):** A specialized piece of hardware (chip) designed by Google specifically to accelerate AI training and inference.
+*   **Low-Resource Programming Languages:** Coding languages that are old or not widely used today (like COBOL), making it harder to find human experts or training data.
+*   **GPT-6.1 Sol:** A reference to a highly advanced, next-generation iteration of the GPT model series optimized for reasoning.
+*   **Generative Simulation:** Using AI to create realistic, interactive virtual worlds for training humans or robots.
+*   **Learned Memory:** A technique where an AI "remembers" and organizes past interactions to improve future performance without needing a bigger "brain."
+*   **TPU (Tensor Processing Unit):** A specialized computer chip designed by Google specifically to speed up AI calculations.
+*   **COBOL Migration:** The process of translating very old banking/government code (COBOL) into modern languages like Python or Java.
+*   **Local Models:** AI programs that run directly on your phone or computer instead of over the internet on a giant server.
