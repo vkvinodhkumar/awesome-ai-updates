@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-21 07:47:57
+Last Updated: 2026-10-21 13:56:40
 
-*   **Low-Resource Programming Languages:** Coding languages that are old or not widely used today (like COBOL), making it harder to find human experts or training data.
-*   **GPT-6.1 Sol:** A reference to a highly advanced, next-generation iteration of the GPT model series optimized for reasoning.
-*   **Generative Simulation:** Using AI to create realistic, interactive virtual worlds for training humans or robots.
-*   **Learned Memory:** A technique where an AI "remembers" and organizes past interactions to improve future performance without needing a bigger "brain."
-*   **TPU (Tensor Processing Unit):** A specialized computer chip designed by Google specifically to speed up AI calculations.
-*   **COBOL Migration:** The process of translating very old banking/government code (COBOL) into modern languages like Python or Java.
-*   **Local Models:** AI programs that run directly on your phone or computer instead of over the internet on a giant server.
+- **Model Garden:** A specialized library within a cloud platform (like Google Cloud) where users can discover, deploy, and manage various AI models.
+- **Low-Resource Programming Languages:** Code languages that have less training data available online (e.g., COBOL, niche assembly) compared to popular languages like Python.
+- **Time-Series Forecasting:** A technique that uses historical data points collected at regular time intervals to predict future values (e.g., stock prices or sales).
+- **TPU (Tensor Processing Unit):** An AI-accelerator chip designed by Google specifically for machine learning tasks.
+- **Learned Memory:** A method where an AI system stores and retrieves specific past information to improve its performance without needing to be fully retrained.
+- **GPT-6.1 Sol:** A next-generation iteration of the Generative Pre-trained Transformer, optimized for high-level reasoning and "expert" judgment.
+- **Frontier Model:** A term used for the most advanced, largest, and highest-performing AI models currently available in the industry.

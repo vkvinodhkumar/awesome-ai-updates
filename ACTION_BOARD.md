@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-21 07:47:57
+Last Updated: 2026-10-21 13:56:40
 
-1.  **Audit Technical Debt:** Evaluate legacy COBOL or SQLite systems for AI-assisted migration.
-2.  **Explore Agentic Auditing:** Investigate "Eval Agents" to automate compliance and mandate-matching in finance and legal departments.
-3.  **Prioritize Local AI:** For sensitive data, explore the AnyLanguageModel framework to run tasks locally on Apple silicon.
+1.  **Evaluate Cloud Strategy:** Assess if moving OpenAI workloads to Google Cloud Marketplace offers better billing or infrastructure consolidation.
+2.  **Pilot Legacy Modernization:** Task IT departments with exploring OpenAI’s new low-resource language tools for legacy system documentation or migration.
+3.  **Implement Fairness Audits:** If using LLMs for HR or procurement, integrate the FairStress evaluation framework to mitigate bias risks.
