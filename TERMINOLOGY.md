@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-10-20 22:23:13
+Last Updated: 2026-10-21 01:41:34
 
-*   **Low-Resource Programming Languages:** Coding languages that are older, niche, or have very little training data available online (e.g., COBOL).
-*   **TPU (Tensor Processing Unit):** A specialized piece of hardware designed by Google specifically to speed up AI calculations.
-*   **Frontier Model:** The newest, most powerful, and largest AI models currently available (e.g., GPT-4, Claude 3.5).
-*   **Generative Simulation:** Using AI to create 3D worlds or scenarios that look and act like the real world for training purposes.
-*   **LLM Fairness:** The study and measurement of whether an AI model treats different groups of people equally and makes unbiased decisions.
-*   **Local/Edge AI:** Running AI models directly on your phone or laptop instead of sending data to a giant server in the cloud.
+- **Eval Agent:** A specialized AI program designed to grade the work of other AI models against a set of rules or rubrics to ensure accuracy and compliance.
+- **Low-Resource Programming Languages:** Coding languages that are older, less popular, or rarely used, making them difficult for standard AI models to understand.
+- **Frontier Model:** The most powerful, large-scale AI models currently available (e.g., GPT-4 or similar).
+- **Learned Memory:** An architectural design that allows a model to store and recall specific context or past interactions to improve future performance without needing a massive data update.
+- **Edge AI:** Processing AI workloads locally on a device (like a phone or laptop) rather than sending data to a remote cloud server.
+- **TPU (Tensor Processing Unit):** A specialized piece of hardware (chip) designed by Google specifically to accelerate AI training and inference.
