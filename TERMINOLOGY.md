@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-21 18:45:33
+Last Updated: 2026-10-21 22:27:05
 
-*   **Frontier Models:** The most advanced, high-capability AI models currently available.
-*   **Inference:** The process of using a trained AI model to make predictions or generate content (it is the "active" phase of the model).
-*   **SLM (Small Language Model):** A version of an LLM that is smaller, cheaper to run, and easier to deploy, often tailored to specific tasks.
-*   **Relational Data:** Data organized into tables with predefined relationships (e.g., standard SQL databases).
-*   **Agent (or AI Agent):** An AI system that can take actions to achieve a goal autonomously, rather than just waiting for user prompts.
-*   **Inference Cost:** The cost of electricity and hardware resources required to run an AI model once it is finished being trained.
+- **Inference Cost:** The cost associated with running a trained AI model to get a result (e.g., every time a user asks a question).
+- **SLM (Small Language Model):** AI models with fewer parameters than LLMs, designed to be faster and cheaper while remaining effective for specific tasks.
+- **Relational Data:** Information organized into tables with rows and columns (like an Excel sheet or SQL database).
+- **Zero-shot:** The ability of an AI model to perform a task it was not specifically trained to do.
+- **Frontier Models:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4o, Gemini 1.5 Pro).
+- **Attribution:** In speech technology, the ability to correctly identify which specific person said which words.
+- **Codex Workflows:** AI-driven processes specifically designed for writing and debugging computer code.
