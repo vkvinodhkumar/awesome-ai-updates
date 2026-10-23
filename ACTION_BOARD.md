@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-22 22:26:33
+Last Updated: 2026-10-23 01:37:27
 
-1.  **Review Inference Costs:** Evaluate if high-volume classification tasks currently running on GPT-4o can be moved to the Decisions API or a specialized SLM.
-2.  **Pilot Geospatial/Relational Tools:** If the organization handles satellite data or massive SQL databases, explore OlmoEarth or NVIDIA Kumo to bypass manual data labeling.
-3.  **Assess "Forward Deployed" Needs:** Determine if current AI blockers require deep technical integration support similar to the OpenAI FDE model.
+1.  **Audit Internal Logic:** Identify where high-cost LLMs are used for simple classification/routing and evaluate a transition to the **Decisions API** to save costs.
+2.  **Explore Geospatial Data:** For logistics or supply-chain heavy firms, evaluate **OlmoEarth** for better predictive modeling of physical assets.
+3.  **Evaluate SLMs for the Edge:** Investigate **Small Language Models** with specialized vocabularies for customer-facing mobile applications to ensure privacy and low latency.
