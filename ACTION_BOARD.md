@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-23 18:28:10
+Last Updated: 2026-10-23 22:19:22
 
-1. **API Audit:** Review current OpenAI usage to see if any logic tasks can be migrated to the Decisions API for cost savings.
-2. **Compute Strategy:** Use the new Hugging Face/AWS tool to evaluate if existing models can be migrated to Trainium to reduce cloud spend.
-3. **Internal Pilot:** Monitor the Uber rollout results to identify similar "complex workflow" use cases within our own organization.
+1. **Infrastructure Audit:** Review if current storage layers can handle the projected 10x growth in AI-driven traffic.
+2. **Developer Pilot:** Task the engineering team to test the Decisions API for internal routing or moderation tasks.
+3. **Hardware Assessment:** Evaluate AWS Trainium for cost-savings on large-scale model inference.
