@@ -1,22 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-23 07:40:48
+Last Updated: 2026-10-23 13:34:21
 
-1.  **Audit Inference Costs:** Investigate if SLMs with specialized vocabularies can replace larger models for internal tools to save up to 70% in costs.
-2.  **Evaluate FDE Roles:** Consider whether internal teams need "Forward Deployed" equivalents to ensure AI tools are actually integrated into workflows.
-3.  **Explore Relational AI:** Test NVIDIA Kumo-style approaches for existing company databases to bypass lengthy manual training phases.
-
-## Technology Trends
-*   **Vocabulary Specialization:** Tailoring the "language" of a model to a specific task to save power and money.
-*   **Agentic Reinforcement Learning:** Using structured data (SQL/Code) to teach AI agents to be more accurate.
-*   **Geospatial Embeddings:** The rise of AI that understands "place" and "environment" through satellite data.
-*   **Hyper-Efficiency:** A pivot toward "Decisions" and "Small" models over massive, general-purpose LLMs.
-
-## Terminology
-*   **FDE (Forward Deployed Engineer):** An engineer who works at the client's site to implement and customize a technology.
-*   **Decisions API:** A streamlined AI interface meant for logic and classification rather than chatting.
-*   **SLM (Small Language Model):** A more compact version of AI (like ChatGPT) that is faster and cheaper to run.
-*   **Embeddings:** Converting complex data (like a satellite image or a sentence) into a list of numbers that a computer can easily compare.
-*   **Reinforcement Learning (RL):** A training method where the AI "tries" things and receives a "reward" or "penalty" based on the result.
-*   **Time-Series Data:** Data points collected or recorded at successive time intervals (e.g., daily sales).
-*   **Relational Data:** Data stored in traditional tables (like Excel or SQL) that relate to one another.
+1.  **Audit Workflows for "Decisions":** Identify simple classification tasks that can be moved to the lower-cost Decisions API to reduce OpEx.
+2.  **Evaluate FDE Needs:** Determine if internal "Forward Deployed" roles are needed to bridge the gap between AI engineering and business unit implementation.
+3.  **Hardware Assessment:** Review if current model training pipelines can be migrated to AWS Trainium to diversify hardware risk and lower costs.
