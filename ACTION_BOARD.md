@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-23 13:34:21
+Last Updated: 2026-10-23 18:28:10
 
-1.  **Audit Workflows for "Decisions":** Identify simple classification tasks that can be moved to the lower-cost Decisions API to reduce OpEx.
-2.  **Evaluate FDE Needs:** Determine if internal "Forward Deployed" roles are needed to bridge the gap between AI engineering and business unit implementation.
-3.  **Hardware Assessment:** Review if current model training pipelines can be migrated to AWS Trainium to diversify hardware risk and lower costs.
+1. **API Audit:** Review current OpenAI usage to see if any logic tasks can be migrated to the Decisions API for cost savings.
+2. **Compute Strategy:** Use the new Hugging Face/AWS tool to evaluate if existing models can be migrated to Trainium to reduce cloud spend.
+3. **Internal Pilot:** Monitor the Uber rollout results to identify similar "complex workflow" use cases within our own organization.

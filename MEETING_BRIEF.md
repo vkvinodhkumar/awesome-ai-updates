@@ -1,37 +1,37 @@
 # Executive Meeting Brief
 
 ### Key Developments
-*   **Massive Enterprise Adoption:** Large-scale deployments at Uber (30k users) and AT&T indicate that generative AI has moved past the "pilot" phase into core operations.
-*   **Infrastructure Diversification:** Tools for AWS Trainium suggest a growing need to look beyond NVIDIA for training and inference hardware.
-*   **Niche API Economy:** The release of the Decisions API shows a trend toward "micro-LLM" tasks—small, fast, and cheap.
+- **Enterprise Maturity:** Major deployments (Uber) and specialized roles (FDE) show AI is moving into deep corporate integration.
+- **Micro-Optimization:** The "Decisions API" signifies a move toward high-speed, low-cost micro-services rather than monolithic chat interfaces.
+- **Hardware Agnosticism:** Tools for AWS Trainium compatibility suggest a push toward lower-cost compute alternatives.
 
 ### Risks
-*   **Operational Dependency:** As companies like Uber embed AI into all employee workflows, any downtime or "hallucination" in a core process poses a systemic risk.
-*   **Safety Fragmentation:** While partnerships like OpenAI/NASK are positive, different global regions may develop conflicting safety standards.
+- **Infrastructure Complexity:** Scaling to billions of users (as seen in the Habitat report) requires massive capital and technical overhead.
+- **Data Silos:** As AI becomes more specialized (Time-series, Relational), the risk of fragmented data strategy across departments increases.
 
 ### Opportunities
-*   **Legal & Professional Services:** AT&T’s model for AI-assisted legal work can be replicated across HR, Finance, and Compliance departments.
-*   **Geospatial Insights:** For firms in real estate, logistics, or insurance, OlmoEarth provides a state-of-the-art way to analyze physical world changes.
+- **Cost Reduction:** Migrating simple application logic to the Decisions API can significantly reduce API billing.
+- **Predictive Power:** IBM’s time-series ensemble models offer a path to better supply chain and financial forecasting.
 
 ### Recommended Actions
-1.  **Audit Workflows for "Decisions":** Identify simple classification tasks that can be moved to the lower-cost Decisions API to reduce OpEx.
-2.  **Evaluate FDE Needs:** Determine if internal "Forward Deployed" roles are needed to bridge the gap between AI engineering and business unit implementation.
-3.  **Hardware Assessment:** Review if current model training pipelines can be migrated to AWS Trainium to diversify hardware risk and lower costs.
+1. **API Audit:** Review current OpenAI usage to see if any logic tasks can be migrated to the Decisions API for cost savings.
+2. **Compute Strategy:** Use the new Hugging Face/AWS tool to evaluate if existing models can be migrated to Trainium to reduce cloud spend.
+3. **Internal Pilot:** Monitor the Uber rollout results to identify similar "complex workflow" use cases within our own organization.
 
 ---
 
 ## Technology Trends
-*   **Zero-Shot Learning for Data:** Models are becoming proficient at analyzing databases (Relational Data) without needing to be "trained" on that specific dataset first.
-*   **Vertical AI:** AI is being tailored for specific domains like Geospatial (OlmoEarth), Legal (AT&T), and Time-Series (IBM).
-*   **Hybrid Service Models:** AI companies are increasingly offering "Forward Deployed" engineers to ensure successful integration, moving away from a simple "software-as-a-service" model.
+- **Relational AI:** Moving beyond text to understand structured database data (NVIDIA Kumo).
+- **Agentic Training:** Using Reinforcement Learning from Task Feedback (RLTF) to make AI agents more reliable.
+- **Modularization:** Breaking down large AI tasks into smaller, specialized sub-tasks (Decisions API).
 
 ---
 
 ## Terminology
-*   **Decisions API:** A programming interface designed specifically for making quick, binary, or simple choices (e.g., "Is this email spam?") at high speed.
-*   **Forward Deployed Engineering (FDE):** Technical staff who work directly on the customer's site or project to integrate complex software.
-*   **AWS Trainium:** A custom-designed chip by Amazon specifically built to train deep learning models faster and cheaper than general-purpose chips.
-*   **Reinforcement Learning (RL):** A type of AI training where the model learns by trial and error, receiving "rewards" for correct actions.
-*   **Geospatial Embeddings:** A way of converting physical location data (like satellite images) into numbers that an AI can understand and compare.
-*   **Time-Series Forecasting:** Predicting future values based on past data collected over time (e.g., predicting next month's sales).
-*   **Relational Data:** Information organized into tables (like an Excel sheet or a SQL database) that are linked to each other.
+- **Multi-tenancy:** A software architecture where a single instance of software serves multiple distinct groups of users (tenants).
+- **Decisions API:** A programming interface optimized for making fast logic choices rather than generating long text.
+- **Forward Deployed Engineering (FDE):** Engineers who work onsite or directly with clients to solve technical implementation problems.
+- **Trainium:** A custom-designed chip by Amazon (AWS) specifically for training deep learning models.
+- **Time-series Data:** A sequence of data points recorded at specific intervals (e.g., daily sales figures).
+- **Relational Data:** Data stored in tables that are linked to each other (like an Excel sheet or SQL database).
+- **Reinforcement Learning (RL):** A type of machine learning where the AI learns by trial and error, receiving "rewards" for correct actions.
