@@ -1,23 +1,24 @@
 # AI Action Board
 
-Last Updated: 2026-10-24 12:46:01
+Last Updated: 2026-10-24 16:41:32
 
-1. **Audit Infrastructure:** Evaluate if existing database architectures can support the latency requirements of scaled AI agents.
-2. **Review API Strategy:** Identify "binary" or simple logic tasks currently handled by expensive LLMs and migrate them to specialized Decision APIs.
-3. **Invest in FDE-style Roles:** Consider hiring or training engineers who specialize in "integration and deployment" rather than just "model training."
+1. **Audit API Spend:** Determine if simple logic tasks currently handled by GPT-4o can be moved to the Decisions API for cost reduction.
+2. **Review Deployment Strategy:** Evaluate the need for "Forward Deployed Engineering" roles if your company is struggling to bridge the gap between AI pilots and production.
+3. **Database Integration:** Pilot "ThinkingBox" or similar RL-based methods to improve the reliability of internal natural-language-to-SQL tools.
 
 ## Technology Trends
-1. **Agentic Decision Making:** A shift from generating text to making discrete logic calls within software.
-2. **Post-Training Reinforcement:** Using "Ground Truth" environments (like databases) to train models rather than just human text.
-3. **Hardware Diversification:** Rapid growth in tools supporting alternative silicon (AWS Trainium) to lower TCO (Total Cost of Ownership).
-4. **Relational Intelligence:** Applying LLM-style reasoning directly to structured SQL data without extensive re-training.
+1. **Vertical Scaling Engineering:** A shift from "better models" to "better storage and caching" to support massive user bases.
+2. **Model Containment:** The rise of "air-gapped" and highly restricted training environments as a security standard.
+3. **Foundation Models for Everything:** Moving beyond text to "Foundation Models for Relational Data" (NVIDIA) and "Time-Series" (IBM).
+4. **Hardware Diversity:** Increased tooling to make non-NVIDIA hardware (like AWS Trainium) accessible to standard developers.
 
 ## Terminology
-- **Multi-tenancy:** A software architecture where a single instance of software serves multiple distinct user groups (tenants) while keeping data separate and secure.
-- **Frontier Model:** The most advanced, state-of-the-art AI models currently being developed, which pose the highest potential benefits and risks.
-- **Red-teaming:** A security exercise where "ethical hackers" or safety researchers attempt to break or subvert an AI system to find vulnerabilities.
-- **Decisions API:** A programming interface designed to return a specific choice or classification rather than a long-form response.
-- **Forward Deployed Engineering (FDE):** Technical staff who work on-site or directly with clients to ensure a product is integrated and delivering value.
-- **Time-Series Models:** AI models designed specifically to analyze data points indexed in time order (e.g., stock prices or energy usage).
-- **Zero-shot Learning:** The ability of a model to perform a task without having seen specific examples of that task during its training.
-- **RL (Reinforcement Learning) Rewards:** A signal given to an AI during training to tell it whether its action was "good" or "bad" based on an outcome.
+
+- **Multi-tenancy:** A system architecture where a single instance of software serves multiple groups of users (tenants) while keeping their data separate and secure.
+- **Decisions API:** A programming interface designed to provide fast, cheap, and simple answers to specific choices rather than generating long text.
+- **Forward Deployed Engineering (FDE):** A hybrid role where software engineers work directly with customers to integrate complex technology into their specific environments.
+- **Trainium:** A custom computer chip designed by Amazon (AWS) specifically to train AI models faster and cheaper than general-purpose chips.
+- **Reinforcement Learning (RL):** A type of machine learning where the AI learns by "trial and error," receiving rewards for correct actions and penalties for mistakes.
+- **Time-Series Data:** A sequence of data points recorded at specific time intervals (e.g., daily sales, hourly temperature).
+- **Relational Data:** Data organized into tables with rows and columns, usually found in traditional databases (like SQL).
+- **Red-teaming:** A security exercise where "ethical hackers" attack a system to find vulnerabilities before real attackers do.
