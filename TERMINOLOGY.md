@@ -1,11 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-10-24 01:41:00
+Last Updated: 2026-10-24 07:24:37
 
-*   **Multi-tenancy:** A software architecture where a single instance of software serves multiple distinct groups of users (tenants), keeping their data isolated.
-*   **Forward Deployed Engineering (FDE):** A role where engineers work on-site or closely with customers to implement and customize complex technical products.
-*   **Decisions API:** A specialized programming interface designed to return quick "Yes/No" or "Category A/B" results rather than long-form text.
-*   **AWS Trainium:** A custom-made high-performance chip designed by Amazon specifically for training deep learning models.
-*   **Time-series Forecasting:** A technique that uses historical data points collected over time to predict future values (e.g., stock prices or inventory levels).
-*   **Ensemble Forecasting:** Combining the predictions of several different models to produce a more accurate and stable final prediction.
-*   **Red-teaming:** A security exercise where "ethical hackers" attack a system to find vulnerabilities before real attackers do.
+- **Multi-tenancy:** A software architecture where a single instance of software serves multiple groups of users (tenants), ensuring data is isolated while sharing resources.
+- **Frontier Model:** The most advanced, high-scale AI models currently being developed, often involving massive compute resources (e.g., GPT-5 or equivalent).
+- **Red-teaming:** A security exercise where ethical hackers attack a system to find vulnerabilities before actual malicious actors do.
+- **Decisions API:** A specialized interface for AI that returns simple, structured logic (like "Yes/No") rather than long-form text.
+- **Forward Deployed Engineering (FDE):** Engineers who work on-site with customers to help them implement complex technology into their specific business environment.
+- **Relational Data:** Data organized into tables with columns and rows, typically found in traditional databases (SQL).
+- **Time-series Forecasting:** Predicting future values based on past data points collected over time (e.g., predicting sales for next month).
+- **AWS Trainium:** A custom-made computer chip designed by Amazon specifically to speed up the training of AI models at a lower cost than standard GPUs.
+- **Reinforcement Learning (RL):** A type of machine learning where a model learns to make decisions by being "rewarded" for correct actions and "punished" for incorrect ones.
