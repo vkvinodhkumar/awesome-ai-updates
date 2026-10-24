@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-24 19:33:18
+Last Updated: 2026-10-24 22:33:59
 
-1.  **Audit Tech Stack:** Evaluate where "Decisions API" or similar modular tools could replace expensive full-model calls.
-2.  **Infrastructure Review:** Assess current data retrieval speeds and consider implementing global caching strategies.
-3.  **Security Posture:** Review "air-gapping" and red-teaming policies if your organization is developing or finetuning proprietary models.
+1. **Audit API Usage:** Identify low-logic tasks currently running on GPT-4o and migrate them to the Decisions API for cost savings.
+2. **Explore Specialized Hardware:** Evaluate AWS Trainium for internal model fine-tuning to reduce reliance on scarce NVIDIA H100s.
+3. **Review Data Security:** Align internal model training protocols with the "frontier" containment standards discussed by OpenAI.
