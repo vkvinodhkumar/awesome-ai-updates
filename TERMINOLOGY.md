@@ -1,13 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-25 19:45:01
+Last Updated: 2026-10-25 22:38:45
 
-*   **Multi-tenancy:** A software architecture where a single instance of software serves multiple distinct user groups (tenants) while keeping their data separate and secure.
-*   **Frontier Model:** The most advanced, highest-capacity AI models currently in development (e.g., GPT-4 or upcoming successors).
-*   **Red-Teaming:** A security exercise where ethical hackers simulate an attack on a system to find vulnerabilities.
-*   **API (Application Programming Interface):** A set of rules that allows one piece of software to talk to another.
-*   **Forward Deployed Engineering (FDE):** Engineers who work onsite or directly with customers to integrate complex technology into the customer's specific environment.
-*   **Trainium:** A custom computer chip designed by Amazon (AWS) specifically for training deep learning models.
-*   **Reinforcement Learning (RL):** A type of machine learning where a model learns to make decisions by receiving "rewards" for correct actions and "penalties" for wrong ones.
-*   **Time-Series Data:** Data points collected or recorded at specific time intervals (e.g., daily sales figures).
-*   **Zero-Shot:** The ability of an AI model to perform a task it wasn't specifically trained for, without seeing any previous examples.
+*   **Multi-tenancy:** A system architecture where a single instance of software serves multiple groups of users (tenants) securely.
+*   **Frontier Model:** The most advanced, high-capability AI models that represent the current state-of-the-art (e.g., GPT-4, Claude 3).
+*   **Red-teaming:** The process of rigorously testing a system by simulating an attack or misuse to find vulnerabilities.
+*   **Decisions API:** A specialized tool for AI to make "Yes/No" or categorical choices quickly and cheaply.
+*   **Forward Deployed Engineering (FDE):** Engineers who work onsite or directly with customers to deploy technical products.
+*   **AWS Trainium:** A custom-made microchip from Amazon designed specifically for training deep learning models.
+*   **Relational Data:** Information organized into tables with predefined relationships, typically found in SQL databases.
+*   **Time-Series Forecasting:** Predicting future values based on past data points collected over time (e.g., predicting sales next month).
