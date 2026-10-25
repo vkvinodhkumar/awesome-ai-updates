@@ -1,8 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-25 01:17:16
+Last Updated: 2026-10-25 06:18:44
 
-1. **Audit API Pipelines**: Identify high-frequency API calls currently using large conversational models and evaluate migration to dedicated, low-cost endpoints like the Decisions API.
-2. **Benchmark AWS Trainium**: Review internal model deployments against the Torch-NeuronX support list to test potential cost savings on custom AWS silicon.
-3. **Enhance Agent Training Protocols**: Pilot deterministic reward systems (e.g., database execution verification) for agentic workflows rather than relying solely on text-based evaluations.
-4. **Review Model Environment Isolation**: Upgrade security frameworks for sensitive internal model training environments to include air-gapping and active red-teaming.
+1. **Audit Security:** Review internal AI training and evaluation protocols against the "frontier" standards shared by OpenAI.
+2. **Cost Optimization:** Identify tasks currently handled by expensive LLMs that could be transitioned to the cheaper, faster Decisions API.
+3. **Hardware Diversification:** Evaluate AWS Trainium compatibility for long-term training cost reduction.
