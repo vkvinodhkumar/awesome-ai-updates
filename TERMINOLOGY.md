@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-27 00:33:53
+Last Updated: 2026-10-27 06:24:21
 
-*   **GPT-6 Astra/Sol:** Specialized versions of next-generation LLMs optimized for workflows and security.
-*   **Kakeya Conjecture:** A complex mathematical problem regarding the geometry of sets.
-*   **Quantum Chromodynamics (QCD):** The study of the strong interaction between quarks and gluons.
-*   **AWS Trainium:** Custom-built AI chips by Amazon designed specifically for training deep learning models.
-*   **Time-Series Forecasting:** Predicting future values based on previously observed values (e.g., stock prices or weather).
-*   **Relational Data:** Data organized into tables that are linked to each other based on data shared between them.
-*   **Ensemble Forecasting:** A method of using multiple different models to predict an outcome, usually resulting in higher accuracy than a single model.
+- **GPT-6 Astra/Sol:** Specialized, high-reasoning versions of the GPT-6 model tailored for workflow testing and security respectively.
+- **Kakeya Conjecture:** A complex mathematical problem regarding the minimum volume of a space in which a needle can be rotated 360 degrees.
+- **Reinforcement Learning (RL) Rewards:** A system where an AI is "punished" or "rewarded" based on its performance, used here to train models on database accuracy.
+- **Time-series Ensemble:** A method of using a group of models to predict future data points (like sales or weather) to increase accuracy.
+- **Relational Data:** Information organized in tables with defined relationships (standard SQL databases).
+- **AWS Trainium:** A custom-designed chip by Amazon optimized for training deep learning models.
+- **Zero-shot:** The ability of an AI model to perform a task without having been specifically trained on that exact data beforehand.
