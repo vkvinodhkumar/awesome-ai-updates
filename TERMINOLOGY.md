@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-26 20:38:07
+Last Updated: 2026-10-27 00:33:53
 
-- **Multi-tenancy:** A software architecture where a single instance of software serves multiple users (tenants), ensuring data isolation while maximizing efficiency.
-- **Agentic AI:** AI systems that don't just provide information, but can perform actions on a computer (like clicking buttons or moving files) to achieve a goal.
-- **Time-series data:** A sequence of data points collected at specific time intervals, used for forecasting trends (e.g., stock prices, weather).
-- **Ensemble Forecasting:** A method of combining predictions from multiple models to get a more accurate overall result.
-- **Relational Data:** Data organized into tables with predefined relationships, typically found in traditional databases (SQL).
-- **Reinforcement Learning (RL) Rewards:** A feedback signal given to an AI during training; it gets a "reward" for doing the right thing, teaching it to improve over time.
+*   **GPT-6 Astra/Sol:** Specialized versions of next-generation LLMs optimized for workflows and security.
+*   **Kakeya Conjecture:** A complex mathematical problem regarding the geometry of sets.
+*   **Quantum Chromodynamics (QCD):** The study of the strong interaction between quarks and gluons.
+*   **AWS Trainium:** Custom-built AI chips by Amazon designed specifically for training deep learning models.
+*   **Time-Series Forecasting:** Predicting future values based on previously observed values (e.g., stock prices or weather).
+*   **Relational Data:** Data organized into tables that are linked to each other based on data shared between them.
+*   **Ensemble Forecasting:** A method of using multiple different models to predict an outcome, usually resulting in higher accuracy than a single model.
