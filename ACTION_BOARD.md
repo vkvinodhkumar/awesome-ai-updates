@@ -1,20 +1,21 @@
 # AI Action Board
 
-Last Updated: 2026-10-27 13:21:10
+Last Updated: 2026-10-27 19:29:05
 
-1.  **Audit CI/CD Pipelines:** Explore integrating GPT-6 Astra or similar logic-based bug detection to reduce rework costs.
-2.  **Evaluate Hardware Strategy:** Assess whether moving inference/training workloads to AWS Trainium could provide a 20-30% cost reduction for current models.
-3.  **Explore Zero-Shot Analytics:** Pilot NVIDIA Kumo on internal relational databases to compare performance against existing supervised ML models.
+1.  **Audit Security Workflows:** Explore GPT-6.1 Sol or similar security-centric models for automated codebase auditing.
+2.  **Evaluate ERP Strategy:** Assess how the Oracle/ChatGPT integration fits into current enterprise software roadmaps.
+3.  **Pilot Specialized Architectures:** Test Liquid Foundation Models (LFM3) for multimodal use cases where traditional Transformers are too costly.
 
 ## Technology Trends
-*   **Ensemble Modeling:** Combining different AI models to get a "consensus" answer, particularly for numerical data like time-series.
-*   **Agentic Workflows:** Moving from "chatting" with AI to "deploying agents" that perform multi-step tasks (e.g., CodeRabbit's security agent).
-*   **RL from Ground Truth:** Using external systems (like databases) to provide feedback to AI, rather than just relying on human feedback (RLHF).
+- **Agentic Reasoning:** Shift from models that "talk" to agents that "act" (e.g., ThinkingBox, Greptile).
+- **Model Specialization:** The emergence of sub-models (Astra, Sol) rather than one general-purpose model for every task.
+- **Hardware Diversification:** Increased support for non-Nvidia hardware (AWS Trainium) to lower TCO (Total Cost of Ownership).
+- **Scientific Synthesis:** AI moving into the "discovery" phase of R&D.
 
 ## Terminology
-*   **GPT-6 Astra/Sol:** Specialized iterations of the GPT-6 model family designed for workflow logic and security, respectively.
-*   **Kakeya Conjecture:** A complex mathematical problem regarding the minimum volume of a space in which a unit needle can be rotated 360 degrees.
-*   **AWS Trainium:** A custom-built chip by Amazon specifically designed for high-performance deep learning training.
-*   **Relational Data:** Data organized into tables (rows and columns), typically found in SQL databases.
-*   **Ensemble Forecasting:** A method of prediction that uses multiple models at once to improve the accuracy of the result.
-*   **Zero-Shot Learning:** The ability of an AI model to perform a task without having been specifically trained on that exact task beforehand.
+- **GPT-6 Astra/Sol:** Specialized versions of OpenAI's next-generation models; Astra likely focuses on reasoning/workflows, Sol on security.
+- **Liquid Foundation Models (LFM):** A type of neural network that can change its underlying equations to adapt to new data, often more efficient than standard AI.
+- **Time-Series Models:** AI designed to predict future values based on past data (e.g., stock prices, weather, inventory).
+- **Reinforcement Learning (RL):** A training method where the AI learns by trial and error, receiving "rewards" for correct actions.
+- **Multimodal:** An AI's ability to process and relate information from different "modes" like text, images, video, and audio.
+- **Ensemble Forecasting:** Using a group of different models to make a prediction, then averaging them to increase accuracy.
