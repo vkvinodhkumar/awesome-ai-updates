@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-27 23:50:23
+Last Updated: 2026-10-28 05:54:40
 
-- **GPT-6 Astra:** A high-performance, real-time-capable model from OpenAI optimized for voice and complex reasoning.
-- **Codex:** An OpenAI model specifically fine-tuned for generating and understanding computer code.
-- **Daybreak:** A specialized OpenAI security tool/model used for identifying software vulnerabilities.
-- **LFM (Liquid Foundation Model):** A type of model architecture designed for high efficiency and continuous data processing.
-- **AWS Trainium:** A purpose-built chip designed by Amazon to provide high-performance, low-cost AI model training.
-- **Reinforcement Learning (RL):** A machine learning training method based on rewarding desired behaviors and punishing undesired ones.
-- **Time-Series Ensemble:** A method of combining multiple forecasting models to produce more accurate predictions for data that changes over time (like stock prices).
+- **GPT-6 Astra:** OpenAI's latest high-reasoning, multimodal model optimized for real-time interaction and complex tasks.
+- **Daybreak:** A specialized model or framework by OpenAI focused on high-level reasoning and analysis, recently applied to cybersecurity.
+- **Codex:** An OpenAI model specifically fine-tuned for understanding and generating computer code.
+- **LFM (Liquid Foundation Model):** A type of AI model designed for high efficiency and the ability to adapt to varying data sequences dynamically.
+- **Time-Series Forecasting:** A statistical method that uses historical data points to predict future values (e.g., predicting stock prices or inventory needs).
+- **RL (Reinforcement Learning) Rewards:** A training method where an AI is "rewarded" for correct actions, helping it learn through trial and error.
+- **AWS Trainium:** Custom-built chips by Amazon Web Services designed specifically for training deep learning models at a lower cost.
+- **Multimodal:** The ability of an AI to process and relate information from different types of data, such as text, images, and audio, simultaneously.
