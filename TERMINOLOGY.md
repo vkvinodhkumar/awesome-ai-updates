@@ -1,12 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-10-28 18:55:24
+Last Updated: 2026-10-28 23:18:48
 
-- **Agentic OS:** A software framework where AI "agents" can autonomously manage complex workflows and interact with other software, rather than just answering questions.
-- **GPT-6 Astra:** A high-performance, low-latency version of OpenAI’s next-generation model, specifically optimized for voice and real-time interaction.
-- **Codex:** An OpenAI model specifically designed to understand and generate computer code.
-- **Multimodal:** The ability of an AI to process and understand multiple types of input simultaneously, such as text, images, and audio.
-- **AWS Trainium:** A custom-built microchip by Amazon designed specifically for high-performance deep learning training.
-- **Reinforcement Learning (RL):** A type of machine learning where the AI learns by trial and error, receiving "rewards" for correct actions.
-- **Liquid Foundation Models (LFM):** A new type of AI architecture (distinct from traditional Transformers) that is often more efficient at processing continuous data streams.
-- **Vulnerability Intelligence:** The data and analysis used to identify weaknesses in software that could be exploited by hackers.
+*   **Agents:** AI systems that don't just talk, but can perform tasks (like filing a ticket or updating a database) autonomously.
+*   **GPT-6 Astra:** A specialized, high-performance version of OpenAI's models optimized for voice and speed.
+*   **Codex:** A specialized OpenAI model designed to understand and write computer code.
+*   **Multimodal:** The ability of an AI to process different types of input, such as text, audio, and video, simultaneously.
+*   **Liquid Foundation Model (LFM):** A type of AI architecture that is more flexible and efficient than standard models, particularly for processing long streams of data.
+*   **Reinforcement Learning (RL):** A training method where the AI learns by trial and error, receiving "rewards" for correct actions.
+*   **AWS Trainium:** A custom-designed computer chip by Amazon built specifically for training large AI models at a lower cost.
+*   **ERP/CRM:** Systems used by businesses to manage their operations (Enterprise Resource Planning) and customer relationships (Customer Relationship Management).

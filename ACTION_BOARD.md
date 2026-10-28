@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-28 18:55:24
+Last Updated: 2026-10-28 23:18:48
 
-1. **Audit Workflows for "Agentic" Readiness:** Identify departments (like Legal or Customer Service) where an "Agentic OS" could replace fragmented software tools.
-2. **Evaluate Compute Costs:** Transition high-volume workloads to specialized hardware like AWS Trainium to preserve margins.
-3. **Pilot Voice Automation:** Explore voice-agent integrations for high-volume customer touchpoints, leveraging the low latency of models like Astra.
+1.  **Audit Data Silos:** Determine which datasets within Oracle or ServiceNow could benefit from AI "agentic" interaction.
+2.  **Evaluate GPT-6 Astra:** Pilot voice AI for customer-facing or internal support roles to capitalize on the new benchmarks.
+3.  **Explore AWS Trainium:** Task the DevOps team to check the compatibility of current models with AWS Trainium to optimize cloud spend.
