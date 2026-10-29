@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-29 05:58:33
+Last Updated: 2026-10-29 13:17:26
 
-*   **Agent/Agentic:** AI that can use tools, browse the web, or access other software to complete a multi-step goal autonomously.
-*   **GPT-6 Astra:** A newly referenced iteration of OpenAI's models, specifically optimized for high-speed, low-latency applications like voice.
-*   **Codex:** A model specifically fine-tuned for understanding and generating computer code.
-*   **Multimodal:** The ability of an AI model to process different types of data (text, images, video, audio) at the same time.
-*   **Reinforcement Learning (RL):** A training method where the AI learns by trial and error, receiving "rewards" for correct actions.
-*   **AWS Trainium:** A specialized computer chip designed by Amazon specifically for training massive AI models at lower costs.
-*   **ThinkingBox:** A Microsoft framework that uses "logical rewards" (like whether a computer program ran correctly) to improve how an AI thinks.
+- **Agentic Operating System:** A platform designed to manage and execute multiple AI agents to complete complex, multi-step professional tasks.
+- **Codex:** An AI model from OpenAI specifically designed to understand and generate computer code.
+- **GPT-6 Astra:** A high-performance model variant or benchmark-topping version of OpenAI's architecture (specifically referenced in voice benchmarks).
+- **Multimodal:** The ability of an AI model to process and relate information from different formats, such as text, images, and audio, simultaneously.
+- **AWS Trainium:** A purpose-built chip designed by Amazon to provide high-performance, low-cost training for deep learning models.
+- **Edge AI:** Running AI algorithms locally on a device (like an iPhone or laptop) rather than on a centralized cloud server.
+- **Novelty-Bench:** A framework used to test if an AI can accurately identify whether a scientific idea is original or already exists.
