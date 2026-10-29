@@ -1,34 +1,26 @@
 # Executive Meeting Brief
 
-### Key Developments
-*   **Safety Frameworks:** OpenAI is formalizing how models should act and how to detect when they "go rogue."
-*   **Workflow Integration:** Deep integrations (ServiceNow/Ropes & Gray) mean AI is now performing actual business tasks rather than just generating text.
-*   **Enterprise-Grade Open Models:** The release of Mistral Large 4 and IBM Granite updates provides more flexible options for companies wary of vendor lock-in.
-
-### Risks
-*   **Misalignment:** As models become agents (capable of taking actions), the risk of them performing unauthorized tasks increases.
-*   **Organizational Friction:** AI's integration into the "org chart" may lead to cultural and structural challenges within the workforce.
-
-### Opportunities
-*   **Operational Efficiency:** Automating legal diligence and enterprise workflows can significantly reduce billable hours and administrative overhead.
-*   **Local AI (Edge):** New Apple-specific models allow for deploying AI tools that work offline and preserve data privacy.
-
-### Recommended Actions
-1.  **Review AI Governance:** Align internal AI policies with the new "Model Specs" and misalignment detection standards.
-2.  **Audit Workflows:** Identify routine processes in ServiceNow or legal departments that are ready for AI-agent automation.
-3.  **Evaluate Open-Source Alternatives:** Test Mistral Large 4 against current proprietary solutions to see if costs can be reduced without losing performance.
+- **Key Developments:** OpenAI is shifting focus toward "Agentic Safety" and deep enterprise integration (ServiceNow/Ropes & Gray). Specialized models for Apple hardware and scientific research are emerging to fill niche gaps.
+- **Risks:** As models become more "agentic" (acting on their own), the risk of misalignment increases. Reliance on third-party model specs requires careful legal and ethical vetting.
+- **Opportunities:** There is a significant opportunity to automate document-heavy "diligence" tasks and to move AI processing to the "edge" (local devices) to save on cloud costs and increase data security.
+- **Recommended Actions:** 
+    1. Review the OpenAI Model Spec to align internal AI governance.
+    2. Audit ServiceNow workflows for potential AI agent automation.
+    3. Evaluate Mistral Large 4 as a potential cost-effective alternative to GPT-4 for specific tasks.
 
 ## Technology Trends
-*   **Agentic Safety:** A shift from "what the AI says" to "what the AI does," with a focus on monitoring autonomous actions.
-*   **Seamless Model Lifecycle:** Treating AI model updates with the same cadence and simplicity as software patches (e.g., IBM Granite).
-*   **Cross-Platform Interoperability:** LLMs are increasingly being embedded into the software we already use (ServiceNow) rather than existing as standalone websites.
+
+1.  **Agentic Governance:** A move from managing "what the AI says" to "what the AI does."
+2.  **Verticalization:** AI is moving from general-purpose tools to specialized tools for law, science, and enterprise workflows.
+3.  **AI as Software (AaaS):** Shifting away from "set it and forget it" models toward a cycle of continuous, incremental updates (the IBM Granite model).
+4.  **Edge-First AI:** Optimization of models specifically for consumer hardware (Apple) to ensure privacy and low latency.
 
 ## Terminology
 
-*   **Model Spec:** A set of guidelines or "rules of the road" that tell an AI how to behave and make decisions.
-*   **Frontier Model:** The most advanced and powerful AI models currently in existence (e.g., GPT-4, Mistral Large).
-*   **Misalignment:** When an AI system's actions or goals do not match the intentions or values of the human user.
-*   **Transactional Diligence:** The process of researching and verifying facts about a business or contract during a deal.
-*   **Open-weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
-*   **Edge AI:** Running AI models locally on a device (like a phone or laptop) instead of on a central server in the cloud.
-*   **Agentic AI:** AI that can use tools and take independent actions to complete a multi-step goal.
+- **Model Spec:** A set of rules or a "constitution" that tells an AI model how it should behave and make decisions.
+- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Mistral Large).
+- **Misalignment:** When an AI’s goals or actions do not match the intentions of its human creators.
+- **Transactional Diligence:** The process of researching and verifying facts about a business or contract before a deal is finalized.
+- **Agentic AI:** AI that can take independent actions (like sending an email or moving a file) rather than just generating text.
+- **Edge AI:** Running AI models directly on a user’s device (phone/laptop) instead of on a central server in the cloud.
+- **Promptable Transcription:** A system where you can give the AI instructions on *how* to transcribe (e.g., "ignore the filler words" or "format this as a legal transcript").
