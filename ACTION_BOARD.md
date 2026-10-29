@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-10-28 23:18:48
+Last Updated: 2026-10-29 05:58:33
 
-1.  **Audit Data Silos:** Determine which datasets within Oracle or ServiceNow could benefit from AI "agentic" interaction.
-2.  **Evaluate GPT-6 Astra:** Pilot voice AI for customer-facing or internal support roles to capitalize on the new benchmarks.
-3.  **Explore AWS Trainium:** Task the DevOps team to check the compatibility of current models with AWS Trainium to optimize cloud spend.
+1.  **Audit Enterprise Tooling:** Evaluate how the Oracle/ServiceNow updates can automate current manual data entry and reporting.
+2.  **Explore Vertical AI:** Investigate agentic platforms like Legora for departmental efficiency (Legal, HR, Finance).
+3.  **Monitor GPT-6 Astra:** Prepare for the deployment of voice-first AI agents in customer-facing roles.
