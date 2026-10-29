@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-29 13:17:26
+Last Updated: 2026-10-29 19:01:41
 
-- **Agentic Operating System:** A platform designed to manage and execute multiple AI agents to complete complex, multi-step professional tasks.
-- **Codex:** An AI model from OpenAI specifically designed to understand and generate computer code.
-- **GPT-6 Astra:** A high-performance model variant or benchmark-topping version of OpenAI's architecture (specifically referenced in voice benchmarks).
-- **Multimodal:** The ability of an AI model to process and relate information from different formats, such as text, images, and audio, simultaneously.
-- **AWS Trainium:** A purpose-built chip designed by Amazon to provide high-performance, low-cost training for deep learning models.
-- **Edge AI:** Running AI algorithms locally on a device (like an iPhone or laptop) rather than on a centralized cloud server.
-- **Novelty-Bench:** A framework used to test if an AI can accurately identify whether a scientific idea is original or already exists.
+*   **Model Spec:** A set of guidelines or "rules of the road" that tell an AI how to behave and make decisions.
+*   **Frontier Model:** The most advanced and powerful AI models currently in existence (e.g., GPT-4, Mistral Large).
+*   **Misalignment:** When an AI system's actions or goals do not match the intentions or values of the human user.
+*   **Transactional Diligence:** The process of researching and verifying facts about a business or contract during a deal.
+*   **Open-weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
+*   **Edge AI:** Running AI models locally on a device (like a phone or laptop) instead of on a central server in the cloud.
+*   **Agentic AI:** AI that can use tools and take independent actions to complete a multi-step goal.

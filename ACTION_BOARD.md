@@ -1,22 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-10-29 13:17:26
+Last Updated: 2026-10-29 19:01:41
 
-1. **Audit Workflow Compatibility:** Evaluate if current ServiceNow or Oracle deployments can be enhanced by the new OpenAI integrations.
-2. **Pilot Vertical Agents:** Explore "Agentic OS" solutions for specific departments (Legal, HR, IT) to move beyond simple chat use cases.
-3. **Investigate Edge AI:** Assess whether local inference (Apple platform models) can handle sensitive tasks to reduce cloud overhead.
+1.  **Review AI Governance:** Align internal AI policies with the new "Model Specs" and misalignment detection standards.
+2.  **Audit Workflows:** Identify routine processes in ServiceNow or legal departments that are ready for AI-agent automation.
+3.  **Evaluate Open-Source Alternatives:** Test Mistral Large 4 against current proprietary solutions to see if costs can be reduced without losing performance.
 
 ## Technology Trends
-- **Agentic OS:** Moving from "AI as a tool" to "AI as a system" that manages entire professional workflows.
-- **Bi-directional Integration:** Not just putting AI in an app, but putting the app’s data inside the AI (e.g., Oracle in ChatGPT).
-- **Hyper-Efficiency:** The rise of "Lean Giants"—small teams generating massive revenue through agentic automation.
-- **Multimodal Edge AI:** Running complex speech and vision models locally on consumer hardware.
+*   **Agentic Safety:** A shift from "what the AI says" to "what the AI does," with a focus on monitoring autonomous actions.
+*   **Seamless Model Lifecycle:** Treating AI model updates with the same cadence and simplicity as software patches (e.g., IBM Granite).
+*   **Cross-Platform Interoperability:** LLMs are increasingly being embedded into the software we already use (ServiceNow) rather than existing as standalone websites.
 
 ## Terminology
-- **Agentic Operating System:** A platform designed to manage and execute multiple AI agents to complete complex, multi-step professional tasks.
-- **Codex:** An AI model from OpenAI specifically designed to understand and generate computer code.
-- **GPT-6 Astra:** A high-performance model variant or benchmark-topping version of OpenAI's architecture (specifically referenced in voice benchmarks).
-- **Multimodal:** The ability of an AI model to process and relate information from different formats, such as text, images, and audio, simultaneously.
-- **AWS Trainium:** A purpose-built chip designed by Amazon to provide high-performance, low-cost training for deep learning models.
-- **Edge AI:** Running AI algorithms locally on a device (like an iPhone or laptop) rather than on a centralized cloud server.
-- **Novelty-Bench:** A framework used to test if an AI can accurately identify whether a scientific idea is original or already exists.
+
+*   **Model Spec:** A set of guidelines or "rules of the road" that tell an AI how to behave and make decisions.
+*   **Frontier Model:** The most advanced and powerful AI models currently in existence (e.g., GPT-4, Mistral Large).
+*   **Misalignment:** When an AI system's actions or goals do not match the intentions or values of the human user.
+*   **Transactional Diligence:** The process of researching and verifying facts about a business or contract during a deal.
+*   **Open-weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
+*   **Edge AI:** Running AI models locally on a device (like a phone or laptop) instead of on a central server in the cloud.
+*   **Agentic AI:** AI that can use tools and take independent actions to complete a multi-step goal.
