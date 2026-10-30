@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-29 23:22:26
+Last Updated: 2026-10-30 05:59:32
 
-- **Model Spec:** A set of rules or a "constitution" that tells an AI model how it should behave and make decisions.
-- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Mistral Large).
-- **Misalignment:** When an AI’s goals or actions do not match the intentions of its human creators.
-- **Transactional Diligence:** The process of researching and verifying facts about a business or contract before a deal is finalized.
-- **Agentic AI:** AI that can take independent actions (like sending an email or moving a file) rather than just generating text.
-- **Edge AI:** Running AI models directly on a user’s device (phone/laptop) instead of on a central server in the cloud.
-- **Promptable Transcription:** A system where you can give the AI instructions on *how* to transcribe (e.g., "ignore the filler words" or "format this as a legal transcript").
+- **Model Spec:** A set of guidelines and values that dictate how an AI should behave and make decisions.
+- **Misalignment:** When an AI system pursues a goal that is different from the human's intended goal.
+- **Frontier Model:** The most advanced, large-scale AI models currently in existence (e.g., GPT-4o, Mistral Large).
+- **Open-Weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing others to run it on their own servers.
+- **Edge AI:** AI that runs locally on a device (like a phone or laptop) rather than in a distant data center.
+- **Transactional Diligence:** The process of reviewing large amounts of data and documents during business deals (like mergers).
+- **Agentic Behavior:** The ability of an AI to plan multi-step tasks and interact with other software to achieve a goal.
