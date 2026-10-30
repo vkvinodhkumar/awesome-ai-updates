@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-10-30 18:40:15
+Last Updated: 2026-10-30 23:02:04
 
-- **Robots.txt:** A text file on a website that tells web crawlers (like AI training bots) which pages they are allowed to visit or "scrape."
-- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Mistral Large).
-- **Model Misalignment:** When an AI’s goals or actions do not align with the user’s intent or the developer’s safety guidelines.
-- **Transactional Diligence:** The process of reviewing legal and financial documents during a business merger or acquisition.
-- **Open Weights:** A model where the "brain" (weights) is available for anyone to download and run, though the training data or code might still be private.
-- **Edge AI:** Running AI models directly on a local device (like an iPhone or laptop) rather than on a remote server in the cloud.
+- **Robots.txt:** A simple text file on a website that tells search engines (and now AI bots) which pages they are allowed to visit.
+- **Fair Use:** A legal doctrine that allows the use of copyrighted material without permission under certain circumstances (e.g., for research or transformation).
+- **Model Spec:** A set of rules and guidelines that tell an AI model how it should behave and make decisions.
+- **Frontier Model:** The most advanced, high-performance AI models currently in existence.
+- **Misalignment:** When an AI's goals or actions do not match the intentions of its human creators.
+- **Edge AI:** Running AI algorithms locally on a device (like a phone or laptop) instead of on a distant server.
+- **Open-Weight Models:** AI models where the "brain" (the weights) is shared publicly so anyone can run it, though the training data may remain private.
