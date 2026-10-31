@@ -1,25 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-10-31 20:03:52
+Last Updated: 2026-10-31 23:27:49
 
-1.  **Audit Data Governance:** Ensure your organization's web properties have updated their `robots.txt` to reflect your AI training preferences.
-2.  **Evaluate Mistral Large 4:** Benchmark this new model against current GPT-4 usage to determine if a shift to an open-weights model could reduce costs.
-3.  **Review Safety Protocols:** If your company is developing AI agents, review OpenAI’s "Model Spec" and "Misalignment" reports to implement similar layered monitoring.
+1. **Audit Data Governance:** Ensure company websites have updated `robots.txt` signals to reflect AI training preferences.
+2. **Evaluate Open Weights:** Benchmark Mistral Large 4 against current proprietary solutions for internal task automation.
+3. **Explore Local Deployment:** Investigate AnySpeechRecognizer for internal tools to process sensitive audio data without sending it to the cloud.
 
 ## Technology Trends
 
-- **Model-as-Software:** Treating AI updates like software patches (Granite Switch).
-- **On-Device Optimization:** A surge in models specifically tuned for local hardware (Apple Silicon).
-- **Data Sovereignty:** Technical mechanisms for publishers to opt-out of AI training are becoming standard.
-- **Agentic Safety:** A shift in focus from "what the AI says" to "what the AI does" (detecting agentic misalignment).
+1. **Model Governance and Alignment:** There is a move from "training the biggest model" to "training the most obedient and safe model" via frameworks like the Model Spec.
+2. **Modular AI (AIOps):** AI is being integrated into traditional software development lifecycles, where models are treated as versioned code rather than static files.
+3. **Edge Optimization:** High-performance AI is moving out of the data center and onto the user's device (MacBooks, iPhones).
 
 ## Terminology
 
-- **Robots.txt:** A text file used by websites to tell web crawlers which pages they can or cannot visit.
-- **Fair Use:** A legal doctrine that allows the limited use of copyrighted material without permission for purposes such as criticism, news reporting, or research.
-- **Frontier Model:** The most advanced, high-performance AI models currently in existence (e.g., GPT-4, Claude 3.5, Mistral Large).
-- **Model Spec:** A formal document outlining the rules, values, and behaviors a model should follow.
-- **Agentic Behavior:** The ability of an AI to move beyond answering questions and instead perform multi-step tasks or take actions (like booking a flight or writing code).
-- **Misalignment:** When an AI's goals or actions do not match the intentions of its human creators.
-- **Open-Weights:** Models where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
-- **CoreML:** Apple’s framework for running machine learning models efficiently on Apple devices.
+- **Robots.txt:** A simple text file on a website that tells web crawlers (like those used by Google or OpenAI) which parts of the site they are allowed to visit.
+- **Frontier Model:** The most advanced, high-capability AI models currently in existence (e.g., GPT-4, Claude 3.5).
+- **Model Misalignment:** When an AI’s goals or behaviors stop matching the intentions of its human creators.
+- **Fair Use:** A legal doctrine that allows the use of copyrighted material without permission under certain circumstances, such as for transformative purposes or education.
+- **Open-Weight Model:** An AI model where the "brain" (the weights) is shared publicly, allowing anyone to run it on their own hardware, unlike "closed" models accessed only via API.
+- **AIOps:** The practice of using AI to manage and automate IT operations and the lifecycle of AI models themselves.
