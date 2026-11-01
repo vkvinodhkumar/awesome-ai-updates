@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-11-01 06:22:31
+Last Updated: 2026-11-01 14:21:09
 
-1.  **Audit Web Presence:** Ensure the company’s `robots.txt` reflects its desired AI data-sharing policy.
-2.  **Evaluate Model Diversification:** Test Mistral Large 4 against current GPT-4 workloads to identify potential cost savings.
-3.  **Edge AI Exploration:** For customer-facing apps, investigate the "Any" model series for on-device processing to enhance privacy and reduce latency.
+1.  **Audit Data Ingestion:** Ensure corporate web properties have the correct `robots.txt` settings to reflect the organization's AI data preferences.
+2.  **Evaluate On-Device AI:** Investigate "AnySpeech" and "AnyDecision" models for internal tools requiring high privacy or low latency on Apple hardware.
+3.  **Monitor Safety Frameworks:** Align internal AI governance with the updated OpenAI "Model Spec" to ensure best practices in model alignment.
