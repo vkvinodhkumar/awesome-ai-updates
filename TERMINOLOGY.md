@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-11-01 14:21:09
+Last Updated: 2026-11-01 19:46:06
 
-*   **robots.txt:** A text file used by websites to tell web-crawlers (like AI bots) which parts of their site they can or cannot visit.
-*   **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Claude 3.5).
-*   **Misalignment:** A situation where an AI’s goals or behaviors do not match the intended goals of its human creators.
-*   **Model Spec:** A set of guidelines or "rules" that dictate how an AI should respond to various prompts and situations.
-*   **Fair Use:** A legal doctrine that allows the use of copyrighted material without permission under certain circumstances, such as for research or transformative purposes.
-*   **Agentic Behavior:** The ability of an AI to perform multi-step tasks and make decisions autonomously to reach a goal.
-*   **Open-Weight Model:** An AI model where the "brain" (weights) is shared publicly, allowing others to run or modify it, unlike "Closed" models hidden behind an API.
+*   **robots.txt:** A text file on a website that tells web crawlers which pages they can or cannot visit.
+*   **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Mistral Large).
+*   **Misalignment:** When an AI’s goals or actions do not match the intentions of its human creators.
+*   **Fair Use:** A legal doctrine in the US that permits limited use of copyrighted material without permission for purposes like news, research, or transformation.
+*   **Agentic AI:** AI that can use tools and take independent actions to achieve a multi-step goal.
+*   **Open-Weights:** Models where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
+*   **CoreML:** Apple’s framework for running machine learning models efficiently on Mac, iPhone, and iPad hardware.
