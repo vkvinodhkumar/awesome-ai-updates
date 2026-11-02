@@ -1,20 +1,22 @@
 # AI Action Board
 
-Last Updated: 2026-11-01 23:41:00
+Last Updated: 2026-11-02 06:23:49
 
-1.  **Review Data Policy:** Ensure your company’s web assets have the correct `robots.txt` signals to control AI training access.
-2.  **Evaluate Mistral Large 4:** Benchmark this new model against current proprietary solutions to potentially reduce API costs.
-3.  **Audit AI Safety:** If using autonomous agents, review the OpenAI Model Spec and misalignment detection frameworks to bolster internal safety protocols.
+1. **Audit Web Assets:** Ensure your organization's `robots.txt` files are updated to reflect your AI data-sharing preferences.
+2. **Evaluate Mistral Large 4:** Benchmark this model against current GPT-4 implementations to identify potential cost savings for high-volume tasks.
+3. **Explore On-Device Deployment:** Assess if the new Apple-optimized models can move your internal tools from the cloud to local hardware to improve privacy and reduce latency.
 
 ## Technology Trends
-*   **AIOps Integration:** AI models are losing their "special status" and being integrated into standard software versioning and deployment pipelines.
-*   **Data Sovereignty:** There is a growing push for content creators to have machine-readable ways to grant or deny permission for AI training.
-*   **Edge Optimization:** Optimization for specific hardware (like Apple Silicon) is becoming a priority for model developers to enable local execution.
+
+1.  **Model-as-Software (MaS):** Moving away from static models toward a continuous update cycle similar to software versioning (e.g., IBM Granite).
+2.  **Explicit Alignment:** A shift from "training and hoping" to "training with a specification," where AI behavior is guided by written values (OpenAI Model Spec).
+3.  **Data Readying:** A global push to format legacy scientific and public data specifically for AI ingestion (Project ProtoStar).
 
 ## Terminology
-*   **robots.txt:** A text file used by websites to tell web crawlers (like Google or OpenAI) which pages they can or cannot visit.
-*   **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Mistral Large).
-*   **Model Alignment:** The process of ensuring an AI's goals and behaviors match human values and expectations.
-*   **Fair Use:** A legal doctrine that allows the use of copyrighted material without permission under certain circumstances, such as for "transformative" purposes like AI training.
-*   **Open-weight Models:** AI models where the "knowledge" (weights) is shared publicly, allowing others to run and modify the model on their own hardware.
-*   **Misalignment:** When an AI system pursues a goal that is different from what the creators intended, potentially leading to harmful or unexpected actions.
+
+- **Robots.txt:** A simple text file placed on a website's server that tells web crawlers (like Google or OpenAI) which parts of the site they are allowed to visit.
+- **Fair Use:** A legal doctrine that allows the use of copyrighted material without permission under certain circumstances, such as for "transformative" purposes.
+- **Frontier Model:** The most advanced, high-scale AI models currently in existence (e.g., GPT-4, Mistral Large).
+- **Misalignment:** When an AI’s goals or behaviors do not match the intentions of its human creators.
+- **Model Spec:** A set of rules or guidelines that define how an AI should behave and make judgments.
+- **On-Device AI:** Running AI models directly on a user's computer or phone instead of a remote server.
