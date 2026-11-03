@@ -1,10 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-11-02 23:55:29
+Last Updated: 2026-11-03 06:58:24
 
-- **Pando:** OpenAI's custom, Git-compatible system designed to handle extremely large repositories and high-frequency code changes.
-- **Monorepo:** A version control strategy where code for many projects is stored in the same repository; Pando is built to handle these at scale.
-- **Robots.txt:** A text file webmasters use to instruct web robots (like AI crawlers) how to crawl pages on their website.
-- **Frontier Model:** A term used for the most advanced, large-scale AI models currently in existence (e.g., Mistral Large 4, GPT-4).
-- **Edge AI:** Running AI algorithms locally on a device (like a phone) rather than on a remote cloud server.
-- **P0 Issue:** A "Priority 0" issue, indicating a critical bug or security flaw that must be fixed immediately.
+- **Pando:** A custom system built by OpenAI to manage version control (Git) for massive, AI-generated codebases.
+- **Grid Reliability:** The ability of the electrical power system to deliver electricity consistently and handle sudden changes in demand/supply.
+- **Bug Bounty:** A program where companies pay independent researchers to find and report security flaws.
+- **Red-Teaming:** A security exercise where "good guys" attack a system to find vulnerabilities before "bad guys" do.
+- **Benchmark:** A standard test used to measure and compare the performance of different AI models.
+- **Open-Weights:** AI models where the "brain" (weights) is shared publicly, allowing others to run it on their own hardware.
+- **Edge AI:** Running AI processes locally on a device (like a phone) rather than on a remote server in the cloud.
