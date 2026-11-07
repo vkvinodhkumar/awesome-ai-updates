@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-06 19:32:13
+Last Updated: 2026-11-07 00:09:17
 
-- **Frontier AI:** State-of-the-art AI models that possess advanced capabilities at or beyond the current boundaries of machine intelligence.
-- **Wet-Lab Science:** Biological or chemical laboratory research involving physical, liquid chemicals and biological samples, as opposed to purely computational ("dry-lab") science.
-- **Automatic Speech Recognition (ASR):** Technology that converts spoken human language into written text.
-- **On-Device Execution (Edge AI):** Running AI models locally on consumer hardware (phones, IoT devices) rather than transmitting data to remote cloud servers.
-- **World Simulation Model:** An AI model designed to predict, simulate, and visually render physical dynamics and environments, often used for training robots or self-driving hardware.
-- **JSON (JavaScript Object Notation):** A standard, human-readable data format used to exchange structured data between applications.
+- **BioBasicsBench:** A standardized test suite designed to measure how effectively AI models interpret biological data and execute lab science reasoning.
+- **Codex:** An AI model optimized to understand, write, and execute software code based on natural language instructions.
+- **GPT-6 Cyber:** A specialized artificial intelligence model configured specifically to identify software vulnerabilities and recommend fixes within authorized legal bounds.
+- **Automatic Speech Recognition (ASR):** The technology that transcribes spoken human speech into written text.
+- **Interactive World Simulation:** Computer-generated virtual environments that model physical laws in real time, allowing AI agents or robots to interact with their surroundings.
+- **On-Device TTS (Text-to-Speech):** Software that converts written text into spoken audio directly on a user's computer or smartphone without sending data to an online cloud server.
