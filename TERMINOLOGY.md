@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-07 00:09:17
+Last Updated: 2026-11-07 06:12:17
 
-- **BioBasicsBench:** A standardized test suite designed to measure how effectively AI models interpret biological data and execute lab science reasoning.
-- **Codex:** An AI model optimized to understand, write, and execute software code based on natural language instructions.
-- **GPT-6 Cyber:** A specialized artificial intelligence model configured specifically to identify software vulnerabilities and recommend fixes within authorized legal bounds.
-- **Automatic Speech Recognition (ASR):** The technology that transcribes spoken human speech into written text.
-- **Interactive World Simulation:** Computer-generated virtual environments that model physical laws in real time, allowing AI agents or robots to interact with their surroundings.
-- **On-Device TTS (Text-to-Speech):** Software that converts written text into spoken audio directly on a user's computer or smartphone without sending data to an online cloud server.
+* **Frontier AI:** Advanced, state-of-the-art AI models operating at the leading edge of capability, often possessing complex reasoning, multimodality, or dynamic autonomous behaviors.
+* **Aligned AI / Model Alignment:** The engineering discipline of ensuring an AI model's behaviors, objectives, and outputs remain strictly safe, predictable, and within authorized ethical boundaries defined by human intent.
+* **Wet-Lab Science:** Biological, chemical, or medical research that takes place in physical laboratories requiring hands-on handling of liquid chemicals, biological specimens, and physical instruments.
+* **ASR (Automatic Speech Recognition):** Computer technologies that transcribe spoken human language into written text.
+* **TTS (Text-to-Speech):** AI technologies that synthesize written text into natural, spoken human voice audio.
+* **On-Device / Edge AI:** Running AI algorithms locally on computer hardware (phones, IoT hardware, laptops) rather than routing queries over the internet to remote cloud servers.
+* **World Model:** An AI model trained to understand, simulate, and predict the physical rules, visual properties, and dynamics of interactive 3D environments.
+* **JSON (JavaScript Object Notation):** A standardized, human-readable text format used for storing and exchanging structured digital data between software applications.
