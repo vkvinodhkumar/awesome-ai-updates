@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-08 09:09:07
+Last Updated: 2026-11-08 16:03:53
 
-- **Wet-Lab Science**: Scientific research involving physical liquids, biological samples, and chemical experiments in a laboratory setting, as opposed to computer simulations or theoretical analysis.
-- **Red-Teaming**: The practice of using security experts (or dedicated external entities) to simulate adversary attacks against systems to discover vulnerabilities before malicious actors exploit them.
-- **ASR (Automatic Speech Recognition)**: Software capabilities that process human speech audio signals and convert them into machine-readable text transcripts.
-- **World Model / World Simulation**: An AI model trained to understand, predict, and visually or mathematically simulate physical spatial environments and object behaviors over time.
-- **On-Device / Local Execution**: Running AI algorithms locally on end-user hardware (such as laptops, smartphones, or robotics edge processors) rather than hosting execution on external cloud servers.
-- **JSON (JavaScript Object Notation)**: A lightweight, human-readable file format widely used to structure and transmit standard data between software systems and servers.
+* **Frontier AI:** State-of-the-art, highly capable foundation models that push the boundaries of machine learning capabilities.
+* **Wet-Lab Science:** Laboratory research involving physical chemicals, biological specimens, and liquid samples, as opposed to purely computational ("dry-lab") research.
+* **AI Alignment:** The subfield of AI safety focused on ensuring AI systems act strictly in accordance with human intentions, ethical boundaries, and designated operational scopes.
+* **ASR (Automatic Speech Recognition):** Technology that converts spoken human audio into written text.
+* **On-Device / Edge AI:** Running artificial intelligence models directly on local hardware (e.g., phones, laptops, IoT devices) rather than routing data to centralized cloud servers.
+* **TTS (Text-to-Speech):** Software systems that generate human-like synthetic voice output from written text.
+* **JSON (JavaScript Object Notation):** A lightweight, standardized data format used to store and exchange structured information across software applications.
+* **World Simulation Model:** An AI model designed to generate or simulate real-world physical dynamics, environments, and spatial interactions.
