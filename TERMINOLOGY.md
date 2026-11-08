@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-08 16:03:53
+Last Updated: 2026-11-08 20:35:27
 
-* **Frontier AI:** State-of-the-art, highly capable foundation models that push the boundaries of machine learning capabilities.
-* **Wet-Lab Science:** Laboratory research involving physical chemicals, biological specimens, and liquid samples, as opposed to purely computational ("dry-lab") research.
-* **AI Alignment:** The subfield of AI safety focused on ensuring AI systems act strictly in accordance with human intentions, ethical boundaries, and designated operational scopes.
-* **ASR (Automatic Speech Recognition):** Technology that converts spoken human audio into written text.
-* **On-Device / Edge AI:** Running artificial intelligence models directly on local hardware (e.g., phones, laptops, IoT devices) rather than routing data to centralized cloud servers.
-* **TTS (Text-to-Speech):** Software systems that generate human-like synthetic voice output from written text.
-* **JSON (JavaScript Object Notation):** A lightweight, standardized data format used to store and exchange structured information across software applications.
-* **World Simulation Model:** An AI model designed to generate or simulate real-world physical dynamics, environments, and spatial interactions.
+- **BioBasicsBench:** A targeted evaluation benchmark featuring 100 specialized tasks designed to test how effectively AI agents analyze raw experimental data and assist with wet-lab laboratory workflows.
+- **GPT-6 Cyber:** A specialized, domain-tailored frontier AI model designed to find system vulnerabilities and auto-generate fixes within authorized operational boundaries.
+- **ASR (Automatic Speech Recognition):** Software technology that transcribes spoken human speech into machine-readable written text.
+- **On-Device Speech Synthesis (TTS):** Text-to-speech technology that runs locally on an endpoint device (such as a smartphone or laptop) without needing an internet connection to process audio in the cloud.
+- **Interactive World Simulation:** Generative models designed to simulate physical dynamics, environment physics, and visual environments, allowing software agents and robots to interact safely in digital spaces.
+- **Structured Field Extraction:** The process of converting unorganized documents (like scanned PDFs or freeform text) into organized, machine-readable formats such as JSON.
