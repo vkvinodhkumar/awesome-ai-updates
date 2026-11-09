@@ -1,10 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-11-09 00:59:58
+Last Updated: 2026-11-09 08:06:48
 
-- **Wet-Lab Science:** Experimental laboratory work involving physical samples, liquid chemicals, and biological specimens, contrasted with computational "dry-lab" research.
-- **AI Alignment:** The discipline of ensuring an AI model's goals, behaviors, and outputs remain strictly safe, ethical, and within intended human operational boundaries.
-- **ASR (Automatic Speech Recognition):** The technology that transcribes spoken audio into written text automatically.
-- **Text-to-Speech (TTS):** Technology that converts written text into synthesized spoken audio.
-- **On-Device Inference:** Executing an AI model locally on the user's processor (e.g., phone, laptop, microchip) rather than sending data to a remote cloud server.
-- **World Simulation Models:** AI systems designed to model and predict the physical, spatial, and visual rules of real or virtual environments.
+- **Frontier AI:** The most advanced, highly capable foundation AI models currently being developed at the leading edge of research.
+- **Wet-Lab Science:** Biological or chemical laboratory research involving physical liquids, chemicals, and biological specimens, distinct from purely computational ("dry") analysis.
+- **Benchmark:** A standardized test or set of metrics used to evaluate and compare the performance, accuracy, or capability of AI models.
+- **Codex:** An AI model engineered specifically to parse natural language instructions and generate executable programming code.
+- **Alignment / Authorized Scope:** The process of training AI models to ensure their actions conform strictly to human ethics, safe behavior, and designated operating boundaries.
+- **Interactive World Simulation:** AI systems capable of rendering and simulating 3D environments that react dynamically to inputs in real time.
+- **On-Device / Edge AI:** Running artificial intelligence models directly on local hardware (e.g., smartphones, local servers) without transmitting data to centralized cloud systems.
+- **Automatic Speech Recognition (ASR):** Technology that converts spoken audio signals into structured text transcripts.
+- **JSON (JavaScript Object Notation):** A standardized, lightweight text format used by software applications to store and exchange structured data.
