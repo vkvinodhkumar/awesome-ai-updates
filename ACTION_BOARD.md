@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-11-10 10:02:40
+Last Updated: 2026-11-10 17:57:18
 
-1. **Procurement Review:** Audit current enterprise AWS cloud commitment contracts to identify funds that can be applied to enterprise AI tooling.
-2. **Developer Tooling Assessment:** Benchmark agentic coding governance platforms like CodeRabbit within internal engineering teams to evaluate potential delivery acceleration.
-3. **Safety Infrastructure Audit:** Ensure internal AI development deployments incorporate central telemetry and kill-switch governance mechanisms similar to OpenAI’s Control Room framework.
+1. **Procurement Review:** Audit current AWS and GCP enterprise commitments to evaluate consolidating ChatGPT Enterprise or Hugging Face Hub under existing cloud spend.
+2. **AI Governance Audit:** Inspect internal model-building infrastructure to ensure real-time telemetry and circuit-breaker mechanisms are active for large compute workloads.
+3. **Upskilling Strategy:** Update internal talent development plans to prioritize hybrid domain-plus-AI skill sets across corporate and vendor workflows.
