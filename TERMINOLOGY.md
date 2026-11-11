@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-11-10 23:30:23
+Last Updated: 2026-11-11 06:43:06
 
-- **Synthetic Data:** Artificially generated information used to train AI models when real-world data is scarce, private, or too expensive to collect.
-- **Mixture-of-Experts (MoE):** An architecture that uses a large number of smaller "specialist" models within one system, activating only relevant ones to save energy and speed.
-- **Agentic AI:** AI systems that can independently make decisions and take steps to achieve a specific goal, rather than just waiting for prompts.
-- **Higher-Order Pruning (HOPE):** A technical method of trimming unnecessary parts of an AI model to make it run faster without losing intelligence.
-- **Embodied AI:** AI that is integrated into a physical body (like a robot) to interact with the physical world.
+- **Agentic Language Model**: An AI model designed not just to answer text queries, but to autonomously break down goals, plan tasks, and execute tools or actions.
+- **Sub-Billion Parameter Model**: A compact AI model containing fewer than 1 billion parameters, small enough to run efficiently on mobile phones or edge hardware.
+- **Mixture-of-Experts (MoE)**: An architecture that routes different inputs to specialized sub-networks ("experts"), improving efficiency by activating only a subset of the total network per query.
+- **Higher-Order Pruning of Experts (HOPE)**: An optimization technique that removes redundant experts in MoE models while retaining co-dependent expert pairings.
+- **Synthetic Dataset**: Artificially generated data created by computer algorithms rather than collected from direct real-world observations, used to train models safely and fill data gaps.
