@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-11-12 03:54:04
+Last Updated: 2026-11-12 12:54:12
 
-- **Agentic Language Model:** An AI model designed not just to generate text, but to autonomously break down goals, plan multi-step processes, and execute tasks using tools or software.
-- **Sub-Billion-Parameter Model:** A compact AI model with fewer than one billion learnable parameters (compared to hundreds of billions in massive models). These are small enough to run fast on consumer devices like phones and laptops.
-- **Evals (Evaluations):** Automated software tests and benchmarks used to continuously measure an AI model's accuracy, safety, latency, and performance against defined tasks.
-- **Guardrails:** Safety and filtering mechanisms placed around AI systems to inspect user inputs and model outputs, preventing harmful, hallucinated, or off-topic responses in real time.
-- **Multi-Vector Embedding Model:** An AI retrieval technology that represents a single piece of text using multiple numerical vectors instead of just one, improving context matching in semantic search engines.
-- **Token Pooling:** A computational technique used during model training to compress and aggregate sequential token representations into efficient summaries, reducing memory requirements.
-- **Decision Models:** AI architectures specifically trained for sequential decision-making and planning tasks (often using reinforcement learning), rather than pure text or image generation.
-- **Synthetic Dataset:** Data generated artifically by software algorithms or AI models—rather than collected from real-world human interactions—used to train models safely without exposing real private data.
+- **Codex:** An AI system specialized in translating natural language instructions directly into executable programming code.
+- **Agentic Language Model:** An AI model designed not just to answer text queries, but to autonomously plan, execute multi-step actions, and use tools to achieve a specified goal.
+- **Sub-Billion-Parameter Model:** A compact AI model containing fewer than 1 billion parameters, engineered to run efficiently on low-power, consumer-grade hardware.
+- **Token Pooling:** A computational technique in vector embedding models that compresses sequences of data representation (tokens) into smaller, dense vectors to reduce storage and speed up search.
+- **Evals (Evaluations):** Standardized, automated benchmarks and metrics used to continuously measure an AI model's performance, safety, accuracy, and latency.
+- **Guardrails:** Automated software boundaries and safety checks deployed around an AI model to filter out toxic, off-topic, or unsafe inputs and outputs in real time.
+- **Synthetic Dataset:** Data generated artificially by algorithms or language models rather than collected from direct real-world human observations, used safely to train AI models.
