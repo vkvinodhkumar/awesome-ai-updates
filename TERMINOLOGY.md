@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-12 12:54:12
+Last Updated: 2026-11-12 20:55:35
 
-- **Codex:** An AI system specialized in translating natural language instructions directly into executable programming code.
-- **Agentic Language Model:** An AI model designed not just to answer text queries, but to autonomously plan, execute multi-step actions, and use tools to achieve a specified goal.
-- **Sub-Billion-Parameter Model:** A compact AI model containing fewer than 1 billion parameters, engineered to run efficiently on low-power, consumer-grade hardware.
-- **Token Pooling:** A computational technique in vector embedding models that compresses sequences of data representation (tokens) into smaller, dense vectors to reduce storage and speed up search.
-- **Evals (Evaluations):** Standardized, automated benchmarks and metrics used to continuously measure an AI model's performance, safety, accuracy, and latency.
-- **Guardrails:** Automated software boundaries and safety checks deployed around an AI model to filter out toxic, off-topic, or unsafe inputs and outputs in real time.
-- **Synthetic Dataset:** Data generated artificially by algorithms or language models rather than collected from direct real-world human observations, used safely to train AI models.
+* **Agentic (or Agentic AI):** AI systems that do not just provide text, but can take actions (e.g., writing code, clicking buttons, managing files) to complete a goal.
+* **Parameter:** The internal variables in an AI model that it adjusts during training to learn. Generally, fewer parameters mean a "smaller," faster model, while more parameters mean a "smarter," heavier model.
+* **Fine-Tuning:** The process of taking a pre-trained AI model and training it further on a specific, smaller dataset to make it an expert in a niche area.
+* **LoRA (Low-Rank Adaptation):** A technical method that allows developers to fine-tune AI models much faster and with significantly less computer memory.
+* **Embedding Model:** A model that turns text into a series of numbers (a vector) so a computer can understand the "meaning" of the words and compare how similar they are.
+* **Token Pooling:** A technique used in search and AI to summarize or condense groups of "tokens" (units of text) to make retrieval faster and more accurate.
