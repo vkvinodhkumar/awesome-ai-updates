@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-11-13 17:51:39
+Last Updated: 2026-11-13 23:40:39
 
-- **ChatGPT Wallet**: A security framework by OpenAI enabling conversational AI agents to initiate and execute monetary transactions under explicit human approval.
-- **Agentic Language Model**: An AI model designed to perform multi-step planning, tool use, and autonomous tasks rather than just producing static text.
-- **`llama.cpp`**: An open-source software library written in C++ that enables fast, lightweight execution of LLMs locally on standard computer hardware.
-- **LLMON (LLM-Native Markup Language)**: A structured formatting language optimized specifically for LLMs to read and write data with minimal memory (token) usage and higher computational accuracy.
-- **Sub-Billion-Parameter Model**: A compact AI model containing fewer than 1 billion variables (parameters), designed to run fast on low-power devices like phones or laptops.
-- **3D Model Fine-Tuning / LoRA**: A method of training existing generative AI models on a small set of specialized data to teach them specific 3D artistic styles or object shapes efficiently.
+* **Agentic AI:** AI systems capable of performing tasks and making decisions on their own to achieve a goal, rather than just waiting for user commands.
+* **Codex:** An AI model specifically trained to write and understand computer code.
+* **LoRA (Low-Rank Adaptation):** A efficient way to "fine-tune" a large AI model on specific data without needing to retrain the entire massive brain of the model.
+* **SimReady Assets:** Pre-built 3D digital objects specifically designed for testing robots in a virtual simulation before they are built in the real world.
+* **LLM-Native Markup:** A language (like HTML for websites) that is specifically structured to be easily "read" and processed by AI models.
