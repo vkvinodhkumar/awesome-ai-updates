@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-14 06:41:34
+Last Updated: 2026-11-14 14:17:29
 
-- **ChatGPT Wallet**: A security framework within OpenAI's platform enabling AI agents to complete financial transactions with user authorization and payment card safeguards.
-- **llama.cpp**: A popular, lightweight open-source software library written in C++ that enables high-performance inferencing of Large Language Models locally on standard hardware.
-- **LLMON (LLM-Native Markup Language)**: A structured text format optimized specifically for machine comprehension by LLMs, designed to save processing tokens and lower parsing error rates compared to JSON/XML.
-- **3D LoRA (Low-Rank Adaptation for 3D)**: A parameter-efficient fine-tuning technique applied to 3D generative AI models, allowing custom 3D asset generation without retraining the entire base model.
-- **SimReady Assets**: Standardized 3D digital objects configured with physical properties (weight, friction, kinematics) for immediate use in synthetic physics simulations and robotics training.
-- **XYBench**: An evaluation benchmark designed to test an AI's ability to uncover implicit human intent and solve underlying problems rather than matching literal prompt text.
+- **ChatGPT Wallet:** A secure interface by OpenAI allowing AI agents to perform financial transactions with card protections and explicit user approval.
+- **Codex:** An AI system specialized in software development that understands and generates computer code based on natural language prompts.
+- **Forge Agents:** Autonomous AI agents configured to perform navigation, data entry, and interaction tasks within complex software interfaces.
+- **llama.cpp:** An open-source, highly efficient execution framework designed to run Large Language Models locally across various hardware platforms with minimal resource overhead.
+- **LLMON:** An LLM-Native Markup Language designed to optimize token usage and structure data cleanly for AI processing.
+- **SimReady Assets:** Standardized, physics-enabled 3D assets formatted specifically to train AI models in digital simulation environments before physical deployment.
+- **3D-LoRA (Low-Rank Adaptation):** A parameter-efficient technique used to fine-tune 3D generative models quickly using lower computational resources.
+- **XYBench:** A benchmarking tool built to evaluate an AI model’s ability to understand hidden or implicit user intent behind a query.
