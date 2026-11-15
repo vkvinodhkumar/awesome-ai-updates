@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-11-15 06:46:33
+Last Updated: 2026-11-15 14:50:58
 
-1. **Pilot Agentic Workflows:** Initiate a sandbox pilot testing agent-assisted enterprise tasks, incorporating strict authorization guardrails for financial actions.
-2. **Evaluate Local Inference Alternatives:** Conduct a cost-benefit analysis of offloading high-volume baseline inference tasks to open-source models using `llama.cpp` and optimized markup formats like LLMON.
-3. **Audit Engineering Pipelines:** Review current software lifecycle policies to integrate AI coding tools while updating review gates to maintain software quality and security standards.
+1. **Financial Authorization Audit:** Evaluate security protocols and user-in-the-loop approval gates before granting financial execution privileges to internal AI agents.
+2. **Explore Edge Deployment:** Pilot `llama.cpp v1.0.0` alongside small parameters models (3B–8B) for sensitive tasks where data privacy or low latency is required.
+3. **Equip Engineering Teams with Codex/Agents:** Formally integrate coding agents into development pipelines to capture documented engineering velocity improvements.
