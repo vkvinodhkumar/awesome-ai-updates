@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-15 14:50:58
+Last Updated: 2026-11-15 20:26:22
 
-- **ChatGPT Wallet:** A payment service allowing AI agents to perform financial transactions securely using stored cards, contingent on explicit user authorization.
-- **Agentic Commerce:** Autonomous buying, selling, or procurement carried out by software AI agents on behalf of human users or organizations.
-- **SimReady Assets:** Digital 3D objects embedded with physical parameters (gravity, friction, density) designed specifically to train robotic simulation models.
-- **XYBench:** A standardized test evaluating an AI model’s ability to deduce intent beyond the literal phrasing of a query.
-- **llama.cpp:** A popular lightweight C/C++ library designed to run large language models locally on standard computing hardware with minimal resource overhead.
-- **LLMON:** An optimized markup syntax engineered explicitly for Large Language Models to read and output structured data efficiently.
+- **Agentic AI:** Autonomous software systems capable of breaking down complex goals into sub-tasks, interacting with external tools, and executing actions without step-by-step human intervention.
+- **Codex:** Specialized AI models trained specifically on code databases to write, complete, and debug software programming languages.
+- **llama.cpp:** An open-source software library written in C/C++ that enables high-performance LLM execution on standard CPU/GPU consumer hardware with minimal memory overhead.
+- **LoRA (Low-Rank Adaptation):** A fine-tuning technique that allows adapting large foundational models by updating only a tiny fraction of their parameters, drastically lowering computational cost.
+- **LLMON:** A structured data markup language engineered specifically to be tokenized and parsed efficiently by Large Language Models.
+- **SimReady Assets:** Digital 3D objects embedded with physical properties (weight, friction, material behavior) designed specifically for accurate robotics and physical simulation environments.
