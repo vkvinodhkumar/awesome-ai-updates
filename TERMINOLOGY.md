@@ -1,9 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-16 01:07:05
+Last Updated: 2026-11-16 08:03:46
 
-*   **Nonperturbative Lattice Definition:** A way of calculating complex physics problems on a grid (lattice) without relying on simplified approximations; it’s a high-level approach to solving fundamental particle interactions.
-*   **Agentic:** Refers to AI that can take independent action to achieve a goal rather than just providing text.
-*   **Legacy Portals:** Older, often outdated software systems used by companies that are difficult to update but essential for operation.
-*   **SimReady Assets:** Pre-built 3D digital objects that are physically accurate, used to train robots in virtual simulators.
-*   **Fine-tuning:** The process of taking a pre-trained AI and "tweaking" it on a smaller, specific dataset to make it an expert in a certain task (e.g., 3D generation).
+- **Lattice Standard Model:** A theoretical framework in particle physics that discretizes spacetime into a grid (lattice) to compute complex quantum interactions nonperturbatively.
+- **GPT-6 Astra:** A designated advanced frontier AI model mentioned in the research context, specialized in complex mathematical logic and scientific reasoning.
+- **Agentic Wallet / ChatGPT Wallet:** A secure financial authorization layer that allows AI software agents to make purchases or transactions on behalf of users within set permissions.
+- **Computer-Use / Forge Agents:** Software agents equipped to interact with graphic user interfaces (GUIs) or legacy portals by mimicking human keyboard and mouse actions.
+- **llama.cpp:** An open-source, highly optimized C/C++ library designed for executing Large Language Model inference locally on modern desktop and server hardware with low overhead.
+- **LLMON:** An LLM-Native Markup Language designed to format data explicitly for efficient ingestion and output by neural networks compared to standard human-centric formats like XML or JSON.
+- **SimReady Assets:** Pre-configured 3D models embedded with physical properties (weight, friction, collision bounds) optimized specifically for synthetic physics simulations.
+- **3D LoRA Fine-Tuning:** Applying Low-Rank Adaptation (a parameter-efficient fine-tuning technique) to 3D generative AI models, allowing them to output specific 3D mesh styles or objects using minimal computational resources.

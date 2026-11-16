@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-11-16 01:07:05
+Last Updated: 2026-11-16 08:03:46
 
-1.  **Pilot Agentic Workflows:** Identify internal IT or administrative bottlenecks suitable for "Shield-style" automation.
-2.  **Audit Security Policies:** Update corporate data governance to account for agent-led purchasing via the new Wallet functionality.
-3.  **Invest in Local AI:** Explore local deployment options for non-sensitive tasks to reduce cloud costs and enhance privacy.
+1. **Security Policy Audit:** Establish governance policies regarding financial authorization limits and approval gates for autonomous agents.
+2. **Local AI Pilot:** Task infrastructure teams with evaluating `llama.cpp v1.0.0` for local enterprise deployment to decrease API operational costs.
+3. **Workflow Mapping:** Identify repetitive legacy IT and software maintenance workflows suitable for AI agent delegation.
