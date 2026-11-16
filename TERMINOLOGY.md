@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-16 08:03:46
+Last Updated: 2026-11-16 18:39:38
 
-- **Lattice Standard Model:** A theoretical framework in particle physics that discretizes spacetime into a grid (lattice) to compute complex quantum interactions nonperturbatively.
-- **GPT-6 Astra:** A designated advanced frontier AI model mentioned in the research context, specialized in complex mathematical logic and scientific reasoning.
-- **Agentic Wallet / ChatGPT Wallet:** A secure financial authorization layer that allows AI software agents to make purchases or transactions on behalf of users within set permissions.
-- **Computer-Use / Forge Agents:** Software agents equipped to interact with graphic user interfaces (GUIs) or legacy portals by mimicking human keyboard and mouse actions.
-- **llama.cpp:** An open-source, highly optimized C/C++ library designed for executing Large Language Model inference locally on modern desktop and server hardware with low overhead.
-- **LLMON:** An LLM-Native Markup Language designed to format data explicitly for efficient ingestion and output by neural networks compared to standard human-centric formats like XML or JSON.
-- **SimReady Assets:** Pre-configured 3D models embedded with physical properties (weight, friction, collision bounds) optimized specifically for synthetic physics simulations.
-- **3D LoRA Fine-Tuning:** Applying Low-Rank Adaptation (a parameter-efficient fine-tuning technique) to 3D generative AI models, allowing them to output specific 3D mesh styles or objects using minimal computational resources.
+*   **Frontier Models:** The most powerful, state-of-the-art AI models that represent the cutting edge of current technology.
+*   **Open-Weight Models:** AI models where the underlying "weights" (the learned patterns) are publicly available, allowing users to run them on their own machines.
+*   **Model Alignment:** The process of ensuring an AI model’s behavior is consistent with human values, intent, and safety guidelines.
+*   **Pick-and-Place:** A common robotics task where a machine identifies and moves an object from one location to another.
+*   **Benchmark:** A standardized test or set of tasks used to measure and compare the performance, accuracy, and reasoning abilities of different AI models.
+*   **Markup Language:** A system for annotating a document in a way that is syntactically distinguishable from the text, helping machines "understand" the structure of information.
