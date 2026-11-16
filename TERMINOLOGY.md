@@ -1,10 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-11-15 20:26:22
+Last Updated: 2026-11-16 01:07:05
 
-- **Agentic AI:** Autonomous software systems capable of breaking down complex goals into sub-tasks, interacting with external tools, and executing actions without step-by-step human intervention.
-- **Codex:** Specialized AI models trained specifically on code databases to write, complete, and debug software programming languages.
-- **llama.cpp:** An open-source software library written in C/C++ that enables high-performance LLM execution on standard CPU/GPU consumer hardware with minimal memory overhead.
-- **LoRA (Low-Rank Adaptation):** A fine-tuning technique that allows adapting large foundational models by updating only a tiny fraction of their parameters, drastically lowering computational cost.
-- **LLMON:** A structured data markup language engineered specifically to be tokenized and parsed efficiently by Large Language Models.
-- **SimReady Assets:** Digital 3D objects embedded with physical properties (weight, friction, material behavior) designed specifically for accurate robotics and physical simulation environments.
+*   **Nonperturbative Lattice Definition:** A way of calculating complex physics problems on a grid (lattice) without relying on simplified approximations; it’s a high-level approach to solving fundamental particle interactions.
+*   **Agentic:** Refers to AI that can take independent action to achieve a goal rather than just providing text.
+*   **Legacy Portals:** Older, often outdated software systems used by companies that are difficult to update but essential for operation.
+*   **SimReady Assets:** Pre-built 3D digital objects that are physically accurate, used to train robots in virtual simulators.
+*   **Fine-tuning:** The process of taking a pre-trained AI and "tweaking" it on a smaller, specific dataset to make it an expert in a certain task (e.g., 3D generation).
