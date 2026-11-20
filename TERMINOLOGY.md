@@ -1,11 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-11-20 02:24:01
+Last Updated: 2026-11-20 11:57:11
 
-*   **Performance Factory:** An automated internal system that uses code-generating AI models to continuously identify, diagnose, and resolve software performance bottlenecks.
-*   **Mixture of Experts (MoE):** An architecture that routes input data to specific sub-networks ("experts"), allowing a model to have a massive total parameter size while keeping active inference compute overhead low.
-*   **Expert Streaming / Offloading:** A technical strategy that keeps dormant model weights in system RAM or NVMe storage and dynamically transfers active experts into GPU VRAM only when needed.
-*   **Post-Training Efficiency:** Optimization techniques (such as alignment, direct preference optimization, and fine-tuning refinement) applied after initial base training to increase model performance without full re-training costs.
-*   **FLOPs (Floating Point Operations):** A measure of theoretical hardware compute performance; often used to estimate training time, though real-world performance is strongly influenced by data transfer speeds and memory bandwidth.
-*   **Time-Series Model:** An AI model engineered specifically to analyze data points indexed in temporal order, used extensively for financial forecasting, telemetry, and sensor monitoring.
-*   **PR (Pull Request) Scan:** Automated analysis triggered during developer code reviews to evaluate security, quality, and logic prior to merging code into the main codebase.
+- **Performance Factory:** OpenAI's system of automated Codex workflows designed to discover and resolve system speed and efficiency issues.
+- **Codex:** OpenAI's AI model technology geared toward writing, analyzing, and processing computer code.
+- **Pull Request (PR) Scans:** Automated checks executed on code submissions (pull requests) to scan for issues prior to merging code into a central codebase.
+- **Daybreak Red:** A reference framework provided by OpenAI for conducting supervised security investigations with defined safety and monitoring controls.
+- **Daybreak Blue:** An OpenAI platform tool focused on security or operational management, featuring specific onboarding and deployment processes.
+- **FLOPs (Floating Point Operations):** A standard unit measuring computational work; often used to estimate the theoretical hardware compute required to train or fine-tune models.
+- **MoE (Mixture of Experts):** An AI architecture that routes different inputs to specialized smaller sub-networks ("experts"), allowing large parameter models to run more efficiently.
