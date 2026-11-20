@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-11-19 20:47:16
+Last Updated: 2026-11-20 02:24:01
 
-1. **Audit Security Protocols:** Enforce strict filesystem and network sandboxes for any developer environments utilizing agentic coding tools.
-2. **Revise FinOps Models:** Update cloud training budget models to factor in I/O and memory bandwidth bottlenecks beyond simple FLOP metrics.
-3. **Establish Leadership AI Sponsorship:** Pair enterprise LLM rollouts with mandatory executive training to drive organizational change.
+1.  **Audit Training Pipeline Benchmarks:** Update internal AI cloud compute models to account for memory bandwidth and cross-node communication latency rather than relying solely on theoretical FLOP capacity.
+2.  **Evaluate Local MoE Deployment:** Pilot expert-streaming frameworks on local hardware to assess feasibility for internal off-cloud data processing workloads.
+3.  **Integrate Shift-Left AI Security:** Adopt automated PR scanning and IDE-level security plugins across engineering teams to prevent vulnerabilities from reaching production systems.

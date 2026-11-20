@@ -1,12 +1,11 @@
 # AI Terminology
 
-Last Updated: 2026-11-19 20:47:16
+Last Updated: 2026-11-20 02:24:01
 
-- **Codex:** A specialized family of language models fine-tuned to understand, generate, and execute software code.
-- **Jagged Frontier:** A performance state in AI evaluation where a model displays advanced, expert-level abilities on complex tasks, yet unexpectedly fails on simpler, related tasks.
-- **Recursive Self-Improvement:** A process where an AI system generates tools, code, or data to train or optimize subsequent iterations of itself.
-- **Mixture-of-Experts (MoE):** An architecture that routes input data only to specific specialized subnetworks ("experts"), reducing computational demands per run compared to standard dense models.
-- **Sandboxing:** A security approach that isolates running code inside restricted environments to prevent unauthorized system modification or network access.
-- **FLOPs (Floating Point Operations):** A measure of computer processing power used to calculate the theoretical mathematical work required to train or run a model.
-- **Post-Training:** Optimization stages applied to a model *after* initial pre-training, such as fine-tuning, RLHF, or quantization, to enhance efficiency and task performance.
-- **Time-Series Model:** An AI model engineered specifically to process data points ordered sequentially over time, such as sensor streams or financial tickers.
+*   **Performance Factory:** An automated internal system that uses code-generating AI models to continuously identify, diagnose, and resolve software performance bottlenecks.
+*   **Mixture of Experts (MoE):** An architecture that routes input data to specific sub-networks ("experts"), allowing a model to have a massive total parameter size while keeping active inference compute overhead low.
+*   **Expert Streaming / Offloading:** A technical strategy that keeps dormant model weights in system RAM or NVMe storage and dynamically transfers active experts into GPU VRAM only when needed.
+*   **Post-Training Efficiency:** Optimization techniques (such as alignment, direct preference optimization, and fine-tuning refinement) applied after initial base training to increase model performance without full re-training costs.
+*   **FLOPs (Floating Point Operations):** A measure of theoretical hardware compute performance; often used to estimate training time, though real-world performance is strongly influenced by data transfer speeds and memory bandwidth.
+*   **Time-Series Model:** An AI model engineered specifically to analyze data points indexed in temporal order, used extensively for financial forecasting, telemetry, and sensor monitoring.
+*   **PR (Pull Request) Scan:** Automated analysis triggered during developer code reviews to evaluate security, quality, and logic prior to merging code into the main codebase.
