@@ -1,9 +1,9 @@
 # AI Terminology
 
-Last Updated: 2026-11-21 11:23:07
+Last Updated: 2026-11-21 19:27:40
 
-* **Adversarial Distillation:** A technique where an attacker queries a private, powerful model to generate data that is used to "teach" (train) a smaller, cheaper, and unauthorized copy of that model.
-* **FLOPs (Floating Point Operations):** A measure of computer performance; in AI, it relates to the number of calculations required to train or run a model.
-* **Harness:** In AI development, a "harness" is the testing or evaluation framework that wraps around a model to measure how it performs on specific tasks.
-* **Post-Training:** The stage after initial model training where the AI is fine-tuned or refined for specific tasks or safety standards.
-* **Streamhouse:** A modern architecture that combines data streaming with data warehousing, allowing for real-time AI analysis of incoming data.
+*   **Adversarial Distillation:** A technique where an attacker repeatedly queries a target AI model to learn its internal knowledge, effectively "stealing" the model to build a smaller, cheaper clone.
+*   **FLOPs (Floating Point Operations Per Second):** A measure of computer performance; in AI, it is used to estimate the computational work required to train or run a model.
+*   **Harness:** In software engineering, a collection of code used to test or run another piece of software in a controlled way.
+*   **Post-Training Efficiency:** Techniques applied to a model *after* its initial training (like fine-tuning or quantization) to make it run faster or use less memory without losing quality.
+*   **Streamhouse:** A modern architecture for data management that combines stream processing (real-time data) with data warehousing (historical storage).
