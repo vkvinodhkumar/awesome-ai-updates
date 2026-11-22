@@ -1,11 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-22 16:24:11
+Last Updated: 2026-11-22 22:32:15
 
-- **Adversarial Distillation:** The unauthorized technique of extracting knowledge and capabilities from a powerful, proprietary AI model by training a smaller model on its outputs.
-- **FLOPs (Floating Point Operations):** A standard measure of computer execution workload used to estimate the theoretical computational cost required to train or run an AI model.
-- **Post-Training:** Optimizations, alignment processes, and specialized fine-tuning applied to an AI model after its initial large-scale pre-training phase is complete.
-- **Harness Adapter:** A software bridge that allows different AI models to seamlessly interface with standard benchmarking and execution framework environments.
-- **Time-Series Models:** AI models designed to analyze sequences of data points recorded sequentially over time (e.g., stock market data, sensor readings).
-- **Streamhouse:** A software architecture designed to process continuous streams of live data in real time, rather than processing static batches of data.
-- **Benchmark:** A standardized set of tests used to evaluate, measure, and compare the performance and capabilities of different AI models.
+- **Perplexity:** A metric used to evaluate how well a language model predicts a sample of text. A lower perplexity score means the model is less surprised by the data, indicating superior predictive capability.
+- **Adversarial Distillation:** A technique where an external entity queries a powerful AI model to capture its outputs and train a smaller model to replicate its performance, effectively bypassing pre-training costs.
+- **Post-Training Efficiency:** Optimization techniques (like RLHF, instruction tuning, pruning, and quantization) applied after initial base training to improve accuracy and speed without retraining from scratch.
+- **FLOPs (Floating Point Operations):** A standard unit of measurement for computational complexity. While often used to estimate training time, it fails to account for data transferring and hardware memory overhead.
+- **Harness Adapters:** Software interfaces that bridge AI models to automated evaluation frameworks, streamlining the testing of multiple models across standard benchmark suites.
+- **Streamhouse:** An architectural framework combining real-time data streaming (e.g., Kafka) with data lakehouse storage, allowing machine learning models to run directly on continuous data feeds.
