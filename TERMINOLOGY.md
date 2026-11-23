@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-23 03:46:33
+Last Updated: 2026-11-23 14:53:35
 
-- **Perplexity:** A metric that measures how accurately a language model predicts the next word. A lower perplexity score indicates the model is less uncertain in its predictions.
-- **Adversarial Distillation:** A technique where an unauthorized party queries a primary AI model to collect its outputs and use them to train a cheaper, secondary model—effectively stealing the original model's capabilities.
-- **FLOPs (Floating Point Operations):** A measure of computer performance or theoretical work required by an algorithm. In AI, FLOPs count raw mathematical calculations but often fail to account for real-world hardware delays like data transfer speed.
-- **Post-Training:** Optimizations applied to an AI model *after* initial training (such as fine-tuning, direct preference optimization, or quantization) to improve quality, instruction-following, or inference speed.
-- **Harness Adapter:** A software bridge that connects a specific AI model to a standardized testing or execution platform ("harness") without requiring custom structural code for every run.
-- **Time-Series Streaming (Streamhouse):** A system architecture designed to process continuous, real-time streams of time-stamped data (such as financial markets or sensor feeds) and run AI predictions dynamically as data arrives.
+- **Perplexity:** A metric measuring how well an AI model predicts the next token in a sequence; lower perplexity indicates greater confidence and accuracy.
+- **Adversarial Distillation:** A technique where an attacker repeatedly queries a powerful target AI model to train a smaller model to copy its output capabilities without permission.
+- **MedChemBench:** A standardized benchmarking suite designed to measure an AI's ability to reason through molecular chemistry and early-stage drug candidate selection.
+- **Performance Factory:** An automated internal system that leverages code generation models (like Codex) to continuously identify, diagnose, and fix software performance bottlenecks.
+- **Agentic Evaluation:** A method of testing AI systems focused on their ability to execute multi-step, autonomous workflows and tool calls in dynamic environments.
+- **Harness Adapter:** A software bridge allowing different AI model formats to work seamlessly within standard testing and benchmarking frameworks without custom code rewrites.
+- **Post-Training Efficiency:** Optimization methods (such as fine-tuning, preference alignment, and quantization) applied after an initial model training phase to maximize performance per compute unit.
+- **FLOPs (Floating-Point Operations):** A measure of total mathematical calculations required by hardware; used to estimate compute power needed for AI training, though often ignoring memory and network speed constraints.
