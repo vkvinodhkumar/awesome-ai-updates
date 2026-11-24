@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-23 14:53:35
+Last Updated: 2026-11-24 02:19:41
 
-- **Perplexity:** A metric measuring how well an AI model predicts the next token in a sequence; lower perplexity indicates greater confidence and accuracy.
-- **Adversarial Distillation:** A technique where an attacker repeatedly queries a powerful target AI model to train a smaller model to copy its output capabilities without permission.
-- **MedChemBench:** A standardized benchmarking suite designed to measure an AI's ability to reason through molecular chemistry and early-stage drug candidate selection.
-- **Performance Factory:** An automated internal system that leverages code generation models (like Codex) to continuously identify, diagnose, and fix software performance bottlenecks.
-- **Agentic Evaluation:** A method of testing AI systems focused on their ability to execute multi-step, autonomous workflows and tool calls in dynamic environments.
-- **Harness Adapter:** A software bridge allowing different AI model formats to work seamlessly within standard testing and benchmarking frameworks without custom code rewrites.
-- **Post-Training Efficiency:** Optimization methods (such as fine-tuning, preference alignment, and quantization) applied after an initial model training phase to maximize performance per compute unit.
-- **FLOPs (Floating-Point Operations):** A measure of total mathematical calculations required by hardware; used to estimate compute power needed for AI training, though often ignoring memory and network speed constraints.
+*   **Adversarial Distillation:** A technique where an unauthorized user repeatedly queries a large, advanced model to extract its capabilities and train a smaller, cheaper model to replicate its performance.
+*   **Perplexity:** A metric measuring how well an AI model predicts a given sample of text. A lower perplexity indicates that the model is accurate and predictable in its outputs.
+*   **Agentic Evaluation:** Testing frameworks designed to measure how effectively an AI agent plans, executes multi-step tasks, uses external software tools, and recovers from errors.
+*   **Runtime Security:** Security protocols designed to monitor and defend computer software systems while they are actively executing processes.
+*   **Harness Adapter:** Software that bridges an AI model to standard benchmark testing environments, simplifying comparative evaluations across different architectures.
+*   **Post-Training Efficiency:** Optimization techniques (such as fine-tuning, direct preference optimization, or quantization) applied to an AI model after its initial base training to increase performance and lower compute costs.

@@ -1,8 +1,8 @@
 # AI Action Board
 
-Last Updated: 2026-11-23 14:53:35
+Last Updated: 2026-11-24 02:19:41
 
-1. **Audit Fine-Tuning Pipelines:** Re-evaluate training cost estimation models to account for memory bandwidth and communication overhead rather than relying solely on raw FLOP counters.
-2. **Implement Agentic Evals:** Transition quality assurance teams from static prompt-response testing to dynamic agentic evaluation harnesses before releasing autonomous features.
-3. **Review Model Theft Defenses:** If serving custom/proprietary fine-tuned models externally, implement rate-limiting, anomaly query detection, and output watermarking to defend against adversarial distillation.
-4. **Explore Compact Models for Edge Workloads:** Test sub-30B models (e.g., DaisyRose-27B, Inkling 2 Mini) for internal latency-sensitive or privacy-restricted use cases.
+1.  **Review System Security:** Assess Linux runtime environments hosting internal AI pipelines against tools like Shirudo to maintain patch security.
+2.  **Establish Agentic Evals:** Direct engineering teams to adopt specialized agent evaluation frameworks prior to rolling out autonomous multi-step agent workflows.
+3.  **Audit API Security:** Enforce monitoring and anti-distillation safeguards on public or internal API endpoints exposing fine-tuned models.
+4.  **Pilot Mid-Tier Models:** Test mid-sized models (e.g., 27B parameter tier) for routine internal tasks to reduce dependence on expensive frontier-class models.
