@@ -1,12 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-25 08:49:38
+Last Updated: 2026-11-25 19:25:53
 
-- **Intrinsic Protein-Design Capabilities:** The inherent capability of a general AI model to design stable biological molecules directly through logical reasoning and programmatic generation, without relying on specialized external software.
-- **Sim2Real (Simulation-to-Real):** A robotic training methodology where AI models learn behaviors inside a simulated physics environment before transferring that trained policy onto physical hardware in the real world.
-- **Agentic Evaluation:** A testing methodology designed to measure how effectively an autonomous AI agent plans, executes multi-step workflows, corrects errors, and achieves goal outcomes over time.
-- **Coding Agents:** Autonomous software tools capable of navigating entire code repositories to write, refactor, test, and debug software independently with minimal human oversight.
-- **Dots:** Autonomous micro-agents designed to run continuously within enterprise communication and workflow channels to handle specific recurring operational tasks.
-- **Harness Adapters:** A standardized software layer that connects different AI models to common testing and execution frameworks without requiring custom code for each model.
-- **Visual Point Tracking:** The computer vision capability of an AI system to continuously identify and follow specific 3D coordinates on physical objects across video frames.
-- **Local Model / Edge Setup:** Running AI models locally on an organization's own server hardware or edge devices rather than making remote API requests to third-party cloud servers.
+- **GPT-6 / Frontier Reasoning Model:** Next-generation large language models optimized for complex multi-step reasoning, logical analysis, code generation, and specialized domain problem-solving.
+- **Coding Agent:** An autonomous AI tool capable of reading context across codebases, writing code, running tests, and managing pull requests with minimal human intervention.
+- **Sim2Real (Simulation to Reality):** A training methodology where an AI model or robot is trained inside a physics-based digital simulator before deploying the learned behaviors to physical hardware.
+- **Hill-Climbing Optimization:** An iterative algorithmic technique that continually adjusts model parameters or settings in small steps toward the best performing configuration.
+- **Agentic Evaluation:** Frameworks and metrics used to evaluate non-deterministic AI systems executing multi-step tasks over time.
+- **Indic Voice Agent / CUGA:** Voice-based AI architectures designed to process the distinct phonetics, syntax, and dialects of regional Indian languages.

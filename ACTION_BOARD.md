@@ -1,7 +1,7 @@
 # AI Action Board
 
-Last Updated: 2026-11-25 08:49:38
+Last Updated: 2026-11-25 19:25:53
 
-1. **Initiate an Agentic Eval Audit:** Adopt structured agentic evaluation frameworks (per Hugging Face recommendations) before expanding autonomous agent deployments internally.
-2. **Pilot Edge Infrastructure:** Benchmark Inkling 2 Mini against cloud endpoints for internal developer and privacy-sensitive workflows to lower API costs.
-3. **Assess Repository Automation:** Review engineering operations to determine feasibility of scaling automated code refactoring and maintenance agents across core codebases.
+1. **Implement Agent Evaluation Pipelines:** Establish formal benchmarks for internal AI agents before broad enterprise deployment.
+2. **Pilot Repository Maintenance Agents:** Initiate a trial using automated coding agents on non-critical internal repositories to evaluate refactoring efficiency.
+3. **Audit Domain-Specific R&D Workflows:** Evaluate where frontier reasoning models can be integrated into specialized computational research or business intelligence tasks.
