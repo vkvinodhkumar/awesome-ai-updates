@@ -1,10 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-24 23:31:26
+Last Updated: 2026-11-25 08:49:38
 
-- **Intrinsic Protein Design:** The capability of an AI model to generate valid biological protein sequences and 3D structures directly through internally learned representations, without relying on specialized biological tools.
-- **Sim2Real (Simulation-to-Reality):** A robotics training methodology where an AI policy is trained entirely within a computer simulation and then transferred to a physical robot in the real world.
-- **Agentic Evaluation:** A testing methodology designed to measure the performance, reliability, and accuracy of multi-step autonomous AI agents operating over time, rather than evaluating single-turn question-and-answer prompts.
-- **Harness Adapter:** A standardized code layer that connects an AI model to an evaluation framework, ensuring compatible data formatting and optimized token execution.
-- **Point Tracking:** A computer vision technique that tracks specific 3D coordinates or visual features on physical objects over time, aiding robots in precise dynamic manipulation.
-- **Dots (Digital Assistants):** Proactive, persistent AI software agents assigned to specific business roles to independently execute multi-step operations and workflows.
+- **Intrinsic Protein-Design Capabilities:** The inherent capability of a general AI model to design stable biological molecules directly through logical reasoning and programmatic generation, without relying on specialized external software.
+- **Sim2Real (Simulation-to-Real):** A robotic training methodology where AI models learn behaviors inside a simulated physics environment before transferring that trained policy onto physical hardware in the real world.
+- **Agentic Evaluation:** A testing methodology designed to measure how effectively an autonomous AI agent plans, executes multi-step workflows, corrects errors, and achieves goal outcomes over time.
+- **Coding Agents:** Autonomous software tools capable of navigating entire code repositories to write, refactor, test, and debug software independently with minimal human oversight.
+- **Dots:** Autonomous micro-agents designed to run continuously within enterprise communication and workflow channels to handle specific recurring operational tasks.
+- **Harness Adapters:** A standardized software layer that connects different AI models to common testing and execution frameworks without requiring custom code for each model.
+- **Visual Point Tracking:** The computer vision capability of an AI system to continuously identify and follow specific 3D coordinates on physical objects across video frames.
+- **Local Model / Edge Setup:** Running AI models locally on an organization's own server hardware or edge devices rather than making remote API requests to third-party cloud servers.
