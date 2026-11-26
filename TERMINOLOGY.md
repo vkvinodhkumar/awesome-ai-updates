@@ -1,10 +1,13 @@
 # AI Terminology
 
-Last Updated: 2026-11-25 19:25:53
+Last Updated: 2026-11-26 02:54:31
 
-- **GPT-6 / Frontier Reasoning Model:** Next-generation large language models optimized for complex multi-step reasoning, logical analysis, code generation, and specialized domain problem-solving.
-- **Coding Agent:** An autonomous AI tool capable of reading context across codebases, writing code, running tests, and managing pull requests with minimal human intervention.
-- **Sim2Real (Simulation to Reality):** A training methodology where an AI model or robot is trained inside a physics-based digital simulator before deploying the learned behaviors to physical hardware.
-- **Hill-Climbing Optimization:** An iterative algorithmic technique that continually adjusts model parameters or settings in small steps toward the best performing configuration.
-- **Agentic Evaluation:** Frameworks and metrics used to evaluate non-deterministic AI systems executing multi-step tasks over time.
-- **Indic Voice Agent / CUGA:** Voice-based AI architectures designed to process the distinct phonetics, syntax, and dialects of regional Indian languages.
+- **GPT-6:** A advanced generation of AI reasoning models capable of utilizing code and logic to solve multi-step problems, such as designing biological protein structures.
+- **Codex:** An AI system specialized in understanding, generating, and utilizing code for technical tasks and analytical data processing.
+- **Astra:** An AI analysis tool used in conjunction with Codex to process public space data to identify potential astronomical bodies like exoplanets.
+- **Dot (e.g., Aria):** A specialized AI assistant or agent assigned to automate specific business workflows, such as conducting web research, preparing proposals, and managing messages.
+- **Coding Agent:** An automated AI system designed to operate across software repositories to write, edit, or manage code base operations.
+- **Sim2Real (Simulation to Real):** A development workflow where an AI or robotic model is trained within a simulated environment (e.g., Isaac Lab) before being transferred to physical hardware or real-world execution.
+- **Agentic Evaluation:** A framework or set of benchmarks designed to test, assess, and maintain the performance and reliability of autonomous AI agents.
+- **CUGA:** A technical framework referenced in the context of building voice agents for Indic languages.
+- **Inkling 2 Mini:** A specific AI model referenced in hardware performance and inference optimization testing.
