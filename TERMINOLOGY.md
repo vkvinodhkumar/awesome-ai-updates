@@ -1,10 +1,10 @@
 # AI Terminology
 
-Last Updated: 2026-11-26 22:26:57
+Last Updated: 2026-11-27 05:07:51
 
-- **GPT-6:** A advanced frontier artificial intelligence model designed to execute complex reasoning, code generation, and multi-step problem solving.
-- **Protein-Design Capabilities:** The ability of an AI system to create novel biological sequences that fold into functional structures capable of binding to target molecules.
-- **Multi-Agent System (Swarms / Flocks):** An architecture where multiple specialized AI agents work collaboratively, passing tasks back and forth to achieve a complex goal.
-- **llama.cpp:** An open-source software library that allows large language models to run efficiently on standard consumer computers without requiring enterprise data-center GPUs.
-- **Nemotron 3.5 Parse:** A specialized AI tool designed to read and accurately extract structured text and data from complex visual documents like PDFs, forms, and charts.
-- **CUGA:** A conversational framework developed by IBM Research to build natural-sounding voice agents for underserved global languages.
+- **GPT-6:** A advanced generation of foundational language models designed with improved native reasoning and code execution capabilities.
+- **Intrinsic Capabilities:** Skills or functionalities that an AI model exhibits naturally as a result of its core design and training, rather than requiring external third-party software plug-ins.
+- **AI Agents / "Dots":** Autonomous software programs powered by AI that can set goals, execute multi-step tasks, and interact with software tools without continuous human direction.
+- **llama.cpp:** A lightweight, open-source software library that allows Large Language Models to run efficiently on standard consumer computers and non-standard GPU hardware.
+- **Multi-Agent Systems (Swarms/Flocks):** An architecture where multiple specialized AI agents work together, delegating sub-tasks and sharing memory to solve complex problems.
+- **Indic Voice Agent / CUGA:** Speech recognition and generation systems specifically designed to handle the complex phonetic structures and dialects of languages spoken in India.
