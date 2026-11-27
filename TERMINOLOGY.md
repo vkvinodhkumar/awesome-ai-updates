@@ -1,11 +1,12 @@
 # AI Terminology
 
-Last Updated: 2026-11-27 15:16:20
+Last Updated: 2026-11-27 23:35:09
 
-- **GPT-6:** A advanced generation of foundation AI models designed with enhanced reasoning, coding, and multimodal problem-solving capabilities.
-- **Intrinsic Protein Design:** The ability of a general-purpose AI model to generate functional biological protein sequences using internal reasoning and code capabilities rather than dedicated bio-only models.
-- **AI Agent / Dot:** An autonomous software component powered by an LLM that can perceive context, make decisions, execute multi-step workflows, and interact with external systems independently.
-- **Multi-Agent Swarm:** A coordinated system of multiple AI agents, each assigned specific roles or micro-tasks, collaborating to solve complex, multi-tiered problems.
-- **AWS Trainium3:** Amazon Web Services' third-generation custom-built microchip optimized specifically for deep learning model training and inference.
-- **llama.cpp:** An open-source software library that enables high-performance, low-resource LLM inference on everyday consumer hardware using quantization techniques.
-- **Nemotron 3.5 Parse:** A specialized AI model architecture created by NVIDIA for extracting, structuring, and interpreting information from complex documents.
+* **GPT-6 Models:** Advanced frontier artificial intelligence models capable of multi-step reasoning, tool usage, and complex problem-solving beyond traditional text generation.
+* **Protein-Design Capabilities:** The ability of an AI system to calculate, generate, and predict the 3D structures and amino acid sequences required to create functional biological molecules.
+* **Coding Agents:** Autonomous software systems driven by AI that can navigate code repositories, write code, run tests, and fix software bugs with minimal human oversight.
+* **Dots (Enterprise Agents):** Task-specific, semi-autonomous digital assistants built to handle continuous enterprise workflows like web research, data enrichment, and email response.
+* **Trainium3:** Amazon Web Services' third-generation custom-built microchip optimized specifically for high-efficiency deep learning model training and inference.
+* **llama.cpp:** An open-source software library engineered to run Large Language Models efficiently on consumer-grade computer hardware using CPU and GPU optimizations.
+* **Multi-Agent Systems (Swarms/Flocks/Gangs):** Architectures where multiple specialized AI models collaborate, divide responsibilities, and verify each other's work to achieve complex, multi-step goals.
+* **Nemotron 3.5 Parse:** A specialized AI model trained specifically to read, parse, and convert complex unstructured documents (like PDFs and images) into machine-readable data structures.
